@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2196.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-774.000000 -1924.000000 2196.000000 3806.000000" height="3806.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 17.032640,126.987526 C -92.605827,-20.115402 -36.409134,-405.227448 110.693794,-514.865906"
+              class="978 1042" stroke-opacity="1.0" stroke="#967679"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.032640,126.987526 C 126.140228,273.642212 69.819588,657.285645 -76.835091,766.393250"
+              class="978 980" stroke-opacity="1.0" stroke="#f4714b"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -76.835091,766.393250 C -75.655243,874.630676 -236.241592,1038.756592 -344.479004,1039.936401"
+              class="980 1029" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -76.835091,766.393250 C -138.718536,833.885010 -332.781342,842.297546 -400.273132,780.414063"
+              class="980 1020" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -76.835091,766.393250 C -50.850548,789.323364 -46.268860,862.695251 -69.198944,888.679810"
+              class="980 1015" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -76.835091,766.393250 C 20.084448,731.439453 217.894440,824.388062 252.848251,921.307556"
+              class="980 1000" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -76.835091,766.393250 C 30.757210,853.110718 62.069443,1144.575439 -24.648039,1252.167725"
+              class="980 981" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 110.693794,-514.865906 C -42.942909,-602.880493 -141.376053,-965.357483 -53.361462,-1118.994141"
+              class="1042 1104" stroke-opacity="1.0" stroke="#8c8b43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 110.693794,-514.865906 C 152.521652,-516.337891 217.471390,-455.804016 218.943359,-413.976166"
+              class="1042 1094" stroke-opacity="1.0" stroke="#46ab42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 110.693794,-514.865906 C 192.355347,-640.228516 502.891632,-705.780212 628.254272,-624.118652"
+              class="1042 1061" stroke-opacity="1.0" stroke="#8c8b43"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 110.693794,-514.865906 C 45.604565,-439.663269 -164.833237,-424.493103 -240.035904,-489.582336"
+              class="1042 1043" stroke-opacity="1.0" stroke="#17adb8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.648039,1252.167725 C 62.883682,1275.436279 159.278458,1441.636597 136.009933,1529.168335"
+              class="981 993" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.648039,1252.167725 C -4.059303,1270.468872 -0.627871,1328.803589 -18.928982,1349.392334"
+              class="981 991" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.648039,1252.167725 C 32.169060,1339.009644 -12.868202,1554.498291 -99.710144,1611.315308"
+              class="981 982" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.848251,921.307556 C 262.414764,899.300842 309.774567,880.640564 331.781250,890.207092"
+              class="1000 1013" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.848251,921.307556 C 275.834839,927.876404 300.461487,972.209595 293.892670,995.196167"
+              class="1000 1011" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.848251,921.307556 C 290.260620,878.677124 410.324799,870.849976 452.955231,908.262390"
+              class="1000 1008" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.848251,921.307556 C 310.467041,930.537720 383.050018,1030.811157 373.819855,1088.429932"
+              class="1000 1004" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.848251,921.307556 C 311.293640,900.403931 430.317200,956.716492 451.220856,1015.161865"
+              class="1000 1001" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.198944,888.679810 C -57.460148,870.831970 -13.080179,861.668335 4.767674,873.407166"
+              class="1015 1019" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.198944,888.679810 C -82.582138,907.017761 -130.163849,914.449951 -148.501816,901.066711"
+              class="1015 1018" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.198944,888.679810 C -44.060692,892.757141 -12.469309,936.580505 -16.546635,961.718750"
+              class="1015 1017" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.198944,888.679810 C -55.626114,912.395874 -70.840958,968.329163 -94.557022,981.902039"
+              class="1015 1016" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -400.273132,780.414063 C -453.883301,813.930359 -584.573120,783.789673 -618.089417,730.179504"
+              class="1020 1025" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -400.273132,780.414063 C -429.519897,839.592468 -562.157715,884.489990 -621.336121,855.243225"
+              class="1020 1021" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.479004,1039.936401 C -354.291901,1065.418945 -407.235016,1088.923340 -432.717529,1079.110474"
+              class="1029 1040" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.479004,1039.936401 C -330.638611,1062.786011 -344.152466,1117.821045 -367.002075,1131.661377"
+              class="1029 1038" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.479004,1039.936401 C -362.709015,1111.338257 -497.156860,1191.096069 -568.558777,1172.866089"
+              class="1029 1034" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.479004,1039.936401 C -325.247559,1108.732544 -399.594513,1240.773804 -468.390594,1260.005249"
+              class="1029 1030" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035904,-489.582336 C -221.928787,-478.186340 -211.862106,-433.931641 -223.258102,-415.824524"
+              class="1043 1059" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035904,-489.582336 C -247.990479,-429.191772 -350.508179,-350.537811 -410.898743,-358.492401"
+              class="1043 1055" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035904,-489.582336 C -276.518921,-446.861603 -395.324554,-437.505005 -438.045288,-473.988007"
+              class="1043 1052" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035904,-489.582336 C -256.661438,-502.993713 -261.482697,-548.049133 -248.071289,-564.674683"
+              class="1043 1050" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035904,-489.582336 C -283.687683,-497.934845 -336.636566,-575.941284 -328.284058,-619.593079"
+              class="1043 1048" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035904,-489.582336 C -303.517090,-464.244843 -436.745056,-521.460327 -462.082550,-584.941528"
+              class="1043 1044" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 688.389160,-624.205688 778.722107,-534.133850 778.809143,-473.998932"
+              class="1061 1090" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 686.366272,-669.194763 841.148560,-649.640930 886.224670,-591.528931"
+              class="1061 1084" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 666.137756,-740.274231 897.196289,-857.682434 1013.351868,-819.798950"
+              class="1061 1071" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 603.944885,-638.031311 588.349792,-695.364441 602.262451,-719.673828"
+              class="1061 1069" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 654.152283,-629.917908 701.698059,-599.769653 707.497314,-573.871643"
+              class="1061 1067" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 617.554382,-653.497498 645.572693,-713.615479 674.951538,-724.315369"
+              class="1061 1064" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 628.254272,-624.118652 C 636.917114,-651.120850 690.414673,-678.629883 717.416870,-669.967041"
+              class="1061 1062" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.943359,-413.976166 C 223.704102,-390.686279 195.910400,-348.610352 172.620514,-343.849579"
+              class="1094 1103" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.943359,-413.976166 C 242.555466,-399.221985 255.842361,-341.672577 241.088196,-318.060486"
+              class="1094 1101" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.943359,-413.976166 C 209.839844,-434.568329 227.072830,-479.111877 247.664993,-488.215393"
+              class="1094 1099" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.943359,-413.976166 C 247.448990,-417.412415 295.361816,-379.808380 298.798065,-351.302734"
+              class="1094 1097" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.943359,-413.976166 C 234.479675,-434.580109 288.690033,-442.181549 309.293976,-426.645233"
+              class="1094 1095" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -157.619095,-1154.432983 -260.847198,-1363.977783 -225.408295,-1468.235474"
+              class="1104 1133" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -76.201614,-1087.323486 -157.967850,-1074.077759 -189.638519,-1096.917847"
+              class="1104 1130" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -106.034897,-1127.669678 -172.031754,-1219.693237 -163.356216,-1272.366577"
+              class="1104 1125" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -74.157196,-1198.273438 13.568161,-1348.386108 92.847473,-1369.181763"
+              class="1104 1120" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -110.302216,-1184.327759 -97.712982,-1367.739136 -32.379421,-1424.679932"
+              class="1104 1114" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -39.428371,-1171.206055 59.789093,-1228.624268 112.000992,-1214.691162"
+              class="1104 1110" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.361462,-1118.994141 C -128.981979,-1087.394531 -289.812164,-1153.425781 -321.411804,-1229.046387"
+              class="1104 1105" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -89.563652,1656.376343 -141.935516,1739.187744 -186.996597,1749.334229"
+              class="982 990" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -67.357330,1618.669067 -29.858644,1678.228760 -37.212326,1710.581543"
+              class="982 989" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -55.470680,1636.487915 -26.870373,1740.605957 -52.042969,1784.845459"
+              class="982 988" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -66.946884,1662.933105 -95.228592,1789.504517 -146.846344,1822.267822"
+              class="982 987" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -103.348175,1651.436035 -168.986206,1706.159912 -209.106842,1702.521851"
+              class="982 986" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -110.202599,1641.365601 -171.016800,1670.702515 -201.067169,1660.210083"
+              class="982 984" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.710144,1611.315308 C -46.879345,1660.587524 -41.541622,1813.742310 -90.813950,1866.573120"
+              class="982 983" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.009933,1529.168335 C 155.960144,1536.902222 174.284653,1578.428345 166.550781,1598.378540"
+              class="993 999" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.009933,1529.168335 C 168.713684,1539.971191 201.564972,1605.231201 190.762070,1637.934937"
+              class="993 998" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.009933,1529.168335 C 160.184586,1556.682129 155.175858,1634.214844 127.662033,1658.389526"
+              class="993 997" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.009933,1529.168335 C 180.319519,1549.753052 215.906921,1647.094360 195.322266,1691.403931"
+              class="993 996" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.009933,1529.168335 C 179.237915,1527.929443 245.938187,1590.913208 247.177063,1634.141113"
+              class="993 995" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.009933,1529.168335 C 168.213776,1515.621460 236.839737,1543.607056 250.386536,1575.810913"
+              class="993 994" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 451.220856,1015.161865 C 489.965485,1009.743591 556.209900,1059.733154 561.628174,1098.477783"
+              class="1001 1003" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 451.220856,1015.161865 C 484.461975,995.475037 563.853821,1015.806519 583.540649,1049.047607"
+              class="1001 1002" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 373.819855,1088.429932 C 411.378113,1085.807617 471.648956,1138.211548 474.271240,1175.769897"
+              class="1004 1007" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 373.819855,1088.429932 C 406.698151,1101.211792 436.842773,1169.702148 424.060852,1202.580444"
+              class="1004 1005" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 452.955231,908.262390 C 483.515320,887.928223 559.856689,903.267151 580.190857,933.827271"
+              class="1008 1010" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 452.955231,908.262390 C 469.873108,878.410706 540.027466,859.009888 569.879150,875.927734"
+              class="1008 1009" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -621.336121,855.243225 C -640.678772,890.792419 -723.016663,915.102356 -758.565857,895.759705"
+              class="1021 1024" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -621.336121,855.243225 C -625.263916,889.229736 -682.135254,934.317749 -716.121765,930.389954"
+              class="1021 1023" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -621.336121,855.243225 C -646.283691,878.814819 -719.062439,876.750916 -742.634033,851.803345"
+              class="1021 1022" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.089417,730.179504 C -637.613525,758.373047 -709.189880,771.377136 -737.383423,751.853027"
+              class="1025 1028" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.089417,730.179504 C -649.878906,736.157349 -706.529785,697.439880 -712.507629,665.650391"
+              class="1025 1027" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -618.089417,730.179504 C -649.663879,752.451477 -730.433472,738.497864 -752.705444,706.923401"
+              class="1025 1026" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -468.390594,1260.005249 C -447.846558,1288.768188 -460.174927,1362.728638 -488.937836,1383.272583"
+              class="1030 1033" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -468.390594,1260.005249 C -470.912476,1297.272095 -530.595642,1349.389648 -567.862488,1346.867676"
+              class="1030 1032" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -468.390594,1260.005249 C -456.939667,1300.346313 -500.274933,1378.034424 -540.616028,1389.485352"
+              class="1030 1031" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.558777,1172.866089 C -579.335266,1213.478027 -656.417969,1258.231323 -697.029907,1247.454834"
+              class="1034 1037" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.558777,1172.866089 C -565.885193,1212.593628 -621.466187,1276.195313 -661.193726,1278.868896"
+              class="1034 1036" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.558777,1172.866089 C -589.226196,1203.570923 -666.284546,1218.626831 -696.989319,1197.959351"
+              class="1034 1035" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -462.082550,-584.941528 C -495.748474,-585.348083 -545.637634,-636.456726 -545.231079,-670.122681"
+              class="1044 1047" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -462.082550,-584.941528 C -497.852905,-570.012451 -573.902100,-601.274292 -588.831177,-637.044678"
+              class="1044 1046" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -462.082550,-584.941528 C -488.834106,-558.886963 -568.043213,-559.932495 -594.097778,-586.684082"
+              class="1044 1045" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.045288,-473.988007 C -454.815247,-442.451263 -527.275330,-420.301117 -558.812012,-437.071075"
+              class="1052 1054" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.045288,-473.988007 C -465.760498,-452.237030 -539.959778,-461.183319 -561.710754,-488.898529"
+              class="1052 1053" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.898743,-358.492401 C -429.786407,-328.411194 -503.239655,-311.620850 -533.320862,-330.508514"
+              class="1055 1058" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.898743,-358.492401 C -399.581696,-331.137756 -423.638123,-273.130249 -450.992767,-261.813202"
+              class="1055 1057" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.898743,-358.492401 C -414.857971,-324.136139 -472.331268,-278.540558 -506.687531,-282.499786"
+              class="1055 1056" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1044.234375,-845.941711 1129.771973,-838.832275 1155.914795,-807.949890"
+              class="1071 1083" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1018.129150,-861.886597 1088.426636,-917.851990 1130.514282,-913.074646"
+              class="1071 1082" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1043.020996,-891.834229 1195.577515,-955.383484 1267.612793,-925.714417"
+              class="1071 1077" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 992.212891,-845.308411 998.768738,-915.281067 1024.278198,-936.420044"
+              class="1071 1076" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1043.497681,-832.661804 1108.010742,-806.737488 1120.873657,-776.591675"
+              class="1071 1075" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1001.284607,-858.795776 1041.678955,-935.391907 1080.675781,-947.459167"
+              class="1071 1074" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1017.968689,-846.944702 1065.612549,-880.738037 1092.758179,-876.121216"
+              class="1071 1073" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1013.351868,-819.798950 C 1034.254395,-855.352417 1118.938232,-877.328796 1154.491699,-856.426331"
+              class="1071 1072" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.224670,-591.528931 C 911.809143,-618.973145 991.352295,-621.762634 1018.796509,-596.178162"
+              class="1084 1089" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.224670,-591.528931 C 922.098022,-610.046570 1003.684631,-584.013062 1022.202271,-548.139709"
+              class="1084 1088" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.224670,-591.528931 C 897.311523,-619.670105 956.153442,-645.251465 984.294617,-634.164612"
+              class="1084 1086" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.224670,-591.528931 C 920.914185,-595.951111 979.581604,-550.550232 984.003784,-515.860718"
+              class="1084 1085" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 778.809143,-473.998932 C 808.768188,-486.778809 872.876587,-461.010101 885.656433,-431.051086"
+              class="1090 1093" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 778.809143,-473.998932 C 805.867004,-460.030151 825.500610,-398.490173 811.531860,-371.432281"
+              class="1090 1092" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 778.809143,-473.998932 C 815.805542,-473.032074 869.849731,-416.087250 868.882874,-379.090912"
+              class="1090 1091" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.411804,-1229.046387 C -344.042328,-1201.133667 -419.857269,-1193.210205 -447.770081,-1215.840698"
+              class="1105 1109" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.411804,-1229.046387 C -359.359528,-1232.305054 -411.393066,-1294.114746 -408.134369,-1332.062378"
+              class="1105 1108" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.411804,-1229.046387 C -362.688904,-1219.216797 -439.349121,-1266.387695 -449.178833,-1307.664917"
+              class="1105 1107" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -321.411804,-1229.046387 C -356.534393,-1207.416748 -441.662872,-1227.656006 -463.292603,-1262.778564"
+              class="1105 1106" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 112.000992,-1214.691162 C 120.289848,-1249.195068 184.479004,-1288.517578 218.982895,-1280.228760"
+              class="1110 1113" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 112.000992,-1214.691162 C 106.530624,-1243.114868 140.960648,-1293.956055 169.384384,-1299.426392"
+              class="1110 1112" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 112.000992,-1214.691162 C 131.146805,-1235.821899 191.561676,-1238.799438 212.692444,-1219.653564"
+              class="1110 1111" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.379421,-1424.679932 C -51.924812,-1446.354370 -48.731247,-1508.184204 -27.056814,-1527.729492"
+              class="1114 1119" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.379421,-1424.679932 C -67.622688,-1451.589478 -80.123306,-1544.818604 -53.213783,-1580.061890"
+              class="1114 1118" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.379421,-1424.679932 C -67.059479,-1435.908569 -102.236557,-1504.771729 -91.007874,-1539.451782"
+              class="1114 1117" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.379421,-1424.679932 C -38.523354,-1460.710327 6.306177,-1523.971558 42.336468,-1530.115479"
+              class="1114 1116" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.379421,-1424.679932 C -54.504585,-1462.144653 -31.495317,-1551.529419 5.969361,-1573.654541"
+              class="1114 1115" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.847473,-1369.181763 C 71.964951,-1434.174561 138.130417,-1562.987671 203.123245,-1583.870117"
+              class="1120 1122" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.847473,-1369.181763 C 89.923904,-1404.999146 139.264771,-1463.110840 175.082260,-1466.034424"
+              class="1120 1121" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.356216,-1272.366577 C -183.650864,-1290.409546 -187.028488,-1347.915771 -168.985580,-1368.210449"
+              class="1125 1129" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.356216,-1272.366577 C -192.741577,-1263.465576 -250.171005,-1294.192261 -259.071930,-1323.577637"
+              class="1125 1128" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.356216,-1272.366577 C -203.079239,-1284.314941 -244.741119,-1361.822266 -232.792664,-1401.545288"
+              class="1125 1126" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.638519,-1096.917847 C -212.621353,-1081.135498 -270.769196,-1091.936157 -286.551575,-1114.918945"
+              class="1130 1132" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.638519,-1096.917847 C -197.271133,-1071.168091 -247.344666,-1043.992432 -273.094391,-1051.625000"
+              class="1130 1131" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.408295,-1468.235474 C -265.328430,-1468.693970 -324.520874,-1529.261841 -324.062408,-1569.182007"
+              class="1133 1140" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.408295,-1468.235474 C -261.202393,-1485.499512 -288.997345,-1565.086914 -271.733215,-1600.880981"
+              class="1133 1139" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -225.408295,-1468.235474 C -307.077057,-1500.181763 -381.660797,-1670.604370 -349.714508,-1752.273071"
+              class="1133 1134" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1267.612793,-925.714417 C 1294.900635,-954.032410 1378.309326,-955.577698 1406.627441,-928.289856"
+              class="1077 1081" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1267.612793,-925.714417 C 1283.652466,-963.762146 1364.783691,-996.774231 1402.831421,-980.734558"
+              class="1077 1080" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1267.612793,-925.714417 C 1268.790649,-964.939209 1329.394775,-1022.009644 1368.619507,-1020.831726"
+              class="1077 1079" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 203.123245,-1583.870117 C 197.671478,-1623.402710 248.792816,-1690.879395 288.325470,-1696.331177"
+              class="1122 1124" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 203.123245,-1583.870117 C 182.109589,-1619.047363 203.354980,-1703.333740 238.532242,-1724.347412"
+              class="1122 1123" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.714508,-1752.273071 C -389.072296,-1775.563477 -413.173553,-1869.535400 -389.883270,-1908.893311"
+              class="1134 1138" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.714508,-1752.273071 C -389.954102,-1747.595947 -457.329193,-1800.939575 -462.006348,-1841.179199"
+              class="1134 1137" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.714508,-1752.273071 C -376.556732,-1780.923462 -373.844635,-1864.162231 -345.194305,-1891.004517"
+              class="1134 1136" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.714508,-1752.273071 C -387.534210,-1762.599976 -428.773376,-1834.819946 -418.446472,-1872.639526"
+              class="1134 1135" stroke-opacity="1.0" stroke="#92a67e"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff5c81" r="70.0" cx="17.03264"
+                class="978" cy="126.987526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="48.0" cx="-76.83509"
+                class="980" cy="766.39325" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="59.0" cx="110.693794"
+                class="1042" cy="-514.8659" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="-24.648039"
+                class="981" cy="1252.1677" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="252.84825"
+                class="1000" cy="921.30756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-69.198944"
+                class="1015" cy="888.6798" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="-400.27313"
+                class="1020" cy="780.41406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="-344.479"
+                class="1029" cy="1039.9364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="-240.0359"
+                class="1043" cy="-489.58234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="48.0" cx="628.2543"
+                class="1061" cy="-624.11865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="218.94336"
+                class="1094" cy="-413.97617" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="48.0" cx="-53.36146"
+                class="1104" cy="-1118.9941" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-99.710144"
+                class="982" cy="1611.3153" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-18.928982"
+                class="991" cy="1349.3923" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="136.00993"
+                class="993" cy="1529.1683" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="451.22086"
+                class="1001" cy="1015.16187" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="373.81985"
+                class="1004" cy="1088.4299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="452.95523"
+                class="1008" cy="908.2624" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="293.89267"
+                class="1011" cy="995.19617" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="331.78125"
+                class="1013" cy="890.2071" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-94.55702"
+                class="1016" cy="981.90204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-16.546635"
+                class="1017" cy="961.71875" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-148.50182"
+                class="1018" cy="901.0667" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="4.7676744"
+                class="1019" cy="873.40717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-621.3361"
+                class="1021" cy="855.2432" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-618.0894"
+                class="1025" cy="730.1795" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-468.3906"
+                class="1030" cy="1260.0052" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-568.5588"
+                class="1034" cy="1172.8661" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-367.00208"
+                class="1038" cy="1131.6614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-432.71753"
+                class="1040" cy="1079.1105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-462.08255"
+                class="1044" cy="-584.9415" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-328.28406"
+                class="1048" cy="-619.5931" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-248.07129"
+                class="1050" cy="-564.6747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-438.0453"
+                class="1052" cy="-473.988" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-410.89874"
+                class="1055" cy="-358.4924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-223.2581"
+                class="1059" cy="-415.82452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="717.4169"
+                class="1062" cy="-669.96704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="674.95154"
+                class="1064" cy="-724.31537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="707.4973"
+                class="1067" cy="-573.87164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="602.26245"
+                class="1069" cy="-719.6738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="1013.35187"
+                class="1071" cy="-819.79895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="886.2247"
+                class="1084" cy="-591.52893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="778.80914"
+                class="1090" cy="-473.99893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="309.29398"
+                class="1095" cy="-426.64523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="298.79807"
+                class="1097" cy="-351.30273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="247.665"
+                class="1099" cy="-488.2154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="241.0882"
+                class="1101" cy="-318.0605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="172.62051"
+                class="1103" cy="-343.84958" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-321.4118"
+                class="1105" cy="-1229.0464" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="112.00099"
+                class="1110" cy="-1214.6912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-32.37942"
+                class="1114" cy="-1424.6799" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="92.84747"
+                class="1120" cy="-1369.1818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-163.35622"
+                class="1125" cy="-1272.3666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-189.63852"
+                class="1130" cy="-1096.9178" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="37.0" cx="-225.4083"
+                class="1133" cy="-1468.2355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-90.81395"
+                class="983" cy="1866.5731" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-201.06717"
+                class="984" cy="1660.2101" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-209.10684"
+                class="986" cy="1702.5219" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-146.84634"
+                class="987" cy="1822.2678" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-52.04297"
+                class="988" cy="1784.8455" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-37.212326"
+                class="989" cy="1710.5815" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-186.9966"
+                class="990" cy="1749.3342" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="250.38654"
+                class="994" cy="1575.8109" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="247.17706"
+                class="995" cy="1634.1411" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="195.32227"
+                class="996" cy="1691.4039" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="127.66203"
+                class="997" cy="1658.3895" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="190.76207"
+                class="998" cy="1637.9349" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="166.55078"
+                class="999" cy="1598.3785" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="583.54065"
+                class="1002" cy="1049.0476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="561.6282"
+                class="1003" cy="1098.4778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="424.06085"
+                class="1005" cy="1202.5804" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="474.27124"
+                class="1007" cy="1175.7699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="569.87915"
+                class="1009" cy="875.92773" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="580.19086"
+                class="1010" cy="933.8273" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-742.63403"
+                class="1022" cy="851.80334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-716.12177"
+                class="1023" cy="930.38995" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-758.56586"
+                class="1024" cy="895.7597" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-752.70544"
+                class="1026" cy="706.9234" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-712.5076"
+                class="1027" cy="665.6504" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-737.3834"
+                class="1028" cy="751.853" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-540.616"
+                class="1031" cy="1389.4854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-567.8625"
+                class="1032" cy="1346.8677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-488.93784"
+                class="1033" cy="1383.2726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-696.9893"
+                class="1035" cy="1197.9594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-661.1937"
+                class="1036" cy="1278.8689" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-697.0299"
+                class="1037" cy="1247.4548" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-594.0978"
+                class="1045" cy="-586.6841" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-588.8312"
+                class="1046" cy="-637.0447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-545.2311"
+                class="1047" cy="-670.1227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-561.71075"
+                class="1053" cy="-488.89853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-558.812"
+                class="1054" cy="-437.07108" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-506.68753"
+                class="1056" cy="-282.4998" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-450.99277"
+                class="1057" cy="-261.8132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-533.32086"
+                class="1058" cy="-330.5085" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1154.4917"
+                class="1072" cy="-856.42633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1092.7582"
+                class="1073" cy="-876.1212" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1080.6758"
+                class="1074" cy="-947.45917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1120.8737"
+                class="1075" cy="-776.5917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1024.2782"
+                class="1076" cy="-936.42004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="1267.6128"
+                class="1077" cy="-925.7144" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1130.5143"
+                class="1082" cy="-913.07465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1155.9148"
+                class="1083" cy="-807.9499" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="984.0038"
+                class="1085" cy="-515.8607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="984.2946"
+                class="1086" cy="-634.1646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1022.2023"
+                class="1088" cy="-548.1397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1018.7965"
+                class="1089" cy="-596.17816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="868.8829"
+                class="1091" cy="-379.0909" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="811.53186"
+                class="1092" cy="-371.43228" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="885.65643"
+                class="1093" cy="-431.0511" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-463.2926"
+                class="1106" cy="-1262.7786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-449.17883"
+                class="1107" cy="-1307.6649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-408.13437"
+                class="1108" cy="-1332.0624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-447.77008"
+                class="1109" cy="-1215.8407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="212.69244"
+                class="1111" cy="-1219.6536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="169.38438"
+                class="1112" cy="-1299.4264" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="218.9829"
+                class="1113" cy="-1280.2288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="5.9693613"
+                class="1115" cy="-1573.6545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="42.336468"
+                class="1116" cy="-1530.1155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-91.00787"
+                class="1117" cy="-1539.4518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-53.213783"
+                class="1118" cy="-1580.0619" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-27.056814"
+                class="1119" cy="-1527.7295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="175.08226"
+                class="1121" cy="-1466.0344" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="203.12325"
+                class="1122" cy="-1583.8701" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-232.79266"
+                class="1126" cy="-1401.5453" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-259.07193"
+                class="1128" cy="-1323.5776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-168.98558"
+                class="1129" cy="-1368.2104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-273.0944"
+                class="1131" cy="-1051.625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-286.55157"
+                class="1132" cy="-1114.919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="26.0" cx="-349.7145"
+                class="1134" cy="-1752.2731" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-271.73322"
+                class="1139" cy="-1600.881" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-324.0624"
+                class="1140" cy="-1569.182" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1368.6195"
+                class="1079" cy="-1020.8317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1402.8314"
+                class="1080" cy="-980.73456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="1406.6274"
+                class="1081" cy="-928.28986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="238.53224"
+                class="1123" cy="-1724.3474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="288.32547"
+                class="1124" cy="-1696.3312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-418.44647"
+                class="1135" cy="-1872.6395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-345.1943"
+                class="1136" cy="-1891.0045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-462.00635"
+                class="1137" cy="-1841.1792" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="15.0" cx="-389.88327"
+                class="1138" cy="-1908.8933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="17.03264" y="136.84494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="978">
+            The Universe: Galaxies, Stars, the Solar System
+        </text>
+        <text font-size="29" x="-76.83509" y="771.7623" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="980">
+            The Cosmos
+        </text>
+        <text font-size="35" x="110.693794" y="-508.38602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1042">
+            Galaxies and Stars
+        </text>
+        <text font-size="22" x="-24.648039" y="1257.2666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="981">
+            The structure and properties of the universe
+        </text>
+        <text font-size="22" x="252.84825" y="926.47095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1000">
+            Gravitation: a universal force of mutual attraction that is
+            postulated as acting between all matter
+        </text>
+        <text font-size="16" x="-69.198944" y="891.6421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1015">
+            Celestial mechanics
+        </text>
+        <text font-size="22" x="-400.27313" y="785.5775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1020">
+            Properties of the space-time continuum: the astronomical
+            implications of relativity theory
+        </text>
+        <text font-size="22" x="-344.479" y="1045.0999" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1029">
+            The origin and development of the universe
+        </text>
+        <text font-size="22" x="-240.0359" y="-484.41895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1043">
+            Galaxies in general
+        </text>
+        <text font-size="29" x="628.2543" y="-617.3124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1061">
+            The Galaxy: the Milky Way system
+        </text>
+        <text font-size="16" x="218.94336" y="-411.01392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1094">
+            Star clusters and stellar associations
+        </text>
+        <text font-size="29" x="-53.36146" y="-1113.625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1104">
+            Stars
+        </text>
+        <text font-size="16" x="-99.710144" y="1614.2749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="982">
+            Basic data for the universe
+        </text>
+        <text font-size="9" x="-18.928982" y="1351.5046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="991">
+            Cosmological models: theoretical representations of the original
+            behaviour of the universe
+        </text>
+        <text font-size="16" x="136.00993" y="1532.8767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="993">
+            The known and postulated components of the universe
+        </text>
+        <text font-size="16" x="451.22086" y="1018.9171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1001">
+            Development of gravitational theory
+        </text>
+        <text font-size="16" x="373.81985" y="1092.185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1004">
+            Interpretation of gravity measurements
+        </text>
+        <text font-size="16" x="452.95523" y="912.0176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1008">
+            Modern gravitational theory and its relation to other aspects of
+            physical theory
+        </text>
+        <text font-size="9" x="293.89267" y="997.3085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1011">
+            Acceleration of gravity on the Earth&apos;s surface
+        </text>
+        <text font-size="9" x="331.78125" y="892.3194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1013">
+            The gravitational constant, G: methods of measurement, possible
+            variation in time and space
+        </text>
+        <text font-size="9" x="-94.55702" y="984.01434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1016">
+            The scope and history of celestial mechanics
+        </text>
+        <text font-size="9" x="-16.546635" y="963.83105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1017">
+            The two-body problem and perturbations that cause the orbits of
+            planets and satellites to deviate from ellipses
+        </text>
+        <text font-size="9" x="-148.50182" y="903.1512" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1018">
+            The unsolved three-body problem
+        </text>
+        <text font-size="9" x="4.7676744" y="875.49164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1019">
+            The general n-body problem
+        </text>
+        <text font-size="16" x="-621.3361" y="858.9984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1021">
+            The special theory of relativity
+        </text>
+        <text font-size="16" x="-618.0894" y="733.9347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1025">
+            The general theory of relativity
+        </text>
+        <text font-size="16" x="-468.3906" y="1263.7136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1030">
+            The development of the universe as a whole
+        </text>
+        <text font-size="16" x="-568.5588" y="1176.6213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1034">
+            The formation and development of components of the universe:
+            galaxies, stars, the solar system
+        </text>
+        <text font-size="9" x="-367.00208" y="1133.7737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1038">
+            Time scale of the universe: dating of significant events in the
+            history of the universe
+        </text>
+        <text font-size="9" x="-432.71753" y="1081.1964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1040">
+            Theories of the possible fate of the universe
+        </text>
+        <text font-size="16" x="-462.08255" y="-581.23315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1044">
+            Statistical properties
+        </text>
+        <text font-size="9" x="-328.28406" y="-617.5086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1048">
+            Physical properties: size, mass, luminosity, age, composition
+        </text>
+        <text font-size="9" x="-248.07129" y="-563.0084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1050">
+            Structural features
+        </text>
+        <text font-size="16" x="-438.0453" y="-470.2328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1052">
+            Clusters of galaxies
+        </text>
+        <text font-size="16" x="-410.89874" y="-354.78668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1055">
+            Extragalactic radio and X-ray sources
+        </text>
+        <text font-size="9" x="-223.2581" y="-413.71222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1059">
+            The origin and evolution of the galaxies
+        </text>
+        <text font-size="9" x="717.4169" y="-667.85474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1062">
+            Distance determinations in the Galaxy
+        </text>
+        <text font-size="9" x="674.95154" y="-722.6491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1064">
+            Stellar velocities
+        </text>
+        <text font-size="9" x="707.4973" y="-572.2054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1067">
+            The stars and star clusters nearest the Sun
+        </text>
+        <text font-size="9" x="602.26245" y="-717.5615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1069">
+            The classification of stars according to the Hertzsprung-Russell
+            diagram
+        </text>
+        <text font-size="22" x="1013.35187" y="-814.70355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1071">
+            The galactic composition
+        </text>
+        <text font-size="16" x="886.2247" y="-587.7737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1084">
+            Structure and dynamics of the Galaxy
+        </text>
+        <text font-size="16" x="778.80914" y="-470.2437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1090">
+            The evolution of the Galaxy
+        </text>
+        <text font-size="9" x="309.29398" y="-424.97897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1095">
+            Globular clusters
+        </text>
+        <text font-size="9" x="298.79807" y="-349.21606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1097">
+            Open clusters
+        </text>
+        <text font-size="9" x="247.665" y="-486.54913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1099">
+            Stellar associations
+        </text>
+        <text font-size="9" x="241.0882" y="-315.94818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1101">
+            Relationship of clusters to the Galaxy
+        </text>
+        <text font-size="9" x="172.62051" y="-341.73727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1103">
+            Clusters in external galaxies
+        </text>
+        <text font-size="16" x="-321.4118" y="-1226.0868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1105">
+            The identification and nomenclature of the stars
+        </text>
+        <text font-size="16" x="112.00099" y="-1211.7277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1110">
+            Observable stellar characteristics
+        </text>
+        <text font-size="16" x="-32.37942" y="-1421.2502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1114">
+            Derived, or calculated, stellar characteristics
+        </text>
+        <text font-size="22" x="92.84747" y="-1364.0183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1120">
+            Stellar variability
+        </text>
+        <text font-size="16" x="-163.35622" y="-1269.4043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1125">
+            Statistics of stars
+        </text>
+        <text font-size="16" x="-189.63852" y="-1093.9556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1130">
+            Stellar structure
+        </text>
+        <text font-size="22" x="-225.4083" y="-1464.1624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1133">
+            Stellar evolution
+        </text>
+        <text font-size="9" x="-90.81395" y="1868.659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="983">
+            The estimated chemical composition of the universe
+        </text>
+        <text font-size="9" x="-201.06717" y="1662.3224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="984">
+            The large-scale structure and behaviour of the universe
+        </text>
+        <text font-size="9" x="-209.10684" y="1704.6342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="986">
+            The age of the universe
+        </text>
+        <text font-size="9" x="-146.84634" y="1824.3801" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="987">
+            The clustering of galaxies
+        </text>
+        <text font-size="9" x="-52.04297" y="1786.9578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="988">
+            Cosmic microwave background radiation
+        </text>
+        <text font-size="9" x="-37.212326" y="1712.666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="989">
+            The missing mass problem
+        </text>
+        <text font-size="9" x="-186.9966" y="1751.4202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="990">
+            Space-time: a four-dimensional continuum used to describe the
+            universe
+        </text>
+        <text font-size="9" x="250.38654" y="1577.8954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="994">
+            Distant galaxies
+        </text>
+        <text font-size="9" x="247.17706" y="1636.2534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="995">
+            The Local Group of galaxies
+        </text>
+        <text font-size="9" x="195.32227" y="1693.517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="996">
+            Quasars and related objects, including such hypothetical phenomena
+            as supermassive black holes at the centres of galaxies
+        </text>
+        <text font-size="9" x="127.66203" y="1660.0265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="997">
+            Nebulae
+        </text>
+        <text font-size="9" x="190.76207" y="1640.0472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="998">
+            Stars and stellar groups
+        </text>
+        <text font-size="9" x="166.55078" y="1600.463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="999">
+            Planetary systems: solar and extrasolar systems
+        </text>
+        <text font-size="9" x="583.54065" y="1051.1599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1002">
+            Early concepts: the Aristotelian viewpoint, contributions of Kepler
+            and Galileo
+        </text>
+        <text font-size="9" x="561.6282" y="1100.5901" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1003">
+            Newton&apos;s law of gravity
+        </text>
+        <text font-size="9" x="424.06085" y="1204.6649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1005">
+            Potential theory
+        </text>
+        <text font-size="9" x="474.27124" y="1177.8822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1007">
+            Effects of local mass differences: measurement of small gravity
+            anomalies
+        </text>
+        <text font-size="9" x="569.87915" y="878.04004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1009">
+            Field theories of gravity and their general properties and
+            predictions
+        </text>
+        <text font-size="9" x="580.19086" y="935.9396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1010">
+            Gravitational fields and the general theory of relativity:
+            principles and consequences
+        </text>
+        <text font-size="9" x="-742.63403" y="853.91565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1022">
+            Historical background: the search for the ether
+        </text>
+        <text font-size="9" x="-716.12177" y="932.50226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1023">
+            Relativity of space and time
+        </text>
+        <text font-size="9" x="-758.56586" y="897.872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1024">
+            Consequences of the special theory
+        </text>
+        <text font-size="9" x="-752.70544" y="709.0357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1026">
+            Use of relativity to interpret gravitational phenomena
+        </text>
+        <text font-size="9" x="-712.5076" y="667.7627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1027">
+            Experimental confirmation of the theory
+        </text>
+        <text font-size="9" x="-737.3834" y="753.96533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1028">
+            Implications of general relativity
+        </text>
+        <text font-size="9" x="-540.616" y="1391.5977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1031">
+            Big-bang versus steady-state models of the universe
+        </text>
+        <text font-size="9" x="-567.8625" y="1348.9521" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1032">
+            Primordial nucleosynthesis
+        </text>
+        <text font-size="9" x="-488.93784" y="1385.3849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1033">
+            The early universe: extrapolations backward in time to the
+            beginning of the universe
+        </text>
+        <text font-size="9" x="-696.9893" y="1200.0717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1035">
+            The origin and development of galaxies: protogalaxies
+        </text>
+        <text font-size="9" x="-661.1937" y="1280.9548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1036">
+            The formation and development of stars
+        </text>
+        <text font-size="9" x="-697.0299" y="1249.5671" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1037">
+            The origin of the solar system
+        </text>
+        <text font-size="9" x="-594.0978" y="-584.5718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1045">
+            Classification of galaxies
+        </text>
+        <text font-size="9" x="-588.8312" y="-634.93164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1046">
+            Observational methods of determining the distances to galaxies
+        </text>
+        <text font-size="9" x="-545.2311" y="-668.0104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1047">
+            Distribution of galaxies
+        </text>
+        <text font-size="9" x="-561.71075" y="-486.81406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1053">
+            Types and distribution
+        </text>
+        <text font-size="9" x="-558.812" y="-435.4341" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1054">
+            Interactions between cluster members
+        </text>
+        <text font-size="9" x="-506.68753" y="-280.4153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1056">
+            Radio galaxies
+        </text>
+        <text font-size="9" x="-450.99277" y="-259.72873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1057">
+            X-ray galaxies
+        </text>
+        <text font-size="9" x="-533.32086" y="-328.7441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1058">
+            Quasars
+        </text>
+        <text font-size="9" x="1154.4917" y="-854.3682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1072">
+            The stellar populations
+        </text>
+        <text font-size="9" x="1092.7582" y="-874.0089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1073">
+            Emission nebulae: composition and physical characteristics of H II
+            regions
+        </text>
+        <text font-size="9" x="1080.6758" y="-945.3747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1074">
+            Planetary nebulae
+        </text>
+        <text font-size="9" x="1120.8737" y="-774.50574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1075">
+            Supernova remnants
+        </text>
+        <text font-size="9" x="1024.2782" y="-934.7831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1076">
+            Dust clouds
+        </text>
+        <text font-size="16" x="1267.6128" y="-922.00867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1077">
+            The general interstellar medium
+        </text>
+        <text font-size="9" x="1130.5143" y="-910.9902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1082">
+            Primary cosmic rays
+        </text>
+        <text font-size="9" x="1155.9148" y="-805.8376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1083">
+            Interstellar magnetic field
+        </text>
+        <text font-size="9" x="984.0038" y="-513.7484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1085">
+            The spatial structure of the Galaxy: the dimensions of the Galaxy
+        </text>
+        <text font-size="9" x="984.2946" y="-632.0523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1086">
+            Regions of the Galaxy
+        </text>
+        <text font-size="9" x="1022.2023" y="-546.0274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1088">
+            The magnetic field of the Galaxy: its origin and its effects on
+            cosmic rays, radio waves, and light
+        </text>
+        <text font-size="9" x="1018.7965" y="-594.06586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1089">
+            The rotation of the Galaxy: the differential rotation of stars, gas
+            about the galactic centre
+        </text>
+        <text font-size="9" x="868.8829" y="-376.9786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1091">
+            Hydromagnetic and gravitational theories of the formation of spiral
+            structure
+        </text>
+        <text font-size="9" x="811.53186" y="-369.31998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1092">
+            Chemical evolution: the problem of the distribution of heavy
+            elements
+        </text>
+        <text font-size="9" x="885.65643" y="-428.93878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1093">
+            Star formation: theories concerning the gravitational condensation
+            of galactic dust and gas clouds
+        </text>
+        <text font-size="9" x="-463.2926" y="-1260.6941" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1106">
+            The celestial sphere and celestial coordinate systems
+        </text>
+        <text font-size="9" x="-449.17883" y="-1305.5804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1107">
+            The constellations and other sky divisions
+        </text>
+        <text font-size="9" x="-408.13437" y="-1329.9501" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1108">
+            Star names and designations
+        </text>
+        <text font-size="9" x="-447.77008" y="-1213.7562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1109">
+            Modern star maps and catalogs
+        </text>
+        <text font-size="9" x="212.69244" y="-1217.5676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1111">
+            Stellar positions and motions
+        </text>
+        <text font-size="9" x="169.38438" y="-1297.3141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1112">
+            The apparent brightness or apparent luminosity of the stars: the
+            UBV and other systems
+        </text>
+        <text font-size="9" x="218.9829" y="-1278.1428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1113">
+            Stellar spectra
+        </text>
+        <text font-size="9" x="5.9693613" y="-1571.5701" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1115">
+            Intrinsic stellar brightness: absolute magnitudes, total
+            luminosities
+        </text>
+        <text font-size="9" x="42.336468" y="-1528.4492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1116">
+            Stellar masses
+        </text>
+        <text font-size="9" x="-91.00787" y="-1537.7855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1117">
+            Stellar diameters
+        </text>
+        <text font-size="9" x="-53.213783" y="-1577.976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1118">
+            Stellar temperatures
+        </text>
+        <text font-size="9" x="-27.056814" y="-1525.6172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1119">
+            The average characteristics of main-sequence, or dwarf, stars
+        </text>
+        <text font-size="9" x="175.08226" y="-1463.9221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1121">
+            Geometric variables; e.g., eclipsing binaries
+        </text>
+        <text font-size="16" x="203.12325" y="-1580.96" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1122">
+            Intrinsic variables
+        </text>
+        <text font-size="9" x="-232.79266" y="-1399.433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1126">
+            Correlations between luminosity, spectrum, mass, and radius
+        </text>
+        <text font-size="9" x="-259.07193" y="-1321.4653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1128">
+            Statistics of binary star systems
+        </text>
+        <text font-size="9" x="-168.98558" y="-1366.0981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1129">
+            Statistics of special types of stars
+        </text>
+        <text font-size="9" x="-273.0944" y="-1049.5391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1131">
+            Stellar atmospheres
+        </text>
+        <text font-size="9" x="-286.55157" y="-1113.2542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1132">
+            Internal structure of stars
+        </text>
+        <text font-size="16" x="-349.7145" y="-1748.5178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1134">
+            The life history of a typical star
+        </text>
+        <text font-size="9" x="-271.73322" y="-1599.2162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1139">
+            Formation of chemical elements in stars
+        </text>
+        <text font-size="9" x="-324.0624" y="-1567.225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1140">
+            Probable fates of stars: white dwarfs, neutron stars, black holes
+        </text>
+        <text font-size="9" x="1368.6195" y="-1019.16547" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1079">
+            Grains of interstellar dust
+        </text>
+        <text font-size="9" x="1402.8314" y="-978.62225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1080">
+            Interstellar regions of neutral hydrogen (H I regions)
+        </text>
+        <text font-size="9" x="1406.6274" y="-926.6529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1081">
+            Interstellar molecules and radicals
+        </text>
+        <text font-size="9" x="238.53224" y="-1722.2351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1123">
+            Pulsating stars; e.g., Cepheid, RR Lyrae, and Beta Canis Majoris
+            variables
+        </text>
+        <text font-size="9" x="288.32547" y="-1694.2467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1124">
+            Explosive variables; e.g., novae, supernovae, and novalike
+            variables
+        </text>
+        <text font-size="9" x="-418.44647" y="-1870.5272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1135">
+            Formation of a protostar by gravitational contraction
+        </text>
+        <text font-size="9" x="-345.1943" y="-1888.9186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1136">
+            Attainment of the main sequence
+        </text>
+        <text font-size="9" x="-462.00635" y="-1839.0669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1137">
+            Evolution away from the main sequence
+        </text>
+        <text font-size="9" x="-389.88327" y="-1906.781" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1138">
+            Estimates of stellar ages
+        </text>
+    </g>
+</svg>
