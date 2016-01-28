@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="882.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-127.000000 -1195.000000 882.000000 2396.000000" height="2396.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 612.308899,216.189072 C 570.887939,235.902786 479.186005,203.341965 459.472290,161.921036"
+              class="1 6320" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 459.472290,161.921036 C 418.738037,179.687164 330.987488,145.234985 313.221375,104.500755"
+              class="6320 7609" stroke-opacity="1.0" stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 313.221375,104.500755 C 373.190887,184.964905 342.448944,395.615387 261.984802,455.584900"
+              class="7609 7611" stroke-opacity="1.0" stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 261.984802,455.584900 C 287.602936,439.559662 350.067993,453.949005 366.093231,479.567139"
+              class="7611 7612" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 261.984802,455.584900 C 227.971573,510.850525 94.053314,542.729065 38.787701,508.715851"
+              class="7611 7613" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.787701,508.715851 C 7.489318,514.884644 -48.711441,477.190247 -54.880234,445.891876"
+              class="7613 7614" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.787701,508.715851 C 53.623405,542.739380 24.841652,616.028259 -9.181886,630.863953"
+              class="7613 7615" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.787701,508.715851 C 16.492802,544.668884 -70.879028,565.156006 -106.832024,542.861084"
+              class="7613 7617" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.787701,508.715851 C 61.116554,509.880798 92.862450,545.121460 91.697517,567.450317"
+              class="7613 7619" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.787701,508.715851 C 31.441883,545.163391 -34.248161,588.815979 -70.695702,581.470154"
+              class="7613 7621" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 261.984802,455.584900 C 336.709015,508.610443 369.257050,700.235107 316.231506,774.959351"
+              class="7611 7623" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 316.231506,774.959351 C 392.040710,799.761597 468.551025,950.678833 443.748749,1026.488037"
+              class="7623 7624" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.748749,1026.488037 C 458.303772,1000.613525 518.948120,983.634216 544.822632,998.189270"
+              class="7624 7625" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.748749,1026.488037 C 478.956543,1007.192993 560.710876,1031.062012 580.005981,1066.269897"
+              class="7624 7626" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.748749,1026.488037 C 465.599854,1062.115112 444.935944,1148.332275 409.308899,1170.183472"
+              class="7624 7628" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.748749,1026.488037 C 484.065002,1027.023438 543.736206,1088.301025 543.200745,1128.617188"
+              class="7624 7629" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.748749,1026.488037 C 482.670197,1049.218628 506.956635,1141.696533 484.226105,1180.618042"
+              class="7624 7631" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.748749,1026.488037 C 445.218323,1058.861938 398.861908,1109.627075 366.488037,1111.096680"
+              class="7624 7633" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 316.231506,774.959351 C 320.903412,829.045898 246.781494,917.183472 192.694977,921.855408"
+              class="7623 7635" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.694977,921.855408 C 206.285187,955.132385 176.755051,1025.433105 143.478104,1039.023315"
+              class="7635 7636" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.694977,921.855408 C 183.866898,956.512817 118.638733,995.256714 83.981361,986.428650"
+              class="7635 7637" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 313.221375,104.500755 C 271.022797,16.819071 339.247498,-178.001282 426.929169,-220.199844"
+              class="7609 7638" stroke-opacity="1.0" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 426.929169,-220.199844 C 413.371521,-197.059799 358.324890,-182.686249 335.184875,-196.243927"
+              class="7638 7639" stroke-opacity="1.0" stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 426.929169,-220.199844 C 360.826843,-289.961884 366.316498,-493.758453 436.078552,-559.860779"
+              class="7638 7640" stroke-opacity="1.0" stroke="#a56721"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 436.078552,-559.860779 C 439.981506,-622.631836 539.992493,-710.933960 602.763550,-707.031067"
+              class="7640 7641" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 602.763550,-707.031067 C 627.845642,-725.748291 693.544495,-716.201050 712.261719,-691.118958"
+              class="7641 7642" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 602.763550,-707.031067 C 614.952087,-743.086060 687.317383,-778.885864 723.372375,-766.697327"
+              class="7641 7643" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 602.763550,-707.031067 C 579.953430,-726.404297 574.798157,-789.679321 594.171387,-812.489441"
+              class="7641 7645" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 602.763550,-707.031067 C 594.352417,-743.595520 636.582336,-811.058899 673.146790,-819.470032"
+              class="7641 7647" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 436.078552,-559.860779 C 360.237427,-593.330322 296.680115,-757.296326 330.149658,-833.137451"
+              class="7640 7649" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.149658,-833.137451 C 291.291779,-879.005432 301.806885,-1006.094177 347.674835,-1044.952026"
+              class="7649 7650" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 347.674835,-1044.952026 C 315.439941,-1064.365356 296.207672,-1141.837769 315.621033,-1174.072632"
+              class="7650 7651" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 347.674835,-1044.952026 C 333.384583,-1079.142090 363.234314,-1151.862671 397.424408,-1166.152832"
+              class="7650 7652" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.149658,-833.137451 C 308.224823,-847.045105 296.199036,-900.793945 310.106720,-922.718811"
+              class="7649 7653" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.149658,-833.137451 C 274.044556,-828.172241 182.439056,-904.882141 177.473862,-960.987244"
+              class="7649 7655" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 177.473862,-960.987244 C 142.111404,-970.918884 103.965149,-1038.859985 113.896767,-1074.222412"
+              class="7655 7656" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 177.473862,-960.987244 C 145.228989,-945.781433 74.052902,-971.339966 58.847061,-1003.584839"
+              class="7655 7657" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 426.929169,-220.199844 C 463.418060,-257.053589 573.431946,-257.600830 610.285706,-221.111923"
+              class="7638 7658" stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 610.285706,-221.111923 C 611.148438,-251.276550 657.689392,-295.229462 687.854004,-294.366760"
+              class="7658 7659" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 610.285706,-221.111923 C 640.986877,-223.882065 691.193787,-181.985550 693.963928,-151.284409"
+              class="7658 7661" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 610.285706,-221.111923 C 634.627380,-246.617188 709.397888,-248.362549 734.903137,-224.020859"
+              class="7658 7663" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 426.929169,-220.199844 C 399.433105,-220.981094 359.360901,-263.397034 360.142120,-290.893127"
+              class="7638 7665" stroke-opacity="1.0" stroke="#ef8882"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="50.0" cx="612.3089"
+                class="1" cy="216.18907" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="45.714287" cx="459.4723"
+                class="6320" cy="161.92104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="41.428574" cx="313.22137"
+                class="7609" cy="104.500755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="261.9848"
+                class="7611" cy="455.5849" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="366.09323"
+                class="7612" cy="479.56714" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="38.7877"
+                class="7613" cy="508.71585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-54.880234"
+                class="7614" cy="445.89188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-9.181886"
+                class="7615" cy="630.86395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-106.83202"
+                class="7617" cy="542.8611" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="91.69752"
+                class="7619" cy="567.4503" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-70.6957"
+                class="7621" cy="581.47015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="316.2315"
+                class="7623" cy="774.95935" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="443.74875"
+                class="7624" cy="1026.488" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="544.82263"
+                class="7625" cy="998.1893" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="580.006"
+                class="7626" cy="1066.2699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="409.3089"
+                class="7628" cy="1170.1835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="543.20074"
+                class="7629" cy="1128.6172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="484.2261"
+                class="7631" cy="1180.618" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="366.48804"
+                class="7633" cy="1111.0967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="192.69498"
+                class="7635" cy="921.8554" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="143.4781"
+                class="7636" cy="1039.0233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="83.98136"
+                class="7637" cy="986.42865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="37.14286" cx="426.92917"
+                class="7638" cy="-220.19984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="335.18488"
+                class="7639" cy="-196.24393" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="436.07855"
+                class="7640" cy="-559.8608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="602.76355"
+                class="7641" cy="-707.03107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="712.2617"
+                class="7642" cy="-691.11896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="723.3724"
+                class="7643" cy="-766.6973" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="594.1714"
+                class="7645" cy="-812.48944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="673.1468"
+                class="7647" cy="-819.47003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="330.14966"
+                class="7649" cy="-833.13745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="347.67484"
+                class="7650" cy="-1044.952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="315.62103"
+                class="7651" cy="-1174.0726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="397.4244"
+                class="7652" cy="-1166.1528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="310.10672"
+                class="7653" cy="-922.7188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="177.47386"
+                class="7655" cy="-960.98724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="113.89677"
+                class="7656" cy="-1074.2224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="58.84706"
+                class="7657" cy="-1003.58484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="610.2857"
+                class="7658" cy="-221.11192" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="687.854"
+                class="7659" cy="-294.36676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="693.9639"
+                class="7661" cy="-151.28441" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="734.90314"
+                class="7663" cy="-224.02086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="360.14212"
+                class="7665" cy="-290.89313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="612.3089" y="221.64561" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="459.4723" y="168.25795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6320">
+            The History of Mankind
+        </text>
+        <text font-size="25" x="313.22137" y="110.29503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7609">
+            Peoples and Civilizations of Pre-Columbian America
+        </text>
+        <text font-size="20" x="261.9848" y="459.28772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7611">
+            Andean Civilization to c. AD 1540
+        </text>
+        <text font-size="12" x="366.09323" y="482.38354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7612">
+            The character and achievements of Andean civilization, the
+            geography and ethnography of theAndean region, archaeological and
+            documentary historical sources, historiographic problems
+        </text>
+        <text font-size="15" x="38.7877" y="511.44412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7613">
+            Pre-Inca cultures and states
+        </text>
+        <text font-size="12" x="-54.880234" y="448.70828" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7614">
+            Late Preceramic (c. 3500-c. 1800 BC) cultures: development of
+            agriculture
+        </text>
+        <text font-size="12" x="-9.181886" y="633.68036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7615">
+            Initial (c. 1800-c. 1000 BC) and Early Horizon, or Chavin and
+            Paracas (c. 1000-c. 200 BC), cultures in Peru
+        </text>
+        <text font-size="12" x="-106.83202" y="545.6775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7617">
+            Early Intermediate (Florescent, or Classic) Period (c. 200 BC-c. AD
+            600)
+        </text>
+        <text font-size="12" x="91.69752" y="570.2667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7619">
+            Middle Horizon Period (c. AD 600-c. 1000)
+        </text>
+        <text font-size="12" x="-70.6957" y="584.28656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7621">
+            Late Intermediate Period (c. AD 1000-c. 1400)
+        </text>
+        <text font-size="17" x="316.2315" y="778.9492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7623">
+            The empire of the Incas (c. 1400-c. 1540)
+        </text>
+        <text font-size="15" x="443.74875" y="1030.0085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7624">
+            The origins and development of the Inca Empire
+        </text>
+        <text font-size="12" x="544.82263" y="1001.0057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7625">
+            The autochthonic mythical origins of the Inca dynasty,
+            establishment of the Cuzco Valley settlement (c. 1400)
+        </text>
+        <text font-size="12" x="580.006" y="1069.0863" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7626">
+            The reigns of Capac Yupanqui, Inca Roca, Yahuar Huacac, and
+            Viracocha Inca
+        </text>
+        <text font-size="12" x="409.3089" y="1172.9999" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7628">
+            Inca victory over the Chancas (1438). Incan civil war between Cuzco
+            and Calca factions, Cuzco victory and reign of Pachacuti Inca
+            Yupanqui (1438-c. 1471), renewed battles with Chancas (c. 1445),
+            further conquest of Titicaca Basin region, victory over Chim
+        </text>
+        <text font-size="12" x="543.20074" y="1131.4336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7629">
+            Inca conquests during the reign of Topa Inca Yupanqui (c. 1471-c.
+            1493)
+        </text>
+        <text font-size="12" x="484.2261" y="1183.4344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7631">
+            Reign of Huayna Capac (c. 1493-c. 1525)
+        </text>
+        <text font-size="12" x="366.48804" y="1113.9131" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7633">
+            The Spanish conquest of the Incas (1532-40)
+        </text>
+        <text font-size="15" x="192.69498" y="925.3295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7635">
+            Incan government, society, and culture
+        </text>
+        <text font-size="12" x="143.4781" y="1041.8397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7636">
+            Divine monarchy and the royal corporations, administrative
+            hierarchy, taxation, the census and the quipu system of numerical
+            records
+        </text>
+        <text font-size="12" x="83.98136" y="989.24506" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7637">
+            The settlement of people loyal to the Incas in newly conquered
+            territories, the spy system, religious practices, military policy
+            and organization, technology, agriculture, transportation system,
+            calendar, oral narratives
+        </text>
+        <text font-size="22" x="426.92917" y="-216.12677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7638">
+            Meso-American Civilization to c. ad 1540
+        </text>
+        <text font-size="12" x="335.18488" y="-193.42752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7639">
+            The character and achievements of Meso-American civilization, the
+            geography and ethnography of Meso-America, archaeological and
+            documentary historical sources, historiographic problems
+        </text>
+        <text font-size="20" x="436.07855" y="-555.22534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7640">
+            Meso-America in the Pre-Classic and Classic periods
+        </text>
+        <text font-size="15" x="602.76355" y="-703.5545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7641">
+            The development of Meso-American civilization in the Pre-Classic
+            periods
+        </text>
+        <text font-size="12" x="712.2617" y="-688.30255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7642">
+            Late Pleistocene and Early Hunter (c. 21,000-c. 6500 BC) peoples of
+            Meso-America, development of agriculture (c. 6500-c. 1500 BC)
+        </text>
+        <text font-size="12" x="723.3724" y="-763.8809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7643">
+            Early Formative Period (c. 1500-c. 900 BC)
+        </text>
+        <text font-size="12" x="594.1714" y="-809.67303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7645">
+            Middle Formative Period (c. 900-c. 300 BC)
+        </text>
+        <text font-size="12" x="673.1468" y="-816.6536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7647">
+            Late Formative Period (c. 300 BC-c. AD 100)
+        </text>
+        <text font-size="17" x="330.14966" y="-829.1476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7649">
+            Maya and non-Maya Meso-America in the Classic Period (c. AD 100-c.
+            900)
+        </text>
+        <text font-size="15" x="347.67484" y="-1041.4315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7650">
+            Early Classic Period (c. AD 100-c. 600)
+        </text>
+        <text font-size="12" x="315.62103" y="-1171.2933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7651">
+            Teotihuacan cultural and urban development, ceremonial architecture
+            and pottery, the Zapotecs at Monte Alban
+        </text>
+        <text font-size="12" x="397.4244" y="-1163.3364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7652">
+            The Cotzumalhuapo culture in the Maya highlands, Tzakol and Tepeu
+            cultures in lowland Maya civilization (c. AD 300-c. 900)
+        </text>
+        <text font-size="12" x="310.10672" y="-919.9024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7653">
+            Late Classic non-Maya Meso-America (c. AD 600-c. 900)
+        </text>
+        <text font-size="15" x="177.47386" y="-957.46674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7655">
+            Late Classic lowland Maya culture (c. AD 600-c. 900)
+        </text>
+        <text font-size="12" x="113.89677" y="-1071.4431" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7656">
+            Urban settlements, temple-pyramids and palaces, Maya art, the
+            calendar and writing system
+        </text>
+        <text font-size="12" x="58.84706" y="-1000.76843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7657">
+            Maya religion, social and political life, the collapse of the Maya
+            civilization (c. AD 900)
+        </text>
+        <text font-size="15" x="610.2857" y="-217.59142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7658">
+            Post-Classic Period in the Valley of Mexico and the Yucatan
+            Peninsula (c. 900-c. 1519)
+        </text>
+        <text font-size="12" x="687.854" y="-291.55035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7659">
+            The rise and decline of the Toltec state in southern Mexico and the
+            Yucatan Peninsula (c. 900-c. 1200)
+        </text>
+        <text font-size="12" x="693.9639" y="-148.468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7661">
+            The development of the Aztec state and extension of Aztec rule over
+            the Valley of Mexico(c. 1325-1519)
+        </text>
+        <text font-size="12" x="734.90314" y="-221.20445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7663">
+            Aztec culture and society up to the time of the Spanish conquest
+        </text>
+        <text font-size="12" x="360.14212" y="-288.07672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7665">
+            The Spanish conquest of the Aztec state and the Yucatan Peninsula
+            (1519-c. 1540)
+        </text>
+    </g>
+</svg>

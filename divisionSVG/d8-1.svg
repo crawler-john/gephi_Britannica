@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1368.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1266.000000 -1594.000000 1368.000000 3426.000000" height="3426.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -291.652191,565.037354 C -343.256470,563.770020 -418.761871,484.462677 -417.494568,432.858398"
+              class="1 5666" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -417.494568,432.858398 C -456.199524,421.917358 -497.845428,347.448364 -486.904388,308.743408"
+              class="5666 5668" stroke-opacity="1.0" stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -486.904388,308.743408 C -584.203491,201.915207 -569.909912,-104.275757 -463.081696,-201.574875"
+              class="5668 5670" stroke-opacity="1.0" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -560.719238,-156.741913 -774.424927,-235.948700 -819.257874,-333.586182"
+              class="5670 5671" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -819.257874,-333.586182 C -904.511841,-313.994080 -1061.781006,-412.486908 -1081.373169,-497.740936"
+              class="5671 5672" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1081.373169,-497.740936 C -1124.221924,-474.848999 -1222.832764,-504.784058 -1245.724731,-547.632690"
+              class="5672 5673" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1081.373169,-497.740936 C -1105.544312,-465.165497 -1190.664185,-452.559082 -1223.239624,-476.730225"
+              class="5672 5674" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1081.373169,-497.740936 C -1117.834106,-515.350708 -1146.110962,-596.456848 -1128.501099,-632.917847"
+              class="5672 5675" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1081.373169,-497.740936 C -1129.637817,-497.248108 -1202.773926,-568.905762 -1203.266846,-617.170410"
+              class="5672 5676" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -819.257874,-333.586182 C -859.434082,-284.921814 -992.695007,-272.189606 -1041.359375,-312.365814"
+              class="5671 5677" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1041.359375,-312.365814 C -1078.504395,-293.244232 -1162.904297,-320.279388 -1182.025879,-357.424408"
+              class="5677 5678" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1041.359375,-312.365814 C -1056.970581,-275.273499 -1136.025757,-243.051773 -1173.118164,-258.662964"
+              class="5677 5679" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -488.308929,-213.042740 -508.947968,-268.085358 -497.480133,-293.312592"
+              class="5670 5680" stroke-opacity="1.0" stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -439.472839,-179.678223 -436.904480,-111.419937 -458.801147,-87.811066"
+              class="5670 5682" stroke-opacity="1.0" stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -530.727356,-335.041626 -431.995667,-636.710205 -298.528931,-704.355896"
+              class="5670 5684" stroke-opacity="1.0" stroke="#a56721"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -287.013702,-785.159607 -148.535294,-889.092224 -67.731621,-877.576965"
+              class="5684 5685" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -67.731621,-877.576965 C -81.203560,-916.590881 -42.890587,-995.319702 -3.876663,-1008.791626"
+              class="5685 5686" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -67.731621,-877.576965 C -42.735264,-912.115417 46.566952,-926.428528 81.105400,-901.432190"
+              class="5685 5687" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -67.731621,-877.576965 C -60.913605,-923.728394 18.540535,-982.728516 64.691956,-975.910461"
+              class="5685 5688" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -269.771698,-714.240540 -211.808990,-685.931580 -201.924393,-657.174377"
+              class="5684 5689" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -374.652100,-788.411560 -362.753326,-1028.679932 -278.697601,-1104.803101"
+              class="5684 5690" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -278.697601,-1104.803101 C -317.170807,-1114.865845 -359.786346,-1187.669922 -349.723541,-1226.143066"
+              class="5690 5691" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -278.697601,-1104.803101 C -306.945679,-1133.065796 -306.923828,-1217.831787 -278.661224,-1246.079834"
+              class="5690 5692" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -278.697601,-1104.803101 C -331.970947,-1169.198242 -315.288116,-1345.701172 -250.892883,-1398.974487"
+              class="5690 5693" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.892883,-1398.974487 C -282.450623,-1437.067383 -272.647919,-1541.543213 -234.555069,-1573.100952"
+              class="5693 5694" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.892883,-1398.974487 C -289.910706,-1415.620728 -323.467896,-1499.117065 -306.821533,-1538.134888"
+              class="5693 5695" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.892883,-1398.974487 C -260.488220,-1440.947266 -211.922089,-1518.299316 -169.949356,-1527.894653"
+              class="5693 5696" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -278.697601,-1104.803101 C -288.547943,-1143.718872 -244.949661,-1216.868164 -206.033813,-1226.718506"
+              class="5690 5697" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -332.933563,-732.760315 -341.933899,-826.973877 -313.529449,-861.378540"
+              class="5684 5698" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -339.041809,-693.229370 -416.500854,-737.308838 -427.627380,-777.821716"
+              class="5684 5699" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -322.837799,-714.741760 -343.722198,-766.783936 -333.336304,-791.092773"
+              class="5684 5700" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -344.378082,-713.124084 -399.999420,-795.050171 -391.231171,-840.899292"
+              class="5684 5701" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -315.080872,-742.653320 -282.462616,-824.927368 -244.165176,-841.479309"
+              class="5684 5702" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -294.400635,-741.423767 -232.606339,-790.833191 -195.538437,-786.704895"
+              class="5684 5703" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -316.229523,-680.535950 -378.510315,-671.356995 -402.330231,-689.057556"
+              class="5684 5704" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.528931,-704.355896 C -275.501495,-734.335022 -195.991638,-744.762634 -166.012497,-721.735168"
+              class="5684 5705" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -447.217255,-226.890503 -385.447113,-241.067261 -360.131500,-225.202805"
+              class="5670 5706" stroke-opacity="1.0" stroke="#ef8882"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -379.190125,-251.038528 -179.157288,-199.396622 -129.693634,-115.505051"
+              class="5670 5708" stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -140.254517,-144.150986 -113.126923,-202.961227 -84.480972,-213.522110"
+              class="5708 5709" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -86.230270,-140.828949 16.950615,-113.619759 42.274513,-70.156395"
+              class="5708 5710" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -81.639725,-120.847046 -1.545858,-56.779167 3.796134,-8.725257"
+              class="5708 5711" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -105.031342,-151.442093 -14.132339,-168.354218 21.804703,-143.691925"
+              class="5708 5712" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -104.838272,-126.147614 -51.591393,-104.828415 -40.948826,-79.973053"
+              class="5708 5713" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -123.525673,-159.588867 -48.148026,-216.462616 -4.064218,-210.294662"
+              class="5708 5714" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -113.470634,-89.666412 -127.894112,-26.573969 -153.732742,-10.350975"
+              class="5708 5715" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -129.693634,-115.505051 C -92.977753,-100.670334 -60.155991,-23.344444 -74.990707,13.371439"
+              class="5708 5716" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -463.081696,-201.574875 C -484.042114,-134.983826 -615.369263,-66.537872 -681.960266,-87.498268"
+              class="5670 5717" stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.960266,-87.498268 C -711.530212,-64.511917 -790.364746,-74.387344 -813.351074,-103.957314"
+              class="5717 5718" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.960266,-87.498268 C -696.208740,-47.900089 -776.978699,-9.875530 -816.576904,-24.124008"
+              class="5717 5719" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.960266,-87.498268 C -673.939392,-50.663506 -717.160278,16.619934 -753.994995,24.640802"
+              class="5717 5720" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.960266,-87.498268 C -660.461487,-65.078140 -661.843506,0.800222 -684.263672,22.298994"
+              class="5717 5721" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.960266,-87.498268 C -711.721558,-86.030899 -758.564636,-128.471817 -760.031982,-158.233139"
+              class="5717 5722" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -486.904388,308.743408 C -380.295624,418.916199 -385.641663,744.088501 -495.814453,850.697327"
+              class="5668 5723" stroke-opacity="1.0" stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.814453,850.697327 C -409.841858,946.118530 -424.014893,1218.209351 -519.436096,1304.181885"
+              class="5723 5724" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -519.436096,1304.181885 C -509.098175,1386.535889 -617.122253,1525.573853 -699.476257,1535.911743"
+              class="5724 5725" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -699.476257,1535.911743 C -721.495056,1566.605835 -800.564270,1579.618774 -831.258362,1557.599976"
+              class="5725 5726" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -699.476257,1535.911743 C -682.098511,1579.885376 -721.992310,1671.912476 -765.965881,1689.290161"
+              class="5725 5727" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -699.476257,1535.911743 C -703.563171,1582.146484 -779.045776,1645.368286 -825.280518,1641.281250"
+              class="5725 5728" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -699.476257,1535.911743 C -672.383423,1562.701660 -671.929016,1643.525757 -698.718994,1670.618652"
+              class="5725 5729" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -519.436096,1304.181885 C -489.448303,1310.723389 -454.278717,1365.517090 -460.820099,1395.504883"
+              class="5724 5730" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -519.436096,1304.181885 C -430.216156,1346.576660 -359.978485,1543.998779 -402.373291,1633.218750"
+              class="5724 5731" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -402.373291,1633.218750 C -367.331696,1616.451416 -289.618286,1643.862793 -272.850922,1678.904297"
+              class="5731 5732" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -402.373291,1633.218750 C -353.256378,1632.832153 -279.001099,1705.927734 -278.614532,1755.044556"
+              class="5731 5733" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -402.373291,1633.218750 C -373.409698,1642.681641 -344.158722,1700.321411 -353.621643,1729.285034"
+              class="5731 5734" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -402.373291,1633.218750 C -373.866638,1670.638306 -387.236023,1769.527588 -424.655579,1798.034302"
+              class="5731 5735" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -402.373291,1633.218750 C -357.363068,1659.498535 -329.267303,1766.433472 -355.547058,1811.443726"
+              class="5731 5736" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -402.373291,1633.218750 C -394.668213,1669.935059 -438.184967,1736.567017 -474.901215,1744.272095"
+              class="5731 5737" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -519.436096,1304.181885 C -511.872498,1332.533081 -543.054016,1386.405518 -571.405334,1393.969116"
+              class="5724 5738" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.814453,850.697327 C -518.265808,913.997070 -646.892456,975.269531 -710.192200,952.818176"
+              class="5723 5739" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -710.192200,952.818176 C -713.307739,993.185425 -778.532043,1049.062988 -818.899292,1045.947388"
+              class="5739 5740" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -710.192200,952.818176 C -733.985962,984.743774 -817.565002,996.941589 -849.490601,973.147827"
+              class="5739 5741" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -710.192200,952.818176 C -741.000732,966.289185 -807.420166,940.282898 -820.891174,909.474365"
+              class="5739 5742" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -710.192200,952.818176 C -693.267334,980.266357 -709.052185,1046.825928 -736.500366,1063.750854"
+              class="5739 5743" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.814453,850.697327 C -428.635468,837.662292 -308.314514,918.878296 -295.279510,986.057251"
+              class="5723 5744" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -295.279510,986.057251 C -256.031128,990.353027 -203.602142,1055.669189 -207.897888,1094.917603"
+              class="5744 5745" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -295.279510,986.057251 C -276.273865,958.791138 -206.866302,946.400513 -179.600220,965.406128"
+              class="5744 5746" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -295.279510,986.057251 C -270.047272,1005.006042 -260.622162,1071.277588 -279.570953,1096.509766"
+              class="5744 5747" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -295.279510,986.057251 C -257.988220,968.036743 -175.020493,996.942871 -156.999954,1034.234131"
+              class="5744 5748" stroke-opacity="1.0" stroke="#a9a47f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="50.0" cx="-291.6522"
+                class="1" cy="565.03735" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="45.714287" cx="-417.49457"
+                class="5666" cy="432.8584" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="41.428574" cx="-486.9044"
+                class="5668" cy="308.7434" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="37.14286" cx="-463.0817"
+                class="5670" cy="-201.57487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-819.2579"
+                class="5671" cy="-333.58618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-1081.3732"
+                class="5672" cy="-497.74094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1245.7247"
+                class="5673" cy="-547.6327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1223.2396"
+                class="5674" cy="-476.73022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1128.5011"
+                class="5675" cy="-632.91785" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1203.2668"
+                class="5676" cy="-617.1704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-1041.3594"
+                class="5677" cy="-312.3658" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1182.0259"
+                class="5678" cy="-357.4244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1173.1182"
+                class="5679" cy="-258.66296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-497.48013"
+                class="5680" cy="-293.3126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-458.80115"
+                class="5682" cy="-87.811066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="-298.52893"
+                class="5684" cy="-704.3559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-67.73162"
+                class="5685" cy="-877.57697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-3.8766627"
+                class="5686" cy="-1008.7916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="81.1054"
+                class="5687" cy="-901.4322" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="64.691956"
+                class="5688" cy="-975.91046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-201.9244"
+                class="5689" cy="-657.1744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-278.6976"
+                class="5690" cy="-1104.8031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-349.72354"
+                class="5691" cy="-1226.1431" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-278.66122"
+                class="5692" cy="-1246.0798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-250.89288"
+                class="5693" cy="-1398.9745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-234.55507"
+                class="5694" cy="-1573.101" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-306.82153"
+                class="5695" cy="-1538.1349" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-169.94936"
+                class="5696" cy="-1527.8947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-206.03381"
+                class="5697" cy="-1226.7185" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-313.52945"
+                class="5698" cy="-861.37854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-427.62738"
+                class="5699" cy="-777.8217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-333.3363"
+                class="5700" cy="-791.0928" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-391.23117"
+                class="5701" cy="-840.8993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-244.16518"
+                class="5702" cy="-841.4793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-195.53844"
+                class="5703" cy="-786.7049" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-402.33023"
+                class="5704" cy="-689.05756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-166.0125"
+                class="5705" cy="-721.73517" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-360.1315"
+                class="5706" cy="-225.2028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-129.69363"
+                class="5708" cy="-115.50505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-84.48097"
+                class="5709" cy="-213.52211" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="42.274513"
+                class="5710" cy="-70.156395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="3.796134"
+                class="5711" cy="-8.725257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="21.804703"
+                class="5712" cy="-143.69193" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-40.948826"
+                class="5713" cy="-79.97305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-4.0642176"
+                class="5714" cy="-210.29466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-153.73274"
+                class="5715" cy="-10.350975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-74.99071"
+                class="5716" cy="13.371439" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-681.96027"
+                class="5717" cy="-87.49827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-813.3511"
+                class="5718" cy="-103.95731" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-816.5769"
+                class="5719" cy="-24.124008" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-753.995"
+                class="5720" cy="24.640802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-684.2637"
+                class="5721" cy="22.298994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-760.032"
+                class="5722" cy="-158.23314" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="-495.81445"
+                class="5723" cy="850.6973" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-519.4361"
+                class="5724" cy="1304.1819" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-699.47626"
+                class="5725" cy="1535.9117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-831.25836"
+                class="5726" cy="1557.6" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-765.9659"
+                class="5727" cy="1689.2902" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-825.2805"
+                class="5728" cy="1641.2812" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-698.719"
+                class="5729" cy="1670.6187" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-460.8201"
+                class="5730" cy="1395.5049" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-402.3733"
+                class="5731" cy="1633.2188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-272.85092"
+                class="5732" cy="1678.9043" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-278.61453"
+                class="5733" cy="1755.0446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-353.62164"
+                class="5734" cy="1729.285" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-424.65558"
+                class="5735" cy="1798.0343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-355.54706"
+                class="5736" cy="1811.4437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-474.9012"
+                class="5737" cy="1744.2721" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-571.40533"
+                class="5738" cy="1393.9691" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-710.1922"
+                class="5739" cy="952.8182" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-818.8993"
+                class="5740" cy="1045.9474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-849.4906"
+                class="5741" cy="973.1478" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-820.8912"
+                class="5742" cy="909.47437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-736.50037"
+                class="5743" cy="1063.7509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-295.2795"
+                class="5744" cy="986.05725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-207.89789"
+                class="5745" cy="1094.9176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-179.60022"
+                class="5746" cy="965.4061" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-279.57095"
+                class="5747" cy="1096.5098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-156.99995"
+                class="5748" cy="1034.2341" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="-291.6522" y="570.4939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="-417.49457" y="439.11182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5666">
+            Religion
+        </text>
+        <text font-size="25" x="-486.9044" y="314.6109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5668">
+            Religion in General
+        </text>
+        <text font-size="22" x="-463.0817" y="-196.41147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5670">
+            Knowledge and Understanding of Religion
+        </text>
+        <text font-size="17" x="-819.2579" y="-329.59625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5671">
+            The philosophy of religion: diverse views of the nature and
+            characteristics of religion
+        </text>
+        <text font-size="15" x="-1081.3732" y="-494.31076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5672">
+            Basic questions and problems
+        </text>
+        <text font-size="12" x="-1245.7247" y="-544.8163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5673">
+            The existence of the divine or sacred (God)
+        </text>
+        <text font-size="12" x="-1223.2396" y="-474.5105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5674">
+            The attributes of the divine or sacred
+        </text>
+        <text font-size="12" x="-1128.5011" y="-630.10144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5675">
+            The extent to which mankind can have knowledge of the divine or
+            sacred
+        </text>
+        <text font-size="12" x="-1203.2668" y="-614.354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5676">
+            The special problems of free will, evil and suffering, and
+            immortality
+        </text>
+        <text font-size="15" x="-1041.3594" y="-309.42514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5677">
+            Questions about the nature and character of the divine or sacred
+        </text>
+        <text font-size="12" x="-1182.0259" y="-354.68027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5678">
+            Whether the divine or sacred is personal or impersonal
+        </text>
+        <text font-size="12" x="-1173.1182" y="-255.88367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5679">
+            Whether the divine or sacred is one or more unique beings or powers
+        </text>
+        <text font-size="12" x="-497.48013" y="-290.5333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5680">
+            Religious experience: its nature, elements, and varieties
+        </text>
+        <text font-size="12" x="-458.80115" y="-84.99466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5682">
+            Religious phenomenology: the basic patterns of religious thought,
+            action, and association
+        </text>
+        <text font-size="20" x="-298.52893" y="-699.66187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5684">
+            Theology as an attempt to understand and state the rationale of
+            religious belief
+        </text>
+        <text font-size="15" x="-67.73162" y="-874.10284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5685">
+            Theology in relation to divine revelation
+        </text>
+        <text font-size="12" x="-3.8766627" y="-1006.0104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5686">
+            The role of Sacred Scriptures
+        </text>
+        <text font-size="12" x="81.1054" y="-898.6529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5687">
+            Doctrine and dogma
+        </text>
+        <text font-size="12" x="64.691956" y="-973.09406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5688">
+            Articles of faith: religious creeds
+        </text>
+        <text font-size="12" x="-201.9244" y="-654.358" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5689">
+            Mystical theology: immediate experience of the divine or sacred
+        </text>
+        <text font-size="17" x="-278.6976" y="-1100.8132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5690">
+            Doctrines concerning God or the gods
+        </text>
+        <text font-size="12" x="-349.72354" y="-1223.3638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5691">
+            Polytheism
+        </text>
+        <text font-size="12" x="-278.66122" y="-1243.3005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5692">
+            Religious dualism
+        </text>
+        <text font-size="15" x="-250.89288" y="-1396.2462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5693">
+            Monotheism
+        </text>
+        <text font-size="12" x="-234.55507" y="-1570.9183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5694">
+            Theism
+        </text>
+        <text font-size="12" x="-306.82153" y="-1535.9523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5695">
+            Deism
+        </text>
+        <text font-size="12" x="-169.94936" y="-1525.1505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5696">
+            Pantheism and panentheism
+        </text>
+        <text font-size="12" x="-206.03381" y="-1223.9392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5697">
+            Atheism and agnosticism
+        </text>
+        <text font-size="12" x="-313.52945" y="-859.1588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5698">
+            Doctrines of creation
+        </text>
+        <text font-size="12" x="-427.62738" y="-775.0424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5699">
+            Angelology
+        </text>
+        <text font-size="12" x="-333.3363" y="-788.27637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5700">
+            Doctrines of divine government and providence
+        </text>
+        <text font-size="12" x="-391.23117" y="-838.12" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5701">
+            Eschatological theories
+        </text>
+        <text font-size="12" x="-244.16518" y="-838.6629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5702">
+            Doctrines of grace and salvation
+        </text>
+        <text font-size="12" x="-195.53844" y="-784.4832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5703">
+            Sacramental doctrines
+        </text>
+        <text font-size="12" x="-402.33023" y="-686.8359" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5704">
+            The doctrine of the Covenant
+        </text>
+        <text font-size="12" x="-166.0125" y="-719.55255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5705">
+            Miracles
+        </text>
+        <text font-size="12" x="-360.1315" y="-222.3864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5706">
+            The study and classification of religions
+        </text>
+        <text font-size="15" x="-129.69363" y="-111.98332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5708">
+            Other systems of belief
+        </text>
+        <text font-size="12" x="-84.48097" y="-210.74281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5709">
+            Myth and mythology
+        </text>
+        <text font-size="12" x="42.274513" y="-67.3771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5710">
+            Magic
+        </text>
+        <text font-size="12" x="3.796134" y="-6.5055304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5711">
+            Witchcraft
+        </text>
+        <text font-size="12" x="21.804703" y="-141.47025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5712">
+            Shamanism
+        </text>
+        <text font-size="12" x="-40.948826" y="-77.193756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5713">
+            Astrology and alchemy
+        </text>
+        <text font-size="12" x="-4.0642176" y="-207.55052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5714">
+            Ancestor worship
+        </text>
+        <text font-size="12" x="-153.73274" y="-7.6068344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5715">
+            Hero worship
+        </text>
+        <text font-size="12" x="-74.99071" y="16.11558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5716">
+            Nature worship
+        </text>
+        <text font-size="15" x="-681.96027" y="-83.97776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5717">
+            Religion in relation to other aspects of human experience
+        </text>
+        <text font-size="12" x="-813.3511" y="-101.17802" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5718">
+            Religion and art
+        </text>
+        <text font-size="12" x="-816.5769" y="-21.344711" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5719">
+            Religion and science
+        </text>
+        <text font-size="12" x="-753.995" y="27.4201" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5720">
+            Religion and society
+        </text>
+        <text font-size="12" x="-684.2637" y="25.07829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5721">
+            Religion and morality
+        </text>
+        <text font-size="12" x="-760.032" y="-155.45384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5722">
+            Religion and philosophy
+        </text>
+        <text font-size="20" x="-495.81445" y="855.39136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5723">
+            The Religious Life: Institutions and Practices
+        </text>
+        <text font-size="17" x="-519.4361" y="1308.1193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5724">
+            Religious rites and customs
+        </text>
+        <text font-size="15" x="-699.47626" y="1539.3883" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5725">
+            Rituals of worship
+        </text>
+        <text font-size="12" x="-831.25836" y="1560.3793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5726">
+            Prayer
+        </text>
+        <text font-size="12" x="-765.9659" y="1691.5118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5727">
+            Confession
+        </text>
+        <text font-size="12" x="-825.2805" y="1644.0605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5728">
+            Pilgrimage
+        </text>
+        <text font-size="12" x="-698.719" y="1672.8403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5729">
+            Sacrifice
+        </text>
+        <text font-size="12" x="-460.8201" y="1398.3213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5730">
+            Passage and purification rites: birth, puberty, marriage, death
+        </text>
+        <text font-size="15" x="-402.3733" y="1636.7393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5731">
+            Religious regulation of personal and social behaviour
+        </text>
+        <text font-size="12" x="-272.85092" y="1681.6836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5732">
+            Religious law
+        </text>
+        <text font-size="12" x="-278.61453" y="1757.8239" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5733">
+            Dietary customs
+        </text>
+        <text font-size="12" x="-353.62164" y="1731.4677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5734">
+            Monasticism
+        </text>
+        <text font-size="12" x="-424.65558" y="1800.8507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5735">
+            Celibacy
+        </text>
+        <text font-size="12" x="-355.54706" y="1813.6263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5736">
+            Asceticism
+        </text>
+        <text font-size="12" x="-474.9012" y="1747.0514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5737">
+            Prophecy and divination
+        </text>
+        <text font-size="12" x="-571.40533" y="1396.7855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5738">
+            Religious feasts and festivals
+        </text>
+        <text font-size="15" x="-710.1922" y="956.2923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5739">
+            Religious leaders and institutions
+        </text>
+        <text font-size="12" x="-818.8993" y="1048.7267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5740">
+            The religious state: theocracies, sacred kingships
+        </text>
+        <text font-size="12" x="-849.4906" y="975.96423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5741">
+            Forms of religious organization: church, temple, congregation,
+            sect, council; the priesthood
+        </text>
+        <text font-size="12" x="-820.8912" y="911.69604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5742">
+            Sainthood
+        </text>
+        <text font-size="12" x="-736.50037" y="1066.5673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5743">
+            Institutions of religious education
+        </text>
+        <text font-size="15" x="-295.2795" y="989.57776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5744">
+            Material manifestations of religious beliefs
+        </text>
+        <text font-size="12" x="-207.89789" y="1097.6969" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5745">
+            The religious state: theocracies, sacred kingships
+        </text>
+        <text font-size="12" x="-179.60022" y="968.22253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5746">
+            Forms of religious organization: church, temple, congregation,
+            sect, council; the priesthood
+        </text>
+        <text font-size="12" x="-279.57095" y="1098.7314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5747">
+            Sainthood
+        </text>
+        <text font-size="12" x="-156.99995" y="1037.0505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5748">
+            Institutions of religious education
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,262 @@
+Id	Label
+9459	Mathematics
+9461	History and Foundations of Mathematics
+9526	Branches of Mathematics
+9690	Applications of Mathematics
+9462	History of mathematics
+9507	Foundations of mathematics
+9527	Set theory
+9540	Algebra
+9576	Geometry
+9614	Analysis
+9648	Combinatorics and numbertheory
+9660	Topology
+9691	Mathematics as a calculatory science
+9719	Statistics
+9731	Numerical analysis
+9738	Automata theory
+9744	Mathematical theory of optimization
+9749	Information theory
+9754	Computer science
+9761	Mathematical aspects of physical theories
+9463	The development of mathematics in general through ancient, medieval, and modern times
+9475	Historical development of representative nonprobabilistic areas of mathematics
+9499	Historical development of probabilistic areas of mathematics 
+9508	The axiomatic method: mathematical analysis based upon a set of axioms, or unproved statements
+9512	The genetic method
+9516	The crisis in the foundations of mathematics after 1900
+9521	Current directions ininvestigations of the foundations of mathematics
+9528	Origins of set theory and the deEnitions of a set and a set element, or member
+9529	Introduction to set theory
+9532	Axiomatic set theory
+9541	Arithmetic
+9552	Elementary and multivariate algebra
+9557	Linear and multitinear algebra
+9568	Algebraic structures
+9577	Euclidean geometry
+9588	Non-Euclidean geometry
+9594	Projective geometry
+9600	Analytic and trigonometric geometry
+9608	Combinatorial geometry
+9610	Diflerential geometry
+9612	Algebraic geometry
+9615	Real analysis
+9620	Complex analysis
+9624	Dilferential equations
+9630	Functional analysis
+9634	Fourier analysis
+9639	Theory of probability
+9644	Vector and tensor analysis
+9649	Combinatorics and combinatorial geometry
+9654	Number theory
+9661	General topology
+9669	Topological groups and differential topology
+9676	Algebraic topology
+9692	Numerical notations
+9696	Geometrical aids
+9703	Mathematical models 
+9705	Calculatory aspects of algebra
+9709	Calculation using tables and graphs
+9712	Analogue computation
+9715	Digital computation
+9720	The basic principles of statistical inference
+9726	Estimation 
+9728	Hypothesis testing 
+9730	Structure in data : use of regression analysis to discover systematic patterns
+9732	Introduction : definition, origins, and basic concepts of numerical analysis
+9733	Errors : round-oFF and truncation
+9734	Approximation of functions : linear and polynomial interpolation, least squares approximation
+9735	Solution of equations : linear, nonlinear, and difrerential equations
+9736	Applications and implementation of numerical analysis 
+9739	Introduction 
+9741	Neural nets and automata
+9742	Probabilistic questions : random eifects in the operation of automata
+9743	Classification of automata
+9745	The theory of games : analysis of the strategic features of conflict situations
+9746	Linear and nonlinear programming (mathematical programming)
+9747	Cybemetics
+9748	Control theory
+9750	Origins and definitions of information theory
+9751	Central problems of information theory
+9752	Principles of information theory
+9753	Applications of information theory to cryptography, linguistics, and other fields
+9755	Synthesis and analysis of algorithms
+9756	Theory of computation
+9757	Computer architecture
+9758	Programming languages and methodolog ;
+9759	Numeric computation
+9760	Artificial intelligence
+9762	Mechanics of particles and systems
+9763	Fluid mechanics
+9764	Mechanics of solids
+9765	Statistical mechanics
+9766	Electromagnetic theory
+9767	Relativity theory : space and time as a four-dimensional continuum
+9768	Riemannian geometry
+9769	Quantum mechanics
+9770	Dimensional analysis
+9464	Ancient and medieval periods
+9468	The modern period
+9476	Numerals and numeral systems
+9479	Introduction of symbolic notations to represent mathematical quantities, operations, and relationships
+9480	Calculatory science
+9486	Geometry
+9494	Algebra
+9500	Development of the mathematical theory of probability
+9505	Development of mathematical statistics 
+9509	Euclidean geometry
+9510	Non-Euclidean geometry
+9511	The formal axiomatic method
+9514	Arithmetic and analysis
+9515	the concept of cardinal number and the theory of sets
+9518	The paradoxes
+9519	Intuitionism
+9520	Logicism, Formalism, and the metamathematical method
+9522	Intuitionistic studies of the foundations of mathematics 
+9524	Non-Intuitionistic studies of the foundations of mathematics 
+9530	Fundamental set concepts
+9531	Essential features of Cantorian set theory
+9534	Postulates of axiomatic set theory 
+9536	Limitations of axiomatic set theory 
+9538	The present status of axiomatic set theory 
+9542	Fundamental defr nitions and laws 
+9544	Theory of divisors 
+9546	Number systems and notation 
+9548	Arithmetic calculation with decimals 
+9550	Logarithms 
+9553	Algebra as an extension and generalization of arithmetic
+9554	Basic algebraic properties of numberss
+9555	Polynomials and rational functions
+9556	Solution of equations : the principal problem of elementary algebra
+9558	Linear algebra
+9567	Multilinear algebra
+9569	Lanices
+9570	Groups
+9571	Fields
+9572	Ri ngs
+9573	Categories
+9574	Homological algebra
+9575	Universal algebra
+9578	Geometry as an abstract doctrine 
+9580	The measure of polygons and polyhedra 
+9582	Transformation geometry 
+9584	Geometric constructions 
+9586	Geometry of more than three dimensions : the gcncralization of Euclidean gcometty
+9587	The concept of convexity and convex sets
+9589	Distinction between Euclidean and non-Euclidean geometry : hyperbolic geometry and elliptic geometry
+9590	Geometric representations of the hyperbolic plane and hyperbolic space
+9591	Coordinates in spherical and elliptical space : interpretations of four-dimensional Euclidean space
+9592	Coordinates in the hyperbolic plane and hypcrbolic trigonometry
+9593	Transformations : hyperbolic geometry as characterized by its group of rellections
+9595	The procedure of projection as the foundation of projective geometry
+9596	Homogeneous coordinates : location of points in space
+9597	Complex geometry : introduction of complex numbers as homogeneous coordinates
+9598	Abstract geometries 
+9601	Plane analytic geometry : fundamental procedures and concepts
+9602	Trigonometry
+9603	Coordinates and transformation of coordinates
+9604	Projective and solid analytic geometry 
+9606	Special curves 
+9616	Origins and concepts of real analysis
+9617	Number systems and their properties
+9618	Functions and diiferential calculus
+9619	Measure and integral calculus
+9621	Theory of analytic functions of one complex variable
+9622	Theory of analytic functions of several complex variables
+9623	Potential theory
+9625	Ordinary differential equations
+9626	Partial diBerential equations
+9627	Special functions that arise as solutions to difrerential equations 
+9629	Dynamical systems on manifolds
+9631	General featuns of functional analysis
+9632	Calculus of variations
+9633	Generalized functions : the theory of distributions
+9635	The theory of series
+9636	Fouricr series
+9637	Ttarmonic analysis and integai transforms
+9638	Representations of groups and algebras : Fourier analysis on non-Abelian groups
+9640	Heuristic introduction to pmbability 
+9642	Probability on finite dimensional spaces
+9643	Probability on infinite dimensional spaces
+9645	Scalars, vectors, tensors, and the physical quantities that give rise to them
+9646	Vector algebra and analysis
+9647	Tensor akebra and analysis
+9650	The nature and scope of combinatorics 
+9652	Methods, resulq and unsolved problems of combinatorial theory, exclusive of geometric considerations
+9653	Combinatorial geometry
+9655	Elementary number theory : properties of the whole numbers, or integers 
+9656	Algcbraic number theory : properties of algebraic numbers
+9657	Analytic number theory
+9658	Geometric number theory
+9659	Probabilistic number theory
+9662	Definition and hasic concepts of tolxtlogy 
+9664	Topological spaces 
+9666	Topologjcal properties
+9667	Topologjcal problems of current intenst 
+9670	Interaction between analysis and topology
+9671	Thc theorems of Tikhonov and Ascoli 
+9673	Continuous groups
+9674	Analysis on manifolds : topological implications of problems in global analysis
+9675	Diftercntial topology
+9677	The nature and scope of algebraic topology and its context within general topology, the basic concepts of topologjcal spaces and maps
+9678	Invariants : unchanging quantities that play a central role in the classiscation of spaces and maps
+9679	Homotopy theory : homotopy classes and the concept of homotopy-equivalent spaces
+9680	Homology and cohomology theory : deiinition of a simplex, axiomatic homology theory
+9681	Homotopy groups : stability and suspension
+9682	Definition and properties of Ebres, frbre bundles, and fibrings
+9683	Sheaf cohomology
+9684	Spectral sequences : Serre, Rothenberg-Steenrod, and Eilenberg-Moore spectral sequences
+9685	Further developments in homotopy theory 
+9687	Generalized homology and cohomology theory 
+9689	Recenadvances in algebraic topology
+9693	Aggregations,or units used to assist counting or grouping of objects
+9694	Ancient numerical notations
+9695	Decimal notation and modern notational developments
+9697	Early applications of geometry
+9698	Instruments for observation and navigation
+9699	Mapping
+9700	Applications of geometry to celestial measurement
+9701	Optical instruments
+9702	Drawing instruments
+9706	A1gebraic notation
+9707	Logarithms
+9708	Slide rules
+9710	Mathematical tables
+9711	Graphs and graphical procedures
+9713	Types of problems solvable by analogue computation
+9714	Analogue computers
+9716	Digital calculators
+9717	Punched cards
+9718	Programmed machines (digital computers)
+9722	The concept of a statistical experiment 
+9724	Distribution functions and their properties 
+9465	Ideas and methods originating or developing in Mesopotamia and Egypt ss
+9466	Greek and Hellenistic mathematics
+9467	The Middle Ages : Islamic mathematics and its transmission to the West
+9469	The 17th century 
+9471	The 18th century 
+9473	The 19th and 20th centuries 
+9477	Simple grouping systems : ancient Egyptian, Babylonian, Greek, and Roman numerals
+9478	Development of multiplicative, ciphered, and positional numeral systems
+9481	The history of mathematical tables, including tables of logarithms
+9482	The evolution of analogue devices 
+9484	The evolution of digital devices 
+9487	Egyptian, Babylonian, and Greek geometry
+9488	The algebraic approach : development of analytic geometry
+9489	Development of projective geometry
+9490	Devetopment of non-Euclidean geometry
+9491	Philosophical aspects of geometry
+9492	Modem ideas and topics in geometry 
+9495	Babylonian, Egyptian, and Greek contributions
+9496	Contributions from the Orient, India, and the Islamic world
+9497	Medieval and modern European developments
+9498	Evolution of the theory of algebraic equations of one variable : solutions prior to and after Galois
+9501	The abstract calculus of probability : the common structure of theories of probability
+9502	Alternative views of probability 
+9504	Bemoulli's theorem, inverse probability, and asymptotic probabilities
+9559	Vector spaces
+9560	Matrices
+9561	Linear transformations and linear operators
+9562	Linear functionals and their relation to linear transformations
+9563	Inner products and inner product spaces 
+9565	Linear operators in an inner product space 

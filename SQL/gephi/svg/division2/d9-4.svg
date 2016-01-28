@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2322.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-838.000000 -1273.000000 2322.000000 2733.000000" height="2733.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 257.608032,-326.261566 C 281.920990,-275.504150 242.254333,-162.898636 191.496948,-138.585663"
+              class="1 6320" stroke-opacity="1.0" stroke="#7f8686"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 191.496948,-138.585663 C 204.636566,-104.889587 173.801865,-34.636059 140.105789,-21.496447"
+              class="6320 7508" stroke-opacity="1.0" stroke="#bf6476"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.105789,-21.496447 C -0.364738,-63.527687 -148.023666,-337.280365 -105.992424,-477.750885"
+              class="7508 7510" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -105.992424,-477.750885 C -136.748627,-491.063477 -162.914032,-557.166687 -149.601425,-587.922913"
+              class="7510 7511" stroke-opacity="1.0" stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -105.992424,-477.750885 C -169.799133,-545.413330 -164.015564,-742.617004 -96.353142,-806.423706"
+              class="7510 7512" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -96.353142,-806.423706 C -114.553185,-834.278503 -100.071045,-903.360779 -72.216248,-921.560791"
+              class="7512 7513" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -96.353142,-806.423706 C -151.299118,-859.030579 -154.807709,-1020.359924 -102.200806,-1075.305908"
+              class="7512 7515" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -102.200806,-1075.305908 C -145.788467,-1101.168945 -172.375366,-1205.345093 -146.512299,-1248.932739"
+              class="7515 7516" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -102.200806,-1075.305908 C -127.689636,-1120.728882 -97.788467,-1227.096436 -52.365524,-1252.585327"
+              class="7515 7518" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -105.992424,-477.750885 C -225.569824,-472.158142 -413.325073,-643.135132 -418.917816,-762.712524"
+              class="7510 7519" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -418.917816,-762.712524 C -453.005188,-731.371399 -551.147949,-735.490662 -582.489075,-769.578003"
+              class="7519 7521" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -418.917816,-762.712524 C -465.640930,-758.802368 -541.590942,-823.021729 -545.501099,-869.744873"
+              class="7519 7523" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -418.917816,-762.712524 C -455.780548,-786.388855 -475.560181,-877.197449 -451.883850,-914.060181"
+              class="7519 7526" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -418.917816,-762.712524 C -515.475281,-761.598450 -661.982605,-904.763489 -663.096680,-1001.320923"
+              class="7519 7529" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -663.096680,-1001.320923 C -701.170349,-977.816711 -793.537292,-999.670898 -817.041504,-1037.744629"
+              class="7529 7530" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -663.096680,-1001.320923 C -699.026855,-1026.622437 -714.969971,-1118.469971 -689.668457,-1154.400146"
+              class="7529 7531" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -663.096680,-1001.320923 C -710.085205,-1002.456116 -778.865356,-1074.641479 -777.730225,-1121.630127"
+              class="7529 7533" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.105789,-21.496447 C 80.222534,59.383331 -130.922043,90.878120 -211.801819,30.994869"
+              class="7508 7534" stroke-opacity="1.0" stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.801819,30.994869 C -290.415527,90.262138 -497.236938,61.242519 -556.504211,-17.371162"
+              class="7534 7535" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -556.504211,-17.371162 C -593.920776,-26.234764 -636.750122,-95.654968 -627.886536,-133.071503"
+              class="7535 7536" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -556.504211,-17.371162 C -593.714294,23.854584 -711.368042,29.878103 -752.593750,-7.331964"
+              class="7535 7537" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -556.504211,-17.371162 C -567.809692,24.912214 -648.193054,71.379005 -690.476440,60.073486"
+              class="7535 7539" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -556.504211,-17.371162 C -595.977539,-2.117907 -678.067505,-38.448051 -693.320740,-77.921410"
+              class="7535 7540" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.801819,30.994869 C -213.331314,104.115524 -325.306519,211.502274 -398.427185,209.972778"
+              class="7534 7542" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.427185,209.972778 C -413.482605,249.760208 -495.746826,286.858246 -535.534241,271.802826"
+              class="7542 7543" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.427185,209.972778 C -371.501862,232.434921 -364.807129,306.516113 -387.269257,333.441437"
+              class="7542 7545" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.427185,209.972778 C -388.348022,250.365540 -433.818390,326.073395 -474.211151,336.152557"
+              class="7542 7546" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.427185,209.972778 C -427.554321,225.695206 -494.828613,205.588150 -510.551025,176.461029"
+              class="7542 7547" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.105789,-21.496447 C 225.768036,106.749588 161.892380,427.612000 33.646351,513.274231"
+              class="7508 7549" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.646351,513.274231 C 63.469250,531.747498 80.493729,604.191711 62.020485,634.014587"
+              class="7549 7550" stroke-opacity="1.0" stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.646351,513.274231 C 60.631924,639.818726 -88.706459,870.113892 -215.250961,897.099426"
+              class="7549 7552" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -215.250961,897.099426 C -165.997513,981.495789 -218.711853,1181.970337 -303.108185,1231.223877"
+              class="7552 7553" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.108185,1231.223877 C -258.494385,1245.903931 -213.593735,1334.844604 -228.273788,1379.458496"
+              class="7553 7554" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.108185,1231.223877 C -303.992523,1282.004639 -381.490021,1356.849121 -432.270721,1355.964844"
+              class="7553 7556" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.108185,1231.223877 C -259.365295,1269.701538 -251.467453,1393.032471 -289.945129,1436.775269"
+              class="7553 7557" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.108185,1231.223877 C -278.926910,1290.540161 -331.629456,1415.786621 -390.945801,1439.967896"
+              class="7553 7559" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -215.250961,897.099426 C -237.834381,980.699341 -397.109467,1072.224243 -480.709442,1049.640747"
+              class="7552 7561" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.709442,1049.640747 C -470.211639,1083.277710 -504.920502,1149.479980 -538.557556,1159.977783"
+              class="7561 7562" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.709442,1049.640747 C -510.883850,1079.237305 -600.540222,1078.370483 -630.136719,1048.196045"
+              class="7561 7563" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.709442,1049.640747 C -490.996002,1099.095825 -580.608459,1157.848633 -630.063538,1147.562012"
+              class="7561 7564" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.646351,513.274231 C 129.845215,547.738098 222.447723,743.732178 187.983871,839.931030"
+              class="7549 7565" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 187.983871,839.931030 C 268.908936,868.581665 347.320526,1032.945313 318.669861,1113.870361"
+              class="7565 7566" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 318.669861,1113.870361 C 368.352936,1106.266357 454.283691,1169.384766 461.887787,1219.067871"
+              class="7566 7567" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 318.669861,1113.870361 C 373.192017,1131.924072 427.894623,1240.787842 409.840912,1295.310059"
+              class="7566 7569" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 318.669861,1113.870361 C 356.061249,1149.906006 358.094849,1260.046631 322.059174,1297.437988"
+              class="7566 7570" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 187.983871,839.931030 C 221.618134,853.054688 252.384003,923.191711 239.260300,956.825989"
+              class="7565 7571" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.105789,-21.496447 C 230.005981,-44.584900 399.488983,55.632736 422.577423,145.532928"
+              class="7508 7573" stroke-opacity="1.0" stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 422.577423,145.532928 C 451.491302,149.244354 489.294983,198.182297 485.583557,227.096176"
+              class="7573 7574" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 422.577423,145.532928 C 503.418671,124.377327 656.413940,213.905792 677.569519,294.747040"
+              class="7573 7575" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 677.569519,294.747040 C 703.163086,268.541779 780.861206,267.624207 807.066467,293.217712"
+              class="7575 7576" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 677.569519,294.747040 C 722.330017,284.859711 804.301880,337.169495 814.189209,381.930054"
+              class="7575 7577" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 677.569519,294.747040 C 713.055481,308.709351 745.340881,382.881714 731.378601,418.367645"
+              class="7575 7579" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.105789,-21.496447 C 183.512344,-173.219986 476.207489,-335.695465 627.931030,-292.288910"
+              class="7508 7581" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 627.931030,-292.288910 C 611.432678,-324.071686 634.359314,-396.493439 666.142090,-412.991791"
+              class="7581 7582" stroke-opacity="1.0" stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 627.931030,-292.288910 C 682.693542,-326.159363 815.642883,-294.821289 849.513306,-240.058807"
+              class="7581 7584" stroke-opacity="1.0" stroke="#b1ab02"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 849.513306,-240.058807 C 886.621216,-246.818237 952.422302,-201.295486 959.181702,-164.187546"
+              class="7584 7585" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 849.513306,-240.058807 C 872.315186,-268.638672 949.387756,-277.305664 977.967590,-254.503815"
+              class="7584 7586" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 627.931030,-292.288910 C 653.581787,-428.422913 896.258911,-594.147766 1032.392944,-568.496948"
+              class="7581 7587" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 999.009094,-584.635559 973.141174,-658.919373 989.279785,-692.303223"
+              class="7587 7588" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1081.697021,-601.009705 1204.422119,-575.822815 1236.934937,-526.518799"
+              class="7587 7591" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1036.043579,-607.666870 1100.274658,-660.945618 1139.444580,-657.294861"
+              class="7587 7594" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1004.166321,-608.004089 1021.087219,-709.604614 1060.594360,-737.831238"
+              class="7587 7597" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1021.213257,-627.448853 1092.871460,-732.646179 1151.823364,-743.825867"
+              class="7587 7599" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1051.043701,-657.779724 1212.943848,-763.727783 1302.226685,-745.077087"
+              class="7587 7602" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1302.226685,-745.077087 C 1324.140625,-787.820068 1421.126221,-819.063538 1463.869141,-797.149536"
+              class="7602 7604" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1302.226685,-745.077087 C 1298.978027,-795.234253 1369.340942,-875.342773 1419.498047,-878.591370"
+              class="7602 7605" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1061.786987,-620.252808 1183.511719,-653.795410 1235.267578,-624.401367"
+              class="7587 7606" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1032.392944,-568.496948 C 1072.592285,-576.788879 1145.329346,-528.927734 1153.621216,-488.728363"
+              class="7587 7608" stroke-opacity="1.0" stroke="#71a9ff"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00af87" r="50.0" cx="257.60803"
+                class="1" cy="-326.26157" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="45.0" cx="191.49695"
+                class="6320" cy="-138.58566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="40.0" cx="140.10579"
+                class="7508" cy="-21.496447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="-105.992424"
+                class="7510" cy="-477.7509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-211.80182"
+                class="7534" cy="30.99487" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="33.64635"
+                class="7549" cy="513.27423" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="422.57742"
+                class="7573" cy="145.53293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="627.931"
+                class="7581" cy="-292.2889" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-149.60143"
+                class="7511" cy="-587.9229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-96.35314"
+                class="7512" cy="-806.4237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-418.91782"
+                class="7519" cy="-762.7125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-556.5042"
+                class="7535" cy="-17.371162" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-398.4272"
+                class="7542" cy="209.97278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="62.020485"
+                class="7550" cy="634.0146" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-215.25096"
+                class="7552" cy="897.0994" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="187.98387"
+                class="7565" cy="839.931" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="485.58356"
+                class="7574" cy="227.09618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="677.5695"
+                class="7575" cy="294.74704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="666.1421"
+                class="7582" cy="-412.9918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="849.5133"
+                class="7584" cy="-240.0588" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="1032.393"
+                class="7587" cy="-568.49695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-72.21625"
+                class="7513" cy="-921.5608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-102.200806"
+                class="7515" cy="-1075.3059" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-582.4891"
+                class="7521" cy="-769.578" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-545.5011"
+                class="7523" cy="-869.7449" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-451.88385"
+                class="7526" cy="-914.0602" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-663.0967"
+                class="7529" cy="-1001.3209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-627.88654"
+                class="7536" cy="-133.0715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-752.59375"
+                class="7537" cy="-7.3319635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-690.47644"
+                class="7539" cy="60.073486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-693.32074"
+                class="7540" cy="-77.92141" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-535.53424"
+                class="7543" cy="271.80283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-387.26926"
+                class="7545" cy="333.44144" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-474.21115"
+                class="7546" cy="336.15256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-510.55103"
+                class="7547" cy="176.46103" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-303.1082"
+                class="7553" cy="1231.2239" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-480.70944"
+                class="7561" cy="1049.6407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="318.66986"
+                class="7566" cy="1113.8704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="239.2603"
+                class="7571" cy="956.826" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="807.06647"
+                class="7576" cy="293.2177" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="814.1892"
+                class="7577" cy="381.93005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="731.3786"
+                class="7579" cy="418.36765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="959.1817"
+                class="7585" cy="-164.18755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="977.9676"
+                class="7586" cy="-254.50381" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="989.2798"
+                class="7588" cy="-692.3032" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1236.9349"
+                class="7591" cy="-526.5188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1139.4446"
+                class="7594" cy="-657.29486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1060.5944"
+                class="7597" cy="-737.83124" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1151.8234"
+                class="7599" cy="-743.82587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="1302.2267"
+                class="7602" cy="-745.0771" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1235.2676"
+                class="7606" cy="-624.40137" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1153.6212"
+                class="7608" cy="-488.72836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-146.5123"
+                class="7516" cy="-1248.9327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-52.365524"
+                class="7518" cy="-1252.5853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-817.0415"
+                class="7530" cy="-1037.7446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-689.66846"
+                class="7531" cy="-1154.4001" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-777.7302"
+                class="7533" cy="-1121.6301" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-228.27379"
+                class="7554" cy="1379.4585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-432.27072"
+                class="7556" cy="1355.9648" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-289.94513"
+                class="7557" cy="1436.7753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-390.9458"
+                class="7559" cy="1439.9679" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-538.55756"
+                class="7562" cy="1159.9778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-630.1367"
+                class="7563" cy="1048.196" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-630.06354"
+                class="7564" cy="1147.562" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="461.8878"
+                class="7567" cy="1219.0679" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="409.8409"
+                class="7569" cy="1295.31" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="322.05917"
+                class="7570" cy="1297.438" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1463.8691"
+                class="7604" cy="-797.14954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="1419.498"
+                class="7605" cy="-878.5914" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="257.60803" y="-320.80502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="191.49695" y="-132.24875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6320">
+            The History of Mankind
+        </text>
+        <text font-size="24" x="140.10579" y="-15.933947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7508">
+            Peoples and Civilizations of Sub-Saharan Africa to 1885
+        </text>
+        <text font-size="21" x="-105.992424" y="-473.86295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7510">
+            West Africa to c. 1885
+        </text>
+        <text font-size="18" x="-211.80182" y="35.166744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7534">
+            The Nilotic Sudan and Ethiopia from c. AD 550 to 1885
+        </text>
+        <text font-size="21" x="33.64635" y="518.20294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7549">
+            East Africa and Madagascar to c. 1885
+        </text>
+        <text font-size="18" x="422.57742" y="148.86545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7573">
+            Central Africa to c. 1885
+        </text>
+        <text font-size="21" x="627.931" y="-288.40097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7581">
+            Southern Africa to c. 1885
+        </text>
+        <text font-size="12" x="-149.60143" y="-585.1065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7511">
+            The geography and ethnography of West Africa, definition of the
+            region, the archaeological and documentary historical sources and
+            historiographic problems, the character and achievements of
+            civilizations in West Africa
+        </text>
+        <text font-size="18" x="-96.35314" y="-802.1991" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7512">
+            West Africa until the advent of the Europeans (c. AD 1500)
+        </text>
+        <text font-size="18" x="-418.91782" y="-758.4879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7519">
+            The precolonial period of European activity (c. 1400-c. 1885)
+        </text>
+        <text font-size="15" x="-556.5042" y="-14.594063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7535">
+            The Nilotic Sudan from c. 550 to 1885
+        </text>
+        <text font-size="15" x="-398.4272" y="213.44934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7542">
+            Ethiopia and Eritrea from c. AD 650 to 1855
+        </text>
+        <text font-size="12" x="62.020485" y="636.831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7550">
+            The geography and ethnography of East Africa and Madagascar
+        </text>
+        <text font-size="18" x="-215.25096" y="901.32404" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7552">
+            East Africa to c. 1856 and Madagascar to c. 1810
+        </text>
+        <text font-size="18" x="187.98387" y="844.15564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7565">
+            East Africa from 1856 to c. 1900 and Madagascar from 1810 to 1896
+        </text>
+        <text font-size="12" x="485.58356" y="229.91258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7574">
+            The geography and ethnography of Central Africa, definition of the
+            region, the archaeological and documentary historical sources and
+            historiographic problems, the character and achievements of
+            civilizations in Central Africa
+        </text>
+        <text font-size="15" x="677.5695" y="297.52414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7575">
+            Central Africa to c. 1885
+        </text>
+        <text font-size="12" x="666.1421" y="-410.17538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7582">
+            The geography and ethnography of southern Africa
+        </text>
+        <text font-size="15" x="849.5133" y="-237.28171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7584">
+            Southern Africa before c. 1500
+        </text>
+        <text font-size="18" x="1032.393" y="-565.1644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7587">
+            Southern Africa from c. 1500 to c. 1885
+        </text>
+        <text font-size="12" x="-72.21625" y="-918.77954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7513">
+            Development of the West African monarchies of Ghana and Kanem to c.
+            AD 1000
+        </text>
+        <text font-size="15" x="-102.200806" y="-1071.8293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7515">
+            Development of the western Sudan empires
+        </text>
+        <text font-size="12" x="-582.4891" y="-766.7616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7521">
+            Portuguese trade with the Guinea states from c. 1460
+        </text>
+        <text font-size="12" x="-545.5011" y="-866.92847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7523">
+            The rise and expansion of the Atlantic slave trade (c. 1600-c.
+            1860)
+        </text>
+        <text font-size="12" x="-451.88385" y="-911.8385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7526">
+            The Islamic revolutions in the western Sudan
+        </text>
+        <text font-size="15" x="-663.0967" y="-998.5438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7529">
+            West Africa from 1800 to c. 1885
+        </text>
+        <text font-size="12" x="-627.88654" y="-130.2551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7536">
+            The medieval Christian kingdoms of Nobatia, Maqurrah, and Alwah;
+            the Beja people
+        </text>
+        <text font-size="12" x="-752.59375" y="-4.5507135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7537">
+            The spread of Muslim domination from c. 639
+        </text>
+        <text font-size="12" x="-690.47644" y="62.889893" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7539">
+            The rise of the Funj (c. 1500), the spread of Islam
+        </text>
+        <text font-size="12" x="-693.32074" y="-75.105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7540">
+            The Egyptian occupation from 1820 to 1885
+        </text>
+        <text font-size="12" x="-535.53424" y="274.61923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7543">
+            The decline of the Christian Aksum empire (c. 600-c. 976)
+        </text>
+        <text font-size="12" x="-387.26926" y="336.25784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7545">
+            The Zagwe dynasty (c. 11th century), the Solomonid restoration
+            (1270), the influence of the Coptic Church on culture and religion
+        </text>
+        <text font-size="12" x="-474.21115" y="338.96896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7546">
+            Contacts with the Portuguese (1520-1632) and Turkish attacks on
+            Ethiopia (1523-43, 1578,and 1589), brief conciliation with the
+            Roman Catholic Church (1595-1610)
+        </text>
+        <text font-size="12" x="-510.55103" y="179.27744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7547">
+            Gonder Ethiopia (1632-1855)
+        </text>
+        <text font-size="15" x="-303.1082" y="1234.7444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7553">
+            The development of the coastal regions and of Madagascar and other
+            offshore islands
+        </text>
+        <text font-size="15" x="-480.70944" y="1053.1173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7561">
+            The peoples and states of the East African interior to c. 1800
+        </text>
+        <text font-size="15" x="318.66986" y="1117.3469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7566">
+            Internal developments in East Africa
+        </text>
+        <text font-size="12" x="239.2603" y="959.6424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7571">
+            Formation of the Kingdom of Madagascar (1810-61), English and
+            French influences in the late 19th century
+        </text>
+        <text font-size="12" x="807.06647" y="296.03412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7576">
+            The origins of Central African cultures in the Stone Age, emergence
+            and expansion of the Bantu-speaking peoples
+        </text>
+        <text font-size="12" x="814.1892" y="384.7113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7577">
+            The development of the Bantu states from c. AD 1400
+        </text>
+        <text font-size="12" x="731.3786" y="421.18405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7579">
+            Development of Portuguese hegemony over Central Africa from 1491
+        </text>
+        <text font-size="12" x="959.1817" y="-161.37016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7585">
+            Origins of mankind and development of culture in the Stone Age and
+            Iron Age, the migrations of Bantu-speaking peoples in southern
+            Africa from c. AD 200-400
+        </text>
+        <text font-size="12" x="977.9676" y="-251.68741" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7586">
+            The southeast coast trade in the Late Iron Age and interior trade
+            routes to Great Zimbabwe (southwestern Rhodesia), Ingombe Ilede
+            (Zambia), and Mapungubwe (northern Transvaal)
+        </text>
+        <text font-size="12" x="989.2798" y="-689.4868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7588">
+            Portuguese expansion (1530s) into the Zambezi Valley and defeat of
+            the Mwene Mutapa&apos;s empire in 1629
+        </text>
+        <text font-size="12" x="1236.9349" y="-523.7024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7591">
+            The Portuguese in west central Africa
+        </text>
+        <text font-size="12" x="1139.4446" y="-654.5136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7594">
+            The Dutch settlement at the Cape of Good Hope from 1652
+        </text>
+        <text font-size="12" x="1060.5944" y="-735.01483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7597">
+            Early 19th-century African migrations and rise of the Zulu Empire
+            (1816) under Shaka, later black migrations into Rhodesia
+        </text>
+        <text font-size="12" x="1151.8234" y="-741.00946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7599">
+            The slave and ivory trade north of the Zambezi in the 19th century
+        </text>
+        <text font-size="15" x="1302.2267" y="-741.6005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7602">
+            The Cape eastern frontier
+        </text>
+        <text font-size="12" x="1235.2676" y="-621.58496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7606">
+            The era of mineral discoveries and confederation: diamonds and
+            gold, Transvaal-Pedi and Zulu wars
+        </text>
+        <text font-size="12" x="1153.6212" y="-485.91196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7608">
+            Portuguese loss of control in Angola and Mozambique in the mid-19th
+            century, Portuguese reemergence of control in the early 20th
+            century, German annexation of South West Africa (1884)
+        </text>
+        <text font-size="12" x="-146.5123" y="-1246.1163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7516">
+            Emergence of the Keita dynasty of the Mali empire (c. 1235)
+        </text>
+        <text font-size="12" x="-52.365524" y="-1249.7689" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7518">
+            The migrations of the Fulani people, migrations and military
+            conquests of the Mande-speaking peoples, development of trade
+            routes by the Dyula
+        </text>
+        <text font-size="12" x="-817.0415" y="-1034.9282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7530">
+            The Guinea coastlands and the European antislavery movements
+        </text>
+        <text font-size="12" x="-689.66846" y="-1152.1785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7531">
+            British colonial settlements from c. 1800
+        </text>
+        <text font-size="12" x="-777.7302" y="-1118.8137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7533">
+            19th-century British and French exploration of the West African
+            interior, establishment of colonies, and exploitation of trade
+        </text>
+        <text font-size="12" x="-228.27379" y="1382.0679" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7554">
+            Medieval commercial contacts of Azania with Arabia, India, and the
+            Mediterranean
+        </text>
+        <text font-size="12" x="-432.27072" y="1358.7812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7556">
+            The Shirazi dynasty (c. late 12th-15th century): the spread of
+            Islam and growth of towns
+        </text>
+        <text font-size="12" x="-289.94513" y="1439.5917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7557">
+            The Portuguese invasions and occupation from 1502
+        </text>
+        <text font-size="12" x="-390.9458" y="1442.7843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7559">
+            Madagascar from c. AD 1000 to 1810
+        </text>
+        <text font-size="12" x="-538.55756" y="1162.7942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7562">
+            The Stone Age origins of the East African interior peoples in the
+            Rift Valley (now Kenya, Tanzania, and Uganda)
+        </text>
+        <text font-size="12" x="-630.1367" y="1051.0125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7563">
+            The Iron Age settlements in the Rift Valley, the Bantu migrations
+            and the Chwezi peoples
+        </text>
+        <text font-size="12" x="-630.06354" y="1150.3784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7564">
+            The Somali and Galla invasions (c. 10th-15th century), migrations
+            of Nilotic and Kushitic peoples (c. 16th-18th century)
+        </text>
+        <text font-size="12" x="461.8878" y="1221.8843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7567">
+            Development of political institutions and military kingships as
+            defenses against Ngoni raids and Masai raiders
+        </text>
+        <text font-size="12" x="409.8409" y="1298.1265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7569">
+            The rise of Zanzibar as the leading East African coastal power: the
+            slave trade
+        </text>
+        <text font-size="12" x="322.05917" y="1300.2173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7570">
+            European exploratory and missionary activities
+        </text>
+        <text font-size="12" x="1463.8691" y="-794.4054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7604">
+            Relations between Boers and the black population in the Transvaal
+        </text>
+        <text font-size="12" x="1419.498" y="-875.774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7605">
+            Establishment of the Orange Free State, the British colonies of
+            Natal and Cape Colony
+        </text>
+    </g>
+</svg>

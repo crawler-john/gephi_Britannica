@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3112.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1289.000000 -1547.000000 3112.000000 2784.000000" height="2784.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 272.829010,-254.283737 C 267.063019,-61.973587 -30.051216,217.842621 -222.361359,212.076630"
+              class="4 55" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 272.829010,-254.283737 C 278.287445,-444.291626 571.486938,-721.115845 761.494812,-715.657410"
+              class="4 6" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 761.494812,-715.657410 C 719.404358,-724.396057 669.376526,-800.639771 678.115173,-842.730225"
+              class="6 51" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 761.494812,-715.657410 C 823.855591,-732.507202 942.671326,-664.240662 959.521118,-601.879883"
+              class="6 46" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 761.494812,-715.657410 C 722.363281,-804.815308 797.402893,-997.249329 886.560791,-1036.380859"
+              class="6 37" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 761.494812,-715.657410 C 677.998047,-770.577026 635.132324,-978.201477 690.051941,-1061.698242"
+              class="6 28" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 761.494812,-715.657410 C 781.822632,-770.491211 894.564941,-822.250305 949.398743,-801.922485"
+              class="6 23" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 761.494812,-715.657410 C 830.109680,-838.296936 1116.991333,-919.333923 1239.630859,-850.719055"
+              class="6 7" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -139.730057,154.540771 70.520668,192.183899 128.056534,274.815216"
+              class="55 160" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -350.228943,303.196289 -678.709839,248.074371 -769.829529,120.206757"
+              class="55 133" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -242.413406,345.351501 -472.403809,515.185791 -605.678711,495.133789"
+              class="55 120" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -329.614349,207.803314 -484.083893,40.513874 -479.810577,-66.739120"
+              class="55 110" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -246.465210,146.057495 -183.592285,10.873045 -117.573143,-13.230802"
+              class="55 104" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -183.092041,124.229301 7.582941,51.362267 95.430275,90.631584"
+              class="55 98" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -162.439209,312.370941 -222.997452,552.695679 -323.291748,612.617798"
+              class="55 83" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -303.641083,164.545441 -354.263855,-28.670889 -306.732666,-109.950600"
+              class="55 74" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -222.361359,212.076630 C -107.703644,238.930191 24.002602,451.197113 -2.850948,565.854797"
+              class="55 56" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1239.630859,-850.719055 C 1242.450562,-921.619263 1353.030273,-1023.740234 1423.930542,-1020.920593"
+              class="7 19" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1239.630859,-850.719055 C 1289.998413,-919.962585 1469.414917,-948.276672 1538.658447,-897.909119"
+              class="7 10" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1239.630859,-850.719055 C 1245.267212,-882.770264 1301.798584,-922.392517 1333.849731,-916.756226"
+              class="7 9" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1239.630859,-850.719055 C 1264.091064,-871.900940 1332.554077,-866.983521 1353.735962,-842.523315"
+              class="7 8" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 949.398743,-801.922485 C 950.351379,-836.327637 1003.387939,-886.506287 1037.793091,-885.553650"
+              class="23 27" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 949.398743,-801.922485 C 938.775208,-825.415894 958.079895,-876.591370 981.573303,-887.214905"
+              class="23 26" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 949.398743,-801.922485 C 967.560486,-830.034302 1036.970825,-844.959473 1065.082764,-826.797729"
+              class="23 25" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 949.398743,-801.922485 C 975.439270,-814.969238 1034.070313,-795.478577 1047.117065,-769.438049"
+              class="23 24" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 690.051941,-1061.698242 C 659.797729,-1074.951904 634.296875,-1140.213867 647.550598,-1170.468018"
+              class="28 35" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 690.051941,-1061.698242 C 616.833618,-1113.578247 584.826050,-1301.225586 636.705994,-1374.443970"
+              class="28 29" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.560791,-1036.380859 C 864.423157,-1065.079712 874.265076,-1141.334595 902.963989,-1163.472168"
+              class="37 45" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.560791,-1036.380859 C 858.112366,-1050.591919 836.756531,-1114.581299 850.967651,-1143.029663"
+              class="37 44" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.560791,-1036.380859 C 879.258606,-1067.478638 914.951965,-1125.078613 946.049683,-1132.380737"
+              class="37 43" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.560791,-1036.380859 C 860.110535,-1099.504150 915.120117,-1233.864624 978.243469,-1260.314819"
+              class="37 39" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 886.560791,-1036.380859 C 893.021729,-1070.038086 953.198792,-1110.832275 986.855896,-1104.371338"
+              class="37 38" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 959.521118,-601.879883 C 993.416870,-617.540161 1067.750977,-590.186951 1083.411133,-556.291199"
+              class="46 50" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 959.521118,-601.879883 C 995.384644,-580.581665 1017.232666,-494.838959 995.934448,-458.975403"
+              class="46 49" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 959.521118,-601.879883 C 995.035767,-600.275391 1045.900879,-544.596558 1044.296387,-509.081909"
+              class="46 48" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 959.521118,-601.879883 C 979.612854,-626.357239 1046.466431,-632.935547 1070.943726,-612.843811"
+              class="46 47" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 678.115173,-842.730225 C 663.454468,-862.433655 671.018677,-913.979919 690.722107,-928.640625"
+              class="51 54" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 678.115173,-842.730225 C 655.812134,-830.913757 604.632996,-846.643555 592.816528,-868.946594"
+              class="51 53" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 678.115173,-842.730225 C 648.710510,-848.206055 612.817322,-900.526733 618.293152,-929.931396"
+              class="51 52" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 60.063717,605.318237 95.240570,758.885376 55.777134,821.800049"
+              class="56 73" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 54.910896,559.956360 150.401321,637.751465 156.299774,695.513306"
+              class="56 72" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 68.283783,572.060669 165.677078,688.071533 159.471222,759.206238"
+              class="56 71" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 68.167534,591.844299 135.711014,737.356323 109.721504,808.374756"
+              class="56 70" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 44.722370,608.662231 51.871220,744.233337 9.063803,791.806641"
+              class="56 69" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 56.022366,582.059448 120.025375,694.676331 103.820732,753.549683"
+              class="56 68" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 109.303391,575.746399 262.697479,758.815369 252.805862,870.969666"
+              class="56 64" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2.850948,565.854797 C 126.227715,632.211548 220.310608,925.364563 153.953903,1054.443237"
+              class="56 57" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.732666,-109.950600 C -338.793213,-123.848663 -366.036926,-192.786575 -352.138855,-224.847122"
+              class="74 82" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.732666,-109.950600 C -362.320251,-147.937973 -388.720551,-288.300415 -350.733185,-343.888000"
+              class="74 79" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.732666,-109.950600 C -330.908142,-136.647537 -327.125977,-212.956146 -300.429047,-237.131622"
+              class="74 78" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.732666,-109.950600 C -340.031860,-109.241669 -391.044037,-158.127060 -391.752960,-191.426254"
+              class="74 77" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.732666,-109.950600 C -326.741882,-97.441971 -375.518677,-108.692886 -388.027283,-128.702103"
+              class="74 76" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.732666,-109.950600 C -315.179016,-137.332809 -286.775177,-191.075607 -259.392975,-199.521942"
+              class="74 75" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -282.960327,638.676392 -261.551117,738.261475 -287.609711,778.592896"
+              class="83 97" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -325.651398,657.329346 -396.258179,720.857300 -440.969757,718.497681"
+              class="83 96" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -272.318359,706.284546 -336.358429,923.244873 -430.025238,974.218262"
+              class="83 91" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -287.297119,653.012451 -293.897217,767.596313 -334.291870,803.590942"
+              class="83 89" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -302.395538,643.533630 -317.424957,721.251587 -348.340759,742.147766"
+              class="83 88" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -299.495056,661.104553 -336.530151,769.529785 -385.016937,793.326477"
+              class="83 87" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -335.241821,642.477295 -397.956116,669.341309 -427.815552,657.391235"
+              class="83 86" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -313.174835,664.557007 -375.908325,757.641235 -427.847565,767.758118"
+              class="83 85" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.291748,612.617798 C -289.382172,622.394531 -253.183014,687.924072 -262.959778,721.833618"
+              class="83 84" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.430275,90.631584 C 118.550865,53.913246 208.309250,33.516617 245.027588,56.637207"
+              class="98 103" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.430275,90.631584 C 97.336250,58.824455 147.905899,13.972733 179.713028,15.878708"
+              class="98 102" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.430275,90.631584 C 80.448853,60.617752 102.997459,-6.875130 133.011292,-21.856552"
+              class="98 101" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.430275,90.631584 C 149.433701,84.662720 239.392136,156.714539 245.361008,210.717957"
+              class="98 100" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.430275,90.631584 C 124.071007,66.582230 203.106140,73.469315 227.155487,102.110054"
+              class="98 99" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.573143,-13.230802 C -138.783829,-20.323086 -159.961441,-62.777542 -152.869156,-83.988235"
+              class="104 109" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.573143,-13.230802 C -110.307747,-37.916763 -62.380714,-64.047615 -37.694752,-56.782219"
+              class="104 108" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.573143,-13.230802 C -138.760345,-67.225235 -89.549484,-179.997681 -35.555050,-201.184860"
+              class="104 105" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.810577,-66.739120 C -488.041382,-27.743065 -558.881653,18.404839 -597.877686,10.174049"
+              class="110 118" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.810577,-66.739120 C -540.485962,-88.180939 -599.336365,-211.356796 -577.894592,-272.032227"
+              class="110 115" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -479.810577,-66.739120 C -559.511963,-64.908051 -681.810608,-181.713516 -683.641663,-261.414886"
+              class="110 111" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.678711,495.133789 C -624.013489,520.169373 -689.068909,530.220520 -714.104492,511.885742"
+              class="120 132" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.678711,495.133789 C -611.623108,563.588684 -723.221924,657.354492 -791.676819,651.410095"
+              class="120 129" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.678711,495.133789 C -588.858704,562.500916 -664.679504,688.781494 -732.046631,705.601501"
+              class="120 126" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.678711,495.133789 C -638.642151,571.681091 -802.908142,637.057007 -879.455444,604.093567"
+              class="120 122" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.678711,495.133789 C -604.724060,525.221252 -648.423279,571.784485 -678.510742,572.739136"
+              class="120 121" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -800.889648,114.561668 -839.012085,59.503906 -833.367004,28.443823"
+              class="133 159" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -771.071411,154.338196 -824.131409,203.672562 -858.262817,202.430679"
+              class="133 158" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -792.391541,150.912674 -872.293396,163.128555 -902.999329,140.566559"
+              class="133 157" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -790.936401,135.373322 -845.346619,126.462807 -860.513184,105.355904"
+              class="133 156" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -837.740967,132.591644 -958.185425,49.301834 -970.570374,-18.609604"
+              class="133 153" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -811.754944,189.504868 -978.590210,230.563965 -1047.888306,188.638565"
+              class="133 148" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -805.733704,131.484573 -876.506653,94.545059 -887.784485,58.640903"
+              class="133 139" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -769.829529,120.206757 C -851.463379,170.631622 -1049.551514,123.818108 -1099.976318,42.184250"
+              class="133 134" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 128.056534,274.815216 C 219.726929,250.860931 393.164032,352.435059 417.118317,444.105469"
+              class="160 167" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 128.056534,274.815216 C 156.994949,254.427094 230.984726,267.252502 251.372849,296.190918"
+              class="160 166" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 128.056534,274.815216 C 169.831543,275.084442 232.090256,338.150757 231.821045,379.925781"
+              class="160 164" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 128.056534,274.815216 C 191.917923,243.548721 334.609772,292.441040 365.876282,356.302429"
+              class="160 161" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1592.843628,-916.892151 1702.596069,-864.088867 1721.579102,-809.903687"
+              class="10 18" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1599.744141,-929.598816 1738.907349,-885.504944 1770.597046,-824.419250"
+              class="10 17" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1555.737793,-952.565918 1663.342163,-1008.932129 1717.998901,-991.852722"
+              class="10 16" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1569.929443,-959.191589 1708.759766,-1004.208740 1770.042236,-972.937744"
+              class="10 15" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1572.400269,-943.936279 1692.053589,-962.364502 1738.080811,-928.622742"
+              class="10 14" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1590.873657,-939.252502 1731.211548,-922.944641 1772.554932,-870.729431"
+              class="10 13" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1594.314697,-949.659363 1755.424683,-943.800232 1807.174927,-888.143860"
+              class="10 12" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1538.658447,-897.909119 C 1584.871216,-953.686035 1737.855957,-968.032227 1793.632935,-921.819397"
+              class="10 11" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1423.930542,-1020.920593 C 1411.546875,-1055.894043 1445.431885,-1126.929810 1480.405396,-1139.313477"
+              class="19 22" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1423.930542,-1020.920593 C 1437.531494,-1053.039917 1506.111694,-1080.817383 1538.230957,-1067.216431"
+              class="19 21" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1423.930542,-1020.920593 C 1425.066772,-1061.596924 1487.785767,-1120.907104 1528.462036,-1119.770874"
+              class="19 20" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 636.705994,-1374.443970 C 622.276428,-1410.054199 654.047424,-1485.113770 689.657654,-1499.543335"
+              class="29 34" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 636.705994,-1374.443970 C 606.547241,-1407.228760 610.486267,-1501.644165 643.271118,-1531.802979"
+              class="29 33" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 636.705994,-1374.443970 C 611.100037,-1393.400269 601.125549,-1460.243652 620.081848,-1485.849609"
+              class="29 32" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 636.705994,-1374.443970 C 596.463074,-1391.175415 561.195740,-1476.636841 577.927185,-1516.879761"
+              class="29 31" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 636.705994,-1374.443970 C 599.949463,-1375.353027 546.178284,-1431.851563 547.087402,-1468.608032"
+              class="29 30" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 978.243469,-1260.314819 C 969.731384,-1299.836914 1016.246277,-1371.887939 1055.768311,-1380.400024"
+              class="39 41" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 978.243469,-1260.314819 C 955.301147,-1293.495605 970.658875,-1377.680176 1003.839600,-1400.622437"
+              class="39 40" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.953903,1054.443237 C 200.171204,1063.243042 256.297607,1145.768433 247.497910,1191.985718"
+              class="57 63" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.953903,1054.443237 C 183.869873,1071.735962 202.804794,1142.548828 185.512115,1172.464844"
+              class="57 62" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.953903,1054.443237 C 195.186310,1051.168335 261.947144,1108.104736 265.221954,1149.337158"
+              class="57 61" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.953903,1054.443237 C 173.411667,1089.605103 149.855408,1171.534790 114.693451,1190.992554"
+              class="57 60" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.953903,1054.443237 C 197.556366,1076.790527 229.439209,1175.714966 207.092010,1219.317383"
+              class="57 59" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.953903,1054.443237 C 187.445038,1087.798340 187.648987,1188.067871 154.293839,1221.558960"
+              class="57 58" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.805862,870.969666 C 289.500336,855.313293 368.026520,886.870544 383.682861,923.565002"
+              class="64 67" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.805862,870.969666 C 296.749176,867.403931 368.012665,927.970398 371.578339,971.913696"
+              class="64 66" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.805862,870.969666 C 290.912781,880.141296 334.315704,951.059082 325.144073,989.166016"
+              class="64 65" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -350.733185,-343.888000 C -378.306854,-372.631287 -376.552399,-457.106720 -347.809113,-484.680389"
+              class="79 81" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -350.733185,-343.888000 C -387.704346,-359.673248 -419.483154,-438.807922 -403.697906,-475.779083"
+              class="79 80" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.025238,974.218262 C -402.667114,1010.665283 -416.300476,1106.372925 -452.747467,1133.731079"
+              class="91 95" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.025238,974.218262 C -413.460297,1016.856445 -452.570221,1105.661255 -495.208466,1122.226196"
+              class="91 94" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.025238,974.218262 C -396.888367,999.092834 -384.494843,1086.109863 -409.369385,1119.246826"
+              class="91 93" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.025238,974.218262 C -426.280670,1015.987244 -483.317261,1084.257568 -525.086243,1088.002197"
+              class="91 92" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -35.555050,-201.184860 C -57.144882,-229.591888 -46.919098,-304.587158 -18.512083,-326.176971"
+              class="105 107" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -35.555050,-201.184860 C -39.640968,-235.469101 5.656530,-293.024323 39.940773,-297.110260"
+              class="105 106" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -683.641663,-261.414886 C -724.354919,-274.031006 -766.500671,-354.025085 -753.884583,-394.738373"
+              class="111 114" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -683.641663,-261.414886 C -728.180542,-261.154327 -795.379761,-327.571777 -795.640320,-372.110657"
+              class="111 113" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -683.641663,-261.414886 C -721.053711,-249.451431 -795.117004,-287.624329 -807.080444,-325.036377"
+              class="111 112" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -577.894592,-272.032227 C -616.234497,-280.068146 -661.690308,-349.631836 -653.654419,-387.971710"
+              class="115 117" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -577.894592,-272.032227 C -611.915283,-293.778473 -630.326782,-377.428833 -608.580566,-411.449493"
+              class="115 116" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -879.455444,604.093567 C -884.894897,649.301086 -960.865234,708.953125 -1006.072754,703.513672"
+              class="122 125" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -879.455444,604.093567 C -897.667419,646.260132 -988.235168,682.192017 -1030.401733,663.980042"
+              class="122 124" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -879.455444,604.093567 C -905.433960,635.506409 -991.520996,643.657898 -1022.933838,617.679382"
+              class="122 123" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.046631,705.601501 C -715.976135,744.398193 -750.065308,826.699036 -788.862000,842.769531"
+              class="126 128" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.046631,705.601501 C -729.568298,748.826538 -790.688354,817.381470 -833.913391,819.859802"
+              class="126 127" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -791.676819,651.410095 C -788.977051,695.625732 -851.250977,765.998962 -895.466614,768.698730"
+              class="129 131" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -791.676819,651.410095 C -801.419434,690.891479 -875.255432,735.499695 -914.736816,725.757080"
+              class="129 130" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1099.976318,42.184250 C -1127.087524,77.844086 -1221.244263,90.666962 -1256.904053,63.555702"
+              class="134 138" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1099.976318,42.184250 C -1135.825073,59.950775 -1216.248169,32.827354 -1234.014648,-3.021450"
+              class="134 137" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1099.976318,42.184250 C -1140.677124,70.765930 -1244.600830,52.587261 -1273.182495,11.886471"
+              class="134 136" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1099.976318,42.184250 C -1144.694458,49.420670 -1222.626221,-6.801876 -1229.862671,-51.520000"
+              class="134 135" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1047.888306,188.638565 C -1071.413696,228.299484 -1166.193115,252.502823 -1205.854004,228.977463"
+              class="148 152" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1047.888306,188.638565 C -1095.552368,224.027496 -1220.131714,205.614960 -1255.520630,157.950958"
+              class="148 151" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1047.888306,188.638565 C -1049.902588,232.897171 -1119.311890,296.263641 -1163.570557,294.249359"
+              class="148 149" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -970.570374,-18.609604 C -1009.545227,-4.873857 -1088.611084,-42.732552 -1102.346924,-81.707420"
+              class="153 155" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -970.570374,-18.609604 C -1011.677368,-17.887262 -1074.421509,-78.464287 -1075.143799,-119.571320"
+              class="153 154" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 365.876282,356.302429 C 382.158539,327.532623 449.736572,308.801270 478.506378,325.083527"
+              class="161 163" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 365.876282,356.302429 C 362.566650,308.562256 429.212494,231.987534 476.952667,228.677887"
+              class="161 162" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 417.118317,444.105469 C 440.489258,412.409515 523.089600,399.921997 554.785583,423.292938"
+              class="167 173" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 417.118317,444.105469 C 454.529114,424.117096 540.627930,450.250793 560.616272,487.661591"
+              class="167 171" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 417.118317,444.105469 C 458.847473,435.576996 534.233887,485.378082 542.762329,527.107239"
+              class="167 170" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 417.118317,444.105469 C 453.312408,447.825073 502.024109,507.695679 498.304504,543.889771"
+              class="167 168" stroke-opacity="1.0" stroke="#b29b6c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#23966f" r="50.0" cx="272.829"
+                class="4" cy="-254.28374" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="41.25" cx="-222.36136"
+                class="55" cy="212.07663" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="41.25" cx="761.4948"
+                class="6" cy="-715.6574" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="678.1152"
+                class="51" cy="-842.7302" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="959.5211"
+                class="46" cy="-601.8799" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="886.5608"
+                class="37" cy="-1036.3809" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="690.05194"
+                class="28" cy="-1061.6982" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="949.39874"
+                class="23" cy="-801.9225" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="1239.6309"
+                class="7" cy="-850.71906" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="128.05653"
+                class="160" cy="274.81522" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-769.8295"
+                class="133" cy="120.20676" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-605.6787"
+                class="120" cy="495.1338" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-479.81058"
+                class="110" cy="-66.73912" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-117.57314"
+                class="104" cy="-13.230802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="95.430275"
+                class="98" cy="90.631584" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-323.29175"
+                class="83" cy="612.6178" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-306.73267"
+                class="74" cy="-109.9506" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="32.5" cx="-2.8509483"
+                class="56" cy="565.8548" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="1423.9305"
+                class="19" cy="-1020.9206" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="1538.6584"
+                class="10" cy="-897.9091" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1333.8497"
+                class="9" cy="-916.7562" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1353.736"
+                class="8" cy="-842.5233" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1037.7931"
+                class="27" cy="-885.55365" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="981.5733"
+                class="26" cy="-887.2149" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1065.0828"
+                class="25" cy="-826.7977" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1047.1171"
+                class="24" cy="-769.43805" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="647.5506"
+                class="35" cy="-1170.468" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="636.706"
+                class="29" cy="-1374.444" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="902.964"
+                class="45" cy="-1163.4722" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="850.96765"
+                class="44" cy="-1143.0297" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="946.0497"
+                class="43" cy="-1132.3807" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="978.24347"
+                class="39" cy="-1260.3148" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="986.8559"
+                class="38" cy="-1104.3713" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1083.4111"
+                class="50" cy="-556.2912" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="995.93445"
+                class="49" cy="-458.9754" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1044.2964"
+                class="48" cy="-509.0819" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1070.9437"
+                class="47" cy="-612.8438" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="690.7221"
+                class="54" cy="-928.6406" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="592.8165"
+                class="53" cy="-868.9466" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="618.29315"
+                class="52" cy="-929.9314" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="55.777134"
+                class="73" cy="821.80005" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="156.29977"
+                class="72" cy="695.5133" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="159.47122"
+                class="71" cy="759.20624" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="109.721504"
+                class="70" cy="808.37476" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="9.063803"
+                class="69" cy="791.80664" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="103.82073"
+                class="68" cy="753.5497" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="252.80586"
+                class="64" cy="870.96967" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="153.9539"
+                class="57" cy="1054.4432" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-352.13885"
+                class="82" cy="-224.84712" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-350.7332"
+                class="79" cy="-343.888" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-300.42905"
+                class="78" cy="-237.13162" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-391.75296"
+                class="77" cy="-191.42625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-388.02728"
+                class="76" cy="-128.7021" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-259.39297"
+                class="75" cy="-199.52194" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-287.6097"
+                class="97" cy="778.5929" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-440.96976"
+                class="96" cy="718.4977" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-430.02524"
+                class="91" cy="974.21826" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-334.29187"
+                class="89" cy="803.59094" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-348.34076"
+                class="88" cy="742.14777" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-385.01694"
+                class="87" cy="793.3265" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-427.81555"
+                class="86" cy="657.39124" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-427.84756"
+                class="85" cy="767.7581" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-262.95978"
+                class="84" cy="721.8336" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="245.02759"
+                class="103" cy="56.637207" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="179.71303"
+                class="102" cy="15.878708" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="133.01129"
+                class="101" cy="-21.856552" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="245.36101"
+                class="100" cy="210.71796" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="227.15549"
+                class="99" cy="102.110054" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-152.86916"
+                class="109" cy="-83.988235" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-37.69475"
+                class="108" cy="-56.78222" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-35.55505"
+                class="105" cy="-201.18486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-597.8777"
+                class="118" cy="10.174049" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-577.8946"
+                class="115" cy="-272.03223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-683.64166"
+                class="111" cy="-261.4149" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-714.1045"
+                class="132" cy="511.88574" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-791.6768"
+                class="129" cy="651.4101" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-732.04663"
+                class="126" cy="705.6015" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-879.45544"
+                class="122" cy="604.09357" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-678.51074"
+                class="121" cy="572.73914" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-833.367"
+                class="159" cy="28.443823" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-858.2628"
+                class="158" cy="202.43068" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-902.9993"
+                class="157" cy="140.56656" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-860.5132"
+                class="156" cy="105.3559" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-970.5704"
+                class="153" cy="-18.609604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-1047.8883"
+                class="148" cy="188.63857" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-887.7845"
+                class="139" cy="58.640903" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="-1099.9763"
+                class="134" cy="42.18425" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="417.11832"
+                class="167" cy="444.10547" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="251.37285"
+                class="166" cy="296.19092" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="231.82104"
+                class="164" cy="379.92578" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="23.75" cx="365.87628"
+                class="161" cy="356.30243" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1721.5791"
+                class="18" cy="-809.9037" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1770.597"
+                class="17" cy="-824.41925" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1717.9989"
+                class="16" cy="-991.8527" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1770.0422"
+                class="15" cy="-972.93774" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1738.0808"
+                class="14" cy="-928.62274" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1772.5549"
+                class="13" cy="-870.72943" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1807.1749"
+                class="12" cy="-888.14386" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1793.6329"
+                class="11" cy="-921.8194" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1480.4054"
+                class="22" cy="-1139.3135" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1538.231"
+                class="21" cy="-1067.2164" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1528.462"
+                class="20" cy="-1119.7709" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="689.65765"
+                class="34" cy="-1499.5433" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="643.2711"
+                class="33" cy="-1531.803" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="620.08185"
+                class="32" cy="-1485.8496" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="577.9272"
+                class="31" cy="-1516.8798" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="547.0874"
+                class="30" cy="-1468.608" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1055.7683"
+                class="41" cy="-1380.4" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="1003.8396"
+                class="40" cy="-1400.6224" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="247.49791"
+                class="63" cy="1191.9857" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="185.51212"
+                class="62" cy="1172.4648" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="265.22195"
+                class="61" cy="1149.3372" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="114.69345"
+                class="60" cy="1190.9926" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="207.09201"
+                class="59" cy="1219.3174" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="154.29384"
+                class="58" cy="1221.559" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="383.68286"
+                class="67" cy="923.565" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="371.57834"
+                class="66" cy="971.9137" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="325.14407"
+                class="65" cy="989.166" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-347.8091"
+                class="81" cy="-484.6804" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-403.6979"
+                class="80" cy="-475.77908" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-452.74747"
+                class="95" cy="1133.7311" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-495.20847"
+                class="94" cy="1122.2262" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-409.3694"
+                class="93" cy="1119.2468" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-525.08624"
+                class="92" cy="1088.0022" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-18.512083"
+                class="107" cy="-326.17697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="39.940773"
+                class="106" cy="-297.11026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-753.8846"
+                class="114" cy="-394.73837" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-795.6403"
+                class="113" cy="-372.11066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-807.08044"
+                class="112" cy="-325.03638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-653.6544"
+                class="117" cy="-387.9717" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-608.58057"
+                class="116" cy="-411.4495" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1006.07275"
+                class="125" cy="703.5137" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1030.4017"
+                class="124" cy="663.98004" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1022.93384"
+                class="123" cy="617.6794" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-788.862"
+                class="128" cy="842.76953" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-833.9134"
+                class="127" cy="819.8598" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-895.4666"
+                class="131" cy="768.6987" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-914.7368"
+                class="130" cy="725.7571" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1256.904"
+                class="138" cy="63.555702" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1234.0146"
+                class="137" cy="-3.02145" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1273.1825"
+                class="136" cy="11.886471" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1229.8627"
+                class="135" cy="-51.52" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1205.854"
+                class="152" cy="228.97746" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1255.5206"
+                class="151" cy="157.95096" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1163.5706"
+                class="149" cy="294.24936" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1102.3469"
+                class="155" cy="-81.70742" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="-1075.1438"
+                class="154" cy="-119.57132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="478.50638"
+                class="163" cy="325.08353" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="476.95267"
+                class="162" cy="228.67789" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="554.7856"
+                class="173" cy="423.29294" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="560.6163"
+                class="171" cy="487.6616" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="542.7623"
+                class="170" cy="527.10724" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="15.0" cx="498.3045"
+                class="168" cy="543.8898" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="272.829" y="-247.3355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Atoms: Atomic Nuclei and Elementary Particles
+        </text>
+        <text font-size="25" x="-222.36136" y="217.86684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="55">
+            The Atomic Nucleus and Elementary Particles
+        </text>
+        <text font-size="25" x="761.4948" y="-709.86316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            The Structure and Properties of Atoms
+        </text>
+        <text font-size="14" x="678.1152" y="-839.44446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="51">
+            The fundamental physical constants: dimensional and dimensionless
+            constants
+        </text>
+        <text font-size="14" x="959.5211" y="-598.63513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="46">
+            The concept of antimatter
+        </text>
+        <text font-size="20" x="886.5608" y="-1031.7487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="37">
+            X rays and atomic structure
+        </text>
+        <text font-size="20" x="690.05194" y="-1057.0627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            Atomic spectra and the electronic structures of the atom
+        </text>
+        <text font-size="14" x="949.39874" y="-798.68" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Atomic weights
+        </text>
+        <text font-size="20" x="1239.6309" y="-847.01953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            The atomic nature of matter
+        </text>
+        <text font-size="20" x="128.05653" y="279.50922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="160">
+            Effects of the passage of nuclear, or elementary, particles,
+            nuclear radiations, or ionizing radiation through matter
+        </text>
+        <text font-size="20" x="-769.8295" y="124.90077" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="133">
+            Subatomic, or elementary, particles
+        </text>
+        <text font-size="20" x="-605.6787" y="498.83334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="120">
+            The fusion of atomic nuclei
+        </text>
+        <text font-size="20" x="-479.81058" y="-62.04511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="110">
+            The splitting of atomic nuclei by nuclear fission
+        </text>
+        <text font-size="20" x="-117.57314" y="-9.531258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="104">
+            Reactions of atomic nuclei
+        </text>
+        <text font-size="14" x="95.430275" y="93.87637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="98">
+            The neutron as a component of the nucleus and in nuclear reactions
+        </text>
+        <text font-size="20" x="-323.29175" y="617.19135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="83">
+            Radioactive nuclei: their properties and their radiations
+        </text>
+        <text font-size="20" x="-306.73267" y="-105.315186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="74">
+            Isotopes: atomic species with the same atomic number but with
+            different atomic masses
+        </text>
+        <text font-size="20" x="-2.8509483" y="570.5488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="56">
+            The structure of the atomic nucleus and general nuclear phenomena
+        </text>
+        <text font-size="14" x="1423.9305" y="-1018.33093" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Models of atomic structure
+        </text>
+        <text font-size="14" x="1538.6584" y="-895.31946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            The scientific evidence for the existence and the nature of atoms
+        </text>
+        <text font-size="9" x="1333.8497" y="-914.6439" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Early philosophical speculations on the possible atomic nature of
+            matter
+        </text>
+        <text font-size="9" x="1353.736" y="-840.411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            The atom as consisting of the nucleus surrounded by electrons, the
+            arrangement and behaviour of which determine atomic interactions
+        </text>
+        <text font-size="9" x="1037.7931" y="-883.44135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            Methods used for determining atomic weights: chemical methods,
+            physical methods
+        </text>
+        <text font-size="9" x="981.5733" y="-885.13043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Atomic weight scales
+        </text>
+        <text font-size="9" x="1065.0828" y="-824.6854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            Significance of atomic weights in chemistry
+        </text>
+        <text font-size="9" x="1047.1171" y="-767.32574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            Variations in atomic weight as a result of variations in isotopic
+            composition
+        </text>
+        <text font-size="9" x="647.5506" y="-1168.3557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="35">
+            Theories of the origin of atomic spectra in quantized electronic
+            transitions
+        </text>
+        <text font-size="14" x="636.706" y="-1371.1582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="29">
+            Atomic spectra: their significance and interpretation
+        </text>
+        <text font-size="9" x="902.964" y="-1161.3599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="45">
+            Diffraction of X rays by crystals
+        </text>
+        <text font-size="9" x="850.96765" y="-1140.9174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="44">
+            Applications of X rays in biological, medical, industrial, and
+            scientific fields
+        </text>
+        <text font-size="9" x="946.0497" y="-1130.2684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="43">
+            Detection and measurement of X rays
+        </text>
+        <text font-size="14" x="978.24347" y="-1257.029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="39">
+            The theory of X rays and their spectra
+        </text>
+        <text font-size="9" x="986.8559" y="-1102.259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="38">
+            General X-ray phenomena
+        </text>
+        <text font-size="9" x="1083.4111" y="-554.20526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="50">
+            Speculations about the possible existence and role of antimatter in
+            the universe
+        </text>
+        <text font-size="9" x="995.93445" y="-456.8631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="49">
+            Invariance of the laws of physics under charge conjugation, an
+            operation in relativistic mechanics that transforms every particle
+            into its antiparticle
+        </text>
+        <text font-size="9" x="1044.2964" y="-506.9696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="48">
+            Production of antiparticles in high-energy collisions
+        </text>
+        <text font-size="9" x="1070.9437" y="-610.7579" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="47">
+            General properties of antimatter
+        </text>
+        <text font-size="9" x="690.7221" y="-926.97437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="54">
+            Standards of measurement
+        </text>
+        <text font-size="9" x="592.8165" y="-866.8621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="53">
+            Interrelationships among the constants
+        </text>
+        <text font-size="9" x="618.29315" y="-927.8191" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="52">
+            Measurement of the physical constants
+        </text>
+        <text font-size="9" x="55.777134" y="823.46484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="73">
+            The formation and evolution of the atomic nuclei in the universe
+        </text>
+        <text font-size="9" x="156.29977" y="697.59924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="72">
+            General nuclear phenomena and reactions
+        </text>
+        <text font-size="9" x="159.47122" y="761.31854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="71">
+            Theories of nuclear structure and nuclear binding force
+        </text>
+        <text font-size="9" x="109.721504" y="810.4607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="70">
+            Nuclear models and the properties of nuclear states
+        </text>
+        <text font-size="9" x="9.063803" y="793.91895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="69">
+            Systematic relationships between nuclear masses and nuclear binding
+            energies
+        </text>
+        <text font-size="9" x="103.82073" y="755.6356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="68">
+            Isotopes: atomic species with the same atomic number but with
+            different atomic masses
+        </text>
+        <text font-size="14" x="252.80586" y="874.2145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="64">
+            Components of atomic nuclei
+        </text>
+        <text font-size="14" x="153.9539" y="1057.688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="57">
+            General properties of atomic nuclei
+        </text>
+        <text font-size="9" x="-352.13885" y="-222.76118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="82">
+            Applications of radioactive and stable isotopes
+        </text>
+        <text font-size="14" x="-350.7332" y="-340.60217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="79">
+            Chemical and physical separation of isotopes
+        </text>
+        <text font-size="9" x="-300.42905" y="-235.01932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="78">
+            Effects of isotopic substitution on physical and chemical
+            properties of substances
+        </text>
+        <text font-size="9" x="-391.75296" y="-189.31395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="77">
+            Formation of isotopes by nuclear reactions
+        </text>
+        <text font-size="9" x="-388.02728" y="-126.616165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="76">
+            Isotopic composition of the elements
+        </text>
+        <text font-size="9" x="-259.39297" y="-197.436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="75">
+            Classification of isotopes or nuclides
+        </text>
+        <text font-size="9" x="-287.6097" y="780.7052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="97">
+            Measurement and characterization of radioactivity
+        </text>
+        <text font-size="9" x="-440.96976" y="720.61" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="96">
+            Applications of radioactivity
+        </text>
+        <text font-size="14" x="-430.02524" y="976.8079" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="91">
+            Rates of radioactive transitions
+        </text>
+        <text font-size="9" x="-334.29187" y="805.6754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="89">
+            Nuclear models used to explain nuclear binding
+        </text>
+        <text font-size="9" x="-348.34076" y="744.23224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="88">
+            The energy release associated with radioactive decay
+        </text>
+        <text font-size="9" x="-385.01694" y="794.9913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="87">
+            Interaction of radiation with matter
+        </text>
+        <text font-size="9" x="-427.81555" y="659.50354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="86">
+            Sources of radioactivity: naturally occurring radioactive elements,
+            particle bombardment
+        </text>
+        <text font-size="9" x="-427.84756" y="769.8704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="85">
+            Types of radioactivity
+        </text>
+        <text font-size="9" x="-262.95978" y="723.9459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="84">
+            The phenomenon of radioactivity
+        </text>
+        <text font-size="9" x="245.02759" y="58.74951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="103">
+            Neutron detection based on the secondary effects of nuclear
+            reactions
+        </text>
+        <text font-size="9" x="179.71303" y="17.96318" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="102">
+            Nuclear reactions produced by neutrons
+        </text>
+        <text font-size="9" x="133.01129" y="-19.770615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="101">
+            Manipulation and control of neutrons
+        </text>
+        <text font-size="9" x="245.36101" y="212.38422" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="100">
+            Sources of neutrons
+        </text>
+        <text font-size="9" x="227.15549" y="104.19599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="99">
+            Properties of neutrons
+        </text>
+        <text font-size="9" x="-152.86916" y="-82.32344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="109">
+            Theories and models of nuclear reactions
+        </text>
+        <text font-size="9" x="-37.69475" y="-54.669914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="108">
+            The energy relationships of nuclear reactions
+        </text>
+        <text font-size="14" x="-35.55505" y="-198.59518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="105">
+            The classification of nuclear reactions
+        </text>
+        <text font-size="9" x="-597.8777" y="11.838844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="118">
+            Nuclear models and theories of nuclear fission
+        </text>
+        <text font-size="14" x="-577.8946" y="-269.48584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="115">
+            Fission chain reactions: the critical mass
+        </text>
+        <text font-size="14" x="-683.64166" y="-258.8252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="111">
+            Phenomena of nuclear fission
+        </text>
+        <text font-size="9" x="-714.1045" y="513.9717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="132">
+            The possible approaches to controlled fusion: prospects for the
+            future
+        </text>
+        <text font-size="14" x="-791.6768" y="654.6549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="129">
+            Basic conditions required for a thermonuclear reactor
+        </text>
+        <text font-size="14" x="-732.04663" y="708.1946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="126">
+            Occurrence of thermonuclear reactions
+        </text>
+        <text font-size="14" x="-879.45544" y="606.6832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="122">
+            Nuclear fusion reactions
+        </text>
+        <text font-size="9" x="-678.51074" y="574.40393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="121">
+            Phenomena of nuclear fusion
+        </text>
+        <text font-size="9" x="-833.367" y="30.556128" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="159">
+            Theories of nuclear structure and nuclear forces involving the
+            elementary particles
+        </text>
+        <text font-size="9" x="-858.2628" y="204.54298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="158">
+            Reactions of elementary particles with atoms
+        </text>
+        <text font-size="9" x="-902.9993" y="142.6796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="157">
+            Other particles suggested by contemporary theoretical ideas
+        </text>
+        <text font-size="9" x="-860.5132" y="107.46821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="156">
+            Relations of the weak interactions to strong and electromagnetic
+            interactions described by conserved current and algebra of current
+        </text>
+        <text font-size="14" x="-970.5704" y="-15.323797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="153">
+            Sources of the unstable elementary particles
+        </text>
+        <text font-size="14" x="-1047.8883" y="191.92438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="148">
+            Elementary particles and the laws of conservation and symmetry
+        </text>
+        <text font-size="9" x="-887.7845" y="60.72684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="139">
+            The basic forces associated with particle interactions
+        </text>
+        <text font-size="14" x="-1099.9763" y="45.470055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="134">
+            Development of the concept of subatomic particles as the
+            fundamental units of matter and energy
+        </text>
+        <text font-size="14" x="417.11832" y="447.3913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="167">
+            The use of fundamental processes of interaction between radiation
+            and matter for the detection and characterization of nuclear and
+            elementary processes
+        </text>
+        <text font-size="9" x="251.37285" y="298.30322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="166">
+            Utilization of high-energy radiation in biological, medical, and
+            technological fields
+        </text>
+        <text font-size="9" x="231.82104" y="382.0381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="164">
+            Secondary and tertiary effects of radiation
+        </text>
+        <text font-size="14" x="365.87628" y="359.58826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="161">
+            The fundamental processes involved when energetic particles or
+            radiations interact with or pass through matter
+        </text>
+        <text font-size="9" x="1721.5791" y="-807.7914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            The development of scattering and resonance studies with atomic and
+            molecular beams
+        </text>
+        <text font-size="9" x="1770.597" y="-822.30695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            The development of mass spectrometry
+        </text>
+        <text font-size="9" x="1717.9989" y="-989.7668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            The Brownian movement of suspended particles
+        </text>
+        <text font-size="9" x="1770.0422" y="-970.82544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            The discovery of the radioactive transformation of one element into
+            another
+        </text>
+        <text font-size="9" x="1738.0808" y="-926.51044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            The discovery of X-rays
+        </text>
+        <text font-size="9" x="1772.5549" y="-868.6171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            The discovery of the electron as a particle and as a component of
+            all matter
+        </text>
+        <text font-size="9" x="1807.1749" y="-886.03156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            The development of spectroscopy and the discovery of atomic spectra
+        </text>
+        <text font-size="9" x="1793.6329" y="-919.7349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            Developments in chemistry
+        </text>
+        <text font-size="9" x="1480.4054" y="-1137.2012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            The wave-mechanical theory of the electronic structure of the atom
+        </text>
+        <text font-size="9" x="1538.231" y="-1065.5502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            The Bohr-Sommerfeld model
+        </text>
+        <text font-size="9" x="1528.462" y="-1118.1061" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            The Rutherford model of the atom
+        </text>
+        <text font-size="9" x="689.65765" y="-1497.431" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="34">
+            Intensities, isotope shifts, and fine and hyperfine structures of
+            atomic spectral lines as related to atomic structure
+        </text>
+        <text font-size="9" x="643.2711" y="-1529.6907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="33">
+            The effects of magnetic fields and the effects of electric fields
+            on atomic spectra
+        </text>
+        <text font-size="9" x="620.08185" y="-1483.7915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="32">
+            Atomic absorption spectra
+        </text>
+        <text font-size="9" x="577.9272" y="-1514.7675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="31">
+            The emission spectra of singly and multiply ionized atoms
+        </text>
+        <text font-size="9" x="547.0874" y="-1466.4957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="30">
+            The spectrum of the hydrogen atom
+        </text>
+        <text font-size="9" x="1055.7683" y="-1378.2877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="41">
+            Continuous X rays and bremsstrahlung
+        </text>
+        <text font-size="9" x="1003.8396" y="-1398.5101" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="40">
+            The structure of the atom as related to the emission of
+            characteristic X rays, absorption edges, fluorescence yield, mesic
+            atoms
+        </text>
+        <text font-size="9" x="247.49791" y="1194.0438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="63">
+            Electric quadrupole moment
+        </text>
+        <text font-size="9" x="185.51212" y="1174.5493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="62">
+            Magnetic moment: nuclear magnetic resonance phenomena
+        </text>
+        <text font-size="9" x="265.22195" y="1151.4231" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="61">
+            Spin
+        </text>
+        <text font-size="9" x="114.69345" y="1192.6295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="60">
+            Radius
+        </text>
+        <text font-size="9" x="207.09201" y="1221.4297" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="59">
+            Charge: atomic number
+        </text>
+        <text font-size="9" x="154.29384" y="1223.1959" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="58">
+            Mass
+        </text>
+        <text font-size="9" x="383.68286" y="925.67804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="67">
+            Other possible short- and long-lived components
+        </text>
+        <text font-size="9" x="371.57834" y="973.55066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="66">
+            Protons
+        </text>
+        <text font-size="9" x="325.14407" y="990.803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="65">
+            Neutrons
+        </text>
+        <text font-size="9" x="-347.8091" y="-482.56735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="81">
+            Other methods of separation; e.g., diffusion, centrifugal
+            separation, thermal diffusion
+        </text>
+        <text font-size="9" x="-403.6979" y="-473.6946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="80">
+            Mass spectrometry
+        </text>
+        <text font-size="9" x="-452.74747" y="1135.3973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="95">
+            Gamma transition
+        </text>
+        <text font-size="9" x="-495.20847" y="1124.3107" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="94">
+            Beta decay
+        </text>
+        <text font-size="9" x="-409.3694" y="1121.3313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="93">
+            Alpha decay
+        </text>
+        <text font-size="9" x="-525.08624" y="1090.0867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="92">
+            Exponential decay law
+        </text>
+        <text font-size="9" x="-18.512083" y="-324.06467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="107">
+            The types of nuclear reactions classified according to the nuclear
+            processes involved or according to their products
+        </text>
+        <text font-size="9" x="39.940773" y="-294.99796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="106">
+            The types of nuclear reactions classified according to the kind of
+            bombarding radiation or particles
+        </text>
+        <text font-size="9" x="-753.8846" y="-392.62607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="114">
+            The energy released in fission
+        </text>
+        <text font-size="9" x="-795.6403" y="-370.44586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="113">
+            Products of nuclear fission
+        </text>
+        <text font-size="9" x="-807.08044" y="-322.95044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="112">
+            Spontaneous and induced fission reactions
+        </text>
+        <text font-size="9" x="-653.6544" y="-386.30545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="117">
+            Controlled nuclear fission
+        </text>
+        <text font-size="9" x="-608.58057" y="-409.3914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="116">
+            Nuclear explosions: nuclear, or atomic, bombs
+        </text>
+        <text font-size="9" x="-1006.07275" y="705.5996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="125">
+            Requirements for intensive fusion reactions
+        </text>
+        <text font-size="9" x="-1030.4017" y="666.09235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="124">
+            The energy released in fusion reactions
+        </text>
+        <text font-size="9" x="-1022.93384" y="619.7917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="123">
+            General types of fusion reactions
+        </text>
+        <text font-size="9" x="-788.862" y="844.854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="128">
+            Thermonuclear explosions: the hydrogen, or thermonuclear, bomb
+        </text>
+        <text font-size="9" x="-833.9134" y="821.52606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="127">
+            Thermonuclear reactions in the Sun and the stars
+        </text>
+        <text font-size="9" x="-895.4666" y="770.81104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="131">
+            The confinement and control of high-temperature plasma
+        </text>
+        <text font-size="9" x="-914.7368" y="727.843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="130">
+            The formation of a suitable plasma
+        </text>
+        <text font-size="9" x="-1256.904" y="65.640175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="138">
+            The known elementary particles
+        </text>
+        <text font-size="9" x="-1234.0146" y="-0.90914536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="137">
+            Advances in quantum field theory: renormalization theory,
+            dispersion theory
+        </text>
+        <text font-size="9" x="-1273.1825" y="13.9987755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="136">
+            Yukawa mesons and the theory of nuclear forces
+        </text>
+        <text font-size="9" x="-1229.8627" y="-49.407696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="135">
+            The discovery of the various particles
+        </text>
+        <text font-size="9" x="-1205.854" y="231.06194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="152">
+            Internal symmetries
+        </text>
+        <text font-size="9" x="-1255.5206" y="160.06326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="151">
+            Violation of conservation laws: charge conjugation, time reversal,
+            parity
+        </text>
+        <text font-size="9" x="-1163.5706" y="296.36166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="149">
+            The theory of subatomic particles and the quantum mechanical
+            symmetry operations
+        </text>
+        <text font-size="9" x="-1102.3469" y="-79.62295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="155">
+            Production by cosmic ray interactions
+        </text>
+        <text font-size="9" x="-1075.1438" y="-117.459015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="154">
+            Formation of resonances in high-energy accelerators
+        </text>
+        <text font-size="9" x="478.50638" y="327.19583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="163">
+            The passage of particles or radiations through matter
+        </text>
+        <text font-size="9" x="476.95267" y="230.79019" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="162">
+            The passage of electromagnetic waves and their interaction with
+            atomic structure
+        </text>
+        <text font-size="9" x="554.7856" y="425.40524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="173">
+            Applications of radiation detectors in science, technology, and
+            industry
+        </text>
+        <text font-size="9" x="560.6163" y="489.7739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="171">
+            Major types of radiation detectors
+        </text>
+        <text font-size="9" x="542.7623" y="529.1932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="170">
+            Properties of ionization media
+        </text>
+        <text font-size="9" x="498.3045" y="546.0021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="168">
+            Mechanisms of detection systems
+        </text>
+    </g>
+</svg>

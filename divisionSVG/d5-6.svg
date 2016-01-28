@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1636.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-775.000000 -1821.000000 1636.000000 2958.000000" height="2958.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 53.707161,-689.699646 C 67.636902,-645.902344 22.835537,-559.311768 -20.961775,-545.382019"
+              class="1 3319" stroke-opacity="1.0" stroke="#7f8686"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.961775,-545.382019 C 11.941977,-513.552002 13.552618,-416.451416 -18.277372,-383.547668"
+              class="3319 4197" stroke-opacity="1.0" stroke="#bf6476"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -18.277372,-383.547668 C -137.941040,-461.367828 -200.706284,-757.593567 -122.886108,-877.257263"
+              class="4197 4199" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.886108,-877.257263 C -141.940491,-900.905884 -135.049072,-964.960510 -111.400406,-984.014893"
+              class="4199 4200" stroke-opacity="1.0" stroke="#ee8e7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.886108,-877.257263 C -205.848312,-858.438110 -358.520416,-954.652649 -377.339569,-1037.614868"
+              class="4199 4201" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -377.339569,-1037.614868 C -404.160370,-1030.463867 -455.118073,-1059.968506 -462.269073,-1086.789429"
+              class="4201 4202" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -377.339569,-1037.614868 C -451.526611,-1019.330688 -590.233337,-1103.185059 -608.517517,-1177.372070"
+              class="4201 4204" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -608.517517,-1177.372070 C -640.018494,-1195.685547 -659.799622,-1270.407227 -641.486145,-1301.908203"
+              class="4204 4205" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -608.517517,-1177.372070 C -626.512024,-1146.888916 -699.228394,-1128.156006 -729.711548,-1146.150391"
+              class="4204 4206" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -608.517517,-1177.372070 C -645.299805,-1155.615112 -733.108765,-1178.152954 -754.865784,-1214.935303"
+              class="4204 4207" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -608.517517,-1177.372070 C -653.156006,-1177.929932 -719.277039,-1245.724121 -718.719238,-1290.362671"
+              class="4204 4208" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.886108,-877.257263 C -189.183014,-970.646484 -148.544525,-1210.175659 -55.155319,-1276.472534"
+              class="4199 4210" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -55.155319,-1276.472534 C -126.804825,-1339.809570 -139.273438,-1542.289551 -75.936317,-1613.939087"
+              class="4210 4211" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.936317,-1613.939087 C -112.089890,-1606.899048 -176.880264,-1650.569458 -183.920258,-1686.723022"
+              class="4211 4212" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.936317,-1613.939087 C -115.112823,-1649.499878 -120.536316,-1761.605957 -84.975471,-1800.782471"
+              class="4211 4213" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.936317,-1613.939087 C -70.981422,-1653.585815 -4.079037,-1705.623413 35.567657,-1700.668579"
+              class="4211 4214" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.936317,-1613.939087 C -93.948181,-1654.279053 -60.455994,-1741.806885 -20.116003,-1759.818726"
+              class="4211 4215" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.936317,-1613.939087 C -121.903053,-1624.859253 -174.472870,-1710.189575 -163.552704,-1756.156372"
+              class="4211 4216" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.936317,-1613.939087 C -98.463173,-1630.662964 -107.167633,-1689.539063 -90.443756,-1712.065918"
+              class="4211 4217" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -55.155319,-1276.472534 C -47.530823,-1334.687744 51.228752,-1410.573730 109.443977,-1402.949341"
+              class="4210 4218" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 109.443977,-1402.949341 C 124.491638,-1436.572388 197.497635,-1464.435303 231.120636,-1449.387695"
+              class="4218 4219" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 109.443977,-1402.949341 C 103.283379,-1440.218628 149.946472,-1505.363525 187.215805,-1511.524170"
+              class="4218 4220" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -55.155319,-1276.472534 C -61.592213,-1302.257568 -32.570160,-1350.590210 -6.785230,-1357.027100"
+              class="4210 4221" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -55.155319,-1276.472534 C -83.544319,-1280.053955 -120.755692,-1328.009521 -117.174278,-1356.398560"
+              class="4210 4223" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -18.277372,-383.547668 C 87.591942,-321.133606 152.774841,-68.708565 90.360779,37.160751"
+              class="4197 4225" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.360779,37.160751 C 123.815758,-50.880936 306.060730,-132.761002 394.102417,-99.306023"
+              class="4225 4226" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.102417,-99.306023 C 378.572693,-125.824768 395.056244,-188.897461 421.574982,-204.427185"
+              class="4226 4227" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.102417,-99.306023 C 409.885956,-123.386574 469.682068,-135.832092 493.762604,-120.048576"
+              class="4226 4229" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.102417,-99.306023 C 431.430389,-176.177139 602.728943,-235.491898 679.600098,-198.163956"
+              class="4226 4231" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 679.600098,-198.163956 C 700.556641,-241.665710 797.244141,-275.483490 840.745850,-254.526947"
+              class="4231 4232" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 679.600098,-198.163956 C 713.971497,-226.237762 807.639221,-216.791428 835.713013,-182.420074"
+              class="4231 4233" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 679.600098,-198.163956 C 679.661377,-238.024261 739.543701,-297.722809 779.404053,-297.661530"
+              class="4231 4234" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 679.600098,-198.163956 C 715.160400,-206.326553 780.744812,-165.229980 788.907410,-129.669647"
+              class="4231 4235" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 679.600098,-198.163956 C 660.954102,-230.386551 681.319031,-306.689423 713.541565,-325.335419"
+              class="4231 4236" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.360779,37.160751 C 178.952881,161.747101 124.961502,481.514771 0.375147,570.106873"
+              class="4225 4238" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C 96.047714,542.773132 280.557220,645.281311 307.890961,740.953918"
+              class="4238 4239" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 307.890961,740.953918 C 350.803162,715.867188 452.801453,742.605469 477.888153,785.517639"
+              class="4239 4240" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 307.890961,740.953918 C 353.014771,755.430054 398.986267,844.829895 384.510162,889.953735"
+              class="4239 4241" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 307.890961,740.953918 C 331.077606,707.072021 416.680450,691.029114 450.562347,714.215820"
+              class="4239 4242" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 307.890961,740.953918 C 338.245300,736.207458 390.896484,774.619324 395.642914,804.973694"
+              class="4239 4243" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 307.890961,740.953918 C 362.674957,734.183228 455.006958,806.203247 461.777649,860.987244"
+              class="4239 4244" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C -71.615402,569.508423 -178.703522,460.624908 -178.105057,388.634369"
+              class="4238 4245" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -178.105057,388.634369 C -216.666550,376.918640 -256.935150,301.502808 -245.219437,262.941315"
+              class="4245 4246" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -178.105057,388.634369 C -221.362900,398.420807 -300.929352,348.213715 -310.715790,304.955841"
+              class="4245 4247" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -178.105057,388.634369 C -204.561600,411.688782 -278.828003,406.585571 -301.882416,380.129059"
+              class="4245 4249" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -178.105057,388.634369 C -200.128052,364.905090 -197.568588,296.276642 -173.839294,274.253662"
+              class="4245 4250" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C 21.410412,639.297058 -50.822037,774.635315 -120.012268,795.670593"
+              class="4238 4251" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.012268,795.670593 C -102.794296,843.306641 -148.421463,940.587769 -196.057556,957.805725"
+              class="4251 4252" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.012268,795.670593 C -96.657982,821.526489 -100.410378,895.341736 -126.266266,918.696045"
+              class="4251 4254" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -120.012268,795.670593 C -123.711510,833.390442 -185.840118,884.421265 -223.559952,880.722046"
+              class="4251 4255" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C 72.022346,588.004944 152.646027,722.322876 134.747940,793.970093"
+              class="4238 4257" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.747940,793.970093 C 171.772507,788.295166 235.821716,835.319702 241.496613,872.344238"
+              class="4257 4258" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.747940,793.970093 C 164.858871,817.794312 174.289017,898.696960 150.464828,928.807922"
+              class="4257 4259" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.747940,793.970093 C 182.961121,804.534485 239.434250,892.700867 228.869843,940.914063"
+              class="4257 4260" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C 25.565481,509.611572 154.093964,456.654083 214.589279,481.844421"
+              class="4238 4261" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 214.589279,481.844421 C 198.627823,456.127411 213.261154,393.609680 238.978165,377.648224"
+              class="4261 4262" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 214.589279,481.844421 C 245.163528,470.057465 308.705353,498.238403 320.492310,528.812622"
+              class="4261 4263" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 214.589279,481.844421 C 239.332016,448.275757 326.799103,435.036896 360.367767,459.779633"
+              class="4261 4264" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 214.589279,481.844421 C 217.030777,444.384003 276.883606,391.855682 314.344025,394.297180"
+              class="4261 4265" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C -53.317299,621.154175 -210.426880,617.186401 -261.474152,563.493958"
+              class="4238 4266" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -261.474152,563.493958 C -298.696350,575.204102 -372.094940,536.936096 -383.805115,499.713867"
+              class="4266 4267" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -261.474152,563.493958 C -297.152191,596.977478 -400.894592,593.685730 -434.378113,558.007629"
+              class="4266 4268" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -261.474152,563.493958 C -275.020874,599.802063 -349.803162,633.944214 -386.111298,620.397461"
+              class="4266 4269" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C 69.559860,639.730530 68.901466,847.943115 -0.722180,917.127808"
+              class="4238 4270" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.722180,917.127808 C 15.934133,962.389954 -26.974541,1055.267456 -72.236641,1071.923828"
+              class="4270 4271" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.722180,917.127808 C 44.113098,936.653381 82.077606,1033.194824 62.551994,1078.030029"
+              class="4270 4273" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.722180,917.127808 C 38.425941,957.617676 36.413326,1077.074707 -4.076536,1116.222778"
+              class="4270 4274" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.722180,917.127808 C 24.254652,942.713501 23.341396,1018.557251 -2.244273,1043.534058"
+              class="4270 4275" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.375147,570.106873 C -20.672192,663.499634 -192.332306,772.017700 -285.725037,750.970398"
+              class="4238 4276" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.725037,750.970398 C -269.851318,793.596802 -309.980286,881.347046 -352.606689,897.220764"
+              class="4276 4277" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.725037,750.970398 C -288.757141,808.146057 -379.068817,889.361389 -436.244476,886.329285"
+              class="4276 4278" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.725037,750.970398 C -299.245819,789.521790 -377.354065,827.067749 -415.905487,813.546997"
+              class="4276 4279" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.725037,750.970398 C -321.872864,785.036987 -427.194427,781.915100 -461.261017,745.767334"
+              class="4276 4280" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.360779,37.160751 C 65.963020,20.414087 54.486374,-41.302551 71.233040,-65.700310"
+              class="4225 4281" stroke-opacity="1.0" stroke="#ee8e7f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00af87" r="50.0" cx="53.70716"
+                class="1" cy="-689.69965" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="45.0" cx="-20.961775"
+                class="3319" cy="-545.382" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="40.0" cx="-18.277372"
+                class="4197" cy="-383.54767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="-122.88611"
+                class="4199" cy="-877.25726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="90.36078"
+                class="4225" cy="37.16075" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-111.400406"
+                class="4200" cy="-984.0149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-377.33957"
+                class="4201" cy="-1037.6149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-55.15532"
+                class="4210" cy="-1276.4725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="394.10242"
+                class="4226" cy="-99.30602" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="0.37514663"
+                class="4238" cy="570.1069" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="71.23304"
+                class="4281" cy="-65.70031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-462.26907"
+                class="4202" cy="-1086.7894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-608.5175"
+                class="4204" cy="-1177.3721" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-75.93632"
+                class="4211" cy="-1613.9391" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="109.44398"
+                class="4218" cy="-1402.9493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-6.7852297"
+                class="4221" cy="-1357.0271" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-117.17428"
+                class="4223" cy="-1356.3986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="421.57498"
+                class="4227" cy="-204.42719" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="493.7626"
+                class="4229" cy="-120.04858" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="679.6001"
+                class="4231" cy="-198.16396" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="307.89096"
+                class="4239" cy="740.9539" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-178.10506"
+                class="4245" cy="388.63437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-120.01227"
+                class="4251" cy="795.6706" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="134.74794"
+                class="4257" cy="793.9701" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="214.58928"
+                class="4261" cy="481.84442" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-261.47415"
+                class="4266" cy="563.49396" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-0.7221801"
+                class="4270" cy="917.1278" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-285.72504"
+                class="4276" cy="750.9704" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-641.48615"
+                class="4205" cy="-1301.9082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-729.71155"
+                class="4206" cy="-1146.1504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-754.8658"
+                class="4207" cy="-1214.9353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-718.71924"
+                class="4208" cy="-1290.3627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-183.92026"
+                class="4212" cy="-1686.723" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-84.97547"
+                class="4213" cy="-1800.7825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="35.567657"
+                class="4214" cy="-1700.6686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-20.116003"
+                class="4215" cy="-1759.8187" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-163.5527"
+                class="4216" cy="-1756.1564" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-90.443756"
+                class="4217" cy="-1712.0659" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="231.12064"
+                class="4219" cy="-1449.3877" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="187.2158"
+                class="4220" cy="-1511.5242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="840.74585"
+                class="4232" cy="-254.52695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="835.713"
+                class="4233" cy="-182.42007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="779.40405"
+                class="4234" cy="-297.66153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="788.9074"
+                class="4235" cy="-129.66965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="713.54156"
+                class="4236" cy="-325.33542" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="477.88815"
+                class="4240" cy="785.51764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="384.51016"
+                class="4241" cy="889.95374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="450.56235"
+                class="4242" cy="714.2158" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="395.6429"
+                class="4243" cy="804.9737" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="461.77765"
+                class="4244" cy="860.98724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-245.21944"
+                class="4246" cy="262.9413" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-310.7158"
+                class="4247" cy="304.95584" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-301.88242"
+                class="4249" cy="380.12906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-173.8393"
+                class="4250" cy="274.25366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-196.05756"
+                class="4252" cy="957.8057" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-126.266266"
+                class="4254" cy="918.69604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-223.55995"
+                class="4255" cy="880.72205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="241.49661"
+                class="4258" cy="872.34424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="150.46483"
+                class="4259" cy="928.8079" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="228.86984"
+                class="4260" cy="940.91406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="238.97816"
+                class="4262" cy="377.64822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="320.4923"
+                class="4263" cy="528.8126" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="360.36777"
+                class="4264" cy="459.77963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="314.34402"
+                class="4265" cy="394.29718" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-383.8051"
+                class="4267" cy="499.71387" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-434.3781"
+                class="4268" cy="558.0076" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-386.1113"
+                class="4269" cy="620.39746" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-72.23664"
+                class="4271" cy="1071.9238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="62.551994"
+                class="4273" cy="1078.03" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-4.076536"
+                class="4274" cy="1116.2228" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-2.2442727"
+                class="4275" cy="1043.534" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-352.6067"
+                class="4277" cy="897.22076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-436.24448"
+                class="4278" cy="886.3293" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-415.9055"
+                class="4279" cy="813.547" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-461.26102"
+                class="4280" cy="745.76733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="53.70716" y="-684.2431" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="-20.961775" y="-539.0451" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3319">
+            Human Society
+        </text>
+        <text font-size="24" x="-18.277372" y="-379.18243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4197">
+            Education
+        </text>
+        <text font-size="21" x="-122.88611" y="-872.32684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4199">
+            The Aims and Organization of Education
+        </text>
+        <text font-size="21" x="90.36078" y="40.98033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4225">
+            Education Around the World
+        </text>
+        <text font-size="12" x="-111.400406" y="-981.23364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4200">
+            Philosophies of education
+        </text>
+        <text font-size="18" x="-377.33957" y="-1033.4459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4201">
+            The learning process and the teaching art
+        </text>
+        <text font-size="18" x="-55.15532" y="-1272.2479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4210">
+            The organization of education
+        </text>
+        <text font-size="18" x="394.10242" y="-95.08141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4226">
+            Systems of education
+        </text>
+        <text font-size="18" x="0.37514663" y="574.3315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4238">
+            History of education: philosophies, practices, and institutions
+        </text>
+        <text font-size="12" x="71.23304" y="-63.517693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4281">
+            International educational activities
+        </text>
+        <text font-size="12" x="-462.26907" y="-1083.973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4202">
+            Processes of learning and thinking: experimental findings and
+            theories
+        </text>
+        <text font-size="15" x="-608.5175" y="-1173.8516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4204">
+            Pedagogy: the art and science of teaching
+        </text>
+        <text font-size="15" x="-75.93632" y="-1611.1644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4211">
+            Phases or levels of education
+        </text>
+        <text font-size="15" x="109.44398" y="-1399.4728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4218">
+            The preparation and performance of teachers
+        </text>
+        <text font-size="12" x="-6.7852297" y="-1354.8074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4221">
+            The economics of education
+        </text>
+        <text font-size="12" x="-117.17428" y="-1353.6173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4223">
+            Social aspects of education
+        </text>
+        <text font-size="12" x="421.57498" y="-201.61078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4227">
+            The formation of educational policy
+        </text>
+        <text font-size="12" x="493.7626" y="-117.26733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4229">
+            Administrative functions and procedures
+        </text>
+        <text font-size="15" x="679.6001" y="-194.64345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4231">
+            Types of educational systems and their characteristics
+        </text>
+        <text font-size="15" x="307.89096" y="743.6822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4239">
+            Education in ancient cultures
+        </text>
+        <text font-size="15" x="-178.10506" y="392.1085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4245">
+            Education in the Persian, Byzantine, early Russian, and Islamic
+            civilizations
+        </text>
+        <text font-size="15" x="-120.01227" y="799.1447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4251">
+            Education in the European Middle Ages
+        </text>
+        <text font-size="15" x="134.74794" y="796.7472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4257">
+            Education in Asian civilizations from c. 700 to the eve of Western
+            influence
+        </text>
+        <text font-size="15" x="214.58928" y="485.36493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4261">
+            European education during the Renaissance and Reformation
+        </text>
+        <text font-size="15" x="-261.47415" y="566.9351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4266">
+            European education in the 17th and 18th centuries
+        </text>
+        <text font-size="15" x="-0.7221801" y="920.6129" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4270">
+            Western education in the 19th century
+        </text>
+        <text font-size="15" x="-285.72504" y="754.4555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4276">
+            Education in the 20th century
+        </text>
+        <text font-size="12" x="-641.48615" y="-1299.0918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4205">
+            Components of the teaching situation
+        </text>
+        <text font-size="12" x="-729.71155" y="-1143.334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4206">
+            General theories concerning the role of the teacher in the learning
+            process
+        </text>
+        <text font-size="12" x="-754.8658" y="-1212.1189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4207">
+            The organization of instruction: contemporary practices and
+            techniques
+        </text>
+        <text font-size="12" x="-718.71924" y="-1288.18" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4208">
+            Instructional media
+        </text>
+        <text font-size="12" x="-183.92026" y="-1684.5404" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4212">
+            Preschool education
+        </text>
+        <text font-size="12" x="-84.97547" y="-1798.0032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4213">
+            Elementary and secondary education
+        </text>
+        <text font-size="12" x="35.567657" y="-1697.8522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4214">
+            Higher education: colleges, universities, and professional schools
+        </text>
+        <text font-size="12" x="-20.116003" y="-1757.0375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4215">
+            Special education: education of exceptional children
+        </text>
+        <text font-size="12" x="-163.5527" y="-1753.3751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4216">
+            Education of the adult population
+        </text>
+        <text font-size="12" x="-90.443756" y="-1709.2866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4217">
+            Vocational training: apprenticeship and employee training
+        </text>
+        <text font-size="12" x="231.12064" y="-1447.168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4219">
+            The education of teachers
+        </text>
+        <text font-size="12" x="187.2158" y="-1508.7078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4220">
+            The teaching profession
+        </text>
+        <text font-size="12" x="840.74585" y="-251.71054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4232">
+            Centralized systems: systems in which control is exercised through
+            a national administrative agency
+        </text>
+        <text font-size="12" x="835.713" y="-179.64078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4233">
+            Decentralized systems: systems in which control is exercised at the
+            regional or local level
+        </text>
+        <text font-size="12" x="779.40405" y="-294.88223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4234">
+            Joint national and local systems
+        </text>
+        <text font-size="12" x="788.9074" y="-126.85324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4235">
+            Systems controlled by political parties
+        </text>
+        <text font-size="12" x="713.54156" y="-322.519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4236">
+            Sectarian systems
+        </text>
+        <text font-size="12" x="477.88815" y="787.70026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4240">
+            Ancient Indian education
+        </text>
+        <text font-size="12" x="384.51016" y="892.1754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4241">
+            Ancient Chinese education
+        </text>
+        <text font-size="12" x="450.56235" y="716.39844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4242">
+            Ancient Hebrew education
+        </text>
+        <text font-size="12" x="395.6429" y="807.1954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4243">
+            Ancient Greek education
+        </text>
+        <text font-size="12" x="461.77765" y="863.16986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4244">
+            Ancient Roman education
+        </text>
+        <text font-size="12" x="-245.21944" y="265.163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4246">
+            Ancient Persian education: influences of Zoroastrian and Sasanid
+            cultures
+        </text>
+        <text font-size="12" x="-310.7158" y="307.73514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4247">
+            Byzantine education
+        </text>
+        <text font-size="12" x="-301.88242" y="382.94547" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4249">
+            Kiev and Muscovy: Russian education to the period of the early
+            Romanovs
+        </text>
+        <text font-size="12" x="-173.8393" y="276.43628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4250">
+            Islamic education
+        </text>
+        <text font-size="12" x="-196.05756" y="960.62213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4252">
+            Christian education to the 8th century
+        </text>
+        <text font-size="12" x="-126.266266" y="921.51245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4254">
+            The cultural revival under Charlemagne and his successors
+        </text>
+        <text font-size="12" x="-223.55995" y="883.51013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4255">
+            The 12th-century renaissance
+        </text>
+        <text font-size="12" x="241.49661" y="874.5659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4258">
+            Indian education from c. 700 to 1707
+        </text>
+        <text font-size="12" x="150.46483" y="931.0296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4259">
+            Chinese education from 618 to 1911
+        </text>
+        <text font-size="12" x="228.86984" y="943.6953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4260">
+            Japanese education from ancient times to 1867
+        </text>
+        <text font-size="12" x="238.97816" y="380.42947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4262">
+            Development of Renaissance education: Arabic and secular influences
+            on Humanism
+        </text>
+        <text font-size="12" x="320.4923" y="531.5919" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4263">
+            The humanistic tradition in Italy
+        </text>
+        <text font-size="12" x="360.36777" y="462.52377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4264">
+            The humanistic tradition in northern and western Europe
+        </text>
+        <text font-size="12" x="314.34402" y="397.1136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4265">
+            Education during the Reformation and Counter-Reformation
+        </text>
+        <text font-size="12" x="-383.8051" y="502.49316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4267">
+            The social and historical setting
+        </text>
+        <text font-size="12" x="-434.3781" y="560.7518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4268">
+            Educational theories and practices
+        </text>
+        <text font-size="12" x="-386.1113" y="623.1787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4269">
+            European influences in New World educational development
+        </text>
+        <text font-size="12" x="-72.23664" y="1074.7031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4271">
+            The social and historical setting
+        </text>
+        <text font-size="12" x="62.551994" y="1080.8464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4273">
+            The early reform movements: the new pedagogy and psychology
+        </text>
+        <text font-size="12" x="-4.076536" y="1119.0392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4274">
+            Development of national systems of education
+        </text>
+        <text font-size="12" x="-2.2442727" y="1046.3153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4275">
+            Spread of Western educational practices to Asian countries
+        </text>
+        <text font-size="12" x="-352.6067" y="899.793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4277">
+            Political, social, economic, and intellectual trends
+        </text>
+        <text font-size="12" x="-436.24448" y="889.0734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4278">
+            Traditional and experimental educational movements in the West
+        </text>
+        <text font-size="12" x="-415.9055" y="815.7667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4279">
+            The modernization of education in Asia and Africa
+        </text>
+        <text font-size="12" x="-461.26102" y="748.58374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4280">
+            Education in colonies and newly emerging nations in Africa, Asia,
+            and Latin America
+        </text>
+    </g>
+</svg>

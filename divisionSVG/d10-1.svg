@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1340.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-584.000000 -1302.000000 1340.000000 2436.000000" height="2436.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -291.164734,-153.069168 C -241.140442,-177.948669 -128.784760,-140.231491 -103.905258,-90.207199"
+              class="1 9380" stroke-opacity="1.0" stroke="#7f8686"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -103.905258,-90.207199 C -60.523201,-99.282082 18.162191,-47.821320 27.237074,-4.439268"
+              class="9380 9382" stroke-opacity="1.0" stroke="#bf6476"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.237074,-4.439268 C -53.166233,-91.873306 -42.620140,-343.629333 44.813892,-424.032654"
+              class="9382 9384" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 44.813892,-424.032654 C -65.191566,-470.857513 -159.962463,-706.103027 -113.137596,-816.108459"
+              class="9384 9385" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.137596,-816.108459 C -188.869827,-855.556763 -243.295700,-1028.327515 -203.847382,-1104.059814"
+              class="9385 9386" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -203.847382,-1104.059814 C -219.410110,-1141.149048 -187.120361,-1220.127075 -150.031143,-1235.689697"
+              class="9386 9387" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -203.847382,-1104.059814 C -242.119110,-1095.933838 -311.715790,-1141.152222 -319.841858,-1179.423950"
+              class="9386 9389" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -203.847382,-1104.059814 C -242.082214,-1136.634521 -250.572296,-1242.848999 -217.997498,-1281.083862"
+              class="9386 9391" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -203.847382,-1104.059814 C -248.442276,-1115.377197 -298.358551,-1199.245483 -287.041199,-1243.840454"
+              class="9386 9392" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.137596,-816.108459 C -180.561401,-795.279602 -312.940369,-865.172058 -333.769226,-932.595886"
+              class="9385 9393" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.769226,-932.595886 C -370.810608,-940.394714 -414.674500,-1007.654907 -406.875732,-1044.696289"
+              class="9393 9394" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.769226,-932.595886 C -377.042419,-919.277283 -461.930176,-964.209229 -475.248779,-1007.482422"
+              class="9393 9396" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.769226,-932.595886 C -359.775269,-904.842651 -440.414124,-902.221863 -468.167358,-928.227905"
+              class="9393 9398" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.137596,-816.108459 C -136.949265,-763.151245 -252.102631,-719.432861 -305.059875,-743.244568"
+              class="9385 9400" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -305.059875,-743.244568 C -297.283447,-713.499634 -330.236267,-657.217651 -359.981201,-649.441223"
+              class="9400 9401" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -305.059875,-743.244568 C -334.469818,-723.969604 -407.497162,-739.172180 -426.772095,-768.582153"
+              class="9400 9403" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -305.059875,-743.244568 C -320.285950,-708.937805 -394.585144,-680.316772 -428.891907,-695.542847"
+              class="9400 9405" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.137596,-816.108459 C -102.817032,-880.319519 8.980442,-961.155273 73.191513,-950.834717"
+              class="9385 9407" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.191513,-950.834717 C 94.520370,-975.898438 164.109314,-981.500854 189.173080,-960.171997"
+              class="9407 9408" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.191513,-950.834717 C 81.621567,-991.472900 155.223846,-1039.785034 195.862000,-1031.354980"
+              class="9407 9410" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.191513,-950.834717 C 58.568779,-986.606262 90.291954,-1062.197510 126.063469,-1076.820313"
+              class="9407 9411" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.137596,-816.108459 C -139.532547,-864.181885 -107.014893,-975.884338 -58.941502,-1002.279297"
+              class="9385 9413" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.941502,-1002.279297 C -85.698608,-1027.408936 -88.139709,-1105.239258 -63.009995,-1131.996338"
+              class="9413 9414" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.941502,-1002.279297 C -66.976334,-1041.096436 -20.802896,-1111.374268 18.014225,-1119.409180"
+              class="9413 9416" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 44.813892,-424.032654 C 97.699074,-494.206604 282.287750,-520.139709 352.461670,-467.254517"
+              class="9384 9418" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 352.461670,-467.254517 C 358.337677,-523.757019 451.905457,-599.696838 508.407990,-593.820801"
+              class="9418 9419" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 508.407990,-593.820801 C 521.676758,-630.365784 596.397339,-665.280029 632.942322,-652.011292"
+              class="9419 9420" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 508.407990,-593.820801 C 501.627228,-628.518372 543.502563,-690.735901 578.200134,-697.516602"
+              class="9419 9422" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 352.461670,-467.254517 C 405.937408,-509.563690 549.614868,-492.813843 591.924011,-439.338104"
+              class="9418 9424" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 591.924011,-439.338104 C 623.874634,-464.755524 709.926636,-454.955750 735.344055,-423.005127"
+              class="9424 9425" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 591.924011,-439.338104 C 606.640625,-474.578796 681.576660,-505.364899 716.817322,-490.648254"
+              class="9424 9426" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 591.924011,-439.338104 C 627.063049,-444.431885 687.412354,-399.363953 692.506104,-364.224884"
+              class="9424 9427" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 352.461670,-467.254517 C 378.808716,-467.733765 419.048218,-428.932068 419.527466,-402.585022"
+              class="9418 9428" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.237074,-4.439268 C 90.406273,98.354927 30.968781,347.300018 -71.825417,410.469208"
+              class="9382 9429" stroke-opacity="1.0" stroke="#bd7e34"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.825417,410.469208 C -39.114113,509.564972 -138.690796,707.275513 -237.786545,739.986816"
+              class="9429 9430" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.786545,739.986816 C -191.535843,786.067566 -191.280945,924.564819 -237.361725,970.815491"
+              class="9430 9431" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.361725,970.815491 C -201.720383,992.071594 -180.142471,1077.417725 -201.398560,1113.059082"
+              class="9431 9432" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.361725,970.815491 C -219.447403,1006.866577 -246.652527,1087.814697 -282.703613,1105.729004"
+              class="9431 9434" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.786545,739.986816 C -241.301575,813.539917 -356.903717,918.596924 -430.456757,915.081909"
+              class="9430 9435" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.456757,915.081909 C -432.314697,957.128662 -498.171753,1017.411926 -540.218506,1015.554016"
+              class="9435 9436" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.456757,915.081909 C -413.072205,951.652100 -441.850647,1032.584229 -478.420807,1049.968750"
+              class="9435 9438" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -430.456757,915.081909 C -450.746735,947.878113 -530.375977,966.637512 -563.172180,946.347534"
+              class="9435 9439" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.786545,739.986816 C -210.130966,748.675720 -181.680939,803.192383 -190.369812,830.847961"
+              class="9430 9440" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.786545,739.986816 C -257.331207,762.201965 -319.970856,766.207642 -342.185974,746.663025"
+              class="9430 9441" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -237.786545,739.986816 C -229.015320,769.359558 -259.917603,826.575562 -289.290344,835.346741"
+              class="9430 9443" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.825417,410.469208 C -103.001755,446.741241 -204.174316,454.384796 -240.446350,423.208466"
+              class="9429 9444" stroke-opacity="1.0" stroke="#b1ab02"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.446350,423.208466 C -237.990631,450.868408 -275.796967,496.041870 -303.456909,498.497589"
+              class="9444 9446" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.446350,423.208466 C -269.508331,426.635803 -318.242279,388.183899 -321.669617,359.121918"
+              class="9444 9447" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.446350,423.208466 C -263.099060,449.831512 -337.012756,455.787048 -363.635803,433.134338"
+              class="9444 9449" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.825417,410.469208 C 8.810013,401.061066 143.875366,507.901978 153.283524,588.537415"
+              class="9429 9451" stroke-opacity="1.0" stroke="#7dac7f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.283524,588.537415 C 216.962036,586.236633 315.930969,678.303284 318.231750,741.981750"
+              class="9451 9452" stroke-opacity="1.0" stroke="#34c581"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 318.231750,741.981750 C 355.788300,751.844666 397.328735,822.973755 387.465851,860.530273"
+              class="9452 9453" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 318.231750,741.981750 C 354.792053,729.272339 428.696625,765.048706 441.406036,801.608948"
+              class="9452 9454" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.283524,588.537415 C 170.328781,560.875916 237.388885,544.951538 265.050385,561.996826"
+              class="9451 9455" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.283524,588.537415 C 179.809052,606.835999 192.149506,674.072144 173.850937,700.597656"
+              class="9451 9456" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.283524,588.537415 C 184.073380,580.351929 242.536316,614.258606 250.721741,645.048462"
+              class="9451 9457" stroke-opacity="1.0" stroke="#71a9ff"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00af87" r="50.0" cx="-291.16473"
+                class="1" cy="-153.06917" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="45.0" cx="-103.90526"
+                class="9380" cy="-90.2072" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="40.0" cx="27.237074"
+                class="9382" cy="-4.439268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="44.813892"
+                class="9384" cy="-424.03265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa9200" r="35.0" cx="-71.82542"
+                class="9429" cy="410.4692" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-113.137596"
+                class="9385" cy="-816.10846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="352.46167"
+                class="9418" cy="-467.25452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="-237.78654"
+                class="9430" cy="739.9868" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-240.44635"
+                class="9444" cy="423.20847" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="30.0" cx="153.28352"
+                class="9451" cy="588.5374" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-203.84738"
+                class="9386" cy="-1104.0598" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-333.76923"
+                class="9393" cy="-932.5959" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-305.05988"
+                class="9400" cy="-743.24457" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="73.19151"
+                class="9407" cy="-950.8347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-58.9415"
+                class="9413" cy="-1002.2793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="508.408"
+                class="9419" cy="-593.8208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="591.924"
+                class="9424" cy="-439.3381" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="419.52747"
+                class="9428" cy="-402.58502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-237.36172"
+                class="9431" cy="970.8155" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="-430.45676"
+                class="9435" cy="915.0819" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-190.36981"
+                class="9440" cy="830.84796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-342.18597"
+                class="9441" cy="746.663" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-289.29034"
+                class="9443" cy="835.34674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-303.4569"
+                class="9446" cy="498.4976" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-321.66962"
+                class="9447" cy="359.12192" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-363.6358"
+                class="9449" cy="433.13434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="25.0" cx="318.23175"
+                class="9452" cy="741.98175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="265.05038"
+                class="9455" cy="561.9968" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="173.85094"
+                class="9456" cy="700.59766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="250.72174"
+                class="9457" cy="645.04846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-150.03114"
+                class="9387" cy="-1235.6897" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-319.84186"
+                class="9389" cy="-1179.424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-217.9975"
+                class="9391" cy="-1281.0839" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-287.0412"
+                class="9392" cy="-1243.8405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-406.87573"
+                class="9394" cy="-1044.6963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-475.24878"
+                class="9396" cy="-1007.4824" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-468.16736"
+                class="9398" cy="-928.2279" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-359.9812"
+                class="9401" cy="-649.4412" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-426.7721"
+                class="9403" cy="-768.58215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-428.8919"
+                class="9405" cy="-695.54285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="189.17308"
+                class="9408" cy="-960.172" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="195.862"
+                class="9410" cy="-1031.355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="126.06347"
+                class="9411" cy="-1076.8203" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-63.009995"
+                class="9414" cy="-1131.9963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="18.014225"
+                class="9416" cy="-1119.4092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="632.9423"
+                class="9420" cy="-652.0113" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="578.20013"
+                class="9422" cy="-697.5166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="735.34406"
+                class="9425" cy="-423.00513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="716.8173"
+                class="9426" cy="-490.64825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="692.5061"
+                class="9427" cy="-364.22488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-201.39856"
+                class="9432" cy="1113.0591" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-282.7036"
+                class="9434" cy="1105.729" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-540.2185"
+                class="9436" cy="1015.554" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-478.4208"
+                class="9438" cy="1049.9688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="-563.1722"
+                class="9439" cy="946.34753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="387.46585"
+                class="9453" cy="860.5303" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="20.0" cx="441.40604"
+                class="9454" cy="801.60895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="-291.16473" y="-147.61263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="-103.90526" y="-83.870285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9380">
+            The Branches of Knowledge
+        </text>
+        <text font-size="24" x="27.237074" y="1.1193256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9382">
+            Logic
+        </text>
+        <text font-size="21" x="44.813892" y="-419.10394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9384">
+            History and Philosophy of Logic
+        </text>
+        <text font-size="21" x="-71.82542" y="415.33298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9429">
+            Formal Logic,Metalogic,and Applied Logic
+        </text>
+        <text font-size="18" x="-113.137596" y="-811.88385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9385">
+            History of logic
+        </text>
+        <text font-size="18" x="352.46167" y="-463.0299" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9418">
+            Philosophy of logic
+        </text>
+        <text font-size="18" x="-237.78654" y="744.15576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9430">
+            Formal logic
+        </text>
+        <text font-size="15" x="-240.44635" y="426.6826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9444">
+            Metalogic
+        </text>
+        <text font-size="18" x="153.28352" y="592.70636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9451">
+            Applied logic
+        </text>
+        <text font-size="15" x="-203.84738" y="-1100.5857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9386">
+            Ancient logic
+        </text>
+        <text font-size="15" x="-333.76923" y="-929.12177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9393">
+            Medeva logic
+        </text>
+        <text font-size="15" x="-305.05988" y="-739.72406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9400">
+            Modern logic from the Renaissance to the 20th century
+        </text>
+        <text font-size="15" x="73.19151" y="-947.3496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9407">
+            Logic in the 20th century
+        </text>
+        <text font-size="15" x="-58.9415" y="-998.8052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9413">
+            Logic in the East
+        </text>
+        <text font-size="15" x="508.408" y="-590.3003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9419">
+            The oreanization of logic as adiscipline
+        </text>
+        <text font-size="15" x="591.924" y="-435.8176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9424">
+            Issues and developments in the philosophy of logic
+        </text>
+        <text font-size="12" x="419.52747" y="-399.76862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9428">
+            The place of logic among the sciences and disciplines
+        </text>
+        <text font-size="15" x="-237.36172" y="974.336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9431">
+            The propositional calculus:the logic of unanalyzed sentences in
+            combination
+        </text>
+        <text font-size="15" x="-430.45676" y="918.6024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9435">
+            The predicate calculus:the logic of quantified functions of terms
+        </text>
+        <text font-size="12" x="-190.36981" y="833.66437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9440">
+            Syllogistic:the theory of the syllogism
+        </text>
+        <text font-size="12" x="-342.18597" y="749.4423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9441">
+            Modal logic
+        </text>
+        <text font-size="12" x="-289.29034" y="838.16315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9443">
+            Set theory and natural-number arithmetic
+        </text>
+        <text font-size="12" x="-303.4569" y="501.314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9446">
+            The nature and elements of metalogic
+        </text>
+        <text font-size="12" x="-321.66962" y="361.93832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9447">
+            Discoveries about for malmathematical systems
+        </text>
+        <text font-size="12" x="-363.6358" y="435.91364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9449">
+            Model theory
+        </text>
+        <text font-size="15" x="318.23175" y="745.50226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9452">
+            The critique of forms of reasoning
+        </text>
+        <text font-size="12" x="265.05038" y="564.81323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9455">
+            Epistemic logic:logic dealing with the concepts of
+            belief,knowledge,assertion,doubt,andquestion
+        </text>
+        <text font-size="12" x="173.85094" y="703.41406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9456">
+            Practical logic:logic dealing with the concepts of
+            choosing,planning commanding and permitting
+        </text>
+        <text font-size="12" x="250.72174" y="647.86487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9457">
+            Hypothetical reasoning and counterfactual conditionals
+        </text>
+        <text font-size="12" x="-150.03114" y="-1232.8733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9387">
+            Precursors of ancient logic
+        </text>
+        <text font-size="12" x="-319.84186" y="-1176.6075" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9389">
+            Aristotle and the logic of predicates
+        </text>
+        <text font-size="12" x="-217.9975" y="-1278.2675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9391">
+            Later developments in the logic of predicates: contIibutions of
+            Theophrastus and Galen
+        </text>
+        <text font-size="12" x="-287.0412" y="-1241.024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9392">
+            Founding of the logic of propositions: contributions of
+            Theophrastus and the MegariansStoic logic
+        </text>
+        <text font-size="12" x="-406.87573" y="-1041.8799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9394">
+            Development of medieval loagic
+        </text>
+        <text font-size="12" x="-475.24878" y="-1004.666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9396">
+            Medieval theories of language and their relation to the development
+            of logic
+        </text>
+        <text font-size="12" x="-468.16736" y="-925.4115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9398">
+            Medieval developments in formal logic
+        </text>
+        <text font-size="12" x="-359.9812" y="-646.6619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9401">
+            Logic in the Renaissance
+        </text>
+        <text font-size="12" x="-426.7721" y="-765.76575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9403">
+            The rise of mathematical logic during the Enlightenment
+        </text>
+        <text font-size="12" x="-428.8919" y="-692.72644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9405">
+            Development of mathematical logic in the l9th century
+        </text>
+        <text font-size="12" x="189.17308" y="-957.3556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9408">
+            The conflict of Logicism, the view that mathematics is a
+            continuation of logic, with Intuitionism and Formalism
+        </text>
+        <text font-size="12" x="195.862" y="-1028.5386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9410">
+            Developments in the logic of propositions and in the logic of
+            predicates
+        </text>
+        <text font-size="12" x="126.06347" y="-1074.041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9411">
+            Metalogical studies
+        </text>
+        <text font-size="12" x="-63.009995" y="-1129.217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9414">
+            Indian logic
+        </text>
+        <text font-size="12" x="18.014225" y="-1116.5928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9416">
+            Chinese logic
+        </text>
+        <text font-size="12" x="632.9423" y="-649.1949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9420">
+            The nature and varieties of logic
+        </text>
+        <text font-size="12" x="578.20013" y="-694.7002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9422">
+            Features and problems of logic
+        </text>
+        <text font-size="12" x="735.34406" y="-420.18872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9425">
+            Problems in meaning andtruth: logical semantics of modal concepts,
+            logic and inforinativeness
+        </text>
+        <text font-size="12" x="716.8173" y="-487.83185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9426">
+            Problems of ontology:problems concerning individuation and
+            existence
+        </text>
+        <text font-size="12" x="692.5061" y="-361.4456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9427">
+            Alternative logics :modal logics,intuitionistic logic
+        </text>
+        <text font-size="12" x="-201.39856" y="1115.8403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9432">
+            General features of the propositional calculus
+        </text>
+        <text font-size="12" x="-282.7036" y="1108.5454" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9434">
+            Special systems of the propositional calculus
+        </text>
+        <text font-size="12" x="-540.2185" y="1018.33527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9436">
+            General features of the predicate calculus
+        </text>
+        <text font-size="12" x="-478.4208" y="1052.7852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9438">
+            The lower predicate calculus: the logic of individual variables
+        </text>
+        <text font-size="12" x="-563.1722" y="949.16394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9439">
+            Higher order predicate calculi: the logics of classes of variables
+        </text>
+        <text font-size="12" x="387.46585" y="863.3467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9453">
+            Theory of argumentation; the new rhetoric
+        </text>
+        <text font-size="12" x="441.40604" y="804.42535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="9454">
+            Analysis of logical fallacies: material, verbal, and formal
+            fallacies
+        </text>
+    </g>
+</svg>

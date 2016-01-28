@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3818.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1991.000000 -1881.000000 3818.000000 3482.000000" height="3482.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -147.183640,178.910736 C -322.732635,306.373413 -777.250061,234.243881 -904.712708,58.694881"
+              class="3529 3531" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -904.712708,58.694881 C -918.518494,5.383617 -859.260254,-95.291939 -805.948975,-109.097710"
+              class="3531 3532" stroke-opacity="1.0" stroke="#ec768e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -904.712708,58.694881 C -882.871155,113.380547 -932.137207,228.171417 -986.822876,250.013016"
+              class="3531 3534" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -986.822876,250.013016 C -1013.413879,281.495361 -1100.523926,288.832336 -1132.006348,262.241333"
+              class="3534 3535" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -986.822876,250.013016 C -945.489502,251.373077 -885.529480,315.413239 -886.889587,356.746613"
+              class="3534 3536" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -986.822876,250.013016 C -972.383240,285.651245 -1004.181152,360.767975 -1039.819336,375.207581"
+              class="3534 3537" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -904.712708,58.694881 C -1006.452637,22.697056 -1105.065796,-183.909607 -1069.067993,-285.649536"
+              class="3531 3538" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1069.067993,-285.649536 C -1121.712646,-301.727234 -1176.563110,-404.810730 -1160.485352,-457.455383"
+              class="3538 3539" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1069.067993,-285.649536 C -1098.763672,-333.296906 -1071.836060,-449.311401 -1024.188721,-479.007050"
+              class="3538 3542" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1069.067993,-285.649536 C -1170.754883,-310.385956 -1286.180664,-500.020966 -1261.444214,-601.707886"
+              class="3538 3544" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1261.444214,-601.707886 C -1309.504883,-579.949890 -1414.233032,-619.403931 -1435.990967,-667.464661"
+              class="3544 3545" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1261.444214,-601.707886 C -1326.443604,-615.651062 -1403.027710,-734.064880 -1389.084473,-799.064209"
+              class="3544 3546" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1261.444214,-601.707886 C -1294.159668,-638.863892 -1287.498779,-743.671082 -1250.342773,-776.386536"
+              class="3544 3547" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -904.712708,58.694881 C -1032.435791,128.910400 -1329.343628,42.649162 -1399.559082,-85.073853"
+              class="3531 3548" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1401.510498,-5.882927 -1523.223877,109.976418 -1602.414795,108.025055"
+              class="3548 3549" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1464.163208,-115.157700 -1515.943848,-257.189758 -1485.859985,-321.793976"
+              class="3548 3550" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1486.465210,-51.118977 -1667.756714,-130.545898 -1701.711670,-217.452042"
+              class="3548 3551" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1472.662964,-15.030090 -1687.384277,-19.620232 -1757.428101,-92.724083"
+              class="3548 3552" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1429.475830,-121.140488 -1420.251221,-220.115707 -1384.184570,-250.032532"
+              class="3548 3553" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1442.293579,-86.207092 -1504.695435,-152.008728 -1503.562256,-194.743225"
+              class="3548 3554" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1373.870850,-44.225597 -1396.610840,55.579166 -1437.459106,81.267410"
+              class="3548 3555" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1448.066528,-48.600590 -1575.537476,-66.651794 -1612.010742,-115.159187"
+              class="3548 3556" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1486.867432,-86.148003 -1616.218872,-218.721802 -1615.144653,-306.030182"
+              class="3548 3557" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1408.819702,-42.320976 -1486.839966,7.917461 -1529.592773,-1.343135"
+              class="3548 3558" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1399.559082,-85.073853 C -1435.590454,-9.133144 -1603.548462,50.730888 -1679.489258,14.699529"
+              class="3548 3559" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -904.712708,58.694881 C -939.781311,187.506653 -1185.601807,328.121460 -1314.413574,293.052917"
+              class="3531 3560" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1314.413574,293.052917 C -1315.400024,337.654297 -1383.781616,403.076752 -1428.383057,402.090363"
+              class="3560 3561" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1314.413574,293.052917 C -1350.804565,406.260986 -1575.203125,521.486572 -1688.411255,485.095581"
+              class="3560 3563" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1688.411255,485.095581 C -1740.106445,513.874268 -1860.817505,479.499390 -1889.596191,427.804077"
+              class="3563 3564" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1688.411255,485.095581 C -1663.232300,535.261230 -1700.712402,648.278015 -1750.877930,673.456970"
+              class="3563 3565" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1688.411255,485.095581 C -1730.544556,551.940735 -1894.012207,589.008545 -1960.857422,546.875183"
+              class="3563 3566" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1688.411255,485.095581 C -1702.607666,520.904785 -1777.615845,553.324036 -1813.425049,539.127686"
+              class="3563 3567" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1688.411255,485.095581 C -1691.284424,560.880615 -1809.271851,670.248535 -1885.056885,667.375366"
+              class="3563 3568" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -147.183640,178.910736 C 56.351021,147.155060 409.286591,404.823578 441.042267,608.358215"
+              class="3529 3569" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 441.042267,608.358215 C 489.942413,539.577637 666.463440,509.756989 735.244019,558.657104"
+              class="3569 3570" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 735.244019,558.657104 C 747.397461,503.249512 848.739075,438.368225 904.146667,450.521667"
+              class="3570 3571" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 735.244019,558.657104 C 774.667969,562.000488 828.788940,626.151428 825.445557,665.575378"
+              class="3570 3572" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 735.244019,558.657104 C 716.707642,524.451172 740.211975,445.337616 774.417908,426.801208"
+              class="3570 3573" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 735.244019,558.657104 C 776.119568,521.353455 893.388428,526.711182 930.692078,567.586731"
+              class="3570 3574" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 441.042267,608.358215 C 489.144470,616.530762 549.038879,700.942993 540.866333,749.045227"
+              class="3569 3575" stroke-opacity="1.0" stroke="#ec768e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 441.042267,608.358215 C 563.736816,673.981140 649.344238,956.457520 583.721313,1079.152100"
+              class="3569 3576" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 607.747253,1156.605103 527.606812,1308.823364 450.153839,1332.849365"
+              class="3576 3577" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 612.038025,1108.498657 610.493225,1194.993774 581.146606,1223.310547"
+              class="3576 3578" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 603.782104,1040.043579 692.536133,1011.471985 731.644653,1031.532837"
+              class="3576 3579" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 652.827026,1111.013916 708.692749,1262.465210 676.830933,1331.570923"
+              class="3576 3580" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 577.840881,1137.321655 481.765930,1215.755371 423.596375,1209.874878"
+              class="3576 3581" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 640.372070,1045.885376 775.248230,1080.961426 808.514954,1137.612183"
+              class="3576 3582" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 645.073303,1144.262939 639.434998,1333.957153 574.324097,1395.309204"
+              class="3576 3583" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 555.283569,1107.612061 469.936920,1107.645508 441.476898,1079.207764"
+              class="3576 3584" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 637.640442,1079.448730 718.074402,1160.772217 717.777832,1214.691406"
+              class="3576 3585" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.721313,1079.152100 C 672.512268,1083.793457 798.736755,1223.941772 794.095459,1312.732788"
+              class="3576 3586" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 441.042267,608.358215 C 598.355469,545.917114 927.986938,688.225342 990.428040,845.538513"
+              class="3569 3587" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 990.428040,845.538513 C 1029.549927,824.727539 1119.449219,852.194031 1140.260132,891.315918"
+              class="3587 3588" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 990.428040,845.538513 C 1123.834717,790.429565 1406.608154,907.876282 1461.717041,1041.282959"
+              class="3587 3590" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1493.905640,969.796204 1649.418823,910.848999 1720.905518,943.037659"
+              class="3590 3591" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1499.717407,1081.806519 1495.932861,1199.592407 1455.409302,1237.592773"
+              class="3590 3592" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1552.472290,1036.919556 1695.150391,1166.507080 1699.513794,1257.262329"
+              class="3590 3593" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1527.209229,1013.423340 1667.237061,1069.871948 1695.096680,1135.364136"
+              class="3590 3594" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1536.051636,1072.849976 1600.203247,1231.702393 1568.636230,1306.036987"
+              class="3590 3595" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1528.652100,974.116943 1729.803711,973.770386 1796.969727,1040.705444"
+              class="3590 3596" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1489.194458,1011.071594 1575.727783,1006.970886 1605.939087,1034.448364"
+              class="3590 3597" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1503.947510,1045.082031 1561.594360,1114.126465 1557.795288,1156.356934"
+              class="3590 3598" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1461.717041,1041.282959 C 1457.654053,991.532166 1526.185547,910.811523 1575.936279,906.748474"
+              class="3590 3599" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -147.183640,178.910736 C -86.698227,319.856598 -207.388916,622.003479 -348.334778,682.488892"
+              class="3529 3600" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -348.334778,682.488892 C -331.006622,806.928833 -491.674347,1019.581055 -616.114319,1036.909180"
+              class="3600 3601" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -616.114319,1036.909180 C -630.867310,1084.802124 -724.836243,1134.512207 -772.729248,1119.759155"
+              class="3601 3602" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -616.114319,1036.909180 C -593.968567,1080.226074 -625.725403,1178.420288 -669.042419,1200.566040"
+              class="3601 3604" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -616.114319,1036.909180 C -580.840027,1132.058716 -670.652832,1327.694458 -765.802368,1362.968750"
+              class="3601 3607" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -765.802368,1362.968750 C -782.177612,1413.124512 -881.973999,1463.795410 -932.129761,1447.420166"
+              class="3607 3608" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -765.802368,1362.968750 C -745.628479,1425.841797 -809.677185,1550.412109 -872.550171,1570.585938"
+              class="3607 3609" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -765.802368,1362.968750 C -722.768738,1394.775269 -705.928040,1507.035522 -737.734497,1550.069092"
+              class="3607 3610" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -348.334778,682.488892 C -280.055389,741.273865 -265.813751,931.870483 -324.598755,1000.149841"
+              class="3600 3611" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.598755,1000.149841 C -344.294373,1034.585327 -425.491058,1056.695190 -459.926544,1036.999512"
+              class="3611 3612" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.598755,1000.149841 C -322.788391,1066.656738 -419.833130,1169.132568 -486.339996,1170.942993"
+              class="3611 3613" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.598755,1000.149841 C -286.005066,979.047974 -196.461670,1005.285645 -175.359756,1043.879272"
+              class="3611 3615" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.598755,1000.149841 C -273.076080,1014.269592 -216.971588,1112.733154 -231.091309,1164.255859"
+              class="3611 3617" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.598755,1000.149841 C -264.542358,1049.080688 -247.854095,1212.561523 -296.784943,1272.617920"
+              class="3611 3618" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.598755,1000.149841 C -299.928680,1036.644775 -317.665985,1128.392334 -354.160950,1153.062378"
+              class="3611 3619" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -147.183640,178.910736 C -223.346100,-11.229115 -52.380005,-410.682556 137.759842,-486.845001"
+              class="3529 3620" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 137.759842,-486.845001 C 15.498589,-603.505676 7.097717,-961.888550 123.758385,-1084.149780"
+              class="3620 3621" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 123.758385,-1084.149780 C 87.001648,-1174.918945 168.020370,-1366.207886 258.789581,-1402.964600"
+              class="3621 3622" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 258.789581,-1402.964600 C 269.524750,-1452.065063 359.278198,-1509.613037 408.378662,-1498.877808"
+              class="3622 3623" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 258.789581,-1402.964600 C 222.860992,-1429.956177 209.455505,-1524.336426 236.447083,-1560.265015"
+              class="3622 3624" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 258.789581,-1402.964600 C 236.723694,-1461.387451 291.259125,-1582.120605 349.682007,-1604.186523"
+              class="3622 3625" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 123.758385,-1084.149780 C 112.336861,-1128.328369 161.472351,-1211.728394 205.650864,-1223.149902"
+              class="3621 3626" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 123.758385,-1084.149780 C 1.992058,-1159.459961 -67.692139,-1455.074829 7.618053,-1576.841064"
+              class="3621 3628" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C -48.300026,-1630.352417 -51.910080,-1794.496582 1.601295,-1850.414673"
+              class="3628 3629" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C -17.572212,-1651.526001 56.669792,-1801.338745 131.354721,-1826.529053"
+              class="3628 3630" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C -31.180822,-1556.322754 -120.156586,-1583.743652 -140.674896,-1622.542480"
+              class="3628 3631" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C -26.362228,-1595.425293 -49.456306,-1674.272095 -30.872082,-1708.252319"
+              class="3628 3632" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C -72.347916,-1602.908325 -153.196106,-1761.958008 -127.128914,-1841.923950"
+              class="3628 3633" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C 7.372141,-1620.766235 72.891045,-1687.022827 116.816223,-1687.268799"
+              class="3628 3634" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.618053,-1576.841064 C -66.154221,-1568.631714 -189.126694,-1666.975952 -197.336075,-1740.748291"
+              class="3628 3636" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 123.758385,-1084.149780 C 75.659325,-1068.873169 -19.404163,-1118.106812 -34.680763,-1166.205933"
+              class="3621 3637" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 123.758385,-1084.149780 C 76.169670,-1111.172119 45.320168,-1223.088745 72.342537,-1270.677490"
+              class="3621 3639" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 137.759842,-486.845001 C 169.491028,-629.910583 431.686188,-796.912170 574.751770,-765.181030"
+              class="3620 3642" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.751770,-765.181030 C 593.613220,-807.109741 684.798462,-841.710693 726.727173,-822.849243"
+              class="3642 3643" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.751770,-765.181030 C 556.633911,-810.516296 597.460144,-905.696045 642.795410,-923.813904"
+              class="3642 3645" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.751770,-765.181030 C 634.312622,-829.538635 820.190186,-836.733643 884.547791,-777.172791"
+              class="3642 3647" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 884.547791,-777.172791 C 923.729797,-789.703064 1001.298340,-749.725464 1013.828613,-710.543457"
+              class="3647 3648" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 884.547791,-777.172791 C 895.489014,-818.252197 973.519836,-863.459534 1014.599243,-852.518311"
+              class="3647 3649" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.751770,-765.181030 C 588.159424,-898.239563 807.858704,-1077.715820 940.917236,-1064.308228"
+              class="3642 3650" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 940.917236,-1064.308228 C 913.435181,-1127.012695 966.268677,-1262.292236 1028.973022,-1289.774292"
+              class="3650 3651" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 940.917236,-1064.308228 C 986.503296,-1093.137939 1098.126953,-1068.003418 1126.956665,-1022.417419"
+              class="3650 3653" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 940.917236,-1064.308228 C 947.771729,-1105.660034 1020.081055,-1157.405884 1061.432861,-1150.551392"
+              class="3650 3655" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 940.917236,-1064.308228 C 903.244446,-1093.816162 890.997314,-1194.587402 920.505310,-1232.260132"
+              class="3650 3657" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 940.917236,-1064.308228 C 979.083923,-1127.586792 1131.251831,-1165.254761 1194.530396,-1127.088013"
+              class="3650 3658" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 940.917236,-1064.308228 C 949.293762,-1146.115234 1084.568970,-1256.260864 1166.375977,-1247.884277"
+              class="3650 3659" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 137.759842,-486.845001 C 124.284645,-536.138184 178.011658,-630.290833 227.304886,-643.766052"
+              class="3620 3660" stroke-opacity="1.0" stroke="#ec768e"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#23966f" r="70.0" cx="-147.18364"
+                class="3529" cy="178.91074" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="-904.7127"
+                class="3531" cy="58.69488" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="441.04227"
+                class="3569" cy="608.3582" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="-348.33478"
+                class="3600" cy="682.4889" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="137.75984"
+                class="3620" cy="-486.845" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-805.949"
+                class="3532" cy="-109.09771" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-986.8229"
+                class="3534" cy="250.01302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-1069.068"
+                class="3538" cy="-285.64954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1399.5591"
+                class="3548" cy="-85.07385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-1314.4136"
+                class="3560" cy="293.05292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="735.244"
+                class="3570" cy="558.6571" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="540.86633"
+                class="3575" cy="749.0452" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="583.7213"
+                class="3576" cy="1079.1521" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="990.42804"
+                class="3587" cy="845.5385" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-616.1143"
+                class="3601" cy="1036.9092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-324.59875"
+                class="3611" cy="1000.14984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="123.758385"
+                class="3621" cy="-1084.1498" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="574.7518"
+                class="3642" cy="-765.181" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="227.30489"
+                class="3660" cy="-643.76605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1132.0063"
+                class="3535" cy="262.24133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-886.8896"
+                class="3536" cy="356.7466" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1039.8193"
+                class="3537" cy="375.20758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1160.4854"
+                class="3539" cy="-457.45538" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1024.1887"
+                class="3542" cy="-479.00705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1261.4442"
+                class="3544" cy="-601.7079" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1602.4148"
+                class="3549" cy="108.025055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1485.86"
+                class="3550" cy="-321.79398" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1701.7117"
+                class="3551" cy="-217.45204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1757.4281"
+                class="3552" cy="-92.72408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1384.1846"
+                class="3553" cy="-250.03253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1503.5623"
+                class="3554" cy="-194.74323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1437.4591"
+                class="3555" cy="81.26741" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1612.0107"
+                class="3556" cy="-115.15919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1615.1447"
+                class="3557" cy="-306.03018" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1529.5928"
+                class="3558" cy="-1.3431348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1679.4893"
+                class="3559" cy="14.699529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1428.383"
+                class="3561" cy="402.09036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1688.4113"
+                class="3563" cy="485.09558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="904.14667"
+                class="3571" cy="450.52167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="825.44556"
+                class="3572" cy="665.5754" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="774.4179"
+                class="3573" cy="426.8012" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="930.6921"
+                class="3574" cy="567.58673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="450.15384"
+                class="3577" cy="1332.8494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="581.1466"
+                class="3578" cy="1223.3105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="731.64465"
+                class="3579" cy="1031.5328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="676.83093"
+                class="3580" cy="1331.5709" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="423.59637"
+                class="3581" cy="1209.8749" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="808.51495"
+                class="3582" cy="1137.6122" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="574.3241"
+                class="3583" cy="1395.3092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="441.4769"
+                class="3584" cy="1079.2078" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="717.77783"
+                class="3585" cy="1214.6914" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="794.09546"
+                class="3586" cy="1312.7328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1140.2601"
+                class="3588" cy="891.3159" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1461.717"
+                class="3590" cy="1041.283" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-772.72925"
+                class="3602" cy="1119.7592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-669.0424"
+                class="3604" cy="1200.566" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-765.80237"
+                class="3607" cy="1362.9688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-459.92654"
+                class="3612" cy="1036.9995" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-486.34"
+                class="3613" cy="1170.943" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-175.35976"
+                class="3615" cy="1043.8793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-231.09131"
+                class="3617" cy="1164.2559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-296.78494"
+                class="3618" cy="1272.6179" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-354.16095"
+                class="3619" cy="1153.0624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="258.78958"
+                class="3622" cy="-1402.9646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="205.65086"
+                class="3626" cy="-1223.1499" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="7.6180534"
+                class="3628" cy="-1576.8411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-34.680763"
+                class="3637" cy="-1166.2059" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="72.34254"
+                class="3639" cy="-1270.6775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="726.7272"
+                class="3643" cy="-822.84924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="642.7954"
+                class="3645" cy="-923.8139" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="884.5478"
+                class="3647" cy="-777.1728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="940.91724"
+                class="3650" cy="-1064.3082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1435.991"
+                class="3545" cy="-667.46466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1389.0845"
+                class="3546" cy="-799.0642" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1250.3428"
+                class="3547" cy="-776.38654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1889.5962"
+                class="3564" cy="427.80408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1750.8779"
+                class="3565" cy="673.457" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1960.8574"
+                class="3566" cy="546.8752" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1813.425"
+                class="3567" cy="539.1277" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1885.0569"
+                class="3568" cy="667.37537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1720.9055"
+                class="3591" cy="943.03766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1455.4093"
+                class="3592" cy="1237.5928" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1699.5138"
+                class="3593" cy="1257.2623" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1695.0967"
+                class="3594" cy="1135.3641" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1568.6362"
+                class="3595" cy="1306.037" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1796.9697"
+                class="3596" cy="1040.7054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1605.9391"
+                class="3597" cy="1034.4484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1557.7953"
+                class="3598" cy="1156.3569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1575.9363"
+                class="3599" cy="906.7485" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-932.12976"
+                class="3608" cy="1447.4202" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-872.5502"
+                class="3609" cy="1570.5859" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-737.7345"
+                class="3610" cy="1550.0691" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="408.37866"
+                class="3623" cy="-1498.8778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="236.44708"
+                class="3624" cy="-1560.265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="349.682"
+                class="3625" cy="-1604.1865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1.6012946"
+                class="3629" cy="-1850.4147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="131.35472"
+                class="3630" cy="-1826.529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-140.6749"
+                class="3631" cy="-1622.5425" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-30.872082"
+                class="3632" cy="-1708.2523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-127.128914"
+                class="3633" cy="-1841.924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="116.81622"
+                class="3634" cy="-1687.2688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-197.33607"
+                class="3636" cy="-1740.7483" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1013.8286"
+                class="3648" cy="-710.54346" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1014.59924"
+                class="3649" cy="-852.5183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1028.973"
+                class="3651" cy="-1289.7743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1126.9567"
+                class="3653" cy="-1022.4174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1061.4329"
+                class="3655" cy="-1150.5514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="920.5053"
+                class="3657" cy="-1232.2601" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1194.5304"
+                class="3658" cy="-1127.088" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1166.376"
+                class="3659" cy="-1247.8843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="-147.18364" y="188.77158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3529">
+            Social Organization and Social Change
+        </text>
+        <text font-size="36" x="-904.7127" y="67.144104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3531">
+            Social Structure and Change
+        </text>
+        <text font-size="36" x="441.04227" y="616.80743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3569">
+            The Group Structure of Society
+        </text>
+        <text font-size="36" x="-348.33478" y="689.15393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3600">
+            Social Status
+        </text>
+        <text font-size="36" x="137.75984" y="-478.50125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3620">
+            Human Populations: Urban and Rural Communities
+        </text>
+        <text font-size="18" x="-805.949" y="-104.8731" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3532">
+            The structure of society
+        </text>
+        <text font-size="24" x="-986.8229" y="255.57552" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3534">
+            The social effects of bureaucratic and industrial specialization
+        </text>
+        <text font-size="30" x="-1069.068" y="-280.09534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3538">
+            Social control
+        </text>
+        <text font-size="24" x="-1399.5591" y="-79.51526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3548">
+            Factors operative in social change
+        </text>
+        <text font-size="30" x="-1314.4136" y="300.09393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3560">
+            Social movements and social change
+        </text>
+        <text font-size="24" x="735.244" y="564.2899" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3570">
+            The various types of groups: patterns of group relations
+        </text>
+        <text font-size="18" x="540.86633" y="753.26984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3575">
+            The social effects of racial and ethnic prejudice
+        </text>
+        <text font-size="24" x="583.7213" y="1084.7146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3576">
+            Special social concerns
+        </text>
+        <text font-size="30" x="990.42804" y="852.5795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3587">
+            Social service: organized public and private activities to
+            alleviate human wants and needs
+        </text>
+        <text font-size="30" x="-616.1143" y="1042.4634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3601">
+            Social differentiation and stratification
+        </text>
+        <text font-size="24" x="-324.59875" y="1005.78265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3611">
+            Varieties of social stratification and social mobility
+        </text>
+        <text font-size="30" x="123.758385" y="-1077.1088" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3621">
+            The composition and change of human populations
+        </text>
+        <text font-size="30" x="574.7518" y="-758.2279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3642">
+            Development of modem cities
+        </text>
+        <text font-size="18" x="227.30489" y="-639.5942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3660">
+            Development of modern rural societies
+        </text>
+        <text font-size="18" x="-1132.0063" y="265.57092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3535">
+            The social effects of industrialization and modernization
+        </text>
+        <text font-size="18" x="-886.8896" y="360.97122" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3536">
+            The social effects of organizational specialization: bureaucracy
+        </text>
+        <text font-size="18" x="-1039.8193" y="379.37946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3537">
+            The social effects of industrial specialization and automation
+        </text>
+        <text font-size="18" x="-1160.4854" y="-453.2835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3539">
+            The process of socialization
+        </text>
+        <text font-size="18" x="-1024.1887" y="-474.83517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3542">
+            Theories of alienation: definitions, causes, manifestations, and
+            proposed solutions
+        </text>
+        <text font-size="24" x="-1261.4442" y="-596.0751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3544">
+            The regulation of behaviour that departs from social norms
+        </text>
+        <text font-size="18" x="-1602.4148" y="112.249664" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3549">
+            The role of ideology in social change
+        </text>
+        <text font-size="18" x="-1485.86" y="-317.56937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3550">
+            Contact with other cultures as a factor in social change
+        </text>
+        <text font-size="18" x="-1701.7117" y="-213.22743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3551">
+            The influence of environment as a factor in social change
+        </text>
+        <text font-size="18" x="-1757.4281" y="-88.49947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3552">
+            The role of demographic factors in social change
+        </text>
+        <text font-size="18" x="-1384.1846" y="-245.80792" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3553">
+            The role of art in social change: art as an ideological instrument
+        </text>
+        <text font-size="18" x="-1503.5623" y="-190.51862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3554">
+            Religion as a factor for and against social change
+        </text>
+        <text font-size="18" x="-1437.4591" y="85.49202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3555">
+            The role of intellectual factors in social change
+        </text>
+        <text font-size="18" x="-1612.0107" y="-110.93458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3556">
+            The relationship of economic factors to social stability
+        </text>
+        <text font-size="18" x="-1615.1447" y="-301.80557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3557">
+            Technological factors in social change
+        </text>
+        <text font-size="18" x="-1529.5928" y="2.8814745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3558">
+            The role of collective behaviour in social change
+        </text>
+        <text font-size="18" x="-1679.4893" y="18.871403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3559">
+            The role of public opinion in social behaviour
+        </text>
+        <text font-size="18" x="-1428.383" y="405.42288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3561">
+            Characteristics of social movements
+        </text>
+        <text font-size="24" x="-1688.4113" y="490.7284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3563">
+            Selected types of social movements
+        </text>
+        <text font-size="18" x="904.14667" y="454.74628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3571">
+            Classifications of groups
+        </text>
+        <text font-size="18" x="825.44556" y="669.8" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3572">
+            The modem family: its organization and functions
+        </text>
+        <text font-size="18" x="774.4179" y="431.02582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3573">
+            Special-interest groups
+        </text>
+        <text font-size="18" x="930.6921" y="571.7557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3574">
+            Minorities and ethnic groups
+        </text>
+        <text font-size="18" x="450.15384" y="1336.1233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3577">
+            The adolescent
+        </text>
+        <text font-size="18" x="581.1466" y="1227.4795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3578">
+            The aged
+        </text>
+        <text font-size="18" x="731.64465" y="1034.8068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3579">
+            Women
+        </text>
+        <text font-size="18" x="676.83093" y="1334.9034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3580">
+            Cultural minorities
+        </text>
+        <text font-size="18" x="423.59637" y="1213.9911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3581">
+            The poor
+        </text>
+        <text font-size="18" x="808.51495" y="1141.784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3582">
+            Criminals and delinquents
+        </text>
+        <text font-size="18" x="574.3241" y="1398.6417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3583">
+            Sexual deviants
+        </text>
+        <text font-size="18" x="441.4769" y="1082.4817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3584">
+            Prostitutes
+        </text>
+        <text font-size="18" x="717.77783" y="1218.8604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3585">
+            Drug and alcohol users
+        </text>
+        <text font-size="18" x="794.09546" y="1316.9047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3586">
+            Suicidal persons
+        </text>
+        <text font-size="18" x="1140.2601" y="895.5405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3588">
+            The background of social and welfare services: modem and historical
+            influences
+        </text>
+        <text font-size="24" x="1461.717" y="1045.7224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3590">
+            Fields of service
+        </text>
+        <text font-size="18" x="-772.72925" y="1123.931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3602">
+            The concepts of differentiation and stratification: distinctions
+            and interrelationships
+        </text>
+        <text font-size="18" x="-669.0424" y="1204.7906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3604">
+            Factors producing social, economic, and cultural differences
+        </text>
+        <text font-size="24" x="-765.80237" y="1368.5312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3607">
+            The process of stratification: its relationship to differentiation
+        </text>
+        <text font-size="18" x="-459.92654" y="1041.1714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3612">
+            The relation of social class to caste, status, elites, and other
+            concepts
+        </text>
+        <text font-size="18" x="-486.34" y="1174.2726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3613">
+            Theories of social class
+        </text>
+        <text font-size="18" x="-175.35976" y="1048.1039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3615">
+            Types and characteristics of and comparisons among modem social
+            classes
+        </text>
+        <text font-size="18" x="-231.09131" y="1168.4805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3617">
+            Social mobility
+        </text>
+        <text font-size="18" x="-296.78494" y="1276.8425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3618">
+            The idea of a classless society: approximations to an equality of
+            conditions
+        </text>
+        <text font-size="18" x="-354.16095" y="1157.287" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3619">
+            Social immobility: slavery, serfdom, and forced labour
+        </text>
+        <text font-size="24" x="258.78958" y="-1397.4021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3622">
+            Determinants of population
+        </text>
+        <text font-size="18" x="205.65086" y="-1218.981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3626">
+            Historical changes in population
+        </text>
+        <text font-size="24" x="7.6180534" y="-1571.2786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3628">
+            Theories of population
+        </text>
+        <text font-size="18" x="-34.680763" y="-1161.9813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3637">
+            Governmental policies influencing population growth and composition
+        </text>
+        <text font-size="18" x="72.34254" y="-1266.5056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3639">
+            The future of the world&apos;s population
+        </text>
+        <text font-size="18" x="726.7272" y="-819.5167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3643">
+            Characteristics of urbanization
+        </text>
+        <text font-size="18" x="642.7954" y="-919.5893" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3645">
+            History of urbanization
+        </text>
+        <text font-size="24" x="884.5478" y="-771.54" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3647">
+            Patterns of urban planning
+        </text>
+        <text font-size="24" x="940.91724" y="-1059.943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3650">
+            Trends in urbanization
+        </text>
+        <text font-size="18" x="-1435.991" y="-663.24005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3545">
+            By punishment, rehabilitation, and reform of criminals
+        </text>
+        <text font-size="18" x="-1389.0845" y="-794.89526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3546">
+            By psychological therapy
+        </text>
+        <text font-size="18" x="-1250.3428" y="-772.2176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3547">
+            By persuasion
+        </text>
+        <text font-size="18" x="-1889.5962" y="431.97302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3564">
+            Movements centred on religious concepts or personalities
+        </text>
+        <text font-size="18" x="-1750.8779" y="676.78656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3565">
+            Humanitarian and reform movements
+        </text>
+        <text font-size="18" x="-1960.8574" y="551.0441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3566">
+            Interest group movements
+        </text>
+        <text font-size="18" x="-1813.425" y="543.29663" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3567">
+            Revolutionary movements
+        </text>
+        <text font-size="18" x="-1885.0569" y="670.6493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3568">
+            Nationalist movements
+        </text>
+        <text font-size="18" x="1720.9055" y="947.26227" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3591">
+            Family welfare
+        </text>
+        <text font-size="18" x="1455.4093" y="1240.9253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3592">
+            Child welfare
+        </text>
+        <text font-size="18" x="1699.5138" y="1260.5919" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3593">
+            Youth welfare
+        </text>
+        <text font-size="18" x="1695.0967" y="1139.536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3594">
+            Group welfare
+        </text>
+        <text font-size="18" x="1568.6362" y="1309.3666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3595">
+            Disaster relief
+        </text>
+        <text font-size="18" x="1796.9697" y="1044.93" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3596">
+            Community development
+        </text>
+        <text font-size="18" x="1605.9391" y="1038.6173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3597">
+            Medical and psychiatric social services
+        </text>
+        <text font-size="18" x="1557.7953" y="1159.6895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3598">
+            School social services
+        </text>
+        <text font-size="18" x="1575.9363" y="910.9731" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3599">
+            Correctional services: probation, parole, and delinquency control
+        </text>
+        <text font-size="18" x="-932.12976" y="1450.7498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3608">
+            Economic differentiation: the basis of stratification
+        </text>
+        <text font-size="18" x="-872.5502" y="1574.7578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3609">
+            Class, status, and power as forms of stratification
+        </text>
+        <text font-size="18" x="-737.7345" y="1554.2937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3610">
+            The relation of the individual to society: the effects of
+            differentiation and stratification
+        </text>
+        <text font-size="18" x="408.37866" y="-1494.6532" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3623">
+            Human fertility and its control
+        </text>
+        <text font-size="18" x="236.44708" y="-1556.0961" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3624">
+            Mortality: death rates and longevity
+        </text>
+        <text font-size="18" x="349.682" y="-1599.9619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3625">
+            Migration and refugee movements
+        </text>
+        <text font-size="18" x="1.6012946" y="-1846.2428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3629">
+            Premodem beliefs: pronatalism versus birth control
+        </text>
+        <text font-size="18" x="131.35472" y="-1822.3601" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3630">
+            Mercantilist theory
+        </text>
+        <text font-size="18" x="-140.6749" y="-1618.3179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3631">
+            Laissez-faire theory
+        </text>
+        <text font-size="18" x="-30.872082" y="-1704.0834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3632">
+            Malthusian theory
+        </text>
+        <text font-size="18" x="-127.128914" y="-1837.755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3633">
+            Marxist theory
+        </text>
+        <text font-size="18" x="116.81622" y="-1683.0969" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3634">
+            Modern theories of population
+        </text>
+        <text font-size="18" x="-197.33607" y="-1736.5237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3636">
+            Ecological theories concerning the relationship between human
+            population growth and the conservation of natural resources
+        </text>
+        <text font-size="18" x="1013.8286" y="-706.31885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3648">
+            Methods and materials of urban planning and redevelopment
+        </text>
+        <text font-size="18" x="1014.59924" y="-848.2937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3649">
+            Social aspects of urban planning and redevelopment
+        </text>
+        <text font-size="18" x="1028.973" y="-1285.6053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3651">
+            Megalopolis
+        </text>
+        <text font-size="18" x="1126.9567" y="-1019.0849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3653">
+            Suburbanization
+        </text>
+        <text font-size="18" x="1061.4329" y="-1146.3824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3655">
+            Regional integration
+        </text>
+        <text font-size="18" x="920.5053" y="-1228.0355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3657">
+            The role of technology in extending the dominance and influence of
+            urban concentrations
+        </text>
+        <text font-size="18" x="1194.5304" y="-1122.8634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3658">
+            Problems of urban growth and population control
+        </text>
+        <text font-size="18" x="1166.376" y="-1243.6597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3659">
+            Problems of environmental change: pollution, climatic change
+        </text>
+    </g>
+</svg>

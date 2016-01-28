@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2755.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1593.000000 -1972.000000 2755.000000 4228.000000" height="4228.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -64.698135,793.945557 C -85.734787,754.881042 -58.693024,664.729370 -19.628527,643.692688"
+              class="1 1237" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -19.628527,643.692688 C -46.438972,606.855103 -31.398294,511.383118 5.439269,484.572662"
+              class="1237 1608" stroke-opacity="1.0" stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 5.439269,484.572662 C 164.806900,630.819458 184.488190,1089.240967 38.241417,1248.608643"
+              class="1608 1610" stroke-opacity="1.0" stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 86.430855,1327.733398 40.027779,1518.704834 -39.097046,1566.894287"
+              class="1610 1611" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.097046,1566.894287 C -11.218494,1588.567017 -1.909819,1662.894043 -23.582588,1690.772583"
+              class="1611 1612" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.097046,1566.894287 C -31.737549,1601.047729 -71.928314,1663.316895 -106.081665,1670.676392"
+              class="1611 1615" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.097046,1566.894287 C 0.270756,1632.337524 -38.842464,1789.554199 -104.285751,1828.921997"
+              class="1611 1618" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -104.285751,1828.921997 C -90.363831,1874.571411 -137.955154,1963.928589 -183.604614,1977.850464"
+              class="1618 1619" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -104.285751,1828.921997 C -71.107941,1860.599854 -68.857956,1957.883179 -100.535759,1991.061035"
+              class="1618 1621" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 125.899384,1213.572266 309.940765,1292.504883 344.977051,1380.162842"
+              class="1610 1622" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 344.977051,1380.162842 C 373.633331,1359.109619 448.197571,1370.514160 469.250824,1399.170410"
+              class="1622 1623" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 344.977051,1380.162842 C 424.627563,1355.429321 581.203491,1437.805054 605.936890,1517.455566"
+              class="1622 1625" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 605.936890,1517.455566 C 652.767273,1503.579346 743.826965,1553.010742 757.703125,1599.841064"
+              class="1625 1626" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 605.936890,1517.455566 C 649.522644,1524.291382 704.647766,1599.923584 697.812012,1643.509399"
+              class="1625 1627" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 605.936890,1517.455566 C 637.276428,1488.836182 727.214844,1492.916504 755.834167,1524.256104"
+              class="1625 1628" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 9.939258,1290.798828 -95.799278,1311.630981 -137.989471,1283.328735"
+              class="1610 1630" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.989471,1283.328735 C -132.377838,1311.911499 -166.834503,1363.203125 -195.417267,1368.814697"
+              class="1630 1631" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.989471,1283.328735 C -158.568848,1312.773804 -233.605438,1326.072266 -263.050476,1305.492920"
+              class="1630 1632" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.989471,1283.328735 C -166.940033,1290.757568 -221.509018,1258.474854 -228.937790,1229.524292"
+              class="1630 1633" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 121.948059,1255.774292 236.759659,1392.082520 229.594086,1475.789185"
+              class="1610 1634" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.594086,1475.789185 C 301.684967,1484.801636 396.302673,1606.456543 387.290283,1678.547363"
+              class="1634 1635" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 387.290283,1678.547363 C 432.152313,1672.721802 508.183624,1731.276611 514.009155,1776.138550"
+              class="1635 1636" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 387.290283,1678.547363 C 428.366669,1695.711914 464.234436,1783.073242 447.069916,1824.149658"
+              class="1635 1637" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.594086,1475.789185 C 263.743378,1474.407471 317.039917,1523.558716 318.421661,1557.708008"
+              class="1634 1639" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 57.599827,1231.796143 111.856056,1235.615234 128.668472,1254.973633"
+              class="1610 1641" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 140.641571,1311.787598 199.473236,1560.156494 136.294189,1662.556641"
+              class="1610 1642" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.294189,1662.556641 C 169.064636,1684.300659 185.604248,1766.072388 163.860229,1798.842773"
+              class="1642 1643" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.294189,1662.556641 C 228.782318,1720.250854 280.973328,1945.524170 223.279160,2038.012329"
+              class="1642 1645" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 223.279160,2038.012329 C 242.750183,2080.854004 207.694260,2174.322998 164.852631,2193.793945"
+              class="1645 1646" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 223.279160,2038.012329 C 267.005005,2035.026367 337.072815,2096.135986 340.058868,2139.861816"
+              class="1645 1647" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 223.279160,2038.012329 C 276.416870,2054.135986 331.937866,2158.028076 315.814117,2211.166016"
+              class="1645 1648" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 223.279160,2038.012329 C 252.952103,2059.041260 265.917969,2135.094238 244.888901,2164.767334"
+              class="1645 1649" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 223.279160,2038.012329 C 263.638245,2076.546143 266.376343,2194.885254 227.842621,2235.244385"
+              class="1645 1650" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.241417,1248.608643 C 33.248688,1363.930542 -147.223297,1529.424438 -262.545227,1524.431641"
+              class="1610 1651" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -262.545227,1524.431641 C -282.842651,1595.081543 -419.263641,1670.610229 -489.913544,1650.312866"
+              class="1651 1652" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.913544,1650.312866 C -490.236633,1696.498779 -560.000122,1765.292969 -606.185974,1764.969849"
+              class="1652 1653" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.913544,1650.312866 C -512.251770,1688.368652 -602.842957,1711.945190 -640.898804,1689.606934"
+              class="1652 1654" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -262.545227,1524.431641 C -245.944244,1599.960327 -334.335785,1738.154907 -409.864471,1754.755859"
+              class="1651 1655" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -409.864471,1754.755859 C -388.923248,1797.690796 -421.913666,1893.504883 -464.848541,1914.446167"
+              class="1655 1656" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -409.864471,1754.755859 C -411.402466,1802.572388 -485.434174,1871.990112 -533.250671,1870.452148"
+              class="1655 1657" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -262.545227,1524.431641 C -268.865753,1559.722534 -331.282867,1603.178101 -366.573792,1596.857666"
+              class="1651 1658" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 5.439269,484.572662 C -139.626755,358.275696 -167.780334,-48.768795 -41.483353,-193.834824"
+              class="1608 1660" stroke-opacity="1.0" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.483353,-193.834824 C 69.564522,-334.591461 447.271301,-379.154633 588.027954,-268.106750"
+              class="1660 1661" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 608.449829,-248.477036 609.638062,-188.399673 590.008301,-167.977814"
+              class="1661 1662" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 597.253723,-366.548340 758.754761,-500.372131 857.196350,-491.146362"
+              class="1661 1664" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 857.196350,-491.146362 C 873.083496,-548.252747 982.573914,-610.081604 1039.680298,-594.194458"
+              class="1664 1665" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 857.196350,-491.146362 C 834.013489,-528.932373 855.918091,-620.385803 893.704102,-643.568665"
+              class="1664 1666" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 857.196350,-491.146362 C 852.320190,-542.971375 922.743408,-628.023071 974.568420,-632.899231"
+              class="1664 1667" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 857.196350,-491.146362 C 880.122131,-526.325439 967.279419,-544.705261 1002.458496,-521.779480"
+              class="1664 1668" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 570.126099,-283.545349 566.431152,-333.556000 581.869751,-351.457855"
+              class="1661 1669" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 649.838257,-348.949341 863.817566,-377.497833 944.660217,-315.687531"
+              class="1661 1671" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 944.660217,-315.687531 C 982.584717,-356.381592 1100.512573,-360.535858 1141.206665,-322.611328"
+              class="1671 1672" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 944.660217,-315.687531 C 985.934204,-334.883392 1076.638916,-301.766144 1095.834839,-260.492157"
+              class="1671 1673" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 944.660217,-315.687531 C 954.490356,-353.123138 1025.388916,-394.531372 1062.824463,-384.701294"
+              class="1671 1674" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 944.660217,-315.687531 C 966.073242,-369.956299 1079.595947,-419.239929 1133.864746,-397.826874"
+              class="1671 1675" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 681.202698,-303.946533 874.724487,-217.944168 910.564270,-124.769440"
+              class="1661 1676" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 910.564270,-124.769440 C 957.050903,-154.658386 1071.614258,-129.761917 1101.503174,-83.275307"
+              class="1676 1677" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 910.564270,-124.769440 C 965.597778,-133.908630 1061.856812,-65.067123 1070.996094,-10.033592"
+              class="1676 1678" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 910.564270,-124.769440 C 950.096008,-119.085129 1000.867249,-51.261002 995.182922,-11.729229"
+              class="1676 1679" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 910.564270,-124.769440 C 937.519165,-158.540604 1028.608154,-168.765030 1062.379395,-141.810150"
+              class="1676 1680" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 566.181030,-321.000183 612.750916,-433.110687 665.644348,-454.957550"
+              class="1661 1681" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 665.644348,-454.957550 C 658.955811,-492.053680 704.567261,-557.730713 741.663391,-564.419250"
+              class="1681 1682" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 665.644348,-454.957550 C 640.606384,-483.290314 645.548523,-563.346375 673.881287,-588.384338"
+              class="1681 1683" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 611.383911,-285.936005 673.161804,-277.645905 690.991028,-254.289902"
+              class="1661 1684" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.027954,-268.106750 C 660.587830,-251.958115 745.204712,-118.895309 729.056091,-46.335411"
+              class="1661 1687" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 729.056091,-46.335411 C 765.940857,-56.895329 837.107849,-17.408064 847.667786,19.476698"
+              class="1687 1688" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 729.056091,-46.335411 C 756.694336,-21.553362 760.978760,57.077164 736.196716,84.715462"
+              class="1687 1689" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 729.056091,-46.335411 C 774.858948,-36.306244 828.519592,47.441856 818.490417,93.244751"
+              class="1687 1690" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.483353,-193.834824 C -64.866737,-111.358299 -223.656616,-22.718582 -306.133148,-46.101967"
+              class="1660 1691" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.133148,-46.101967 C -327.755219,22.416592 -462.966125,92.761337 -531.484680,71.139275"
+              class="1691 1692" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -531.484680,71.139275 C -542.806152,113.287170 -623.010254,159.526779 -665.158142,148.205292"
+              class="1692 1693" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -531.484680,71.139275 C -523.470337,104.692276 -561.778259,167.043304 -595.331299,175.057663"
+              class="1692 1694" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -531.484680,71.139275 C -559.914063,99.167755 -644.600769,98.566452 -672.629272,70.137093"
+              class="1692 1695" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.133148,-46.101967 C -300.580200,-12.045421 -343.335632,47.368797 -377.392181,52.921726"
+              class="1691 1697" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -306.133148,-46.101967 C -325.869659,-24.481966 -387.904419,-21.656733 -409.524414,-41.393242"
+              class="1691 1699" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.483353,-193.834824 C -264.857758,-245.095566 -523.028259,-657.048279 -471.767517,-880.422668"
+              class="1660 1701" stroke-opacity="1.0" stroke="#a56721"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -467.578674,-962.044434 -338.862762,-1078.193848 -257.240997,-1074.005005"
+              class="1701 1702" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.240997,-1074.005005 C -223.336670,-1095.273804 -140.576920,-1076.320557 -119.308090,-1042.416260"
+              class="1702 1703" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.240997,-1074.005005 C -269.933624,-1114.202271 -228.676575,-1193.537231 -188.479248,-1206.229858"
+              class="1702 1704" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.240997,-1074.005005 C -250.869156,-1124.305054 -165.861435,-1190.197144 -115.561462,-1183.825317"
+              class="1702 1705" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.240997,-1074.005005 C -283.014526,-1096.120483 -288.501587,-1167.954102 -266.386078,-1193.727539"
+              class="1702 1706" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.240997,-1074.005005 C -245.754135,-1102.415405 -185.908279,-1127.800659 -157.497894,-1116.313843"
+              class="1702 1708" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -549.075378,-875.182434 -672.897461,-983.283936 -678.137695,-1060.591797"
+              class="1701 1709" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -678.137695,-1060.591797 C -694.128174,-1030.073975 -763.890564,-1008.282837 -794.408386,-1024.273315"
+              class="1709 1710" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -678.137695,-1060.591797 C -714.893188,-1037.306763 -804.954102,-1057.512573 -828.239136,-1094.268066"
+              class="1709 1711" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -678.137695,-1060.591797 C -697.538757,-1089.185181 -683.750061,-1161.177002 -655.156616,-1180.578003"
+              class="1709 1712" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -678.137695,-1060.591797 C -713.943176,-1078.264038 -741.143066,-1158.480835 -723.470764,-1194.286377"
+              class="1709 1713" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -678.137695,-1060.591797 C -717.146118,-1057.472534 -780.337708,-1111.306274 -783.456970,-1150.314697"
+              class="1709 1714" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -476.444092,-822.773376 -569.932922,-743.314270 -627.582214,-747.990906"
+              class="1701 1715" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -627.582214,-747.990906 C -618.083618,-713.505737 -655.563599,-647.530151 -690.048767,-638.031555"
+              class="1715 1716" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -627.582214,-747.990906 C -640.842529,-713.155273 -712.986450,-680.792358 -747.822083,-694.052673"
+              class="1715 1717" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -569.373596,-783.034607 -861.864685,-783.361633 -959.252747,-880.967712"
+              class="1701 1718" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -959.252747,-880.967712 C -1042.601074,-802.751404 -1284.947998,-810.449341 -1363.164307,-893.797607"
+              class="1718 1719" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1363.164307,-893.797607 C -1384.222046,-844.530396 -1489.709595,-802.216248 -1538.976807,-823.273987"
+              class="1719 1720" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1363.164307,-893.797607 C -1413.441040,-872.654724 -1520.570679,-916.355530 -1541.713623,-966.632324"
+              class="1719 1721" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1363.164307,-893.797607 C -1406.515747,-895.461121 -1469.047485,-962.983398 -1467.384033,-1006.334778"
+              class="1719 1722" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1363.164307,-893.797607 C -1405.399292,-852.286621 -1531.018188,-853.372559 -1572.529297,-895.607544"
+              class="1719 1723" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1363.164307,-893.797607 C -1363.778931,-853.677673 -1424.880981,-794.419800 -1465.000977,-795.034485"
+              class="1719 1724" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1363.164307,-893.797607 C -1389.197876,-871.396851 -1461.849243,-876.846069 -1484.250000,-902.879639"
+              class="1719 1725" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -959.252747,-880.967712 C -985.166504,-847.967285 -1073.537720,-837.337280 -1106.538086,-863.251038"
+              class="1718 1726" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -959.252747,-880.967712 C -965.889526,-841.481323 -1035.074341,-792.206848 -1074.560791,-798.843628"
+              class="1718 1727" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -959.252747,-880.967712 C -996.338013,-865.271851 -1075.509766,-897.356018 -1091.205688,-934.441284"
+              class="1718 1729" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -537.396667,-1002.181580 -453.202087,-1283.263550 -331.443176,-1348.892822"
+              class="1701 1730" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.443176,-1348.892822 C -359.495453,-1378.411987 -357.295105,-1464.769043 -327.775970,-1492.821411"
+              class="1730 1731" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.443176,-1348.892822 C -385.290680,-1454.322632 -307.917206,-1693.238647 -202.487381,-1747.086182"
+              class="1730 1732" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.487381,-1747.086182 C -207.344299,-1796.885986 -139.930084,-1878.870850 -90.130363,-1883.727783"
+              class="1732 1733" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.487381,-1747.086182 C -188.376633,-1789.024780 -104.302498,-1830.766724 -62.363819,-1816.656006"
+              class="1732 1734" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.487381,-1747.086182 C -242.069916,-1764.517578 -275.296539,-1850.038696 -257.865051,-1889.621216"
+              class="1732 1736" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.487381,-1747.086182 C -224.303711,-1778.045654 -210.588959,-1857.209351 -179.629471,-1879.025757"
+              class="1732 1737" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.487381,-1747.086182 C -244.539276,-1786.947876 -247.824448,-1909.818481 -207.962677,-1951.870361"
+              class="1732 1738" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -202.487381,-1747.086182 C -227.900330,-1800.547241 -185.828033,-1918.858521 -132.366867,-1944.271484"
+              class="1732 1739" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -331.443176,-1348.892822 C -340.257202,-1390.220215 -291.487122,-1465.432495 -250.159668,-1474.246460"
+              class="1730 1740" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -631.938538,-915.923401 -818.944031,-1209.431030 -783.443298,-1369.602173"
+              class="1701 1741" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -783.443298,-1369.602173 C -818.620605,-1379.229126 -856.946167,-1446.435303 -847.319275,-1481.612549"
+              class="1741 1742" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -783.443298,-1369.602173 C -875.194458,-1390.145020 -982.006958,-1558.586060 -961.464111,-1650.337158"
+              class="1741 1743" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -961.464111,-1650.337158 C -1000.670105,-1674.266846 -1023.584595,-1768.970337 -999.654846,-1808.176392"
+              class="1743 1744" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -961.464111,-1650.337158 C -1018.646973,-1665.636841 -1081.471802,-1774.360596 -1066.172119,-1831.543579"
+              class="1743 1745" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -961.464111,-1650.337158 C -1008.059326,-1644.147217 -1087.237061,-1704.755127 -1093.427002,-1751.350342"
+              class="1743 1746" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -783.443298,-1369.602173 C -872.177612,-1346.512329 -1039.913818,-1444.979248 -1063.003540,-1533.713623"
+              class="1741 1747" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1063.003540,-1533.713623 C -1117.054810,-1519.983887 -1218.726563,-1580.465942 -1232.456299,-1634.517212"
+              class="1747 1748" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1063.003540,-1533.713623 C -1109.833496,-1540.991821 -1169.161011,-1622.154053 -1161.882813,-1668.984009"
+              class="1747 1749" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1063.003540,-1533.713623 C -1100.229492,-1504.714722 -1199.566772,-1517.055054 -1228.565674,-1554.281006"
+              class="1747 1750" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -783.443298,-1369.602173 C -853.312744,-1426.334961 -873.017761,-1616.238403 -816.284912,-1686.107910"
+              class="1741 1751" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -816.284912,-1686.107910 C -860.618225,-1721.031006 -874.733521,-1839.915527 -839.810486,-1884.248779"
+              class="1751 1752" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -816.284912,-1686.107910 C -837.666565,-1726.903931 -808.545044,-1820.170410 -767.748962,-1841.552124"
+              class="1751 1753" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -816.284912,-1686.107910 C -859.747742,-1698.003540 -907.098328,-1781.041382 -895.202637,-1824.504150"
+              class="1751 1754" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -480.754852,-908.143311 -452.654907,-963.205200 -424.934296,-972.192566"
+              class="1701 1755" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -482.499298,-855.587708 -535.849365,-834.433044 -560.684326,-845.164856"
+              class="1701 1757" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -448.921570,-896.302429 -390.832947,-885.853210 -374.953186,-863.007263"
+              class="1701 1759" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -448.537048,-866.086121 -435.196106,-809.735596 -449.532654,-786.505127"
+              class="1701 1761" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -471.767517,-880.422668 C -501.799103,-885.218872 -539.652100,-937.460632 -534.855896,-967.492188"
+              class="1701 1763" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.483353,-193.834824 C 6.219265,-165.277710 34.937504,-50.888092 6.380378,-3.185476"
+              class="1660 1765" stroke-opacity="1.0" stroke="#b9a402"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 6.380378,-3.185476 C 37.156372,16.230158 54.196915,91.517601 34.781281,122.293594"
+              class="1765 1766" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 6.380378,-3.185476 C 20.207012,-27.801884 77.871574,-43.986549 102.487984,-30.159914"
+              class="1765 1767" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 6.380378,-3.185476 C -4.420267,22.451820 -59.077171,44.706795 -84.714470,33.906151"
+              class="1765 1768" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 6.380378,-3.185476 C 19.701027,28.683144 -8.120930,96.467041 -39.989552,109.787689"
+              class="1765 1769" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 6.380378,-3.185476 C 39.296898,-7.828193 95.635757,34.582504 100.278473,67.499023"
+              class="1765 1770" stroke-opacity="1.0" stroke="#a9a47f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="50.0" cx="-64.698135"
+                class="1" cy="793.94556" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="45.714287" cx="-19.628527"
+                class="1237" cy="643.6927" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="41.428574" cx="5.439269"
+                class="1608" cy="484.57266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="38.241417"
+                class="1610" cy="1248.6086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-39.097046"
+                class="1611" cy="1566.8943" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-23.582588"
+                class="1612" cy="1690.7726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-106.081665"
+                class="1615" cy="1670.6764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-104.28575"
+                class="1618" cy="1828.922" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-183.60461"
+                class="1619" cy="1977.8505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-100.53576"
+                class="1621" cy="1991.061" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="344.97705"
+                class="1622" cy="1380.1628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="469.25082"
+                class="1623" cy="1399.1704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="605.9369"
+                class="1625" cy="1517.4556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="757.7031"
+                class="1626" cy="1599.8411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="697.812"
+                class="1627" cy="1643.5094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="755.83417"
+                class="1628" cy="1524.2561" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-137.98947"
+                class="1630" cy="1283.3287" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-195.41727"
+                class="1631" cy="1368.8147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-263.05048"
+                class="1632" cy="1305.4929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-228.93779"
+                class="1633" cy="1229.5243" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="229.59409"
+                class="1634" cy="1475.7892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="387.29028"
+                class="1635" cy="1678.5474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="514.00916"
+                class="1636" cy="1776.1385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="447.06992"
+                class="1637" cy="1824.1497" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="318.42166"
+                class="1639" cy="1557.708" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="128.66847"
+                class="1641" cy="1254.9736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="136.29419"
+                class="1642" cy="1662.5566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="163.86023"
+                class="1643" cy="1798.8428" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="223.27916"
+                class="1645" cy="2038.0123" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="164.85263"
+                class="1646" cy="2193.794" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="340.05887"
+                class="1647" cy="2139.8618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="315.81412"
+                class="1648" cy="2211.166" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="244.8889"
+                class="1649" cy="2164.7673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="227.84262"
+                class="1650" cy="2235.2444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-262.54523"
+                class="1651" cy="1524.4316" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-489.91354"
+                class="1652" cy="1650.3129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-606.186"
+                class="1653" cy="1764.9698" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-640.8988"
+                class="1654" cy="1689.6069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-409.86447"
+                class="1655" cy="1754.7559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-464.84854"
+                class="1656" cy="1914.4462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-533.2507"
+                class="1657" cy="1870.4521" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-366.5738"
+                class="1658" cy="1596.8577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="37.14286" cx="-41.483353"
+                class="1660" cy="-193.83482" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="588.02795"
+                class="1661" cy="-268.10675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="590.0083"
+                class="1662" cy="-167.97781" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="857.19635"
+                class="1664" cy="-491.14636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1039.6803"
+                class="1665" cy="-594.19446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="893.7041"
+                class="1666" cy="-643.56866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="974.5684"
+                class="1667" cy="-632.89923" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1002.4585"
+                class="1668" cy="-521.7795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="581.86975"
+                class="1669" cy="-351.45786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="944.6602"
+                class="1671" cy="-315.68753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1141.2067"
+                class="1672" cy="-322.61133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1095.8348"
+                class="1673" cy="-260.49216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1062.8245"
+                class="1674" cy="-384.7013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1133.8647"
+                class="1675" cy="-397.82687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="910.5643"
+                class="1676" cy="-124.76944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1101.5032"
+                class="1677" cy="-83.27531" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1070.9961"
+                class="1678" cy="-10.033592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="995.1829"
+                class="1679" cy="-11.729229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1062.3794"
+                class="1680" cy="-141.81015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="665.64435"
+                class="1681" cy="-454.95755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="741.6634"
+                class="1682" cy="-564.41925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="673.8813"
+                class="1683" cy="-588.38434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="690.991"
+                class="1684" cy="-254.2899" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="729.0561"
+                class="1687" cy="-46.33541" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="847.6678"
+                class="1688" cy="19.476698" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="736.1967"
+                class="1689" cy="84.71546" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="818.4904"
+                class="1690" cy="93.24475" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-306.13315"
+                class="1691" cy="-46.101967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-531.4847"
+                class="1692" cy="71.139275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-665.15814"
+                class="1693" cy="148.20529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-595.3313"
+                class="1694" cy="175.05766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-672.6293"
+                class="1695" cy="70.13709" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-377.39218"
+                class="1697" cy="52.921726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-409.5244"
+                class="1699" cy="-41.39324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="-471.76752"
+                class="1701" cy="-880.42267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-257.241"
+                class="1702" cy="-1074.005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-119.30809"
+                class="1703" cy="-1042.4163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-188.47925"
+                class="1704" cy="-1206.2299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-115.56146"
+                class="1705" cy="-1183.8253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-266.38608"
+                class="1706" cy="-1193.7275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-157.4979"
+                class="1708" cy="-1116.3138" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-678.1377"
+                class="1709" cy="-1060.5918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-794.4084"
+                class="1710" cy="-1024.2733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-828.23914"
+                class="1711" cy="-1094.2681" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-655.1566"
+                class="1712" cy="-1180.578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-723.47076"
+                class="1713" cy="-1194.2864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-783.457"
+                class="1714" cy="-1150.3147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-627.5822"
+                class="1715" cy="-747.9909" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-690.04877"
+                class="1716" cy="-638.03156" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-747.8221"
+                class="1717" cy="-694.0527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-959.25275"
+                class="1718" cy="-880.9677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-1363.1643"
+                class="1719" cy="-893.7976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1538.9768"
+                class="1720" cy="-823.274" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1541.7136"
+                class="1721" cy="-966.6323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1467.384"
+                class="1722" cy="-1006.3348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1572.5293"
+                class="1723" cy="-895.60754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1465.001"
+                class="1724" cy="-795.0345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1484.25"
+                class="1725" cy="-902.87964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1106.5381"
+                class="1726" cy="-863.25104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1074.5608"
+                class="1727" cy="-798.8436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1091.2057"
+                class="1729" cy="-934.4413" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-331.44318"
+                class="1730" cy="-1348.8928" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-327.77597"
+                class="1731" cy="-1492.8214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-202.48738"
+                class="1732" cy="-1747.0862" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-90.13036"
+                class="1733" cy="-1883.7278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-62.36382"
+                class="1734" cy="-1816.656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-257.86505"
+                class="1736" cy="-1889.6212" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-179.62947"
+                class="1737" cy="-1879.0258" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-207.96268"
+                class="1738" cy="-1951.8704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-132.36687"
+                class="1739" cy="-1944.2715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-250.15967"
+                class="1740" cy="-1474.2465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-783.4433"
+                class="1741" cy="-1369.6022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-847.3193"
+                class="1742" cy="-1481.6125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-961.4641"
+                class="1743" cy="-1650.3372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-999.65485"
+                class="1744" cy="-1808.1764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1066.1721"
+                class="1745" cy="-1831.5436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1093.427"
+                class="1746" cy="-1751.3503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-1063.0035"
+                class="1747" cy="-1533.7136" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1232.4563"
+                class="1748" cy="-1634.5172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1161.8828"
+                class="1749" cy="-1668.984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-1228.5657"
+                class="1750" cy="-1554.281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-816.2849"
+                class="1751" cy="-1686.1079" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-839.8105"
+                class="1752" cy="-1884.2488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-767.74896"
+                class="1753" cy="-1841.5521" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-895.20264"
+                class="1754" cy="-1824.5042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-424.9343"
+                class="1755" cy="-972.19257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-560.6843"
+                class="1757" cy="-845.16486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-374.9532"
+                class="1759" cy="-863.00726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-449.53265"
+                class="1761" cy="-786.5051" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-534.8559"
+                class="1763" cy="-967.4922" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="6.3803782"
+                class="1765" cy="-3.1854756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="34.78128"
+                class="1766" cy="122.293594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="102.48798"
+                class="1767" cy="-30.159914" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-84.71447"
+                class="1768" cy="33.90615" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-39.98955"
+                class="1769" cy="109.78769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="100.27847"
+                class="1770" cy="67.49902" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="-64.698135" y="799.4021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="-19.628527" y="648.6036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1237">
+            The Earth
+        </text>
+        <text font-size="25" x="5.439269" y="489.20117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1608">
+            The Earth&apos;s Surface Features
+        </text>
+        <text font-size="20" x="38.241417" y="1253.3027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1610">
+            Physical Features of the Earth&apos;s Surface
+        </text>
+        <text font-size="17" x="-39.097046" y="1570.039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1611">
+            Vertical relief of the Earth&apos;s surface
+        </text>
+        <text font-size="12" x="-23.582588" y="1693.589" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1612">
+            Hypsography of the Earth&apos;s surface
+        </text>
+        <text font-size="12" x="-106.081665" y="1673.4928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1615">
+            Physiography of the continents
+        </text>
+        <text font-size="15" x="-104.28575" y="1832.3961" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1618">
+            The oceanic regions
+        </text>
+        <text font-size="12" x="-183.60461" y="1980.6317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1619">
+            Principal oceanic features
+        </text>
+        <text font-size="12" x="-100.53576" y="1993.8784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1621">
+            Oceanic physiography
+        </text>
+        <text font-size="17" x="344.97705" y="1384.1528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1622">
+            The stable platform regions of the continents
+        </text>
+        <text font-size="12" x="469.25082" y="1401.9497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1623">
+            The continental shield areas and their age, structure, and
+            constituent rocks
+        </text>
+        <text font-size="15" x="605.9369" y="1520.9321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1625">
+            Uplift, downwarp, and fracture of continental platforms
+        </text>
+        <text font-size="12" x="757.7031" y="1602.0237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1626">
+            Plateaus and basins
+        </text>
+        <text font-size="12" x="697.812" y="1646.3258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1627">
+            Rift valleys
+        </text>
+        <text font-size="12" x="755.83417" y="1527.0725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1628">
+            Water bodies occupying fault-bounded structural depressions
+        </text>
+        <text font-size="15" x="-137.98947" y="1286.8053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1630">
+            The continental shelf, slope, and rise
+        </text>
+        <text font-size="12" x="-195.41727" y="1371.6311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1631">
+            Composition: evidence from bottom samples, geophysical techniques
+        </text>
+        <text font-size="12" x="-263.05048" y="1308.3093" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1632">
+            Structure and origin
+        </text>
+        <text font-size="12" x="-228.93779" y="1232.3407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1633">
+            Submarine canyons incising the continental terrace
+        </text>
+        <text font-size="17" x="229.59409" y="1479.6768" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1634">
+            The oceanic deeps
+        </text>
+        <text font-size="15" x="387.29028" y="1682.0239" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1635">
+            Components of ocean basins
+        </text>
+        <text font-size="12" x="514.00916" y="1778.3212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1636">
+            The oceanic crust
+        </text>
+        <text font-size="12" x="447.06992" y="1826.9661" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1637">
+            Major features of the deep-ocean floor
+        </text>
+        <text font-size="12" x="318.42166" y="1560.5244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1639">
+            The origin of ocean basins
+        </text>
+        <text font-size="12" x="128.66847" y="1257.583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1641">
+            Coral islands, coral reefs, and atolls
+        </text>
+        <text font-size="17" x="136.29419" y="1666.5466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1642">
+            The major mountain ranges and fracture zones of the Earth&apos;s
+            crust on the continents and beneath the oceans
+        </text>
+        <text font-size="12" x="163.86023" y="1801.6592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1643">
+            Types of mountains; e.g., volcanic, block-fault, folded
+        </text>
+        <text font-size="15" x="223.27916" y="2041.5328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1645">
+            The worldwide system of mountain ranges, fracture zones, and
+            volcanic island arcs
+        </text>
+        <text font-size="12" x="164.85263" y="2196.6104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1646">
+            The Circum-Pacific System
+        </text>
+        <text font-size="12" x="340.05887" y="2142.6782" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1647">
+            The Tethyan System
+        </text>
+        <text font-size="12" x="315.81412" y="2213.9824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1648">
+            Subsidiary mountain ranges
+        </text>
+        <text font-size="12" x="244.8889" y="2167.5466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1649">
+            The volcanic island arc systems
+        </text>
+        <text font-size="12" x="227.84262" y="2238.0608" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1650">
+            The rock types constituting the folded mountain ranges and island
+            arcs
+        </text>
+        <text font-size="17" x="-262.54523" y="1528.423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1651">
+            Oceanic ridges
+        </text>
+        <text font-size="15" x="-489.91354" y="1653.8334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1652">
+            Classification of ridges
+        </text>
+        <text font-size="12" x="-606.186" y="1767.7491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1653">
+            The global oceanic ridge system; spreading-centre zones and
+            associated phenomena
+        </text>
+        <text font-size="12" x="-640.8988" y="1692.3862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1654">
+            Aseismic ridges
+        </text>
+        <text font-size="15" x="-409.86447" y="1758.2776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1655">
+            Origin and growth of ridges
+        </text>
+        <text font-size="12" x="-464.84854" y="1917.2626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1656">
+            General geophysical properties
+        </text>
+        <text font-size="12" x="-533.2507" y="1873.2695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1657">
+            Oceanic ridges as manifestations of divergent lithospheric plate
+            boundaries
+        </text>
+        <text font-size="12" x="-366.5738" y="1599.675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1658">
+            Occurrence and distribution of ridges in the Atlantic, Pacific, and
+            Indian oceans
+        </text>
+        <text font-size="22" x="-41.483353" y="-188.67142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1660">
+            Features Produced by Geomorphic Processes Acting on the Earth&apos;s
+            Surface
+        </text>
+        <text font-size="17" x="588.02795" y="-264.11682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1661">
+            The action of the hydrosphere and atmosphere on the Earth&apos;s
+            surface features
+        </text>
+        <text font-size="12" x="590.0083" y="-165.1614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1662">
+            The process of weathering: the disintegration and alteration of
+            rocks at or near the Earth&apos;s surface
+        </text>
+        <text font-size="15" x="857.19635" y="-487.62585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1664">
+            Soil formation as a result of weathering
+        </text>
+        <text font-size="12" x="1039.6803" y="-591.97473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1665">
+            Processes and factors in soil formation
+        </text>
+        <text font-size="12" x="893.7041" y="-641.347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1666">
+            Classification and distribution of soils
+        </text>
+        <text font-size="12" x="974.5684" y="-630.67755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1667">
+            Soil crusts
+        </text>
+        <text font-size="12" x="1002.4585" y="-519.5578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1668">
+            Soil erosion and deterioration
+        </text>
+        <text font-size="12" x="581.86975" y="-348.6766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1669">
+            Gravitational processes: earth movements on slopes
+        </text>
+        <text font-size="15" x="944.6602" y="-312.25735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1671">
+            Fluvial processes
+        </text>
+        <text font-size="12" x="1141.2067" y="-319.83008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1672">
+            Entrainment and transport of materials
+        </text>
+        <text font-size="12" x="1095.8348" y="-257.74802" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1673">
+            Erosion, deposition
+        </text>
+        <text font-size="12" x="1062.8245" y="-381.8849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1674">
+            The sediment yield of drainage systems
+        </text>
+        <text font-size="12" x="1133.8647" y="-395.04562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1675">
+            The formation of hillslopes
+        </text>
+        <text font-size="15" x="910.5643" y="-121.339264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1676">
+            Eolian processes
+        </text>
+        <text font-size="12" x="1101.5032" y="-80.4589" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1677">
+            Transportation of rock debris by wind
+        </text>
+        <text font-size="12" x="1070.9961" y="-7.252342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1678">
+            Effects of wind transport
+        </text>
+        <text font-size="12" x="995.1829" y="-8.912823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1679">
+            Deposition by wind: formation and migration of dunes, the role of
+            vegetation
+        </text>
+        <text font-size="12" x="1062.3794" y="-139.59042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1680">
+            Wind action and the works of humankind
+        </text>
+        <text font-size="15" x="665.64435" y="-451.52737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1681">
+            Marine processes
+        </text>
+        <text font-size="12" x="741.6634" y="-561.60284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1682">
+            Erosion and deposition of coastal materials by waves and currents
+        </text>
+        <text font-size="12" x="673.8813" y="-585.56793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1683">
+            Transport of sediment by density flows
+        </text>
+        <text font-size="12" x="690.991" y="-251.50865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1684">
+            Glacial processes
+        </text>
+        <text font-size="15" x="729.0561" y="-42.905235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1687">
+            Lacustrine processes
+        </text>
+        <text font-size="12" x="847.6678" y="22.255995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1688">
+            Erosion and deposition by waves and currents
+        </text>
+        <text font-size="12" x="736.1967" y="86.93714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1689">
+            Sedimentation in lakes
+        </text>
+        <text font-size="12" x="818.4904" y="96.06116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1690">
+            Effects of flora and fauna on lakes and lake systems
+        </text>
+        <text font-size="17" x="-306.13315" y="-42.161865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1691">
+            The actions of the biosphere, exosphere, and lithosphere upon the
+            Earth&apos;s surface features
+        </text>
+        <text font-size="15" x="-531.4847" y="74.613396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1692">
+            Biological processes
+        </text>
+        <text font-size="12" x="-665.15814" y="151.0217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1693">
+            Effects of plants and organisms on rock weathering and soil
+            formation
+        </text>
+        <text font-size="12" x="-595.3313" y="177.87407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1694">
+            Effects of vegetation type and density on sediment yield
+        </text>
+        <text font-size="12" x="-672.6293" y="72.35682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1695">
+            Effects of humankind on the Earth&apos;s surface features
+        </text>
+        <text font-size="12" x="-377.39218" y="55.702976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1697">
+            Extraterrestrial processes: the occurrence of meteorite craters
+        </text>
+        <text font-size="12" x="-409.5244" y="-38.6491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1699">
+            Volcanic-tectonic processes
+        </text>
+        <text font-size="20" x="-471.76752" y="-875.72864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1701">
+            The characteristic features of the Earth&apos;s major environments
+        </text>
+        <text font-size="15" x="-257.241" y="-1071.2303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1702">
+            The fluvial environment
+        </text>
+        <text font-size="12" x="-119.30809" y="-1040.1965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1703">
+            Distribution of rivers in nature
+        </text>
+        <text font-size="12" x="-188.47925" y="-1203.4506" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1704">
+            Drainage patterns
+        </text>
+        <text font-size="12" x="-115.56146" y="-1181.0089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1705">
+            The geometry of river systems
+        </text>
+        <text font-size="12" x="-266.38608" y="-1191.5059" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1706">
+            Streamflow and fluvial landforms
+        </text>
+        <text font-size="12" x="-157.4979" y="-1113.4974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1708">
+            The evolution of river systems through geological time
+        </text>
+        <text font-size="15" x="-678.1377" y="-1057.8635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1709">
+            The lacustrine environment
+        </text>
+        <text font-size="12" x="-794.4084" y="-1022.0907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1710">
+            Lake basins
+        </text>
+        <text font-size="12" x="-828.23914" y="-1091.4517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1711">
+            Lake hydraulics: lake currents, surface waves, seiches, effects of
+            wave and current action
+        </text>
+        <text font-size="12" x="-655.1566" y="-1177.7987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1712">
+            Lakes in arid regions
+        </text>
+        <text font-size="12" x="-723.47076" y="-1192.0647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1713">
+            Glacial lakes
+        </text>
+        <text font-size="12" x="-783.457" y="-1147.4983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1714">
+            Swamps, marshes, and bogs
+        </text>
+        <text font-size="15" x="-627.5822" y="-745.26263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1715">
+            The estuarine environment
+        </text>
+        <text font-size="12" x="-690.04877" y="-635.8118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1716">
+            The formation and destruction of estuaries
+        </text>
+        <text font-size="12" x="-747.8221" y="-691.23627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1717">
+            Hydrologic features of estuaries
+        </text>
+        <text font-size="17" x="-959.25275" y="-877.8757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1718">
+            The marine environment
+        </text>
+        <text font-size="15" x="-1363.1643" y="-890.2771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1719">
+            Coastal features resulting from depositional processes
+        </text>
+        <text font-size="12" x="-1538.9768" y="-820.4576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1720">
+            Beaches: materials, morphological features, physical processes
+        </text>
+        <text font-size="12" x="-1541.7136" y="-964.41064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1721">
+            Sand dunes and sandbars
+        </text>
+        <text font-size="12" x="-1467.384" y="-1004.15216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1722">
+            River deltas
+        </text>
+        <text font-size="12" x="-1572.5293" y="-893.38586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1723">
+            Coral reefs
+        </text>
+        <text font-size="12" x="-1465.001" y="-792.2552" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1724">
+            Lagoons
+        </text>
+        <text font-size="12" x="-1484.25" y="-900.697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1725">
+            Marshes
+        </text>
+        <text font-size="12" x="-1106.5381" y="-860.43463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1726">
+            Coastal features resulting from erosional processes: sea cliffs and
+            related landforms
+        </text>
+        <text font-size="12" x="-1074.5608" y="-796.0272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1727">
+            Coastal features dependent on bedrock type, bedrock structure, or
+            local topography
+        </text>
+        <text font-size="12" x="-1091.2057" y="-931.6249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1729">
+            Submerged coastal features: the continental shelf and slope,
+            submarine canyons
+        </text>
+        <text font-size="17" x="-331.44318" y="-1345.8008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1730">
+            The desert environment
+        </text>
+        <text font-size="12" x="-327.77597" y="-1490.0402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1731">
+            Geomorphic processes that shape desert landforms
+        </text>
+        <text font-size="15" x="-202.48738" y="-1744.3091" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1732">
+            Surficial features of deserts
+        </text>
+        <text font-size="12" x="-90.13036" y="-1880.9465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1733">
+            Mountains, plateaus, pinnacles, and similar features
+        </text>
+        <text font-size="12" x="-62.36382" y="-1814.4363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1734">
+            Alluvial fans
+        </text>
+        <text font-size="12" x="-257.86505" y="-1886.8048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1736">
+            Pediments: bedrock surfaces fringing desert highlands
+        </text>
+        <text font-size="12" x="-179.62947" y="-1876.2816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1737">
+            Desert plains, basins, depressions
+        </text>
+        <text font-size="12" x="-207.96268" y="-1949.054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1738">
+            Playas, pans, saline flats
+        </text>
+        <text font-size="12" x="-132.36687" y="-1942.0498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1739">
+            Sand sheets and sand dunes
+        </text>
+        <text font-size="12" x="-250.15967" y="-1471.4652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1740">
+            Desert boundaries: expansion and contraction of desert areas
+        </text>
+        <text font-size="17" x="-783.4433" y="-1365.6648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1741">
+            The glacial environment
+        </text>
+        <text font-size="12" x="-847.3193" y="-1478.7961" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1742">
+            Processes of glaciation
+        </text>
+        <text font-size="15" x="-961.4641" y="-1646.8167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1743">
+            Landforms produced by glacial erosion
+        </text>
+        <text font-size="12" x="-999.65485" y="-1805.36" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1744">
+            Rock polish, striations, grooves, and other small-scale features
+        </text>
+        <text font-size="12" x="-1066.1721" y="-1828.7272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1745">
+            Glaciated valleys, cirques, aretes, horns, fjords
+        </text>
+        <text font-size="12" x="-1093.427" y="-1748.5339" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1746">
+            Glacially eroded rock basins in non-mountainous regions
+        </text>
+        <text font-size="15" x="-1063.0035" y="-1530.1931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1747">
+            Landforms produced by glacial deposition
+        </text>
+        <text font-size="12" x="-1232.4563" y="-1631.9078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1748">
+            Glacial till, moraines, drumlins, and other landforms of
+            nonstratified drift
+        </text>
+        <text font-size="12" x="-1161.8828" y="-1666.2028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1749">
+            Ice-contact deposits, kames, eskers, and other landforms of
+            stratified drift
+        </text>
+        <text font-size="12" x="-1228.5657" y="-1552.0593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1750">
+            Glaciolacustrine sediments and associated landforms
+        </text>
+        <text font-size="15" x="-816.2849" y="-1682.5874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1751">
+            Landforms produced by periglacial processes
+        </text>
+        <text font-size="12" x="-839.8105" y="-1882.029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1752">
+            Permafrost
+        </text>
+        <text font-size="12" x="-767.74896" y="-1838.7357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1753">
+            Talus, rock glaciers, block fields
+        </text>
+        <text font-size="12" x="-895.20264" y="-1821.6877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1754">
+            Patterned ground, including stone nets, stripes, and polygons, and
+            features related to the melting of buried ice masses
+        </text>
+        <text font-size="12" x="-424.9343" y="-969.4484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1755">
+            The polar environment
+        </text>
+        <text font-size="12" x="-560.6843" y="-842.34845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1757">
+            The tropical environment: jungles, rain forests
+        </text>
+        <text font-size="12" x="-374.9532" y="-860.22797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1759">
+            The temperate environment: woodlands and grasslands
+        </text>
+        <text font-size="12" x="-449.53265" y="-783.7258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1761">
+            The subterranean environment: e.g., caves and cave systems
+        </text>
+        <text font-size="12" x="-534.8559" y="-964.7129" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1763">
+            Karst topography
+        </text>
+        <text font-size="15" x="6.3803782" y="0.33503222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1765">
+            Basic concepts in the theory of landform evolution
+        </text>
+        <text font-size="12" x="34.78128" y="125.074844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1766">
+            The concept of uniformitarianism
+        </text>
+        <text font-size="12" x="102.48798" y="-27.343508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1767">
+            The concept of the cycle of erosion
+        </text>
+        <text font-size="12" x="-84.71447" y="36.722557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1768">
+            The concept of morphogenetic regions
+        </text>
+        <text font-size="12" x="-39.98955" y="112.604095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1769">
+            The concept of dynamic equilibrium
+        </text>
+        <text font-size="12" x="100.27847" y="70.31543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1770">
+            The concept of entropy
+        </text>
+    </g>
+</svg>

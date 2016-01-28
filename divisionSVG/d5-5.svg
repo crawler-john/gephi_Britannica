@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2425.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-932.000000 -2311.000000 2425.000000 4208.000000" height="4208.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 372.557312,-376.449463 C 324.163330,-381.871094 259.704742,-462.594482 265.126373,-510.988464"
+              class="1 3319" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.126373,-510.988464 C 219.287582,-517.513916 160.317627,-596.060303 166.843094,-641.899109"
+              class="3319 4035" stroke-opacity="1.0" stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 166.843094,-641.899109 C 153.962555,-848.464966 444.490540,-1177.634521 651.056396,-1190.515137"
+              class="4035 4037" stroke-opacity="1.0" stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 651.056396,-1190.515137 C 713.475464,-1265.775024 919.994019,-1285.036255 995.253906,-1222.617188"
+              class="4037 4038" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 995.253906,-1222.617188 C 1050.307007,-1290.659058 1234.949219,-1310.142456 1302.991089,-1255.089355"
+              class="4038 4039" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1302.991089,-1255.089355 C 1340.912109,-1285.113403 1442.829956,-1273.267944 1472.854004,-1235.346924"
+              class="4039 4040" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1302.991089,-1255.089355 C 1323.310303,-1299.108765 1419.818115,-1334.658936 1463.837524,-1314.339722"
+              class="4039 4041" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1302.991089,-1255.089355 C 1302.984375,-1295.171997 1363.098145,-1355.306030 1403.180786,-1355.312744"
+              class="4039 4042" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1302.991089,-1255.089355 C 1342.735718,-1262.960693 1414.159668,-1215.151001 1422.031006,-1175.406372"
+              class="4039 4043" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 995.253906,-1222.617188 C 1017.693115,-1247.370117 1088.481445,-1250.840820 1113.234375,-1228.401611"
+              class="4038 4044" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 651.056396,-1190.515137 C 604.074158,-1349.968018 772.780151,-1659.620850 932.233093,-1706.603027"
+              class="4037 4046" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 932.233093,-1706.603027 C 924.743347,-1736.186035 957.883118,-1791.795166 987.466125,-1799.284912"
+              class="4046 4047" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 932.233093,-1706.603027 C 901.789612,-1827.475708 1037.433472,-2054.449951 1158.306152,-2084.893311"
+              class="4046 4049" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1182.208374,-2126.341064 1280.233398,-2152.658936 1321.681030,-2128.756592"
+              class="4049 4050" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1144.488647,-2114.374756 1167.984741,-2179.323486 1197.466309,-2193.140869"
+              class="4049 4051" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1161.482666,-2143.039551 1253.466919,-2225.494385 1311.613159,-2222.317871"
+              class="4049 4052" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1141.327393,-2139.332031 1197.517212,-2246.458008 1251.955933,-2263.436768"
+              class="4049 4053" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1121.055542,-2129.778320 1132.507324,-2252.981934 1177.392456,-2290.232422"
+              class="4049 4054" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1162.605713,-2122.614746 1225.637085,-2172.747559 1263.358521,-2168.447998"
+              class="4049 4055" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1158.306152,-2084.893311 C 1120.646362,-2109.918213 1101.694214,-2203.945557 1126.719238,-2241.605225"
+              class="4049 4056" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 932.233093,-1706.603027 C 862.862671,-1758.845337 837.170532,-1941.264282 889.412781,-2010.634766"
+              class="4046 4057" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 889.412781,-2010.634766 C 873.030029,-2047.080811 903.125061,-2126.324219 939.571167,-2142.707031"
+              class="4057 4058" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 889.412781,-2010.634766 C 844.428284,-2016.491943 785.737244,-2092.754395 791.594421,-2137.739014"
+              class="4057 4059" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 889.412781,-2010.634766 C 863.385193,-2028.788574 851.574402,-2095.060547 869.728210,-2121.088135"
+              class="4057 4060" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 889.412781,-2010.634766 C 850.078491,-2045.230347 842.970459,-2156.125244 877.566101,-2195.459717"
+              class="4057 4061" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 932.233093,-1706.603027 C 962.861328,-1777.053589 1114.479614,-1836.787231 1184.930176,-1806.158936"
+              class="4046 4062" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1184.930176,-1806.158936 C 1215.625000,-1831.651367 1299.905762,-1823.848022 1325.398193,-1793.153198"
+              class="4062 4063" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1184.930176,-1806.158936 C 1183.118774,-1844.852661 1238.442261,-1905.610596 1277.135986,-1907.421997"
+              class="4062 4064" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1184.930176,-1806.158936 C 1204.851563,-1850.972412 1301.953857,-1888.310303 1346.767334,-1868.388916"
+              class="4062 4065" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 651.056396,-1190.515137 C 672.468750,-1206.546631 728.634338,-1198.475098 744.665710,-1177.062744"
+              class="4037 4066" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 651.056396,-1190.515137 C 630.270264,-1240.369873 673.872986,-1346.330933 723.727600,-1367.117065"
+              class="4037 4067" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 723.727600,-1367.117065 C 709.954956,-1398.261475 736.012573,-1465.636841 767.156921,-1479.409424"
+              class="4067 4068" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 723.727600,-1367.117065 C 734.373474,-1398.185547 796.945068,-1428.819336 828.013550,-1418.173462"
+              class="4067 4069" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 723.727600,-1367.117065 C 694.043396,-1379.950439 668.767212,-1443.726685 681.600586,-1473.410889"
+              class="4067 4070" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 166.843094,-641.899109 C -11.607399,-659.406738 -253.021759,-953.343872 -235.514160,-1131.794312"
+              class="4035 4071" stroke-opacity="1.0" stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -235.514160,-1131.794312 C -284.523132,-1138.169067 -348.474518,-1221.244507 -342.099823,-1270.253540"
+              class="4071 4072" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.099823,-1270.253540 C -373.783997,-1261.964478 -433.743805,-1297.057251 -442.032837,-1328.741333"
+              class="4072 4073" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -342.099823,-1270.253540 C -372.137726,-1285.997925 -393.577850,-1354.671509 -377.833405,-1384.709351"
+              class="4072 4074" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -235.514160,-1131.794312 C -335.776245,-1079.338867 -564.852600,-1151.048828 -617.308044,-1251.310913"
+              class="4071 4076" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.308044,-1251.310913 C -659.065491,-1263.016602 -704.143188,-1343.211304 -692.437500,-1384.968750"
+              class="4076 4077" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.308044,-1251.310913 C -670.916321,-1246.497314 -758.549072,-1319.689331 -763.362671,-1373.297607"
+              class="4076 4078" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.308044,-1251.310913 C -645.032104,-1233.562866 -713.240234,-1248.526733 -730.988342,-1276.250854"
+              class="4076 4079" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.308044,-1251.310913 C -630.944153,-1211.116455 -711.689880,-1171.279175 -751.884216,-1184.915283"
+              class="4076 4080" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.308044,-1251.310913 C -667.246765,-1226.414673 -779.499268,-1263.978271 -804.395508,-1313.916992"
+              class="4076 4081" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -617.308044,-1251.310913 C -653.156250,-1209.526245 -769.605530,-1200.621582 -811.390259,-1236.469727"
+              class="4076 4082" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -235.514160,-1131.794312 C -260.184021,-1086.026367 -365.840607,-1054.379395 -411.608490,-1079.049194"
+              class="4071 4083" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -411.608490,-1079.049194 C -437.412506,-1055.128784 -511.999207,-1057.954102 -535.919678,-1083.758057"
+              class="4083 4084" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -411.608490,-1079.049194 C -418.253113,-1044.940674 -479.382843,-1003.744873 -513.491333,-1010.389465"
+              class="4083 4085" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -235.514160,-1131.794312 C -280.345490,-1191.127808 -258.592194,-1347.375000 -199.258713,-1392.206299"
+              class="4071 4086" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -199.258713,-1392.206299 C -226.644592,-1428.946899 -212.612656,-1525.136475 -175.872131,-1552.522339"
+              class="4086 4087" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -199.258713,-1392.206299 C -238.181168,-1410.628174 -268.932068,-1496.644653 -250.510223,-1535.567017"
+              class="4086 4088" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -199.258713,-1392.206299 C -204.092270,-1428.365601 -157.103653,-1489.854858 -120.944351,-1494.688477"
+              class="4086 4089" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -235.514160,-1131.794312 C -233.886002,-1157.113159 -193.465637,-1192.648926 -168.146896,-1191.020752"
+              class="4071 4090" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -235.514160,-1131.794312 C -348.566803,-1163.448120 -470.665039,-1380.507813 -439.011200,-1493.560547"
+              class="4071 4091" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.011200,-1493.560547 C -483.208801,-1497.313599 -543.875488,-1569.239746 -540.122375,-1613.437378"
+              class="4091 4092" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.011200,-1493.560547 C -527.981445,-1515.839600 -628.018311,-1682.713623 -605.739319,-1771.683838"
+              class="4091 4094" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.739319,-1771.683838 C -652.655029,-1764.001465 -734.552185,-1822.851440 -742.234497,-1869.767212"
+              class="4094 4095" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.739319,-1771.683838 C -654.930969,-1784.314575 -709.772217,-1877.048218 -697.141479,-1926.239746"
+              class="4094 4096" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -605.739319,-1771.683838 C -642.090759,-1800.397339 -653.547729,-1897.994873 -624.834229,-1934.346313"
+              class="4094 4097" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -439.011200,-1493.560547 C -475.893433,-1517.196777 -495.762543,-1607.974365 -472.126343,-1644.856689"
+              class="4091 4098" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 166.843094,-641.899109 C 315.747467,-485.330780 304.251526,-27.121756 147.683197,121.782623"
+              class="4035 4100" stroke-opacity="1.0" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.683197,121.782623 C 54.068275,234.212128 -254.998383,262.434021 -367.427887,168.819092"
+              class="4100 4101" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -367.391724,141.654327 -326.590332,100.961433 -299.425568,100.997597"
+              class="4101 4102" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -340.790649,184.427032 -324.246674,247.794800 -339.854614,274.432037"
+              class="4101 4104" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -358.171539,201.077209 -392.674255,263.348877 -424.932373,272.605194"
+              class="4101 4106" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -383.327362,200.530106 -454.743134,224.247421 -486.454132,208.347931"
+              class="4101 4108" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -447.202881,181.523102 -585.921387,80.916611 -598.625366,1.141614"
+              class="4101 4110" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.625366,1.141614 C -622.616699,-23.688339 -621.358826,-96.920296 -596.528870,-120.911652"
+              class="4110 4111" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.625366,1.141614 C -640.957825,13.061649 -722.336609,-32.556984 -734.256592,-74.889442"
+              class="4110 4112" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.625366,1.141614 C -630.762573,32.740891 -726.367310,31.934004 -757.966553,-0.203195"
+              class="4110 4113" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.625366,1.141614 C -638.150940,-7.891291 -683.890015,-80.729057 -674.857117,-120.254669"
+              class="4110 4114" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -370.202728,239.237198 -479.992157,340.702057 -550.410278,337.927216"
+              class="4101 4115" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -550.410278,337.927216 C -564.075928,379.492157 -646.921814,421.341125 -688.486755,407.675476"
+              class="4115 4116" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -550.410278,337.927216 C -540.354858,379.456665 -587.565979,456.833954 -629.095398,466.889343"
+              class="4115 4117" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -426.154144,252.291138 -639.451599,289.409790 -722.923645,230.683548"
+              class="4101 4118" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -722.923645,230.683548 C -765.570801,246.585999 -853.395203,206.468948 -869.297607,163.821808"
+              class="4118 4119" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -722.923645,230.683548 C -725.469299,276.529053 -798.055969,341.478821 -843.901428,338.933197"
+              class="4118 4120" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -722.923645,230.683548 C -761.897644,267.104797 -874.990540,263.275635 -911.411804,224.301636"
+              class="4118 4121" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -722.923645,230.683548 C -744.656128,282.674713 -855.241516,328.062805 -907.232666,306.330353"
+              class="4118 4122" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -394.722778,154.878616 -414.754364,93.025574 -400.813904,65.730690"
+              class="4101 4123" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -367.427887,168.819092 C -395.907043,183.665924 -460.896057,163.217407 -475.742889,134.738251"
+              class="4101 4125" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.683197,121.782623 C 223.637360,89.102875 386.588226,154.014511 419.267975,229.968674"
+              class="4100 4127" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.267975,229.968674 C 493.044708,199.339462 649.653564,264.060730 680.282837,337.837463"
+              class="4127 4128" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 680.282837,337.837463 C 726.750061,319.557617 823.870789,361.838745 842.150635,408.306030"
+              class="4128 4129" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 680.282837,337.837463 C 720.545044,339.767273 778.043579,403.055298 776.113770,443.317505"
+              class="4128 4130" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 680.282837,337.837463 C 709.005737,307.048676 798.273438,303.949890 829.062195,332.672821"
+              class="4128 4131" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.267975,229.968674 C 440.876556,217.967819 491.290741,232.379395 503.291595,253.987976"
+              class="4127 4132" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.683197,121.782623 C 266.131714,142.998489 411.980621,352.495056 390.764771,470.943542"
+              class="4100 4134" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 390.764771,470.943542 C 420.047485,468.061646 468.294373,507.662872 471.176270,536.945618"
+              class="4134 4135" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 390.764771,470.943542 C 416.542297,494.120117 420.443787,567.551208 397.267212,593.328735"
+              class="4134 4138" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 390.764771,470.943542 C 393.659821,501.741241 351.805908,552.280396 321.008209,555.175476"
+              class="4134 4140" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 390.764771,470.943542 C 474.207458,492.297119 567.341125,649.491577 545.987549,732.934265"
+              class="4134 4143" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.987549,732.934265 C 595.101074,745.268982 650.269409,837.441345 637.934692,886.554871"
+              class="4143 4144" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.987549,732.934265 C 592.988770,725.260681 675.000977,784.252075 682.674561,831.253296"
+              class="4143 4146" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.987549,732.934265 C 579.407654,757.700562 592.388489,844.980042 567.622192,878.400146"
+              class="4143 4147" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 390.764771,470.943542 C 461.796906,456.352142 590.232178,541.013245 604.823547,612.045410"
+              class="4134 4148" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 604.823547,612.045410 C 646.448059,591.306641 739.993103,622.635376 760.731873,664.259888"
+              class="4148 4149" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 604.823547,612.045410 C 650.411804,612.740967 717.750854,682.166687 717.055298,727.754944"
+              class="4148 4151" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.683197,121.782623 C 249.243927,287.323700 153.273392,687.976440 -12.267684,789.537170"
+              class="4100 4152" stroke-opacity="1.0" stroke="#a56721"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.267684,789.537170 C -16.023270,823.997070 -73.346466,870.053467 -107.806351,866.297913"
+              class="4152 4153" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.267684,789.537170 C -11.382687,907.453613 -186.929840,1085.655762 -304.846283,1086.540771"
+              class="4152 4155" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -304.846283,1086.540771 C -305.371735,1191.515503 -463.621979,1348.189453 -568.596680,1347.663940"
+              class="4155 4156" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.596680,1347.663940 C -594.719177,1382.148438 -685.629639,1394.691650 -720.114197,1368.569214"
+              class="4156 4157" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.596680,1347.663940 C -543.159607,1383.199951 -558.307983,1474.659668 -593.844055,1500.096802"
+              class="4156 4158" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.596680,1347.663940 C -568.855164,1381.306396 -619.706482,1431.382202 -653.348877,1431.123779"
+              class="4156 4159" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.596680,1347.663940 C -557.636475,1402.134644 -622.902344,1500.281006 -677.373047,1511.241211"
+              class="4156 4160" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -568.596680,1347.663940 C -580.162231,1401.593994 -678.405823,1465.141113 -732.335999,1453.575439"
+              class="4156 4161" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -304.846283,1086.540771 C -305.493683,1124.308350 -363.116058,1179.988525 -400.883575,1179.341064"
+              class="4155 4162" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.267684,789.537170 C 99.983292,892.317200 114.189697,1214.863770 11.409657,1327.114746"
+              class="4152 4163" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.409657,1327.114746 C 65.159714,1413.137207 16.751038,1622.796143 -69.271469,1676.546143"
+              class="4163 4164" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.271469,1676.546143 C -51.185635,1727.176880 -100.003098,1830.251953 -150.633911,1848.337769"
+              class="4164 4165" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.271469,1676.546143 C -72.019196,1720.064575 -141.418335,1781.220459 -184.936707,1778.472778"
+              class="4164 4166" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.271469,1676.546143 C -27.041521,1695.101318 8.470655,1786.278931 -10.084506,1828.508911"
+              class="4164 4167" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.271469,1676.546143 C -31.192192,1718.500610 -37.004974,1838.551270 -78.959435,1876.630493"
+              class="4164 4168" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.409657,1327.114746 C 40.013126,1354.321777 42.107712,1438.037598 14.900636,1466.641113"
+              class="4163 4169" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.409657,1327.114746 C 94.357460,1359.369629 170.396820,1532.173706 138.141937,1615.121460"
+              class="4163 4170" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 138.141937,1615.121460 C 182.781693,1612.883301 253.098480,1676.485840 255.336563,1721.125610"
+              class="4170 4171" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 138.141937,1615.121460 C 171.662903,1647.993774 172.635864,1747.583618 139.763565,1781.104614"
+              class="4170 4172" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 138.141937,1615.121460 C 186.061081,1633.069336 231.017975,1731.869873 213.070114,1779.788940"
+              class="4170 4173" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.409657,1327.114746 C 22.109133,1364.673828 -18.180191,1437.061523 -55.739212,1447.760986"
+              class="4163 4174" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.409657,1327.114746 C 49.649506,1335.770142 94.026154,1406.113037 85.370743,1444.352905"
+              class="4163 4175" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.267684,789.537170 C 9.393091,809.014709 12.667919,870.722229 -6.809638,892.382996"
+              class="4152 4176" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.267684,789.537170 C 43.601585,826.287903 72.279358,965.217957 35.528606,1021.087219"
+              class="4152 4178" stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 35.528606,1021.087219 C 67.579765,1040.859863 85.997543,1118.595581 66.224892,1150.646729"
+              class="4178 4179" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 35.528606,1021.087219 C 49.387405,1053.536621 21.501547,1122.998901 -10.947830,1136.857666"
+              class="4178 4180" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 35.528606,1021.087219 C 72.246498,1021.281616 127.031693,1076.650146 126.837265,1113.368042"
+              class="4178 4181" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.683197,121.782623 C 211.784012,30.208870 445.295868,-11.000534 536.869629,53.100285"
+              class="4100 4182" stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 536.869629,53.100285 C 604.836182,-20.621666 817.368958,-29.254753 891.090881,38.711803"
+              class="4182 4183" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 891.090881,38.711803 C 895.814758,-2.019276 963.997131,-56.030121 1004.728210,-51.306267"
+              class="4183 4184" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 891.090881,38.711803 C 935.145386,6.137714 1050.088257,23.358337 1082.662354,67.412842"
+              class="4183 4185" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 891.090881,38.711803 C 913.270264,16.723373 979.521973,17.009823 1001.510437,39.189217"
+              class="4183 4187" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 891.090881,38.711803 C 933.418274,29.724977 1010.389709,79.735893 1019.376526,122.063324"
+              class="4183 4188" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 891.090881,38.711803 C 915.661011,-6.821835 1020.816589,-38.267143 1066.350220,-13.697047"
+              class="4183 4190" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 536.869629,53.100285 C 519.501587,31.896690 525.254944,-25.960722 546.458557,-43.328743"
+              class="4182 4192" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 536.869629,53.100285 C 537.555115,18.442675 590.569702,-32.515514 625.227356,-31.830032"
+              class="4182 4194" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 536.869629,53.100285 C 558.771362,27.860991 629.482971,22.854662 654.722229,44.756409"
+              class="4182 4196" stroke-opacity="1.0" stroke="#6fa6ff"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="50.0" cx="372.5573"
+                class="1" cy="-376.44946" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="45.714287" cx="265.12637"
+                class="3319" cy="-510.98846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="41.428574" cx="166.8431"
+                class="4035" cy="-641.8991" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="651.0564"
+                class="4037" cy="-1190.5151" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="995.2539"
+                class="4038" cy="-1222.6172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="1302.9911"
+                class="4039" cy="-1255.0894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1472.854"
+                class="4040" cy="-1235.3469" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1463.8375"
+                class="4041" cy="-1314.3397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1403.1808"
+                class="4042" cy="-1355.3127" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1422.031"
+                class="4043" cy="-1175.4064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1113.2344"
+                class="4044" cy="-1228.4016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="932.2331"
+                class="4046" cy="-1706.603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="987.4661"
+                class="4047" cy="-1799.2849" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="1158.3062"
+                class="4049" cy="-2084.8933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1321.681"
+                class="4050" cy="-2128.7566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1197.4663"
+                class="4051" cy="-2193.1409" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1311.6132"
+                class="4052" cy="-2222.3179" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1251.9559"
+                class="4053" cy="-2263.4368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1177.3925"
+                class="4054" cy="-2290.2324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1263.3585"
+                class="4055" cy="-2168.448" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1126.7192"
+                class="4056" cy="-2241.6052" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="889.4128"
+                class="4057" cy="-2010.6348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="939.57117"
+                class="4058" cy="-2142.707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="791.5944"
+                class="4059" cy="-2137.739" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="869.7282"
+                class="4060" cy="-2121.0881" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="877.5661"
+                class="4061" cy="-2195.4597" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="1184.9302"
+                class="4062" cy="-1806.1589" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1325.3982"
+                class="4063" cy="-1793.1532" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1277.136"
+                class="4064" cy="-1907.422" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1346.7673"
+                class="4065" cy="-1868.3889" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="744.6657"
+                class="4066" cy="-1177.0627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="723.7276"
+                class="4067" cy="-1367.1171" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="767.1569"
+                class="4068" cy="-1479.4094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="828.01355"
+                class="4069" cy="-1418.1735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="681.6006"
+                class="4070" cy="-1473.4109" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="-235.51416"
+                class="4071" cy="-1131.7943" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-342.09982"
+                class="4072" cy="-1270.2535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-442.03284"
+                class="4073" cy="-1328.7413" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-377.8334"
+                class="4074" cy="-1384.7094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-617.30804"
+                class="4076" cy="-1251.3109" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-692.4375"
+                class="4077" cy="-1384.9688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-763.3627"
+                class="4078" cy="-1373.2976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-730.98834"
+                class="4079" cy="-1276.2509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-751.8842"
+                class="4080" cy="-1184.9153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-804.3955"
+                class="4081" cy="-1313.917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-811.39026"
+                class="4082" cy="-1236.4697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-411.6085"
+                class="4083" cy="-1079.0492" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-535.9197"
+                class="4084" cy="-1083.758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-513.49133"
+                class="4085" cy="-1010.38947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-199.25871"
+                class="4086" cy="-1392.2063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-175.87213"
+                class="4087" cy="-1552.5223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-250.51022"
+                class="4088" cy="-1535.567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-120.94435"
+                class="4089" cy="-1494.6885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-168.1469"
+                class="4090" cy="-1191.0208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-439.0112"
+                class="4091" cy="-1493.5605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-540.1224"
+                class="4092" cy="-1613.4374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-605.7393"
+                class="4094" cy="-1771.6838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-742.2345"
+                class="4095" cy="-1869.7672" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-697.1415"
+                class="4096" cy="-1926.2397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-624.8342"
+                class="4097" cy="-1934.3463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-472.12634"
+                class="4098" cy="-1644.8567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="37.14286" cx="147.6832"
+                class="4100" cy="121.78262" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-367.4279"
+                class="4101" cy="168.81909" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-299.42557"
+                class="4102" cy="100.9976" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-339.8546"
+                class="4104" cy="274.43204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-424.93237"
+                class="4106" cy="272.6052" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-486.45413"
+                class="4108" cy="208.34793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-598.62537"
+                class="4110" cy="1.141614" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-596.5289"
+                class="4111" cy="-120.91165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-734.2566"
+                class="4112" cy="-74.88944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-757.96655"
+                class="4113" cy="-0.203195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-674.8571"
+                class="4114" cy="-120.25467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-550.4103"
+                class="4115" cy="337.92722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-688.48676"
+                class="4116" cy="407.67548" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-629.0954"
+                class="4117" cy="466.88934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-722.92365"
+                class="4118" cy="230.68355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-869.2976"
+                class="4119" cy="163.82181" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-843.9014"
+                class="4120" cy="338.9332" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-911.4118"
+                class="4121" cy="224.30164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-907.23267"
+                class="4122" cy="306.33035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-400.8139"
+                class="4123" cy="65.73069" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-475.7429"
+                class="4125" cy="134.73825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="419.26797"
+                class="4127" cy="229.96867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="680.28284"
+                class="4128" cy="337.83746" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="842.15063"
+                class="4129" cy="408.30603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="776.1138"
+                class="4130" cy="443.3175" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="829.0622"
+                class="4131" cy="332.67282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="503.2916"
+                class="4132" cy="253.98798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="390.76477"
+                class="4134" cy="470.94354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="471.17627"
+                class="4135" cy="536.9456" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="397.2672"
+                class="4138" cy="593.32874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="321.0082"
+                class="4140" cy="555.1755" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="545.98755"
+                class="4143" cy="732.93427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="637.9347"
+                class="4144" cy="886.5549" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="682.67456"
+                class="4146" cy="831.2533" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="567.6222"
+                class="4147" cy="878.40015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="604.82355"
+                class="4148" cy="612.0454" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="760.7319"
+                class="4149" cy="664.2599" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="717.0553"
+                class="4151" cy="727.75494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.857143" cx="-12.267684"
+                class="4152" cy="789.5372" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-107.80635"
+                class="4153" cy="866.2979" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="-304.84628"
+                class="4155" cy="1086.5408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-568.5967"
+                class="4156" cy="1347.664" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-720.1142"
+                class="4157" cy="1368.5692" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-593.84406"
+                class="4158" cy="1500.0968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-653.3489"
+                class="4159" cy="1431.1238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-677.37305"
+                class="4160" cy="1511.2412" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-732.336"
+                class="4161" cy="1453.5754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-400.88358"
+                class="4162" cy="1179.3411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="11.409657"
+                class="4163" cy="1327.1147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="-69.27147"
+                class="4164" cy="1676.5461" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-150.63391"
+                class="4165" cy="1848.3378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-184.9367"
+                class="4166" cy="1778.4728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-10.084506"
+                class="4167" cy="1828.5089" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-78.959435"
+                class="4168" cy="1876.6305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="14.900636"
+                class="4169" cy="1466.6411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="138.14194"
+                class="4170" cy="1615.1215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="255.33656"
+                class="4171" cy="1721.1256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="139.76357"
+                class="4172" cy="1781.1046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="213.07011"
+                class="4173" cy="1779.789" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-55.739212"
+                class="4174" cy="1447.761" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="85.37074"
+                class="4175" cy="1444.3529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-6.8096375"
+                class="4176" cy="892.383" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="35.528606"
+                class="4178" cy="1021.0872" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="66.22489"
+                class="4179" cy="1150.6467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-10.94783"
+                class="4180" cy="1136.8577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="126.837265"
+                class="4181" cy="1113.368" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="28.57143" cx="536.8696"
+                class="4182" cy="53.100285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.285715" cx="891.0909"
+                class="4183" cy="38.711803" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1004.7282"
+                class="4184" cy="-51.306267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1082.6624"
+                class="4185" cy="67.41284" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1001.51044"
+                class="4187" cy="39.189217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1019.3765"
+                class="4188" cy="122.063324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="1066.3502"
+                class="4190" cy="-13.697047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="546.45856"
+                class="4192" cy="-43.328743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="625.22736"
+                class="4194" cy="-31.830032" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="654.7222"
+                class="4196" cy="44.75641" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="30" x="372.5573" y="-370.99292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Britannica
+        </text>
+        <text font-size="27" x="265.12637" y="-504.65155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3319">
+            Human Society
+        </text>
+        <text font-size="25" x="166.8431" y="-637.352" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4035">
+            Law
+        </text>
+        <text font-size="20" x="651.0564" y="-1185.821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4037">
+            Philosophies and Systems of Law; the Practice of Law
+        </text>
+        <text font-size="17" x="995.2539" y="-1218.677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4038">
+            Western and non-Western philosophies of law
+        </text>
+        <text font-size="15" x="1302.9911" y="-1251.5688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4039">
+            Western philosophy of law
+        </text>
+        <text font-size="12" x="1472.854" y="-1232.5305" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4040">
+            The scope of the Western philosophy of law and its relationship to
+            other branches of philosophy
+        </text>
+        <text font-size="12" x="1463.8375" y="-1311.5233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4041">
+            Problems of the philosophy of law, various approaches to a theory
+            of law or jurisprudence
+        </text>
+        <text font-size="12" x="1403.1808" y="-1352.4963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4042">
+            The relationship between law and morality: the influence of the
+            principles of natural law
+        </text>
+        <text font-size="12" x="1422.031" y="-1172.59" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4043">
+            Historical survey of legal theories from the ancient world to the
+            20th century
+        </text>
+        <text font-size="12" x="1113.2344" y="-1225.6204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4044">
+            Non-Western philosophies of law: Islamic, Chinese, and other
+            non-Western philosophies of law
+        </text>
+        <text font-size="17" x="932.2331" y="-1702.6656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4046">
+            Ancient and modern legal systems
+        </text>
+        <text font-size="12" x="987.4661" y="-1796.4685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4047">
+            Primitive law: the legal systems of nonliterate peoples
+        </text>
+        <text font-size="15" x="1158.3062" y="-2081.3728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4049">
+            Ancient systems of law
+        </text>
+        <text font-size="12" x="1321.681" y="-2125.9773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4050">
+            Egyptian law
+        </text>
+        <text font-size="12" x="1197.4663" y="-2190.9192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4051">
+            Cuneiform law
+        </text>
+        <text font-size="12" x="1311.6132" y="-2220.0962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4052">
+            Chinese law
+        </text>
+        <text font-size="12" x="1251.9559" y="-2261.215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4053">
+            Greek law
+        </text>
+        <text font-size="12" x="1177.3925" y="-2288.0498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4054">
+            Hellenistic law
+        </text>
+        <text font-size="12" x="1263.3585" y="-2166.2654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4055">
+            Roman law
+        </text>
+        <text font-size="12" x="1126.7192" y="-2239.3835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4056">
+            Germanic law
+        </text>
+        <text font-size="15" x="889.4128" y="-2007.2046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4057">
+            Medieval European law
+        </text>
+        <text font-size="12" x="939.57117" y="-2139.8896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4058">
+            Origins and development of medieval European law
+        </text>
+        <text font-size="12" x="791.5944" y="-2135.5173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4059">
+            Sources and institutions of medieval constitutional law
+        </text>
+        <text font-size="12" x="869.7282" y="-2118.307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4060">
+            Institutions of private law in medieval Europe
+        </text>
+        <text font-size="12" x="877.5661" y="-2192.6785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4061">
+            Development of canon law
+        </text>
+        <text font-size="15" x="1184.9302" y="-1802.6384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4062">
+            Modern systems of law
+        </text>
+        <text font-size="12" x="1325.3982" y="-1790.3739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4063">
+            Anglo-American common law
+        </text>
+        <text font-size="12" x="1277.136" y="-1905.2003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4064">
+            Continental civil law
+        </text>
+        <text font-size="12" x="1346.7673" y="-1866.1672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4065">
+            Soviet and socialist law
+        </text>
+        <text font-size="12" x="744.6657" y="-1174.2463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4066">
+            The study of the distinctions and parallels among diverse legal
+            systems
+        </text>
+        <text font-size="15" x="723.7276" y="-1363.6405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4067">
+            The profession and practice of law
+        </text>
+        <text font-size="12" x="767.1569" y="-1476.6282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4068">
+            The profession of law
+        </text>
+        <text font-size="12" x="828.01355" y="-1415.3942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4069">
+            Legal ethics
+        </text>
+        <text font-size="12" x="681.6006" y="-1470.5945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4070">
+            Educational requirements for the legal profession
+        </text>
+        <text font-size="20" x="-235.51416" y="-1127.4453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4071">
+            Branches of Public Law, Substantive and Procedural
+        </text>
+        <text font-size="15" x="-342.09982" y="-1266.733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4072">
+            Laws defining and implementing the authority and power of the state
+        </text>
+        <text font-size="12" x="-442.03284" y="-1325.9249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4073">
+            Basic laws governing the organization and functions of the state:
+            constitutional law
+        </text>
+        <text font-size="12" x="-377.8334" y="-1381.93" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4074">
+            Laws governing public administration
+        </text>
+        <text font-size="15" x="-617.30804" y="-1247.8368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4076">
+            Laws governing relations among sovereign states
+        </text>
+        <text font-size="12" x="-692.4375" y="-1382.1875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4077">
+            Sources and concepts of international law
+        </text>
+        <text font-size="12" x="-763.3627" y="-1370.5183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4078">
+            The attempt to create a supranational legislative and executive
+            authority: the United Nations
+        </text>
+        <text font-size="12" x="-730.98834" y="-1273.4716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4079">
+            The attempt to create a supranational judicial authority
+        </text>
+        <text font-size="12" x="-751.8842" y="-1182.134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4080">
+            The attempt to impose rules of warfare
+        </text>
+        <text font-size="12" x="-804.3955" y="-1311.1377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4081">
+            The attempt to limit and punish war crimes and crimes against peace
+            and humanity
+        </text>
+        <text font-size="12" x="-811.39026" y="-1233.6885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4082">
+            The attempt to preserve the peaceful uses and exploration of outer
+            space
+        </text>
+        <text font-size="15" x="-411.6085" y="-1075.5751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4083">
+            Laws governing acts viewed as crimes
+        </text>
+        <text font-size="12" x="-535.9197" y="-1080.9417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4084">
+            Principles and doctrines of criminal law: comparisons between
+            common law and civil law systems
+        </text>
+        <text font-size="12" x="-513.49133" y="-1007.57306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4085">
+            Laws governing offenses committed by military forces and other
+            persons subject to military discipline
+        </text>
+        <text font-size="15" x="-199.25871" y="-1388.6858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4086">
+            Laws promoting the public welfare
+        </text>
+        <text font-size="12" x="-175.87213" y="-1549.7059" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4087">
+            Laws providing for general social security and welfare
+        </text>
+        <text font-size="12" x="-250.51022" y="-1532.7506" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4088">
+            Laws promoting public health and safety
+        </text>
+        <text font-size="12" x="-120.94435" y="-1491.8721" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4089">
+            Laws regulating the health, safety, and welfare of workers
+        </text>
+        <text font-size="12" x="-168.1469" y="-1188.2415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4090">
+            Laws governing taxation
+        </text>
+        <text font-size="17" x="-439.0112" y="-1489.5706" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4091">
+            Laws of judicial procedure
+        </text>
+        <text font-size="12" x="-540.1224" y="-1610.621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4092">
+            The organization and administration of the legal system: the courts
+            and the judiciary
+        </text>
+        <text font-size="15" x="-605.7393" y="-1768.2073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4094">
+            Methods and procedures of the law
+        </text>
+        <text font-size="12" x="-742.2345" y="-1866.986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4095">
+            Criminal procedure
+        </text>
+        <text font-size="12" x="-697.1415" y="-1923.4585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4096">
+            Civil procedure
+        </text>
+        <text font-size="12" x="-624.8342" y="-1931.6022" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4097">
+            Administrative procedure
+        </text>
+        <text font-size="12" x="-472.12634" y="-1642.0403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4098">
+            Methods of adjudicating litigious disputes: the jury system,
+            systems of arbitration
+        </text>
+        <text font-size="22" x="147.6832" y="126.566475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4100">
+            Branches of Private Law, Substantive and Procedural
+        </text>
+        <text font-size="17" x="-367.4279" y="172.80899" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4101">
+            Law of property
+        </text>
+        <text font-size="12" x="-299.42557" y="103.814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4102">
+            Historical development of property rights
+        </text>
+        <text font-size="12" x="-339.8546" y="277.24844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4104">
+            Methods of acquiring property rights
+        </text>
+        <text font-size="12" x="-424.93237" y="275.4216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4106">
+            Types of property rights classified by types of ownership
+        </text>
+        <text font-size="12" x="-486.45413" y="211.12723" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4108">
+            Laws concerning tangible property: the distinctions between real
+            and personal property
+        </text>
+        <text font-size="15" x="-598.62537" y="4.615735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4110">
+            Laws protecting intangible or incorporeal property rights
+        </text>
+        <text font-size="12" x="-596.5289" y="-118.095245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4111">
+            Easements and servitudes: profits and mineral rights
+        </text>
+        <text font-size="12" x="-734.2566" y="-72.07304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4112">
+            Rights to the exclusive exploitation of literary, dramatic,
+            musical, and other artistic works
+        </text>
+        <text font-size="12" x="-757.96655" y="2.6132112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4113">
+            Rights to the exclusive exploitation of inventions and other
+            discoveries of useful processes and materials
+        </text>
+        <text font-size="12" x="-674.8571" y="-117.43826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4114">
+            Rights to the exclusive exploitation of symbols and other devices
+            used to identify the origin or ownership of business products
+        </text>
+        <text font-size="15" x="-550.4103" y="341.44772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4115">
+            Laws concerning the temporal division of property rights
+        </text>
+        <text font-size="12" x="-688.48676" y="410.45673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4116">
+            Common law land ownership: freehold and leasehold estates
+        </text>
+        <text font-size="12" x="-629.0954" y="469.70575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4117">
+            Civil law land ownership: dominium (absolute ownership) and
+            usufruct (life estate)
+        </text>
+        <text font-size="15" x="-722.92365" y="234.20406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4118">
+            Laws concerning trusts: ownership for the benefit of others
+        </text>
+        <text font-size="12" x="-869.2976" y="166.63821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4119">
+            The elements of a trust: settlor, trust property, trustee,
+            beneficiary, trust instrument
+        </text>
+        <text font-size="12" x="-843.9014" y="341.7496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4120">
+            Types of trusts: express, implied, constructive, statutory, and
+            public and private trusts
+        </text>
+        <text font-size="12" x="-911.4118" y="227.11804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4121">
+            Trusts established for the benefit of families, social and
+            philanthropic organizations, and business corporations
+        </text>
+        <text font-size="12" x="-907.23267" y="309.14676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4122">
+            The status of the trust in civil law systems: a comparison of the
+            trust and the fidei commissum
+        </text>
+        <text font-size="12" x="-400.8139" y="68.5471" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4123">
+            Law of mortgages
+        </text>
+        <text font-size="12" x="-475.7429" y="137.51755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4125">
+            Laws concerning bankruptcy
+        </text>
+        <text font-size="17" x="419.26797" y="233.906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4127">
+            Family law
+        </text>
+        <text font-size="15" x="680.28284" y="341.35797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4128">
+            Laws governing the institution of the family and the relationships
+            among its members
+        </text>
+        <text font-size="12" x="842.15063" y="411.12244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4129">
+            Laws concerning the marriage contract: civil effects of marriage,
+            the legal status of married women
+        </text>
+        <text font-size="12" x="776.1138" y="446.0968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4130">
+            Laws concerning children: legitimacy, adoption, and guardianship;
+            parental obligations andrights
+        </text>
+        <text font-size="12" x="829.0622" y="335.48923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4131">
+            Laws concerning the termination of marriage: divorce and other
+            forms of marital dissolution
+        </text>
+        <text font-size="12" x="503.2916" y="256.80438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4132">
+            Laws concerning the devolution of property by means of inheritance
+        </text>
+        <text font-size="17" x="390.76477" y="474.08817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4134">
+            Law of torts
+        </text>
+        <text font-size="12" x="471.17627" y="539.762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4135">
+            The doctrine of strict liability as compared with negligence
+            liability
+        </text>
+        <text font-size="12" x="397.2672" y="596.14514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4138">
+            Intentional personal injuries: battery and assault, false
+            imprisonment, mental anguish
+        </text>
+        <text font-size="12" x="321.0082" y="557.9548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4140">
+            Intentional injuries to property
+        </text>
+        <text font-size="15" x="545.98755" y="736.4548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4143">
+            Injuries resulting from negligent acts
+        </text>
+        <text font-size="12" x="637.9347" y="889.3713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4144">
+            Injuries resulting from failure to comply with required standards
+            of care
+        </text>
+        <text font-size="12" x="682.67456" y="834.0326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4146">
+            The employer&apos;s liability and the master-servant relationship
+        </text>
+        <text font-size="12" x="567.6222" y="881.21655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4147">
+            The manufacturer&apos;s liability to the consumer
+        </text>
+        <text font-size="15" x="604.82355" y="615.51953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4148">
+            Injuries to personality and personal relationships: physical,
+            mental, and economic injuries
+        </text>
+        <text font-size="12" x="760.7319" y="666.4796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4149">
+            Defamation
+        </text>
+        <text font-size="12" x="717.0553" y="730.57135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4151">
+            Interference with economic relationships: deceptive practices,
+            unfair competition, infringement
+        </text>
+        <text font-size="20" x="-12.267684" y="794.1693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4152">
+            Laws governing economic transactions
+        </text>
+        <text font-size="12" x="-107.80635" y="868.51764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4153">
+            Law of contracts
+        </text>
+        <text font-size="17" x="-304.84628" y="1089.6854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4155">
+            Law of commercial transactions
+        </text>
+        <text font-size="15" x="-568.5967" y="1351.1405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4156">
+            Principal elements of commercial law: commercial transactions as
+            contracts
+        </text>
+        <text font-size="12" x="-720.1142" y="1371.3856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4157">
+            Sales of goods and requirements for delivery
+        </text>
+        <text font-size="12" x="-593.84406" y="1502.9132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4158">
+            Transfer of negotiable instruments; e.g., promissory notes, checks,
+            drafts or bills of exchange
+        </text>
+        <text font-size="12" x="-653.3489" y="1433.9402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4159">
+            Issuance of documents of title; e.g., bills of lading, warehouse
+            receipts
+        </text>
+        <text font-size="12" x="-677.37305" y="1513.4609" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4160">
+            Issuance of letters of credit
+        </text>
+        <text font-size="12" x="-732.336" y="1456.3918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4161">
+            The use of security interests (liens and pledges) as collateral for
+            loans of money
+        </text>
+        <text font-size="12" x="-400.88358" y="1182.1575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4162">
+            Laws governing the relationship between agent and principal in the
+            transaction of commercial and other legal affairs
+        </text>
+        <text font-size="17" x="11.409657" y="1330.2594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4163">
+            Law of business associations
+        </text>
+        <text font-size="15" x="-69.27147" y="1680.0227" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4164">
+            Principal forms of business associations
+        </text>
+        <text font-size="12" x="-150.63391" y="1851.0819" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4165">
+            Partnerships
+        </text>
+        <text font-size="12" x="-184.9367" y="1781.254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4166">
+            Corporate companies or corporations
+        </text>
+        <text font-size="12" x="-10.084506" y="1831.3253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4167">
+            Cooperative and mutual organizations
+        </text>
+        <text font-size="12" x="-78.959435" y="1879.4117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4168">
+            State and municipal corporations, quasi-public enterprises and
+            utilities
+        </text>
+        <text font-size="12" x="14.900636" y="1469.4575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4169">
+            Laws governing the management and control of business entities
+        </text>
+        <text font-size="15" x="138.14194" y="1618.598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4170">
+            The structure of corporate finance
+        </text>
+        <text font-size="12" x="255.33656" y="1723.942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4171">
+            Common and preferred shares of stock: rights and interests of
+            owners of equity capital
+        </text>
+        <text font-size="12" x="139.76357" y="1783.921" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4172">
+            Borrowed capital: rights acquired by holders of bonds and
+            debentures
+        </text>
+        <text font-size="12" x="213.07011" y="1782.6053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4173">
+            Reinvestment of company earnings
+        </text>
+        <text font-size="12" x="-55.739212" y="1450.5403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4174">
+            Trends in laws governing mergers and consolidations: employee
+            participation
+        </text>
+        <text font-size="12" x="85.37074" y="1447.1693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4175">
+            Laws governing the liquidation of insolvent business and
+            nonbusiness estates: the law of bankruptcy
+        </text>
+        <text font-size="12" x="-6.8096375" y="894.5656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4176">
+            Labour law
+        </text>
+        <text font-size="15" x="35.528606" y="1024.5613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4178">
+            Laws governing commercial transportation
+        </text>
+        <text font-size="12" x="66.22489" y="1153.4631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4179">
+            Laws regulating the carriage of goods
+        </text>
+        <text font-size="12" x="-10.94783" y="1139.0403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4180">
+            Maritime law
+        </text>
+        <text font-size="12" x="126.837265" y="1115.5507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4181">
+            Air law
+        </text>
+        <text font-size="17" x="536.8696" y="57.04039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4182">
+            Civil procedural law
+        </text>
+        <text font-size="15" x="891.0909" y="42.188366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4183">
+            Elements of civil procedure
+        </text>
+        <text font-size="12" x="1004.7282" y="-48.48986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4184">
+            National or territorial jurisdiction and venue of courts: the
+            competence of a court to handlea case
+        </text>
+        <text font-size="12" x="1082.6624" y="70.15698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4185">
+            Jurisdiction or venue in private international law
+        </text>
+        <text font-size="12" x="1001.51044" y="41.970467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4187">
+            Definitions and limitations of parties to a suit: class actions and
+            amicus curiae
+        </text>
+        <text font-size="12" x="1019.3765" y="124.84262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4188">
+            Provisional remedies sought prior to trial
+        </text>
+        <text font-size="12" x="1066.3502" y="-11.477321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4190">
+            The commencement of civil action
+        </text>
+        <text font-size="12" x="546.45856" y="-41.109016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4192">
+            The conduct of civil trials: the law of evidence
+        </text>
+        <text font-size="12" x="625.22736" y="-29.013626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4194">
+            The rendering of judgment in civil cases: assessment of damages,
+            res judicata, collateral estoppel
+        </text>
+        <text font-size="12" x="654.7222" y="47.53766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4196">
+            Post-trial appeals and other methods of review
+        </text>
+    </g>
+</svg>

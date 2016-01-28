@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3448.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1685.000000 -1718.000000 3448.000000 3479.000000" height="3479.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -378.310211,332.522339 C -306.936615,102.104309 145.750763,-136.462341 376.168793,-65.088737"
+              class="2067 2069" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.168793,-65.088737 C 352.252014,-9.298717 232.691864,38.511173 176.901840,14.594414"
+              class="2069 2070" stroke-opacity="1.0" stroke="#ec768e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.168793,-65.088737 C 567.695007,-111.194839 924.143555,106.935341 970.249634,298.461578"
+              class="2069 2071" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 1024.836548,364.486237 1007.680054,545.403687 941.655396,599.990601"
+              class="2071 2072" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 980.972961,362.012177 901.732056,473.423065 838.181458,484.146393"
+              class="2071 2074" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 942.478699,343.178833 833.746521,368.598328 789.029297,340.827423"
+              class="2071 2076" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 1043.106201,318.956909 1121.647949,458.984772 1101.152588,531.841309"
+              class="2071 2078" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 1093.906738,316.355927 1252.550781,528.682983 1234.656372,652.340027"
+              class="2071 2080" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1234.656372,652.340027 C 1284.233398,624.116516 1400.934204,656.146729 1429.157715,705.723755"
+              class="2080 2081" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1234.656372,652.340027 C 1272.306396,694.851868 1265.013794,815.094604 1222.501953,852.744629"
+              class="2080 2082" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1234.656372,652.340027 C 1309.096191,664.079834 1403.145996,793.349182 1391.406128,867.788940"
+              class="2080 2083" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 1027.926270,234.833786 1209.882690,225.906876 1273.510498,283.583435"
+              class="2071 2084" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 1026.808105,281.223480 1137.503052,340.204102 1154.741211,396.762634"
+              class="2071 2086" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 944.608154,239.525146 994.550537,112.658264 1053.486938,87.016754"
+              class="2071 2088" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 1085.601440,219.776306 1376.657104,274.776215 1455.342407,390.128052"
+              class="2071 2090" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1455.342407,390.128052 C 1503.336914,334.473236 1658.810913,322.982819 1714.465820,370.977356"
+              class="2090 2091" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1455.342407,390.128052 C 1517.064819,398.805298 1596.632690,504.404877 1587.955444,566.127380"
+              class="2090 2093" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1455.342407,390.128052 C 1462.820801,325.384064 1571.154419,239.485657 1635.898438,246.964081"
+              class="2090 2094" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1455.342407,390.128052 C 1539.504517,363.461243 1705.748047,449.704285 1732.414795,533.866455"
+              class="2090 2096" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 970.249634,298.461578 C 984.953308,227.283661 1113.775879,142.572342 1184.953735,157.276062"
+              class="2071 2097" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.168793,-65.088737 C 278.910461,-238.369171 392.943542,-644.177368 566.223999,-741.435730"
+              class="2069 2099" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 566.919983,-810.640503 671.770996,-913.403625 740.975769,-912.707642"
+              class="2099 2101" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 607.646301,-785.290161 735.561340,-788.938354 779.415771,-747.516052"
+              class="2099 2103" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 510.102722,-765.583740 462.142883,-885.987671 486.290924,-942.108948"
+              class="2099 2105" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 508.531403,-910.315063 675.311401,-1250.172974 844.190796,-1307.865601"
+              class="2099 2107" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 763.901367,-1379.520874 750.950195,-1607.437988 822.605469,-1687.727295"
+              class="2107 2108" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 843.606140,-1408.008545 992.943481,-1559.099731 1093.086426,-1559.684326"
+              class="2107 2109" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 798.323242,-1411.373291 884.783386,-1635.435913 988.290955,-1681.303467"
+              class="2107 2110" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 881.265991,-1392.686768 1064.110596,-1464.305786 1148.931763,-1427.230469"
+              class="2107 2111" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 903.325500,-1354.463379 1061.924194,-1335.657837 1108.521973,-1276.523193"
+              class="2107 2112" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 790.395264,-1308.488037 710.635498,-1390.114868 711.257935,-1443.910400"
+              class="2107 2113" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 813.389404,-1348.893311 828.728882,-1456.636963 869.756592,-1487.438354"
+              class="2107 2114" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 758.409729,-1336.025391 671.977905,-1506.936768 700.137756,-1592.717773"
+              class="2107 2115" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 844.190796,-1307.865601 C 857.531860,-1354.314575 947.216858,-1403.976196 993.665710,-1390.635132"
+              class="2107 2116" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 462.333771,-780.027344 364.385986,-993.750122 402.977661,-1097.640381"
+              class="2099 2117" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 402.977661,-1097.640381 C 345.548553,-1090.885986 249.273315,-1166.898071 242.518951,-1224.327271"
+              class="2117 2118" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 402.977661,-1097.640381 C 359.965149,-1136.930298 354.381104,-1260.383789 393.670959,-1303.396362"
+              class="2117 2119" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 524.157104,-811.518738 566.181335,-979.743469 636.264343,-1021.810364"
+              class="2099 2120" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 566.223999,-741.435730 C 506.181946,-721.660034 386.455414,-782.059570 366.679749,-842.101624"
+              class="2099 2122" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.168793,-65.088737 C 318.302368,-55.025356 216.407684,-126.729919 206.344299,-184.596344"
+              class="2069 2124" stroke-opacity="1.0" stroke="#ec768e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.168793,-65.088737 C 379.442108,-131.628357 484.161530,-226.527786 550.701172,-223.254456"
+              class="2069 2125" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 550.701172,-223.254456 C 601.607727,-234.746460 695.205627,-175.624573 706.697632,-124.717987"
+              class="2125 2126" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 550.701172,-223.254456 C 571.464233,-275.378082 680.794189,-322.418915 732.917847,-301.655853"
+              class="2125 2127" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 550.701172,-223.254456 C 527.669983,-269.046722 561.811646,-372.281891 607.603943,-395.313049"
+              class="2125 2128" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 550.701172,-223.254456 C 495.307404,-232.119781 425.514740,-328.508453 434.380066,-383.902222"
+              class="2125 2129" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.168793,-65.088737 C 407.684509,-9.463331 371.519928,121.248306 315.894531,152.764008"
+              class="2069 2130" stroke-opacity="1.0" stroke="#ec768e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.310211,332.522339 C -536.123352,401.542725 -876.373657,268.353577 -945.394043,110.540405"
+              class="2067 2131" stroke-opacity="1.0" stroke="#11aeb7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.394043,110.540405 C -1087.714233,117.992149 -1312.372070,-84.310524 -1319.823853,-226.630707"
+              class="2131 2132" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1344.350586,-180.183777 -1450.811035,-147.303421 -1497.257935,-171.830124"
+              class="2132 2133" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1372.397827,-222.020462 -1458.174072,-293.966095 -1462.784424,-346.540070"
+              class="2132 2134" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1395.101807,-260.785187 -1456.786865,-424.933807 -1422.632446,-500.211700"
+              class="2132 2135" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1376.040405,-155.440018 -1567.151123,-132.978699 -1638.341797,-189.195175"
+              class="2132 2136" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1413.226563,-186.224640 -1613.939697,-265.719604 -1654.345825,-359.122314"
+              class="2132 2137" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1422.086182,-227.767548 -1573.774414,-382.866272 -1572.637573,-485.128601"
+              class="2132 2138" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1319.823853,-226.630707 C -1349.640137,-265.379333 -1336.241699,-368.226807 -1297.493042,-398.043121"
+              class="2132 2139" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.394043,110.540405 C -1011.086853,193.097351 -1233.461548,218.393539 -1316.018433,152.700729"
+              class="2131 2140" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1316.018433,152.700729 C -1304.573242,197.250183 -1354.229492,281.242188 -1398.778931,292.687439"
+              class="2140 2141" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1316.018433,152.700729 C -1340.375122,221.559280 -1480.197876,288.312042 -1549.056519,263.955353"
+              class="2140 2142" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1316.018433,152.700729 C -1384.094482,201.199478 -1558.956787,171.833542 -1607.455444,103.757484"
+              class="2140 2144" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1316.018433,152.700729 C -1371.904053,156.345184 -1461.199219,77.983437 -1464.843628,22.097811"
+              class="2140 2145" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.394043,110.540405 C -997.410034,78.254272 -1027.004761,-48.198891 -994.718628,-100.214859"
+              class="2131 2146" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.310211,332.522339 C -322.435059,534.869202 -542.142639,922.202332 -744.489502,978.077515"
+              class="2067 2147" stroke-opacity="1.0" stroke="#11aeb7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -744.489502,978.077515 C -619.508789,1018.181030 -492.192841,1265.807495 -532.296387,1390.788208"
+              class="2147 2148" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -532.296387,1390.788208 C -465.472931,1424.542725 -415.869537,1575.409668 -449.624023,1642.233032"
+              class="2148 2149" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -532.296387,1390.788208 C -452.368225,1385.057495 -323.879822,1496.353516 -318.149048,1576.281738"
+              class="2148 2150" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -532.296387,1390.788208 C -480.604736,1469.995483 -521.878052,1666.343628 -601.085205,1718.035278"
+              class="2148 2151" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -532.296387,1390.788208 C -495.150848,1363.238892 -398.108459,1377.633179 -370.559113,1414.778687"
+              class="2148 2152" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -532.296387,1390.788208 C -519.389648,1443.019043 -578.375671,1540.725342 -630.606506,1553.632202"
+              class="2148 2153" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -744.489502,978.077515 C -694.390747,947.548340 -573.448853,976.902588 -542.919678,1027.001343"
+              class="2147 2155" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -744.489502,978.077515 C -682.912598,1094.032349 -764.479614,1360.329956 -880.434448,1421.906860"
+              class="2147 2156" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.434448,1421.906860 C -864.190369,1500.031494 -957.011169,1641.584717 -1035.135864,1657.828735"
+              class="2156 2157" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.434448,1421.906860 C -906.359802,1482.908081 -1036.749512,1535.521729 -1097.750732,1509.596436"
+              class="2156 2158" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.434448,1421.906860 C -824.196045,1489.013916 -840.499084,1674.031982 -907.606140,1730.270386"
+              class="2156 2159" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -880.434448,1421.906860 C -830.703857,1444.280029 -789.667908,1552.435913 -812.041199,1602.166504"
+              class="2156 2160" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -744.489502,978.077515 C -809.195923,1060.036865 -1029.194702,1085.916260 -1111.154053,1021.209778"
+              class="2147 2161" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1111.154053,1021.209778 C -1166.427490,1015.896973 -1241.368530,925.017639 -1236.055786,869.744141"
+              class="2161 2162" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1111.154053,1021.209778 C -1115.937256,1080.173096 -1211.557373,1161.443115 -1270.520752,1156.659912"
+              class="2161 2163" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1111.154053,1021.209778 C -1156.054932,1094.109497 -1332.755981,1136.107666 -1405.655640,1091.206787"
+              class="2161 2164" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1111.154053,1021.209778 C -1178.285767,1058.195313 -1334.461548,1012.976074 -1371.447021,945.844421"
+              class="2161 2165" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -744.489502,978.077515 C -743.357239,1066.255371 -873.925659,1200.220581 -962.103455,1201.352783"
+              class="2147 2166" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -962.103455,1201.352783 C -944.491272,1247.274780 -986.955933,1342.575806 -1032.877808,1360.187988"
+              class="2166 2167" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -962.103455,1201.352783 C -974.005188,1281.645874 -1112.297485,1384.232910 -1192.590576,1372.331177"
+              class="2166 2168" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -962.103455,1201.352783 C -992.931274,1240.560059 -1097.984131,1253.129395 -1137.191406,1222.301514"
+              class="2166 2169" stroke-opacity="1.0" stroke="#b29b6c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#23966f" r="70.0" cx="-378.3102"
+                class="2067" cy="332.52234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="376.1688"
+                class="2069" cy="-65.08874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="176.90184"
+                class="2070" cy="14.594414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="970.24963"
+                class="2071" cy="298.46158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="941.6554"
+                class="2072" cy="599.9906" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="838.18146"
+                class="2074" cy="484.1464" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="789.0293"
+                class="2076" cy="340.82742" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1101.1526"
+                class="2078" cy="531.8413" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1234.6564"
+                class="2080" cy="652.34" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1429.1577"
+                class="2081" cy="705.72375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1222.502"
+                class="2082" cy="852.7446" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1391.4061"
+                class="2083" cy="867.78894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1273.5105"
+                class="2084" cy="283.58344" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1154.7412"
+                class="2086" cy="396.76263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1053.4869"
+                class="2088" cy="87.016754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1455.3424"
+                class="2090" cy="390.12805" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1714.4658"
+                class="2091" cy="370.97736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1587.9554"
+                class="2093" cy="566.1274" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1635.8984"
+                class="2094" cy="246.96408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1732.4148"
+                class="2096" cy="533.86646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1184.9537"
+                class="2097" cy="157.27606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="566.224"
+                class="2099" cy="-741.4357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="740.97577"
+                class="2101" cy="-912.70764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="779.4158"
+                class="2103" cy="-747.51605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="486.29092"
+                class="2105" cy="-942.10895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="844.1908"
+                class="2107" cy="-1307.8656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="822.60547"
+                class="2108" cy="-1687.7273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1093.0864"
+                class="2109" cy="-1559.6843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="988.29095"
+                class="2110" cy="-1681.3035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1148.9318"
+                class="2111" cy="-1427.2305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1108.522"
+                class="2112" cy="-1276.5232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="711.25793"
+                class="2113" cy="-1443.9104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="869.7566"
+                class="2114" cy="-1487.4384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="700.13776"
+                class="2115" cy="-1592.7178" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="993.6657"
+                class="2116" cy="-1390.6351" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="402.97766"
+                class="2117" cy="-1097.6404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="242.51895"
+                class="2118" cy="-1224.3273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="393.67096"
+                class="2119" cy="-1303.3964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="636.26434"
+                class="2120" cy="-1021.81036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="366.67975"
+                class="2122" cy="-842.1016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="206.3443"
+                class="2124" cy="-184.59634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="550.7012"
+                class="2125" cy="-223.25446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="706.69763"
+                class="2126" cy="-124.71799" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="732.91785"
+                class="2127" cy="-301.65585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="607.60394"
+                class="2128" cy="-395.31305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="434.38007"
+                class="2129" cy="-383.90222" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="315.89453"
+                class="2130" cy="152.764" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-945.39404"
+                class="2131" cy="110.540405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1319.8239"
+                class="2132" cy="-226.6307" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1497.2579"
+                class="2133" cy="-171.83012" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1462.7844"
+                class="2134" cy="-346.54007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1422.6324"
+                class="2135" cy="-500.2117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1638.3418"
+                class="2136" cy="-189.19518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1654.3458"
+                class="2137" cy="-359.1223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1572.6376"
+                class="2138" cy="-485.1286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1297.493"
+                class="2139" cy="-398.04312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1316.0184"
+                class="2140" cy="152.70073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1398.7789"
+                class="2141" cy="292.68744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1549.0565"
+                class="2142" cy="263.95535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1607.4554"
+                class="2144" cy="103.757484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1464.8436"
+                class="2145" cy="22.09781" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-994.7186"
+                class="2146" cy="-100.21486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-744.4895"
+                class="2147" cy="978.0775" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-532.2964"
+                class="2148" cy="1390.7882" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-449.62402"
+                class="2149" cy="1642.233" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-318.14905"
+                class="2150" cy="1576.2817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-601.0852"
+                class="2151" cy="1718.0353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-370.5591"
+                class="2152" cy="1414.7787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-630.6065"
+                class="2153" cy="1553.6322" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-542.9197"
+                class="2155" cy="1027.0013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-880.43445"
+                class="2156" cy="1421.9069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1035.1359"
+                class="2157" cy="1657.8287" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1097.7507"
+                class="2158" cy="1509.5964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-907.60614"
+                class="2159" cy="1730.2704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-812.0412"
+                class="2160" cy="1602.1665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1111.154"
+                class="2161" cy="1021.2098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1236.0558"
+                class="2162" cy="869.74414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1270.5208"
+                class="2163" cy="1156.6599" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1405.6556"
+                class="2164" cy="1091.2068" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1371.447"
+                class="2165" cy="945.8444" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-962.10345"
+                class="2166" cy="1201.3528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1032.8778"
+                class="2167" cy="1360.188" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1192.5906"
+                class="2168" cy="1372.3312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1137.1914"
+                class="2169" cy="1222.3015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="-378.3102" y="340.29138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2067">
+            The Molecular Basis of Vital Processes
+        </text>
+        <text font-size="36" x="376.1688" y="-58.4237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2069">
+            Chemicals and the Vital Processes
+        </text>
+        <text font-size="18" x="176.90184" y="18.819023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2070">
+            The inorganic milieu of living systems
+        </text>
+        <text font-size="30" x="970.24963" y="305.50504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2071">
+            Organic chemicals participating naturally in the life processes
+        </text>
+        <text font-size="18" x="941.6554" y="604.2152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2072">
+            Carbohydrates
+        </text>
+        <text font-size="18" x="838.18146" y="488.2626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2074">
+            Lipids
+        </text>
+        <text font-size="18" x="789.0293" y="344.94363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2076">
+            Proteins and peptides
+        </text>
+        <text font-size="18" x="1101.1526" y="536.0659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2078">
+            The major carrier of chemical energy: ATP
+        </text>
+        <text font-size="24" x="1234.6564" y="656.70526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2080">
+            Nucleic acids
+        </text>
+        <text font-size="18" x="1429.1577" y="709.0563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2081">
+            General features
+        </text>
+        <text font-size="18" x="1222.502" y="856.96924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2082">
+            Deoxyribonucleic acid (DNA)
+        </text>
+        <text font-size="18" x="1391.4061" y="872.01355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2083">
+            Ribonucleic acid (RNA)
+        </text>
+        <text font-size="18" x="1273.5105" y="287.75238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2084">
+            Biological pigments and coloration
+        </text>
+        <text font-size="18" x="1154.7412" y="400.93158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2086">
+            Enzymes
+        </text>
+        <text font-size="18" x="1053.4869" y="90.29068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2088">
+            Vitamins
+        </text>
+        <text font-size="24" x="1455.3424" y="394.4933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2090">
+            Hormones
+        </text>
+        <text font-size="18" x="1714.4658" y="374.30988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2091">
+            General features of hormones
+        </text>
+        <text font-size="18" x="1587.9554" y="569.457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2093">
+            The hormones of vertebrates
+        </text>
+        <text font-size="18" x="1635.8984" y="250.29367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2094">
+            The hormones and hormonelike substances of invertebrates
+        </text>
+        <text font-size="18" x="1732.4148" y="538.0383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2096">
+            The hormones of plants
+        </text>
+        <text font-size="18" x="1184.9537" y="161.4494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2097">
+            Other natural products: alkaloids, steroids and sterols,
+            isoprenoids and terpenes
+        </text>
+        <text font-size="30" x="566.224" y="-734.4875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2099">
+            Drugs
+        </text>
+        <text font-size="18" x="740.97577" y="-908.48303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2101">
+            Sources and development of drugs
+        </text>
+        <text font-size="18" x="779.4158" y="-743.29144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2103">
+            General aspects of drug action
+        </text>
+        <text font-size="18" x="486.29092" y="-937.88434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2105">
+            Absorption, distribution, metabolism, and excretion of drugs
+        </text>
+        <text font-size="24" x="844.1908" y="-1302.2328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2107">
+            Classification of drugs by organ or organ system of principal
+            effect
+        </text>
+        <text font-size="18" x="822.60547" y="-1683.5027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2108">
+            Drugs affecting the cardiovascular system
+        </text>
+        <text font-size="18" x="1093.0864" y="-1555.4597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2109">
+            Drugs affecting smooth and skeletal muscle systems
+        </text>
+        <text font-size="18" x="988.29095" y="-1677.0789" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2110">
+            Drugs affecting the central nervous system
+        </text>
+        <text font-size="18" x="1148.9318" y="-1423.0059" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2111">
+            Drugs affecting the autonomic nervous system and the eyes
+        </text>
+        <text font-size="18" x="1108.522" y="-1272.2986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2112">
+            Drugs affecting the excretory system
+        </text>
+        <text font-size="18" x="711.25793" y="-1439.6858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2113">
+            Drugs affecting the digestive system
+        </text>
+        <text font-size="18" x="869.7566" y="-1483.2137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2114">
+            Drugs affecting the reproductive systems
+        </text>
+        <text font-size="18" x="700.13776" y="-1588.4932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2115">
+            Drugs affecting the immune response system
+        </text>
+        <text font-size="18" x="993.6657" y="-1386.4105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2116">
+            Drugs affecting the histamine response system
+        </text>
+        <text font-size="24" x="402.97766" y="-1092.0818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2117">
+            Drugs directed against disease organisms
+        </text>
+        <text font-size="18" x="242.51895" y="-1220.1027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2118">
+            Drugs derived from living microorganisms: antibiotics
+        </text>
+        <text font-size="18" x="393.67096" y="-1299.1718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2119">
+            Chemical compounds used to treat infectious diseases:
+            chemotherapeutic drugs
+        </text>
+        <text font-size="18" x="636.26434" y="-1017.58575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2120">
+            Drugs directed at the suppression of cancer
+        </text>
+        <text font-size="18" x="366.67975" y="-837.877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2122">
+            Drug use and abuse: the nature of drug addiction and dependence
+        </text>
+        <text font-size="18" x="206.3443" y="-180.4274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2124">
+            Ethyl alcohol, alcohol consumption
+        </text>
+        <text font-size="24" x="550.7012" y="-217.76617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2125">
+            Biocides and biorepellents
+        </text>
+        <text font-size="18" x="706.69763" y="-120.54611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2126">
+            Antiseptics and disinfectants
+        </text>
+        <text font-size="18" x="732.91785" y="-297.4869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2127">
+            Biocides directed by mankind against animal and plant pests
+        </text>
+        <text font-size="18" x="607.60394" y="-391.1441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2128">
+            Biotoxins produced by microorganisms, plants, and animals:
+            microbial toxins, phytotoxins, zootoxins
+        </text>
+        <text font-size="18" x="434.38007" y="-379.6776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2129">
+            Biological and chemical warfare agents
+        </text>
+        <text font-size="18" x="315.89453" y="156.98862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2130">
+            The selective concentration of chemicals by organisms
+        </text>
+        <text font-size="30" x="-945.39404" y="117.48865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2131">
+            Metabolism: Bioenergetics and Biosynthesis
+        </text>
+        <text font-size="24" x="-1319.8239" y="-220.9979" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2132">
+            Photosynthesis: the initiation of energy conversion in the
+            biosphere
+        </text>
+        <text font-size="18" x="-1497.2579" y="-167.60551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2133">
+            The biological importance of photosynthesis
+        </text>
+        <text font-size="18" x="-1462.7844" y="-342.31546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2134">
+            Factors that influence the rate of photosynthesis and the energy
+            efficiency of photosynthesis
+        </text>
+        <text font-size="18" x="-1422.6324" y="-495.9871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2135">
+            Determination of the mechanism of photosynthesis
+        </text>
+        <text font-size="18" x="-1638.3418" y="-184.97057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2136">
+            The site of the photosynthetic process in green plants: the
+            chloroplast
+        </text>
+        <text font-size="18" x="-1654.3458" y="-354.95337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2137">
+            The photosynthetic pigments
+        </text>
+        <text font-size="18" x="-1572.6376" y="-480.904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2138">
+            The energetics of photosynthesis: photoelectron transfer,
+            photophosphorylation
+        </text>
+        <text font-size="18" x="-1297.493" y="-393.8185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2139">
+            The metabolic path of carbon in photosynthesis: the carbon
+            reduction cycle
+        </text>
+        <text font-size="24" x="-1316.0184" y="158.33354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2140">
+            Metabolism: the totality of all chemical processes in the living
+            organism
+        </text>
+        <text font-size="18" x="-1398.7789" y="296.91205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2141">
+            The fragmentation of complex molecules: catabolism
+        </text>
+        <text font-size="18" x="-1549.0565" y="268.17996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2142">
+            The combustion of food materials and the conservation of part of
+            the energy in them
+        </text>
+        <text font-size="18" x="-1607.4554" y="107.98209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2144">
+            The biosynthesis of cell components: anabolism
+        </text>
+        <text font-size="18" x="-1464.8436" y="26.32242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2145">
+            Regulation of metabolism
+        </text>
+        <text font-size="18" x="-994.7186" y="-95.99025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2146">
+            The nitrogen cycle: nitrogen fixation, nitrification and
+            denitrification
+        </text>
+        <text font-size="30" x="-744.4895" y="983.53406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2147">
+            Vital Processes at the Molecular Level
+        </text>
+        <text font-size="24" x="-532.2964" y="1395.1534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2148">
+            The cell membrane
+        </text>
+        <text font-size="18" x="-449.62402" y="1645.5626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2149">
+            The nature of membranes
+        </text>
+        <text font-size="18" x="-318.14905" y="1580.4536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2150">
+            Compartmentalization of the cell
+        </text>
+        <text font-size="18" x="-601.0852" y="1721.3649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2151">
+            Movement of water across cell membranes: osmosis
+        </text>
+        <text font-size="18" x="-370.5591" y="1419.0033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2152">
+            Movement of solutes through membranes in response to a
+            concentration gradient
+        </text>
+        <text font-size="18" x="-630.6065" y="1557.8568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2153">
+            Movement of solutes through membranes independent of concentration
+            gradients
+        </text>
+        <text font-size="18" x="-542.9197" y="1031.1703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2155">
+            Bioelectricity
+        </text>
+        <text font-size="24" x="-880.43445" y="1427.3951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2156">
+            The nerve impulse
+        </text>
+        <text font-size="18" x="-1035.1359" y="1661.1583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2157">
+            The structure of the neuron
+        </text>
+        <text font-size="18" x="-1097.7507" y="1513.821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2158">
+            Characteristics of artificially stimulated nerve fibres
+        </text>
+        <text font-size="18" x="-907.60614" y="1734.4423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2159">
+            Nature of the nerve impulse
+        </text>
+        <text font-size="18" x="-812.0412" y="1606.3911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2160">
+            Transmission of the nerve impulse: the synapse
+        </text>
+        <text font-size="24" x="-1111.154" y="1025.575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2161">
+            Muscle contraction
+        </text>
+        <text font-size="18" x="-1236.0558" y="873.96875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2162">
+            Contractile or motile activity of some type as a characteristic of
+            all living things
+        </text>
+        <text font-size="18" x="-1270.5208" y="1160.8845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2163">
+            Striated, or skeletal, muscle in higher animals
+        </text>
+        <text font-size="18" x="-1405.6556" y="1094.5393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2164">
+            Cardiac muscle
+        </text>
+        <text font-size="18" x="-1371.447" y="949.17694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2165">
+            Smooth muscle
+        </text>
+        <text font-size="24" x="-962.10345" y="1205.718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2166">
+            Bioluminescence
+        </text>
+        <text font-size="18" x="-1032.8778" y="1364.4126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2167">
+            The significance of bioluminescence in behaviour, metabolism, and
+            research
+        </text>
+        <text font-size="18" x="-1192.5906" y="1376.5558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2168">
+            The range and variety of bioluminescent organisms
+        </text>
+        <text font-size="18" x="-1137.1914" y="1226.5261" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2169">
+            The biochemical events of light emission: enzymic and nonenzymic
+            systems
+        </text>
+    </g>
+</svg>

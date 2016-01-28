@@ -1,0 +1,255 @@
+id	label
+4898	Elements of Technology
+4900	Technology of Energy Conversion and Utilization
+4945	Technology of Tools and Machines
+4997	Technology of Measurement, Observation, and Control
+5053	Extraction and Conversion of Industrial Raw Materials
+5115	Technology of Industrial Production Processes
+4901	Major types of energy useful to mankind
+4905	Devices and techniques for the utilization of energy
+4931	Devices for energy conversion
+4940	Devices for energy concentration and control
+4944	Devices for unlimited production of free energy: attempts to design perpetual motion machines
+4946	Hand tools
+4957	Machines and machine components
+4979	Machine tools
+4987	Computer-aided machining
+4992	Nonconventional methods of machining
+4998	Theory of measurement
+4999	Units and standards of measurement
+5002	Principles and processes by which instruments of measurement operate
+5003	Common types of measuring instruments
+5022	Instruments used for observing and recording
+5031	Special instruments and apparatus used in scientific research
+5039	Major systems of measurement and observation
+5048	Instrumentation and control systems
+5054	The world's physical and biological resources
+5060	Technology of the extraction industries
+5066	Primary conversion of raw materials
+5116	Materials processing
+5146	Metallurgy
+5181	Materials handling in the production process
+5187	Technology of packaging
+4902	Primary energy sources: thermonuclear reaction, nuclear fission, radioactivity
+4903	Recurring energy sources: solar energy, natural thermal energy, wind and water energy
+4904	Nonrenewable energy sources: coal, gas, petroleum
+4906	Devices for utilizing muscle energy: pulley, lever, block and tackle, treadmill
+4908	Devices for utilizing wind and water energy: sails and sailboats, windmills, waterwheels, turbines
+4910	Devices for utilizing gravitational energy: pendulums, counterweight mechanisms
+4912	Devices for utilizing strain and compression energy
+4917	Devices for utilizing magnetic and electrical energy
+4920	Devices for utilizing rotational energy: centrifuges, gyroscopes
+4922	Devices for utilizing heat energy: heat exchangers, refrigeration equipment
+4924	Devices for utilizing chemical energy
+4929	"Devices and materials for utilizing nuclear energy: nuclear reactors, radioactive isotopes "
+4932	Thermoelectric devices
+4933	Thermionic devices
+4934	Magnetohydrodynamic and electrogasdynamic devices
+4935	Batteries and fuel cells
+4936	Lamps and other lighting devices
+4937	"X-ray tubes "
+4938	Devices for electric power generation
+4941	Electron tubes
+4942	Solid-state devices; e.g., transistors, semiconductor diodes, integrated circuits
+4943	Optoelectronic devices; e.g., liquid-crystal displays, optical fibres, semiconductor lasers
+4947	Early history of hand tools: Paleolithic and Neolithic stone tools, development of metal tools
+4949	Basic types of hand tools
+4955	Power-driven hand tools: electric drills and circular saws, pneumatic hammers and riveters
+4958	Simple machines: lever, wedge, wheel and axle, pulley, and screw
+4960	Machine mechanisms
+4963	Machine components
+4976	Friction accommodation and reduction
+4981	History and characteristics of machine tools
+4982	Operation of metal-cutting tools
+4983	Basic machine tools
+4985	Modifications of basic machines; e.g., turret lathes, production millers
+4986	Special-purpose machines; e.g., gear-cutting machines, broaching machines
+4988	Computer numerical control
+4989	Computer-aided design and computer-aided manufacturing (CADCAM)
+4990	Robots
+4991	Computer-integrated manufacturing
+4993	Electrical methods
+4995	Other methods
+5000	Systems of weights and measures: standards for the measurement of mass and length
+5001	Standards and techniques for measurement of time
+5004	Instruments for measuring basic dimensions
+5012	Instruments for measuring physical properties and relationships derived from basic dimensions
+5023	Instruments for observing phenomena
+5029	Instruments for recording phenomena: cameras
+5032	General laboratory equipment: filters, mixers, centrifuges
+5033	Research reactors
+5034	Particle accelerators: betatrons, cyclotrons, linear resonance accelerators, synchrotrons
+5035	Mass spectrometers
+5036	Chromatographs
+5037	"Seismographs "
+5038	Particle detectors: bubble chambers, scintillation counters
+5040	Surveying
+5041	Mapping and cartography
+5042	Hydrographic charting
+5043	Oceanographic measurement
+5044	Meteorological measurement
+5045	Astronomical observations
+5046	Navigational techniques and devices
+5047	Radiological techniques and devices
+5049	Instrumentation systems
+5051	Control systems
+5052	Telemetry systems: remote monitoring and control
+5055	The identification and distribution of natural resources
+5057	The management of resources
+5061	Mining and quarrying
+5064	"Techniques of extracting petroleum and gas "
+5067	Petroleum refining
+5069	"Coal processing: production of coke, coal tar, light oil, gas, and chemicals "
+5071	Production and processing of metal ores and metals
+5094	Production of synthetic gemstones and industrial crystals
+5096	Processing of stone, sand, clay, and gravel
+5101	Processing of water to obtain salt, magnesium, oxygen, hydrogen, and other elements
+5103	Processing of air to obtain oxygen, nitrogen, noble gases, and other gases
+5105	Processing of plant and animal products
+5118	Preliminary processing of raw materials
+5121	Forming
+5127	Material removal: processes for shaping parts by removing portions of a solid piece of material
+5129	Joining: processes for bonding materials to each other
+5132	Property modification: alteration or improvement of the properties of materials
+5143	Finishing processes: modification of the surfaces of materials
+5147	Mineral dressing: crushing and grinding, concentration or mineral preparation
+5149	Process metallurgy
+5160	Metal processing
+5169	Physical metallurgy
+5173	Welding, brazing, and soldering
+5182	Types of materials-handling systems by process
+5183	Materials-handling equipment
+5185	"Transportation of materials "
+5186	Technology of storage and warehousing
+4913	Steam engines and steam power plants
+4914	Steam turbines
+4915	Compressed-air and compressed-gas tools and machines
+4916	Hydraulic devices
+4918	Magnets, electromagnets
+4919	Electric motors: induction motors, synchronous motors, commutator motors utilizing ac and dc
+4925	Internal-combustion engines
+4927	Chemical explosives
+4950	Percussive tools: hammers, axes
+4951	Cutting, drilling, and abrading tools: knives, saws, files
+4952	Screw-based tools: screwdrivers, wrenches
+4953	Measuring and defining tools: levels, dividers, rules
+4954	Tool auxiliaries: workbench, vise
+4964	Gears
+4965	Cams
+4966	Linkages
+4967	Flywheels
+4968	Belt and chain drives
+4969	Couplings
+4970	Clutches
+4971	Brakes
+4972	Bearings
+4973	Shafts and shaft accessories
+4974	Screws
+4975	Springs
+4977	Bearings
+4978	Lubricants and their functions, types, and properties
+5005	Devices for measuring length: rules, calipers, micrometers
+5006	Devices for measuring mass and weight: scales, balances
+5007	Devices for measuring time: mechanical, electric, and atomic clocks
+5008	Devices for measuring temperature: gas, liquid, and electrical resistance thermometers
+5009	Devices for measuring electric current and other electrical properties
+5011	Devices for measuring light intensity: photometers, light meters, exposure meters
+5013	Instruments for measuring pressure: barometers, manometers
+5014	Instruments for measuring rate of flow: flowmeters, water meters, gas meters
+5015	Instruments for measuring position by angulation and direction finding
+5018	Instruments for measuring gravity: gravimeters
+5019	Instruments for making optical measurements: polarimeters, refractometers
+5020	Instruments for measuring ionizing radiation: Geiger counters, scintillation counters
+5021	Instruments for measuring volumetric and mechanical properties of materials, including density, viscosity, and mechanical strength
+5024	Microscopes: optical, electron, acoustic, and scanning tunneling microscopes
+5025	Telescopes
+5027	Spectroscopes and spectrographs
+5028	Interferometers
+5058	Conservation of natural resources
+5059	Salvage operations
+5062	Processes: underground mining, surface mining and quarrying
+5063	Products: coal, salt, stone, metal ores, sulfur, phosphates
+5072	Aluminum
+5073	Calcium
+5074	Chromium
+5075	Cobalt
+5076	Copper
+5077	Gold
+5078	Iron
+5079	Lead
+5080	Magnesium
+5081	Mercury
+5082	Nickel
+5083	Platinum
+5084	Silver
+5085	Sodium and potassium
+5086	Steel and steel alloys
+5087	Tin
+5088	Titanium
+5089	Tungsten
+5090	Uranium
+5091	Zinc
+5092	Rare-earth metals
+5093	Metal alloys
+5097	Manufacture of conventional and special types of glass and glass products
+5098	Manufacture of cement, gypsum plasters, and plastic cements
+5099	Manufacture of industrial ceramics
+5100	Manufacture of bricks and tiles
+5106	To obtain paper and pulp
+5107	To obtain roundwood, sawn wood, veneer, plywood and laminated constructions, particleboard, and fibreboard
+5108	To obtain tobacco and other nonfood products
+5109	To obtain leather and hides
+5110	To obtain furs
+5111	To obtain natural fibres
+5112	To obtain pharmaceuticals
+5113	To obtain oils, fats, and waxes
+5114	To obtain resins and other products
+5119	Mechanical processing; e.g., crushing, mixing, blending, separating, grading
+5120	Chemical processing; e.g., leaching, smelting, coagulation, polymerization
+5123	Processing liquid materials
+5126	Processing solid materials; e.g., rolling, forging, stamping, pressing
+5130	Thermal joining: welding, brazing, and soldering
+5131	Adhesive bonding: natural and synthetic adhesives and their uses
+5133	Thermal processing
+5138	Processing of materials by exposure to physical conditions other than heat or cold
+5142	Mechanical and chemical processing
+5144	Mechanical and chemical processes; e.g., cleaning, polishing, embossing, coating
+5145	Electrochemical processes: electroplating
+5150	Pyrometallurgy: metallurgical processes that involve the use of heat
+5156	Electrometallurgy: metallurgical processes that involve electrochemical reactions
+5159	Hydrometallurgy
+5161	Cold and hot working; e.g., forging, rolling, drawing
+5162	Foundry processes; e.g., sand casting, die casting
+5163	Surface treatments; e.g., hot dipping, metal cladding
+5164	Powder metallurgy: powder manufacture, processes, and products
+5165	Nuclear engineering metallurgy
+5167	Heat treatment: precipitation, allotropic transformation, and decomposition reactions
+5168	Special products; e.g., coins, medals, tokens
+5170	Metallography
+5171	Corrosion
+5172	Inspection and testing: mechanical and nondestructive testing
+5174	Basic principles: the metallurgy of metal joining
+5175	Welding processes; e.g., forge welding, arc welding, resistance welding, brazing, soldering
+5176	Types of joints; e.g., fillet welds, brazed joints
+5177	Weldability of metals
+5178	Testing and inspection of welds: nondestructive and destructive methods
+5179	Applications; e.g., construction of bridges, storage tanks, and ships
+5180	Recent developments; e.g., plasma welding, laser welding, ultrasonic welding
+5016	Compasses: magnetic compasses, gyrocompasses
+5017	Surveying instruments: levels, transits, sextants
+5124	Casting metals; e.g., sand casting, die casting
+5125	Casting and molding nonmetals; e.g., slip casting, injection molding
+5134	Basic heat-treating operations: annealing, stress relieving, and hardening
+5135	Radio-frequency heating: induction and dielectric heating
+5136	Zone melting: zone refining and other techniques
+5137	Exposure to cryogenic temperatures
+5139	Processing of materials in a vacuum
+5140	Use of ultrasonic and infrasonic waves
+5141	Other processes; e.g., exposure to radiation
+5151	Gas-solid reactions; e.g., roasting
+5152	Distillation: processes for refining metals by condensing metal vapours
+5153	Ferrous metallurgical processes: techniques for making iron and steel
+5154	Nonferrous metallurgical processes: techniques for producing copper, lead, zinc, and other metals
+5155	Melting, alloying, casting, and ingot solidification
+5157	Electrowinning, electrorefining
+5158	Electroplating

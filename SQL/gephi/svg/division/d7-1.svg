@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2550.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1412.000000 -1700.000000 2550.000000 3154.000000" height="3154.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -147.494980,-305.495270 C -193.848221,-459.241516 -32.758705,-759.390747 120.987541,-805.743958"
+              class="4831 4833" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 120.987541,-805.743958 C 185.318329,-800.972107 274.656738,-697.318237 269.884888,-632.987427"
+              class="4833 4834" stroke-opacity="1.0" stroke="#ec768e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 120.987541,-805.743958 C 17.713001,-814.196228 -124.520386,-981.786499 -116.068100,-1085.061035"
+              class="4833 4836" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -144.388199,-1034.825317 -262.221924,-1001.951843 -312.457642,-1030.271973"
+              class="4836 4837" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -99.221153,-1131.374512 -4.480509,-1175.574341 41.832989,-1158.727417"
+              class="4836 4838" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -164.734161,-1088.813110 -232.105133,-1167.440308 -228.353043,-1216.106445"
+              class="4836 4839" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -186.513901,-1125.292236 -231.835938,-1291.307495 -191.604828,-1361.753296"
+              class="4836 4840" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -143.917999,-1138.767212 -105.133583,-1261.101318 -51.427387,-1288.951294"
+              class="4836 4841" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -104.273041,-1039.088135 -155.539795,-952.436157 -201.512711,-940.641113"
+              class="4836 4842" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.068100,-1085.061035 C -189.485306,-1053.583984 -346.826782,-1116.494019 -378.303925,-1189.911255"
+              class="4836 4843" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 120.987541,-805.743958 C 162.822754,-955.913513 450.829956,-1118.415161 600.999573,-1076.579956"
+              class="4833 4844" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 600.999573,-1076.579956 C 689.552063,-1105.916382 866.385315,-1017.092224 895.721741,-928.539734"
+              class="4844 4845" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 895.721741,-928.539734 C 959.873474,-948.982361 1086.765015,-883.418762 1107.207764,-819.267029"
+              class="4845 4846" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 895.721741,-928.539734 C 926.032471,-974.762573 1040.832764,-998.630615 1087.055542,-968.319885"
+              class="4845 4848" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 895.721741,-928.539734 C 939.648315,-911.014771 979.250732,-818.837402 961.725769,-774.910828"
+              class="4845 4850" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 600.999573,-1076.579956 C 590.887756,-1165.707153 709.410889,-1314.565796 798.538086,-1324.677612"
+              class="4844 4852" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.538086,-1324.677612 C 779.441895,-1379.135864 832.484924,-1489.467407 886.943176,-1508.563599"
+              class="4852 4853" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.538086,-1324.677612 C 823.597778,-1378.882324 942.494507,-1422.599731 996.699219,-1397.540039"
+              class="4852 4855" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 600.999573,-1076.579956 C 648.207581,-1147.534302 825.451172,-1183.153687 896.405518,-1135.945679"
+              class="4844 4857" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 896.405518,-1135.945679 C 937.610840,-1173.501221 1055.752197,-1168.026611 1093.307739,-1126.821167"
+              class="4857 4858" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 896.405518,-1135.945679 C 901.988525,-1194.406860 998.054688,-1273.724243 1056.515869,-1268.141235"
+              class="4857 4860" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 600.999573,-1076.579956 C 534.593140,-1147.308716 541.076660,-1353.011475 611.805481,-1419.417969"
+              class="4844 4861" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 611.805481,-1419.417969 C 605.351074,-1475.154297 679.273865,-1568.440430 735.010132,-1574.894775"
+              class="4861 4862" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 611.805481,-1419.417969 C 562.669739,-1470.219971 565.169250,-1620.126587 615.971252,-1669.262329"
+              class="4861 4864" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 611.805481,-1419.417969 C 564.632202,-1426.648438 504.717957,-1508.253906 511.948364,-1555.427246"
+              class="4861 4866" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -147.494980,-305.495270 C -111.548676,-164.027985 -269.830109,102.092384 -411.297394,138.038681"
+              class="4831 4867" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -411.297394,138.038681 C -311.514587,249.960434 -329.723022,567.517212 -441.644745,667.300049"
+              class="4867 4868" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.644745,667.300049 C -434.004883,767.827942 -573.337036,930.079590 -673.864929,937.719421"
+              class="4868 4869" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -673.864929,937.719421 C -657.374817,988.137146 -708.266296,1088.499023 -758.684021,1104.989136"
+              class="4869 4870" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -673.864929,937.719421 C -698.295166,985.585327 -806.739258,1020.738892 -854.605164,996.308655"
+              class="4869 4871" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.644745,667.300049 C -326.042358,739.489258 -260.922546,1021.176697 -333.111725,1136.779053"
+              class="4868 4873" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.111725,1136.779053 C -254.621231,1132.457031 -130.402573,1243.709961 -126.080635,1322.200439"
+              class="4873 4874" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.111725,1136.779053 C -287.115967,1102.785278 -167.131744,1120.788330 -133.138016,1166.784058"
+              class="4873 4875" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.111725,1136.779053 C -278.463562,1169.325684 -245.311050,1300.117676 -277.857605,1354.765869"
+              class="4873 4876" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.111725,1136.779053 C -295.756866,1214.059448 -355.645111,1386.012329 -432.925507,1423.367188"
+              class="4873 4877" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -333.111725,1136.779053 C -339.150238,1191.234863 -429.891693,1263.860840 -484.347504,1257.822266"
+              class="4873 4878" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.644745,667.300049 C -375.443787,668.265259 -277.590271,769.014587 -278.555511,835.215515"
+              class="4868 4879" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.644745,667.300049 C -461.197479,725.715332 -578.149475,784.009216 -636.564758,764.456482"
+              class="4868 4881" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.644745,667.300049 C -396.111176,709.515381 -391.133850,841.138794 -433.349182,886.672363"
+              class="4868 4883" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.644745,667.300049 C -403.254181,625.720703 -283.299316,620.937500 -241.719955,659.328125"
+              class="4868 4884" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -411.297394,138.038681 C -508.271362,197.792664 -743.363220,141.962723 -803.117188,44.988770"
+              class="4867 4885" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -803.117188,44.988770 C -828.906311,100.333572 -950.607178,144.667114 -1005.951965,118.878006"
+              class="4885 4886" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -803.117188,44.988770 C -856.106506,47.292557 -939.046265,-28.735785 -941.350037,-81.725136"
+              class="4885 4887" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -803.117188,44.988770 C -900.616577,85.483635 -1107.608032,-0.023155 -1148.102783,-97.522537"
+              class="4885 4889" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1148.102783,-97.522537 C -1178.319336,-56.919895 -1284.548218,-41.340740 -1325.150757,-71.557289"
+              class="4889 4890" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1148.102783,-97.522537 C -1219.089600,-75.035965 -1359.299805,-147.786407 -1381.786377,-218.773285"
+              class="4889 4891" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1148.102783,-97.522537 C -1192.485107,-113.044350 -1235.775757,-202.900543 -1220.254028,-247.282867"
+              class="4889 4892" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -411.297394,138.038681 C -420.752228,202.528091 -531.668640,285.079987 -596.158020,275.625153"
+              class="4867 4893" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -596.158020,275.625153 C -566.061279,316.233826 -581.829102,422.292053 -622.437805,452.388824"
+              class="4893 4894" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -596.158020,275.625153 C -627.751587,320.813049 -742.923889,341.204559 -788.111816,309.610962"
+              class="4893 4896" stroke-opacity="1.0" stroke="#b29b6c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#23966f" r="70.0" cx="-147.49498"
+                class="4831" cy="-305.49527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="120.98754"
+                class="4833" cy="-805.74396" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="269.8849"
+                class="4834" cy="-632.9874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-116.0681"
+                class="4836" cy="-1085.061" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-312.45764"
+                class="4837" cy="-1030.272" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="41.83299"
+                class="4838" cy="-1158.7274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-228.35304"
+                class="4839" cy="-1216.1064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-191.60483"
+                class="4840" cy="-1361.7533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-51.427387"
+                class="4841" cy="-1288.9513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-201.51271"
+                class="4842" cy="-940.6411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-378.30392"
+                class="4843" cy="-1189.9113" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="600.9996"
+                class="4844" cy="-1076.58" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="895.72174"
+                class="4845" cy="-928.53973" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1107.2078"
+                class="4846" cy="-819.267" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1087.0555"
+                class="4848" cy="-968.3199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="961.72577"
+                class="4850" cy="-774.9108" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="798.5381"
+                class="4852" cy="-1324.6776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="886.9432"
+                class="4853" cy="-1508.5636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="996.6992"
+                class="4855" cy="-1397.54" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="896.4055"
+                class="4857" cy="-1135.9457" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1093.3077"
+                class="4858" cy="-1126.8212" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1056.5159"
+                class="4860" cy="-1268.1412" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="611.8055"
+                class="4861" cy="-1419.418" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="735.01013"
+                class="4862" cy="-1574.8948" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="615.97125"
+                class="4864" cy="-1669.2623" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="511.94836"
+                class="4866" cy="-1555.4272" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="-411.2974"
+                class="4867" cy="138.03868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-441.64474"
+                class="4868" cy="667.30005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-673.8649"
+                class="4869" cy="937.7194" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-758.684"
+                class="4870" cy="1104.9891" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-854.60516"
+                class="4871" cy="996.30865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-333.11172"
+                class="4873" cy="1136.779" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-126.080635"
+                class="4874" cy="1322.2004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-133.13802"
+                class="4875" cy="1166.784" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-277.8576"
+                class="4876" cy="1354.7659" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-432.9255"
+                class="4877" cy="1423.3672" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-484.3475"
+                class="4878" cy="1257.8223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-278.5555"
+                class="4879" cy="835.2155" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-636.56476"
+                class="4881" cy="764.4565" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-433.34918"
+                class="4883" cy="886.67236" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-241.71996"
+                class="4884" cy="659.3281" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-803.1172"
+                class="4885" cy="44.98877" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1005.95197"
+                class="4886" cy="118.878006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-941.35004"
+                class="4887" cy="-81.725136" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1148.1028"
+                class="4889" cy="-97.52254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1325.1508"
+                class="4890" cy="-71.55729" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1381.7864"
+                class="4891" cy="-218.77328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1220.254"
+                class="4892" cy="-247.28287" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-596.158"
+                class="4893" cy="275.62515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-622.4378"
+                class="4894" cy="452.38882" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-788.1118"
+                class="4896" cy="309.61096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="-147.49498" y="-295.63785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4831">
+            The Nature and Development of Technology
+        </text>
+        <text font-size="36" x="120.98754" y="-797.29474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4833">
+            Technology: Its Scope and History
+        </text>
+        <text font-size="18" x="269.8849" y="-628.7628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4834">
+            General conceptions or definitions of technology
+        </text>
+        <text font-size="24" x="-116.0681" y="-1079.4282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4836">
+            Relations between technology and other spheres of contemporary life
+        </text>
+        <text font-size="18" x="-312.45764" y="-1026.103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4837">
+            Technology and wealth
+        </text>
+        <text font-size="18" x="41.83299" y="-1154.5585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4838">
+            Technology and war
+        </text>
+        <text font-size="18" x="-228.35304" y="-1211.9375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4839">
+            Technology and education
+        </text>
+        <text font-size="18" x="-191.60483" y="-1357.5844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4840">
+            Technology and art
+        </text>
+        <text font-size="18" x="-51.427387" y="-1284.7823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4841">
+            Technology and social institutions
+        </text>
+        <text font-size="18" x="-201.51271" y="-936.4165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4842">
+            Technology and the underdeveloped regions: the export of Western
+            technology
+        </text>
+        <text font-size="18" x="-378.30392" y="-1185.6866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4843">
+            Effects of technology on the environment
+        </text>
+        <text font-size="30" x="600.9996" y="-1069.539" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4844">
+            History of technology: sociocultural consequences of technological
+            changes
+        </text>
+        <text font-size="24" x="895.72174" y="-922.98114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4845">
+            Technology in the ancient world
+        </text>
+        <text font-size="18" x="1107.2078" y="-815.0424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4846">
+            The beginnings of technology (to c. 3000 BC)
+        </text>
+        <text font-size="18" x="1087.0555" y="-964.0953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4848">
+            The urban revolution (c. 3000-500 BC)
+        </text>
+        <text font-size="18" x="961.72577" y="-770.6862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4850">
+            Technological achievements of Greece and Rome (500 BC-AD 500)
+        </text>
+        <text font-size="24" x="798.5381" y="-1319.0448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4852">
+            Technology from the Middle Ages to 1750
+        </text>
+        <text font-size="18" x="886.9432" y="-1504.339" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4853">
+            Medieval advances (AD 500-1500)
+        </text>
+        <text font-size="18" x="996.6992" y="-1393.3154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4855">
+            The emergence of Western technology (1500-1750)
+        </text>
+        <text font-size="24" x="896.4055" y="-1130.3129" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4857">
+            The Industrial Revolution (1750-1900)
+        </text>
+        <text font-size="18" x="1093.3077" y="-1122.6522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4858">
+            Advances in power technology
+        </text>
+        <text font-size="18" x="1056.5159" y="-1263.9694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4860">
+            Development of industries: iron and steel, textiles, chemicals,
+            transportation, communications
+        </text>
+        <text font-size="24" x="611.8055" y="-1413.8418" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4861">
+            Technology in the 20th century
+        </text>
+        <text font-size="18" x="735.01013" y="-1570.7258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4862">
+            Early developments
+        </text>
+        <text font-size="18" x="615.97125" y="-1665.0377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4864">
+            Space Age technology
+        </text>
+        <text font-size="18" x="511.94836" y="-1551.2026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4866">
+            Effects of technology on the environment
+        </text>
+        <text font-size="36" x="-411.2974" y="146.49083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4867">
+            The Organization of Human Work
+        </text>
+        <text font-size="30" x="-441.64474" y="674.34106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4868">
+            The organization of work
+        </text>
+        <text font-size="24" x="-673.8649" y="943.35223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4869">
+            The organization of work in the prehistoric world
+        </text>
+        <text font-size="18" x="-758.684" y="1109.2152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4870">
+            Origin of division of labour based on age and sex differences,
+            initial absence of class divisions
+        </text>
+        <text font-size="18" x="-854.60516" y="1000.53326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4871">
+            Communal organization
+        </text>
+        <text font-size="24" x="-333.11172" y="1142.4119" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4873">
+            The organization of work in the ancient world
+        </text>
+        <text font-size="18" x="-126.080635" y="1326.425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4874">
+            Theories of civilization&apos;s development: explanations of the
+            origin of hierarchical organization
+        </text>
+        <text font-size="18" x="-133.13802" y="1171.0087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4875">
+            Effect of social classes on the organization of labour
+        </text>
+        <text font-size="18" x="-277.8576" y="1358.992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4876">
+            Organization of agricultural labour
+        </text>
+        <text font-size="18" x="-432.9255" y="1427.5933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4877">
+            Organization of industrial labour by craft
+        </text>
+        <text font-size="18" x="-484.3475" y="1262.0483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4878">
+            Organization of labour for large-scale construction
+        </text>
+        <text font-size="18" x="-278.5555" y="839.4401" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4879">
+            The organization of work in the medieval world
+        </text>
+        <text font-size="18" x="-636.56476" y="768.6811" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4881">
+            Changes in production techniques from the 16th to the 18th century
+        </text>
+        <text font-size="18" x="-433.34918" y="890.897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4883">
+            Mass production: the organization of labour by product rather than
+            by process
+        </text>
+        <text font-size="18" x="-241.71996" y="663.5" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4884">
+            The use of machines as replacements for labour
+        </text>
+        <text font-size="30" x="-803.1172" y="52.029785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4885">
+            The application of scientific methods to managerial functions
+        </text>
+        <text font-size="18" x="-1005.95197" y="123.10408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4886">
+            Operations research: the application of scientific method to the
+            management of organized systems
+        </text>
+        <text font-size="18" x="-941.35004" y="-77.50053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4887">
+            Systems engineering
+        </text>
+        <text font-size="24" x="-1148.1028" y="-91.889725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4889">
+            Systems-design techniques, tools, and procedures
+        </text>
+        <text font-size="18" x="-1325.1508" y="-67.33268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4890">
+            Techniques: use of flow charts and other symbolic models, precise
+            formulation of suitable objectives
+        </text>
+        <text font-size="18" x="-1381.7864" y="-214.60434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4891">
+            Tools: optimization theory, communication theory, queuing theory,
+            game theory
+        </text>
+        <text font-size="18" x="-1220.254" y="-243.11392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4892">
+            Procedures: exploratory planning, development planning
+        </text>
+        <text font-size="24" x="-596.158" y="281.11343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4893">
+            The relation between man and machine in industrial production
+        </text>
+        <text font-size="18" x="-622.4378" y="455.7184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4894">
+            The effects on mankind of the rationalization of work
+        </text>
+        <text font-size="18" x="-788.1118" y="313.78284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4896">
+            The human-factors approach
+        </text>
+    </g>
+</svg>

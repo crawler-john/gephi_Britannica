@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3116.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1444.000000 -1805.000000 3116.000000 3801.000000" height="3801.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 19.212059,-174.285645 C 25.725479,-371.583252 331.442078,-657.759583 528.739685,-651.246155"
+              class="4284 4286" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 528.739685,-651.246155 C 541.231018,-714.834656 655.350647,-791.480408 718.939148,-778.989075"
+              class="4286 4287" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 718.939148,-778.989075 C 717.730225,-831.863159 795.227844,-912.987549 848.101929,-914.196472"
+              class="4287 4288" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 718.939148,-778.989075 C 758.103516,-813.178833 868.134644,-805.716797 902.324402,-766.552429"
+              class="4287 4289" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 718.939148,-778.989075 C 677.347595,-819.653503 675.956970,-943.037476 716.621399,-984.629028"
+              class="4287 4291" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 528.739685,-651.246155 C 531.673645,-829.453308 803.385193,-1092.363037 981.592346,-1089.429077"
+              class="4286 4292" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 981.592346,-1089.429077 C 943.019287,-1216.059204 1075.104858,-1463.863770 1201.734985,-1502.436768"
+              class="4292 4293" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1201.734985,-1502.436768 C 1198.521606,-1585.639893 1318.506348,-1715.264771 1401.709473,-1718.478149"
+              class="4293 4294" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1201.734985,-1502.436768 C 1158.495605,-1567.901245 1191.833130,-1730.956787 1257.297607,-1774.196167"
+              class="4293 4296" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1201.734985,-1502.436768 C 1231.850464,-1552.343262 1351.883423,-1582.029541 1401.789917,-1551.914063"
+              class="4293 4298" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1201.734985,-1502.436768 C 1149.749634,-1525.167480 1105.867920,-1637.241821 1128.598633,-1689.227173"
+              class="4293 4299" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 981.592346,-1089.429077 C 1004.962097,-1142.996826 1120.368530,-1188.294067 1173.936279,-1164.924316"
+              class="4292 4300" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 981.592346,-1089.429077 C 954.507141,-1143.083130 994.360291,-1264.191772 1048.014282,-1291.276978"
+              class="4292 4301" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 981.592346,-1089.429077 C 1033.201294,-1194.073730 1267.581543,-1273.627441 1372.226196,-1222.018433"
+              class="4292 4303" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1372.226196,-1222.018433 C 1362.091553,-1281.395020 1435.954712,-1385.661743 1495.331299,-1395.796387"
+              class="4303 4304" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1372.226196,-1222.018433 C 1409.356689,-1292.650146 1571.000000,-1342.901733 1641.631714,-1305.771240"
+              class="4303 4305" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1372.226196,-1222.018433 C 1424.242676,-1245.896484 1538.084351,-1203.689087 1561.962402,-1151.672607"
+              class="4303 4306" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 19.212059,-174.285645 C 237.895432,-33.298031 354.439087,506.208405 213.451477,724.891785"
+              class="4284 4308" stroke-opacity="1.0" stroke="#91835a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 409.318909,692.825256 751.219849,938.526550 783.286377,1134.393921"
+              class="4308 4309" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 783.286377,1134.393921 C 826.902588,1101.988525 940.934875,1118.804810 973.340271,1162.420898"
+              class="4309 4310" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 783.286377,1134.393921 C 872.141663,1078.777710 1088.848877,1128.636475 1144.465088,1217.491699"
+              class="4309 4312" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1144.465088,1217.491699 C 1183.662231,1164.401733 1322.092651,1143.562378 1375.182617,1182.759521"
+              class="4312 4313" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1144.465088,1217.491699 C 1209.691895,1203.324219 1328.783447,1279.913330 1342.950928,1345.140137"
+              class="4312 4314" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 783.286377,1134.393921 C 839.592102,1146.273804 906.230896,1248.552246 894.351074,1304.857910"
+              class="4309 4315" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 783.286377,1134.393921 C 924.079102,1146.813354 1116.638916,1376.631470 1104.219482,1517.424194"
+              class="4309 4316" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1104.219482,1517.424194 C 1153.883423,1475.330322 1291.520264,1486.685547 1333.614136,1536.349487"
+              class="4316 4317" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1104.219482,1517.424194 C 1143.527222,1566.760498 1128.484619,1699.726563 1079.148315,1739.034302"
+              class="4316 4318" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1104.219482,1517.424194 C 1189.387695,1505.788452 1334.593628,1616.087402 1346.229370,1701.255615"
+              class="4316 4319" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1104.219482,1517.424194 C 1180.814941,1545.381958 1253.771606,1702.212036 1225.813843,1778.807495"
+              class="4316 4320" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 260.927734,892.093079 81.340179,1214.109375 -85.861107,1261.585571"
+              class="4308 4321" stroke-opacity="1.0" stroke="#7f9ba2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -85.861107,1261.585571 C -88.142067,1322.131836 -182.382889,1409.529663 -242.929138,1407.248779"
+              class="4321 4322" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -85.861107,1261.585571 C -63.367355,1400.939697 -238.657928,1643.711548 -378.012085,1666.205322"
+              class="4321 4324" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.012085,1666.205322 C -337.692352,1745.548462 -396.227570,1925.042969 -475.570801,1965.362671"
+              class="4324 4325" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.012085,1666.205322 C -415.747498,1714.793579 -545.232910,1731.072754 -593.821106,1693.337280"
+              class="4324 4326" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.012085,1666.205322 C -365.806946,1711.096558 -414.836029,1796.740967 -459.727203,1808.946167"
+              class="4324 4327" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.012085,1666.205322 C -388.869629,1750.229614 -531.192505,1859.979980 -615.216919,1849.122437"
+              class="4324 4328" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.012085,1666.205322 C -320.926880,1698.214844 -283.313416,1831.856934 -315.322937,1888.942139"
+              class="4324 4329" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 273.317383,698.119141 403.275208,747.758972 430.047852,807.624878"
+              class="4308 4330" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.047852,807.624878 C 477.554535,816.426147 535.612671,900.888123 526.811340,948.394836"
+              class="4330 4331" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 430.047852,807.624878 C 466.329163,768.791687 579.000854,764.963867 617.834045,801.245178"
+              class="4330 4332" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 130.981277,797.190247 -101.171638,781.932556 -173.470062,699.462341"
+              class="4308 4334" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.470062,699.462341 C -199.078827,778.697510 -356.344727,859.137085 -435.579895,833.528381"
+              class="4334 4335" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.470062,699.462341 C -223.487411,744.648254 -366.292236,737.401062 -411.478149,687.383728"
+              class="4334 4336" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.470062,699.462341 C -240.035431,698.367676 -338.241577,596.877808 -337.146973,530.312378"
+              class="4334 4337" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.470062,699.462341 C -169.812393,749.077087 -238.747986,828.985657 -288.362701,832.643372"
+              class="4334 4338" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.470062,699.462341 C -210.642181,668.631592 -220.154236,566.627319 -189.323486,529.455139"
+              class="4334 4339" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 256.392639,618.025574 481.103790,522.137878 587.970032,565.079041"
+              class="4308 4340" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 587.970032,565.079041 C 547.304077,529.377563 539.857483,414.826477 575.558960,374.160583"
+              class="4340 4341" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 587.970032,565.079041 C 641.969910,553.867859 739.786438,618.050903 750.997620,672.050781"
+              class="4340 4342" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 587.970032,565.079041 C 610.935242,497.196930 747.206299,429.821594 815.088379,452.786835"
+              class="4340 4343" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 587.970032,565.079041 C 570.858032,493.762299 652.165222,361.119171 723.481934,344.007202"
+              class="4340 4344" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 587.970032,565.079041 C 653.610413,509.527161 835.398743,524.660034 890.950623,590.300415"
+              class="4340 4345" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 216.427094,794.793579 116.037895,904.109619 46.136127,907.085266"
+              class="4308 4346" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.136127,907.085266 C 74.598587,946.126465 58.730522,1047.381836 19.689346,1075.844360"
+              class="4346 4347" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.136127,907.085266 C 3.561604,946.262207 -119.065582,941.165833 -158.242523,898.591309"
+              class="4346 4348" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.136127,907.085266 C 40.191727,975.598511 -71.494797,1069.451904 -140.008072,1063.507446"
+              class="4346 4349" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.451477,724.891785 C 339.206360,806.481262 405.454437,1117.497925 323.864929,1243.252808"
+              class="4308 4350" stroke-opacity="1.0" stroke="#c59422"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 415.877045,1284.888428 491.441803,1485.359985 449.806213,1577.372070"
+              class="4350 4351" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 316.536377,1291.325806 233.433945,1352.442627 185.360901,1345.114014"
+              class="4350 4353" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 397.071106,1322.011230 388.742615,1549.958374 309.984131,1623.164551"
+              class="4350 4354" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 374.707123,1217.745117 489.231781,1255.747070 514.739380,1306.589233"
+              class="4350 4355" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 370.549835,1271.714844 397.884277,1384.435059 369.422333,1431.119995"
+              class="4350 4356" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 351.925018,1317.801514 282.192078,1471.714722 207.643341,1499.774902"
+              class="4350 4357" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.864929,1243.252808 C 413.647064,1237.080566 557.578674,1362.495361 563.750977,1452.277466"
+              class="4350 4358" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 19.212059,-174.285645 C -237.729584,-168.131241 -632.373596,-544.312073 -638.528015,-801.253723"
+              class="4284 4359" stroke-opacity="1.0" stroke="#11aeb7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -578.463684,-808.056702 -478.162689,-728.164612 -471.359711,-668.100281"
+              class="4359 4360" stroke-opacity="1.0" stroke="#6ca2eb"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -722.481628,-819.949646 -820.368042,-973.924072 -801.672119,-1057.877686"
+              class="4359 4362" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -801.672119,-1057.877686 C -883.212219,-1087.002808 -961.834717,-1253.000488 -932.709656,-1334.540649"
+              class="4362 4363" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -801.672119,-1057.877686 C -838.129333,-1100.563599 -828.786377,-1219.278320 -786.100525,-1255.735474"
+              class="4362 4365" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -801.672119,-1057.877686 C -856.532532,-1050.235107 -950.287109,-1121.061768 -957.929749,-1175.922241"
+              class="4362 4366" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -766.714966,-764.193481 -1014.585876,-900.883606 -1051.646118,-1029.070557"
+              class="4359 4367" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1051.646118,-1029.070557 C -1113.892090,-1074.678345 -1138.849609,-1236.458984 -1093.241821,-1298.704956"
+              class="4367 4368" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1051.646118,-1029.070557 C -1135.146118,-992.322754 -1315.517822,-1062.450928 -1352.265625,-1145.950928"
+              class="4367 4369" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1051.646118,-1029.070557 C -1094.645020,-987.833069 -1220.999756,-990.475281 -1262.237183,-1033.474243"
+              class="4367 4371" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1051.646118,-1029.070557 C -1128.945190,-1035.635010 -1235.046997,-1161.430054 -1228.482544,-1238.729126"
+              class="4367 4372" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -626.894226,-862.030701 -518.278076,-935.745544 -457.501099,-924.111755"
+              class="4359 4373" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.501099,-924.111755 C -474.222839,-976.097778 -421.326416,-1079.159424 -369.340393,-1095.881104"
+              class="4373 4374" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.501099,-924.111755 C -429.345764,-974.608887 -311.367096,-1008.121582 -260.869965,-979.966248"
+              class="4373 4375" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -729.491577,-903.483398 -712.592285,-1193.273193 -610.362610,-1284.236816"
+              class="4359 4376" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -610.362610,-1284.236816 C -674.077759,-1279.699829 -776.456177,-1368.466919 -780.993225,-1432.182129"
+              class="4376 4377" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -610.362610,-1284.236816 C -630.191284,-1367.667847 -534.787781,-1522.557617 -451.356689,-1542.386353"
+              class="4376 4378" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -610.362610,-1284.236816 C -597.598083,-1335.921021 -500.924988,-1394.300537 -449.240784,-1381.536011"
+              class="4376 4379" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -610.362610,-1284.236816 C -660.313110,-1338.033081 -654.544434,-1493.653320 -600.748108,-1543.603882"
+              class="4376 4380" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -610.362610,-1284.236816 C -698.842834,-1318.561523 -780.076233,-1502.768921 -745.751526,-1591.249146"
+              class="4376 4381" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -721.603088,-702.500061 -994.346191,-678.982239 -1093.099854,-762.057312"
+              class="4359 4382" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1093.099854,-762.057312 C -1148.871948,-689.752686 -1340.987061,-664.953918 -1413.291626,-720.725952"
+              class="4382 4383" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1093.099854,-762.057312 C -1148.208008,-754.303345 -1242.501343,-825.334778 -1250.255249,-880.442993"
+              class="4382 4384" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1093.099854,-762.057312 C -1174.891235,-722.214050 -1357.343140,-785.136169 -1397.186523,-866.927551"
+              class="4382 4385" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1093.099854,-762.057312 C -1108.559937,-708.095947 -1212.692261,-650.344055 -1266.653564,-665.804199"
+              class="4382 4386" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -645.485962,-694.358276 -816.266052,-544.451965 -923.161499,-551.409912"
+              class="4359 4387" stroke-opacity="1.0" stroke="#46c07f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -923.161499,-551.409912 C -941.771484,-476.692871 -1081.762085,-392.532349 -1156.479004,-411.142334"
+              class="4387 4388" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -923.161499,-551.409912 C -902.052246,-503.167969 -942.751221,-399.141113 -990.993164,-378.031860"
+              class="4387 4389" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -923.161499,-551.409912 C -958.714478,-516.816162 -1063.934570,-518.254944 -1098.528320,-553.807922"
+              class="4387 4390" stroke-opacity="1.0" stroke="#b29b6c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.528015,-801.253723 C -611.150208,-745.916199 -653.089844,-621.843262 -708.427368,-594.465454"
+              class="4359 4391" stroke-opacity="1.0" stroke="#6ca2eb"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#23966f" r="70.0" cx="19.212059"
+                class="4284" cy="-174.28564" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="528.7397"
+                class="4286" cy="-651.24615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7045" r="60.0" cx="213.45148"
+                class="4308" cy="724.8918" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-638.528"
+                class="4359" cy="-801.2537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="718.93915"
+                class="4287" cy="-778.9891" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="981.59235"
+                class="4292" cy="-1089.4291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="783.2864"
+                class="4309" cy="1134.3939" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="50.0" cx="-85.86111"
+                class="4321" cy="1261.5856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="430.04785"
+                class="4330" cy="807.6249" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-173.47006"
+                class="4334" cy="699.46234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="587.97003"
+                class="4340" cy="565.07904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="46.136127"
+                class="4346" cy="907.08527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="323.86493"
+                class="4350" cy="1243.2528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-471.3597"
+                class="4360" cy="-668.1003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-801.6721"
+                class="4362" cy="-1057.8777" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1051.6461"
+                class="4367" cy="-1029.0706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-457.5011"
+                class="4373" cy="-924.11176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-610.3626"
+                class="4376" cy="-1284.2368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-1093.0999"
+                class="4382" cy="-762.0573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-923.1615"
+                class="4387" cy="-551.4099" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-708.42737"
+                class="4391" cy="-594.46545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="848.1019"
+                class="4288" cy="-914.1965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="902.3244"
+                class="4289" cy="-766.5524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="716.6214"
+                class="4291" cy="-984.629" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1201.735"
+                class="4293" cy="-1502.4368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1173.9363"
+                class="4300" cy="-1164.9243" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1048.0143"
+                class="4301" cy="-1291.277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1372.2262"
+                class="4303" cy="-1222.0184" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="973.3403"
+                class="4310" cy="1162.4209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1144.4651"
+                class="4312" cy="1217.4917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="894.3511"
+                class="4315" cy="1304.8579" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="1104.2195"
+                class="4316" cy="1517.4242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-242.92914"
+                class="4322" cy="1407.2488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#8cb900" r="40.0" cx="-378.0121"
+                class="4324" cy="1666.2053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="526.81134"
+                class="4331" cy="948.39484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="617.83405"
+                class="4332" cy="801.2452" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-435.5799"
+                class="4335" cy="833.5284" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-411.47815"
+                class="4336" cy="687.3837" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-337.14697"
+                class="4337" cy="530.3124" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-288.3627"
+                class="4338" cy="832.6434" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-189.32349"
+                class="4339" cy="529.45514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="575.55896"
+                class="4341" cy="374.16058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="750.9976"
+                class="4342" cy="672.0508" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="815.0884"
+                class="4343" cy="452.78683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="723.48193"
+                class="4344" cy="344.0072" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="890.9506"
+                class="4345" cy="590.3004" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="19.689346"
+                class="4347" cy="1075.8444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-158.24252"
+                class="4348" cy="898.5913" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-140.00807"
+                class="4349" cy="1063.5074" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="449.8062"
+                class="4351" cy="1577.3721" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="185.3609"
+                class="4353" cy="1345.114" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="309.98413"
+                class="4354" cy="1623.1646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="514.7394"
+                class="4355" cy="1306.5892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="369.42233"
+                class="4356" cy="1431.12" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="207.64334"
+                class="4357" cy="1499.7749" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="563.751"
+                class="4358" cy="1452.2775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-932.70966"
+                class="4363" cy="-1334.5406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-786.1005"
+                class="4365" cy="-1255.7355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-957.92975"
+                class="4366" cy="-1175.9222" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1093.2418"
+                class="4368" cy="-1298.705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1352.2656"
+                class="4369" cy="-1145.9509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1262.2372"
+                class="4371" cy="-1033.4742" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1228.4825"
+                class="4372" cy="-1238.7291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-369.3404"
+                class="4374" cy="-1095.8811" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-260.86996"
+                class="4375" cy="-979.96625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-780.9932"
+                class="4377" cy="-1432.1821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-451.3567"
+                class="4378" cy="-1542.3864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-449.24078"
+                class="4379" cy="-1381.536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-600.7481"
+                class="4380" cy="-1543.6039" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-745.7515"
+                class="4381" cy="-1591.2491" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1413.2916"
+                class="4383" cy="-720.72595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1250.2552"
+                class="4384" cy="-880.443" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1397.1865"
+                class="4385" cy="-866.92755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1266.6536"
+                class="4386" cy="-665.8042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1156.479"
+                class="4388" cy="-411.14233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-990.99316"
+                class="4389" cy="-378.03186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-1098.5283"
+                class="4390" cy="-553.8079" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1401.7095"
+                class="4294" cy="-1718.4781" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1257.2976"
+                class="4296" cy="-1774.1962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1401.7899"
+                class="4298" cy="-1551.9141" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1128.5986"
+                class="4299" cy="-1689.2272" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1495.3313"
+                class="4304" cy="-1395.7964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1641.6317"
+                class="4305" cy="-1305.7712" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1561.9624"
+                class="4306" cy="-1151.6726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1375.1826"
+                class="4313" cy="1182.7595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1342.9509"
+                class="4314" cy="1345.1401" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1333.6141"
+                class="4317" cy="1536.3495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1079.1483"
+                class="4318" cy="1739.0343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1346.2294"
+                class="4319" cy="1701.2556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="1225.8138"
+                class="4320" cy="1778.8075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-475.5708"
+                class="4325" cy="1965.3627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-593.8211"
+                class="4326" cy="1693.3373" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-459.7272"
+                class="4327" cy="1808.9462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-615.2169"
+                class="4328" cy="1849.1224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d97dd8" r="30.0" cx="-315.32294"
+                class="4329" cy="1888.9421" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="42" x="19.212059" y="-166.50977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4284">
+            Art in General
+        </text>
+        <text font-size="36" x="528.7397" y="-642.79694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4286">
+            Theory and Classification of the Arts
+        </text>
+        <text font-size="36" x="213.45148" y="733.23553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4308">
+            Experience and Criticism of Works of Art; the Nonaesthetic Context
+            of Art
+        </text>
+        <text font-size="30" x="-638.528" y="-795.6995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4359">
+            Characteristics of the Arts in Particular Cultures
+        </text>
+        <text font-size="24" x="718.93915" y="-773.35626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4287">
+            The philosophy of art
+        </text>
+        <text font-size="30" x="981.59235" y="-1083.8749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4292">
+            Classification of the arts
+        </text>
+        <text font-size="30" x="783.2864" y="1141.347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4309">
+            The aesthetic experience: the apprehension, interpretation, and
+            appreciation of works of art
+        </text>
+        <text font-size="30" x="-85.86111" y="1267.1349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4321">
+            The criticism of works of art
+        </text>
+        <text font-size="24" x="430.04785" y="813.1874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4330">
+            Scholarship in the arts
+        </text>
+        <text font-size="24" x="-173.47006" y="704.6811" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4334">
+            The interaction of the arts with social, economic, and cultural
+            institutions
+        </text>
+        <text font-size="24" x="587.97003" y="569.5185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4340">
+            The economics of art
+        </text>
+        <text font-size="24" x="46.136127" y="912.7181" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4346">
+            The training and work of the artist
+        </text>
+        <text font-size="24" x="323.86493" y="1248.8153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4350">
+            The preservation and dissemination of works of art
+        </text>
+        <text font-size="18" x="-471.3597" y="-663.8757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4360">
+            Arts of the Stone Age peoples
+        </text>
+        <text font-size="24" x="-801.6721" y="-1053.4382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4362">
+            Arts of the Western tradition
+        </text>
+        <text font-size="24" x="-1051.6461" y="-1023.50806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4367">
+            Arts of Asian peoples
+        </text>
+        <text font-size="24" x="-457.5011" y="-918.54926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4373">
+            Arts of the Middle East and of the Islamic peoples
+        </text>
+        <text font-size="24" x="-610.3626" y="-1278.6743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4376">
+            Arts of the African peoples
+        </text>
+        <text font-size="24" x="-1093.0999" y="-756.49286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4382">
+            Arts of the Oceanian peoples
+        </text>
+        <text font-size="24" x="-923.1615" y="-545.8474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4387">
+            Arts of the American Indian peoples
+        </text>
+        <text font-size="18" x="-708.42737" y="-590.2936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4391">
+            Primitive, folk, and popular arts
+        </text>
+        <text font-size="18" x="848.1019" y="-910.0246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4288">
+            Diverse conceptions of the scope of art
+        </text>
+        <text font-size="18" x="902.3244" y="-762.3278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4289">
+            Diverse theories concerning the nature, functions, and effects of
+            art
+        </text>
+        <text font-size="18" x="716.6214" y="-980.4044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4291">
+            The making of works of art: the creative process
+        </text>
+        <text font-size="24" x="1201.735" y="-1496.804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4293">
+            Major distinctions among the kinds of art
+        </text>
+        <text font-size="18" x="1173.9363" y="-1160.6982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4300">
+            Other distinctions among the kinds of art; e.g., space and time
+            arts, primary and auxiliary arts
+        </text>
+        <text font-size="18" x="1048.0143" y="-1287.0524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4301">
+            The characterization of works of art by reference to the cultural
+            or social circumstances of their production or the extent and
+            character of their audience
+        </text>
+        <text font-size="24" x="1372.2262" y="-1216.3856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4303">
+            Style in the arts
+        </text>
+        <text font-size="18" x="973.3403" y="1166.6455" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4310">
+            Influences affecting the apprehension of works of art
+        </text>
+        <text font-size="24" x="1144.4651" y="1223.0542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4312">
+            The interpretation of works of art
+        </text>
+        <text font-size="18" x="894.3511" y="1309.0298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4315">
+            The appreciation of works of art
+        </text>
+        <text font-size="24" x="1104.2195" y="1522.9867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4316">
+            Special problems of appreciation and apprehension
+        </text>
+        <text font-size="18" x="-242.92914" y="1410.5784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4322">
+            Diverse criteria of evaluation
+        </text>
+        <text font-size="24" x="-378.0121" y="1671.7678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4324">
+            The practice of criticism
+        </text>
+        <text font-size="18" x="526.81134" y="952.5667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4331">
+            Resources and methods of scholarship in the field of the arts
+        </text>
+        <text font-size="18" x="617.83405" y="805.41705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4332">
+            The relation of scholarship in the arts to other humanistic
+            disciplines
+        </text>
+        <text font-size="18" x="-435.5799" y="836.8609" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4335">
+            Social uses of art
+        </text>
+        <text font-size="18" x="-411.47815" y="691.60834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4336">
+            Social control of art: censorship and related forms of regulation
+        </text>
+        <text font-size="18" x="-337.14697" y="534.4813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4337">
+            The arts and religion
+        </text>
+        <text font-size="18" x="-288.3627" y="836.8123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4338">
+            Technology, science, and the arts
+        </text>
+        <text font-size="18" x="-189.32349" y="532.72906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4339">
+            The arts in education: aesthetic education
+        </text>
+        <text font-size="18" x="575.55896" y="378.3852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4341">
+            Factors affecting the economic value of a work of art
+        </text>
+        <text font-size="18" x="750.9976" y="676.2754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4342">
+            Systems of financing artistic activities
+        </text>
+        <text font-size="18" x="815.0884" y="456.06076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4343">
+            The art market
+        </text>
+        <text font-size="18" x="723.48193" y="348.2318" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4344">
+            Remuneration of artists and protection of their rights
+        </text>
+        <text font-size="18" x="890.9506" y="594.525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4345">
+            Fraudulence in the arts: forgery, piracy, plagiarism
+        </text>
+        <text font-size="18" x="19.689346" y="1080.069" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4347">
+            The preparation of the artist: methods of training
+        </text>
+        <text font-size="18" x="-158.24252" y="901.9209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4348">
+            Art as a vocation: conditions of work in the arts
+        </text>
+        <text font-size="18" x="-140.00807" y="1066.837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4349">
+            Professionalism and amateurism in the arts
+        </text>
+        <text font-size="18" x="449.8062" y="1580.7017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4351">
+            The role of institutions
+        </text>
+        <text font-size="18" x="185.3609" y="1349.3386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4353">
+            The role of writing and notation
+        </text>
+        <text font-size="18" x="309.98413" y="1627.3892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4354">
+            The role of industry and commerce
+        </text>
+        <text font-size="18" x="514.7394" y="1309.9188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4355">
+            The role of mechanical and electronic media
+        </text>
+        <text font-size="18" x="369.42233" y="1434.4496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4356">
+            The role of oral tradition
+        </text>
+        <text font-size="18" x="207.64334" y="1503.1045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4357">
+            The role of imitative tradition
+        </text>
+        <text font-size="18" x="563.751" y="1456.4493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4358">
+            The role of fairs, festivals, exhibitions, expositions, and related
+            phenomena
+        </text>
+        <text font-size="18" x="-932.70966" y="-1330.3717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4363">
+            In antiquity
+        </text>
+        <text font-size="18" x="-786.1005" y="-1251.5109" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4365">
+            Arts of the Middle Ages
+        </text>
+        <text font-size="18" x="-957.92975" y="-1171.7504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4366">
+            Arts from the Renaissance to the present in Europe and America
+        </text>
+        <text font-size="18" x="-1093.2418" y="-1294.5331" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4368">
+            In East Asia: China, Japan, Korea
+        </text>
+        <text font-size="18" x="-1352.2656" y="-1142.6184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4369">
+            In Central Asia
+        </text>
+        <text font-size="18" x="-1262.2372" y="-1029.2496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4371">
+            In South Asia: India, Sri Lanka, Kashmir, Pakistan, Bangladesh
+        </text>
+        <text font-size="18" x="-1228.4825" y="-1234.5045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4372">
+            In Southeast Asia: Burma, Cambodia, Indonesia, Malaysia, Thailand,
+            Vietnam, the Philippines
+        </text>
+        <text font-size="18" x="-369.3404" y="-1091.7092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4374">
+            Arts of the Jewish peoples
+        </text>
+        <text font-size="18" x="-260.86996" y="-976.63666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4375">
+            Arts of North Africa and of the Arab world
+        </text>
+        <text font-size="18" x="-780.9932" y="-1428.8496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4377">
+            Arts of Sudanic cultures
+        </text>
+        <text font-size="18" x="-451.3567" y="-1539.0538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4378">
+            Arts of Central African cultures
+        </text>
+        <text font-size="18" x="-449.24078" y="-1378.2064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4379">
+            Arts of East African cultures
+        </text>
+        <text font-size="18" x="-600.7481" y="-1540.2714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4380">
+            Arts of Southern African cultures
+        </text>
+        <text font-size="18" x="-745.7515" y="-1587.9196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4381">
+            Arts of West African cultures
+        </text>
+        <text font-size="18" x="-1413.2916" y="-717.39636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4383">
+            Arts of Melanesia
+        </text>
+        <text font-size="18" x="-1250.2552" y="-877.1134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4384">
+            Arts of Micronesia
+        </text>
+        <text font-size="18" x="-1397.1865" y="-862.70294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4385">
+            Arts of Polynesia
+        </text>
+        <text font-size="18" x="-1266.6536" y="-661.5796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4386">
+            Arts of the Australian Aboriginal peoples
+        </text>
+        <text font-size="18" x="-1156.479" y="-406.97046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4388">
+            Arts of the Eskimo and North American Indian peoples
+        </text>
+        <text font-size="18" x="-990.99316" y="-373.86" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4389">
+            Arts of Meso-American peoples
+        </text>
+        <text font-size="18" x="-1098.5283" y="-549.63605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4390">
+            Arts of South American peoples
+        </text>
+        <text font-size="18" x="1401.7095" y="-1714.2535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4294">
+            By reference to the intention of the maker or the recipient of the
+            work of art
+        </text>
+        <text font-size="18" x="1257.2976" y="-1769.9716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4296">
+            By reference to the manipulation of physical matter
+        </text>
+        <text font-size="18" x="1401.7899" y="-1547.6895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4298">
+            By reference to performers as interpreters or creators of works of
+            art
+        </text>
+        <text font-size="18" x="1128.5986" y="-1685.0026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4299">
+            By reference to the use of notational devices; e.g., literature,
+            music, dance
+        </text>
+        <text font-size="18" x="1495.3313" y="-1391.5718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4304">
+            The nature of style
+        </text>
+        <text font-size="18" x="1641.6317" y="-1301.5466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4305">
+            The varieties of style; e.g., personal, school, ethnic, regional,
+            and period styles
+        </text>
+        <text font-size="18" x="1561.9624" y="-1147.448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4306">
+            The dynamics of style
+        </text>
+        <text font-size="18" x="1375.1826" y="1186.9285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4313">
+            Meaning in art
+        </text>
+        <text font-size="18" x="1342.9509" y="1349.3647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4314">
+            Symbol and myth in the arts
+        </text>
+        <text font-size="18" x="1333.6141" y="1540.5214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4317">
+            In the sphere of literature
+        </text>
+        <text font-size="18" x="1079.1483" y="1743.2062" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4318">
+            In the sphere of the theatrical arts
+        </text>
+        <text font-size="18" x="1346.2294" y="1705.4275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4319">
+            In the sphere of music
+        </text>
+        <text font-size="18" x="1225.8138" y="1782.9794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4320">
+            In the sphere of the visual arts
+        </text>
+        <text font-size="18" x="-475.5708" y="1969.5345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4325">
+            The functions of the critic in relation to the artist, to his work,
+            and to its public reception
+        </text>
+        <text font-size="18" x="-593.8211" y="1697.5619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4326">
+            Critical methods: analytical, interpretative, and descriptive types
+            of criticism
+        </text>
+        <text font-size="18" x="-459.7272" y="1813.1708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4327">
+            Critical styles: journalistic criticism, scholarly criticism,
+            annotative and referential criticism
+        </text>
+        <text font-size="18" x="-615.2169" y="1853.2943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4328">
+            Critical approaches to the arts
+        </text>
+        <text font-size="18" x="-315.32294" y="1893.1667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="4329">
+            Factors affecting the excellence of criticism
+        </text>
+    </g>
+</svg>
