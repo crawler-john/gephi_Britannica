@@ -1,0 +1,705 @@
+Id	Label
+1	Britannica
+4829	Technology
+4831	The Nature and Development of Technology
+4898	Elements of Technology
+5188	Major Fields of Technology
+4833	Technology: Its Scope and History
+4867	The Organization of Human Work
+4900	Technology of Energy Conversion and Utilization
+4945	Technology of Tools and Machines
+4997	Technology of Measurement, Observation, and Control
+5053	Extraction and Conversion of Industrial Raw Materials
+5115	Technology of Industrial Production Processes
+5190	Agriculture and Food Production
+5280	Technology of the Major Industries
+5321	Construction Technology
+5373	Transportation Technology
+5429	Technology of Information Processing and of Communications Systems
+5508	Military Technology
+5590	Technology of the Urban Community
+5616	Technology of Earth and Space Exploration
+4834	General conceptions or definitions of technology
+4836	Relations between technology and other spheres of contemporary life
+4844	History of technology: sociocultural consequences of technological changes 
+4868	The organization of work
+4885	The application of scientific methods to managerial functions
+4893	The relation between man and machine in industrial production
+4901	Major types of energy useful to mankind
+4905	Devices and techniques for the utilization of energy
+4931	Devices for energy conversion
+4940	Devices for energy concentration and control
+4944	Devices for unlimited production of free energy: attempts to design perpetual motion machines
+4946	Hand tools
+4957	Machines and machine components
+4979	Machine tools
+4987	Computer-aided machining
+4992	Nonconventional methods of machining
+4998	Theory of measurement
+4999	Units and standards of measurement
+5002	Principles and processes by which instruments of measurement operate
+5003	Common types of measuring instruments
+5022	Instruments used for observing and recording
+5031	Special instruments and apparatus used in scientific research
+5039	Major systems of measurement and observation
+5048	Instrumentation and control systems
+5054	The world's physical and biological resources
+5060	Technology of the extraction industries
+5066	Primary conversion of raw materials
+5116	Materials processing
+5146	Metallurgy
+5181	Materials handling in the production process
+5187	Technology of packaging
+5191	The history of agriculture
+5192	Farm management
+5197	Crop farming
+5214	Livestock farming
+5227	Technology of hunting and fishing, whaling
+5228	Food processing
+5260	Food preservation
+5270	Techniques for controlling the quality of food
+5275	Food sources and new product development
+5281	Principles of organization of work and production
+5282	Major manufacturing industries
+5287	The major fabrication industries
+5298	The major processing industries
+5310	The construction industries
+5311	The service industries
+5317	The utilities industries: the power, gas, telephone, and telegraph industries
+5318	The merchandising and marketing of consumer goods
+5319	Industrial research and development
+5320	Technology of industrial safety
+5322	General building construction
+5365	Construction of civil engineering works
+5372	Prefabrication and shop fabrication
+5374	History of transportation
+5390	Roads and highways and their construction
+5391	Vehicles and devices for transportation across country and on roads and highways
+5397	Rail transportation
+5398	Stationary conveyance systems; e.g., pipelines, conveyor belts 
+5399	Water transportation
+5413	Air transportation
+5427	Traffic control
+5430	Communication and information theory
+5431	Calculating devices: the abacus, tally sticks, mechanical and electromechanical calculators 
+5432	Office machines
+5437	Computers
+5445	General information-recording devices
+5455	Sound and video recording and reproducing devices 
+5461	The technology of photography
+5465	Information processing and systems
+5483	Major systems of communication
+5494	Major systems of detection and remote sensing
+5497	Electronic components and techniques used in communications
+5509	Offensive weaponry
+5539	Defensive weaponry
+5558	Weapon platforms
+5581	Engineering
+5585	Logistics: supply, transport, lodging, services
+5586	Electronics
+5591	Basic engineering services of the city
+5605	Technology of the basic social services of the city
+5612	Technological responses to new urban problems
+5617	Techniques and equipment of surface and underground exploration
+5626	Techniques and equipment of undersea exploration
+5637	Techniques and equipment of space exploration
+5663	Techniques of life-support systems for exploration
+4837	Technology and wealth
+4838	Technology and war
+4839	Technology and education
+4840	Technology and art
+4841	Technology and social institutions 
+4842	Technology and the underdeveloped regions: the export of Western technology 
+4843	Effects of technology on the environment
+4845	Technology in the ancient world
+4852	Technology from the Middle Ages to 1750
+4857	The Industrial Revolution (1750-1900)
+4861	Technology in the 20th century
+4869	The organization of work in the prehistoric world 
+4873	The organization of work in the ancient world
+4879	The organization of work in the medieval world
+4881	Changes in production techniques from the 16th to the 18th century
+4883	Mass production: the organization of labour by product rather than by process
+4884	The use of machines as replacements for labour
+4886	Operations research: the application of scientific method to the management of organized systems
+4887	Systems engineering
+4889	Systems-design techniques, tools, and procedures
+4894	The effects on mankind of the rationalization of work
+4896	The human-factors approach
+4902	Primary energy sources: thermonuclear reaction, nuclear fission, radioactivity
+4903	Recurring energy sources: solar energy, natural thermal energy, wind and water energy
+4904	Nonrenewable energy sources: coal, gas, petroleum
+4906	Devices for utilizing muscle energy: pulley, lever, block and tackle, treadmill
+4908	Devices for utilizing wind and water energy: sails and sailboats, windmills, waterwheels, turbines
+4910	Devices for utilizing gravitational energy: pendulums, counterweight mechanisms
+4912	Devices for utilizing strain and compression energy
+4917	Devices for utilizing magnetic and electrical energy
+4920	Devices for utilizing rotational energy: centrifuges, gyroscopes
+4922	Devices for utilizing heat energy: heat exchangers, refrigeration equipment
+4924	Devices for utilizing chemical energy
+4929	Devices and materials for utilizing nuclear energy: nuclear reactors, radioactive isotopes 
+4932	Thermoelectric devices
+4933	Thermionic devices
+4934	Magnetohydrodynamic and electrogasdynamic devices
+4935	Batteries and fuel cells
+4936	Lamps and other lighting devices
+4937	X-ray tubes 
+4938	Devices for electric power generation
+4941	Electron tubes
+4942	Solid-state devices; e.g., transistors, semiconductor diodes, integrated circuits
+4943	Optoelectronic devices; e.g., liquid-crystal displays, optical fibres, semiconductor lasers
+4947	Early history of hand tools: Paleolithic and Neolithic stone tools, development of metal tools
+4949	Basic types of hand tools
+4955	Power-driven hand tools: electric drills and circular saws, pneumatic hammers and riveters
+4958	Simple machines: lever, wedge, wheel and axle, pulley, and screw
+4960	Machine mechanisms
+4963	Machine components
+4976	Friction accommodation and reduction
+4981	History and characteristics of machine tools
+4982	Operation of metal-cutting tools
+4983	Basic machine tools
+4985	Modifications of basic machines; e.g., turret lathes, production millers
+4986	Special-purpose machines; e.g., gear-cutting machines, broaching machines
+4988	Computer numerical control
+4989	Computer-aided design and computer-aided manufacturing (CADCAM)
+4990	Robots
+4991	Computer-integrated manufacturing
+4993	Electrical methods
+4995	Other methods
+5000	Systems of weights and measures: standards for the measurement of mass and length
+5001	Standards and techniques for measurement of time
+5004	Instruments for measuring basic dimensions
+5012	Instruments for measuring physical properties and relationships derived from basic dimensions
+5023	Instruments for observing phenomena
+5029	Instruments for recording phenomena: cameras
+5032	General laboratory equipment: filters, mixers, centrifuges
+5033	Research reactors
+5034	Particle accelerators: betatrons, cyclotrons, linear resonance accelerators, synchrotrons
+5035	Mass spectrometers
+5036	Chromatographs
+5037	Seismographs 
+5038	Particle detectors: bubble chambers, scintillation counters
+5040	Surveying
+5041	Mapping and cartography
+5042	Hydrographic charting
+5043	Oceanographic measurement
+5044	Meteorological measurement
+5045	Astronomical observations
+5046	Navigational techniques and devices
+5047	Radiological techniques and devices
+5049	Instrumentation systems
+5051	Control systems
+5052	Telemetry systems: remote monitoring and control
+5055	The identification and distribution of natural resources
+5057	The management of resources
+5061	Mining and quarrying
+5064	Techniques of extracting petroleum and gas 
+5067	Petroleum refining
+5069	Coal processing: production of coke, coal tar, light oil, gas, and chemicals 
+5071	Production and processing of metal ores and metals
+5094	Production of synthetic gemstones and industrial crystals
+5096	Processing of stone, sand, clay, and gravel
+5101	Processing of water to obtain salt, magnesium, oxygen, hydrogen, and other elements
+5103	Processing of air to obtain oxygen, nitrogen, noble gases, and other gases
+5105	Processing of plant and animal products
+5118	Preliminary processing of raw materials
+5121	Forming
+5127	Material removal: processes for shaping parts by removing portions of a solid piece of material
+5129	Joining: processes for bonding materials to each other
+5132	Property modification: alteration or improvement of the properties of materials
+5143	Finishing processes: modification of the surfaces of materials
+5147	Mineral dressing: crushing and grinding, concentration or mineral preparation
+5149	Process metallurgy
+5160	Metal processing
+5169	Physical metallurgy
+5173	Welding, brazing, and soldering
+5182	Types of materials-handling systems by process
+5183	Materials-handling equipment
+5185	Transportation of materials 
+5186	Technology of storage and warehousing
+5193	Basic management problems and practices
+5194	Farm labour, draft animals, and farm machinery
+5195	Farm buildings
+5196	Farming in relation to other disciplines; e.g., weather, pollution control
+5198	Soil preparation and care
+5200	Plant propagation, seeding and cultivation
+5202	Harvesting and crop processing
+5204	Specialized crop farming techniques
+5207	Control of pests and disease organisms
+5209	Major crops
+5215	Animal breeding
+5217	Major flock and stock animals
+5225	Disease and pest control
+5229	Fruit and vegetable processing
+5231	Cereals, cereal products, and other starch products
+5233	Bakery products
+5236	Confectionery and candy production
+5238	Meat and meat products
+5240	Fish and marine products
+5242	Dairying and dairy products
+5245	Beverage production
+5250	Spices, herbs, and flavourings
+5252	Cane sugar, beet sugar, and other sweeteners
+5254	Oils, fats, and waxes
+5256	Eggs and egg products
+5258	Cocoa and chocolate products
+5261	Methods of preservation
+5268	Food storage and packaging
+5271	Evaluation of food quality
+5273	Control of food quality
+5274	Regulation of food quality by legislation, grading, and inspection
+5276	History and development of new foods and new food products
+5277	Utilization of new food sources; e.g., oilseeds, leaves, grasses, single-cell protein
+5278	Development of new market forms
+5279	Development of special foods; e.g., for space exploration
+5283	The aerospace industry
+5284	The automotive industry
+5285	The clothing and footwear industry
+5286	The furniture industry
+5288	The textile industry
+5289	The steel industry 
+5290	The leather and hide industry
+5291	The fur industry
+5292	The floor-covering industry
+5293	The electronics industry
+5294	The tool and die industry
+5295	The lumber industry
+5296	The cutlery industry
+5297	The abrasives industry
+5299	The chemical industry
+5300	The petroleum industry
+5301	The paper industry
+5302	The pharmaceuticals industry
+5303	The plastics industry
+5304	The rubber industry
+5305	The surface-coating industry
+5306	The dye and pigment industry
+5307	The man-made fibre industry
+5308	Production of industrial and residential gases
+5309	The cosmetics and personal care industry
+5312	Hotels and motels
+5313	Restaurants
+5314	Food service systems
+5315	The transportation industry 
+5316	Security and protection systems
+5323	Preconstruction planning: design programming, drafting
+5325	Surveying procedures: techniques for laying out building foundations
+5327	Building materials
+5339	Testing of building materials
+5341	Construction machinery
+5344	Construction techniques
+5349	Building components
+5363	Acoustics and sound-control techniques
+5366	Dams
+5367	Aqueducts
+5368	Bridges
+5369	Underground construction
+5370	Harbour and hydraulic works
+5371	Lighthouses and lightships
+5375	Primitive transportation; e.g., travois, slide car, sledge, pack animal, dugout
+5377	The wheel and the road
+5380	Sails and oars: beginnings of shipping and shipbuilding, growth of inland waterways
+5382	Steam transportation
+5386	Development of modem transportation
+5392	Nonwheeled transportation devices; e.g., bridles, saddles, harnesses, stirrups
+5393	Animal-drawn wheeled vehicles: wagons, coaches, and carriages
+5394	Bicycles
+5395	Automobiles
+5396	Trucks and buses
+5400	Types of ships and other waterborne vessels
+5402	Ship design and construction
+5409	Canals and inland waterways
+5411	Harbour works: docks and quays, bulk terminals
+5414	Aircraft: configurations, flight characteristics, missions, and special uses
+5419	Airports
+5421	Air transport industry
+5423	Space travel 
+5425	Aeronautical and space research
+5433	Writing and reproducing machines
+5435	Calculating and accounting machines
+5436	Miscellaneous office machines
+5438	Types of computers: analogue and digital computers, hybrid computer systems
+5439	Programming systems
+5441	Computer languages
+5442	Applications of microcomputers, minicomputers, and supercomputers
+5443	Developments in artificial intelligence
+5446	Simple recording implements and devices; e.g., writing implements, slates, chalkboards
+5448	Typewriters and word processors
+5450	Printing machines and processes
+5452	Production of printing plates: engraving and other techniques
+5456	Mechanical systems: phonographs
+5457	Magnetic systems: audio tape recorders, video tape recorders and players
+5458	Optical systems: audio and video disk players
+5459	Auxiliary equipment
+5460	High-fidelity concepts and systems
+5462	Still photography
+5463	Motion-picture and television photography 
+5464	Holography: laser photography 
+5466	Elements of information processing
+5473	Types of information systems
+5484	Book, newspaper, and magazine publishing
+5485	Postal systems and equipment
+5486	Telegraph systems and equipment
+5487	Telephone and telecommunications systems and equipment
+5488	Radio communications systems and equipment
+5489	Television communications systems and equipment
+5490	Communications satellite systems and equipment
+5491	Electronic networks
+5492	Encryption and decryption techniques and devices
+5495	Radar systems and equipment
+5496	Sonar systems and equipment
+5498	Components
+5503	Sensing devices and transducers
+5506	Circuitry
+5510	Early hand-powered weapons
+5515	Gunpowder weapons
+5523	Explosives: e.g., grenades, mines, depth charges, bombs, missile warheads
+5525	Self-propelled missiles
+5534	Nuclear weapons
+5537	Chemical and biological weapons
+5540	Personal protection
+5549	Fortification
+5556	Missile defense: surface-to-air missiles, rapid-fire guns
+5559	Land vehicles
+5564	Surface ships and craft
+5570	Submarines
+5573	Aircraft
+5582	Tactical support: e.g., fortification
+5583	Strategic support: e.g., roads, bridges, ports, airfields
+5584	Ancillary support: e.g., maps, bomb disposal
+5587	Electromagnetic sensors and transmitters
+5589	Electronic countermeasures: radar jammers, infrared flares, chaff
+5592	Water-supply systems
+5594	Sanitation systems
+5597	Urban transportation systems
+5599	Interurban transportation systems 
+5601	Technology of electric power
+5603	Fire prevention and control
+5606	Police technology
+5609	Design, construction, and maintenance of recreational facilities
+5613	Control of air, water, land, and other pollution
+5614	The planning of cities and urban environments
+5618	Types and purposes of exploration
+5623	Methods of exploration
+5627	Platforms for exploratory work
+5632	Navigational methods and systems for establishing the precise location of discoveries
+5634	Developments in oceanographic sampling and measurement techniques
+5638	History of space flight prior to Sputnik I
+5641	Space programs since 1957
+5652	Elements of space flight
+5661	Contributions of space exploration to advances in the physical sciences
+5664	Systems used in undersea exploration
+5665	Systems used in space exploration
+4846	The beginnings of technology (to c. 3000 BC)
+4848	The urban revolution (c. 3000-500 BC)
+4850	Technological achievements of Greece and Rome (500 BC-AD 500)
+4853	Medieval advances (AD 500-1500)
+4855	The emergence of Western technology (1500-1750)
+4858	Advances in power technology
+4860	Development of industries: iron and steel, textiles, chemicals, transportation, communications
+4862	Early developments
+4864	Space Age technology
+4866	Effects of technology on the environment
+4870	Origin of division of labour based on age and sex differences, initial absence of class divisions
+4871	Communal organization
+4874	Theories of civilization's development: explanations of the origin of hierarchical organization
+4875	Effect of social classes on the organization of labour
+4876	Organization of agricultural labour
+4877	Organization of industrial labour by craft
+4878	Organization of labour for large-scale construction
+4890	Techniques: use of flow charts and other symbolic models, precise formulation of suitable objectives
+4891	Tools: optimization theory, communication theory, queuing theory, game theory
+4892	Procedures: exploratory planning, development planning
+4913	Steam engines and steam power plants
+4914	Steam turbines
+4915	Compressed-air and compressed-gas tools and machines
+4916	Hydraulic devices
+4918	Magnets, electromagnets
+4919	Electric motors: induction motors, synchronous motors, commutator motors utilizing ac and dc
+4925	Internal-combustion engines
+4927	Chemical explosives
+4950	Percussive tools: hammers, axes
+4951	Cutting, drilling, and abrading tools: knives, saws, files
+4952	Screw-based tools: screwdrivers, wrenches
+4953	Measuring and defining tools: levels, dividers, rules
+4954	Tool auxiliaries: workbench, vise
+4964	Gears
+4965	Cams
+4966	Linkages
+4967	Flywheels
+4968	Belt and chain drives
+4969	Couplings
+4970	Clutches
+4971	Brakes
+4972	Bearings
+4973	Shafts and shaft accessories
+4974	Screws
+4975	Springs
+4977	Bearings
+4978	Lubricants and their functions, types, and properties
+5005	Devices for measuring length: rules, calipers, micrometers
+5006	Devices for measuring mass and weight: scales, balances
+5007	Devices for measuring time: mechanical, electric, and atomic clocks
+5008	Devices for measuring temperature: gas, liquid, and electrical resistance thermometers
+5009	Devices for measuring electric current and other electrical properties
+5011	Devices for measuring light intensity: photometers, light meters, exposure meters
+5013	Instruments for measuring pressure: barometers, manometers
+5014	Instruments for measuring rate of flow: flowmeters, water meters, gas meters
+5015	Instruments for measuring position by angulation and direction finding
+5018	Instruments for measuring gravity: gravimeters
+5019	Instruments for making optical measurements: polarimeters, refractometers
+5020	Instruments for measuring ionizing radiation: Geiger counters, scintillation counters
+5021	Instruments for measuring volumetric and mechanical properties of materials, including density, viscosity, and mechanical strength
+5024	Microscopes: optical, electron, acoustic, and scanning tunneling microscopes
+5025	Telescopes
+5027	Spectroscopes and spectrographs
+5028	Interferometers
+5058	Conservation of natural resources
+5059	Salvage operations
+5062	Processes: underground mining, surface mining and quarrying
+5063	Products: coal, salt, stone, metal ores, sulfur, phosphates
+5072	Aluminum
+5073	Calcium
+5074	Chromium
+5075	Cobalt
+5076	Copper
+5077	Gold
+5078	Iron
+5079	Lead
+5080	Magnesium
+5081	Mercury
+5082	Nickel
+5083	Platinum
+5084	Silver
+5085	Sodium and potassium
+5086	Steel and steel alloys
+5087	Tin
+5088	Titanium
+5089	Tungsten
+5090	Uranium
+5091	Zinc
+5092	Rare-earth metals
+5093	Metal alloys
+5097	Manufacture of conventional and special types of glass and glass products
+5098	Manufacture of cement, gypsum plasters, and plastic cements
+5099	Manufacture of industrial ceramics
+5100	Manufacture of bricks and tiles
+5106	To obtain paper and pulp
+5107	To obtain roundwood, sawn wood, veneer, plywood and laminated constructions, particleboard, and fibreboard
+5108	To obtain tobacco and other nonfood products
+5109	To obtain leather and hides
+5110	To obtain furs
+5111	To obtain natural fibres
+5112	To obtain pharmaceuticals
+5113	To obtain oils, fats, and waxes
+5114	To obtain resins and other products
+5119	Mechanical processing; e.g., crushing, mixing, blending, separating, grading
+5120	Chemical processing; e.g., leaching, smelting, coagulation, polymerization
+5123	Processing liquid materials
+5126	Processing solid materials; e.g., rolling, forging, stamping, pressing
+5130	Thermal joining: welding, brazing, and soldering
+5131	Adhesive bonding: natural and synthetic adhesives and their uses
+5133	Thermal processing
+5138	Processing of materials by exposure to physical conditions other than heat or cold
+5142	Mechanical and chemical processing
+5144	Mechanical and chemical processes; e.g., cleaning, polishing, embossing, coating
+5145	Electrochemical processes: electroplating
+5150	Pyrometallurgy: metallurgical processes that involve the use of heat
+5156	Electrometallurgy: metallurgical processes that involve electrochemical reactions
+5159	Hydrometallurgy
+5161	Cold and hot working; e.g., forging, rolling, drawing
+5162	Foundry processes; e.g., sand casting, die casting
+5163	Surface treatments; e.g., hot dipping, metal cladding
+5164	Powder metallurgy: powder manufacture, processes, and products
+5165	Nuclear engineering metallurgy
+5167	Heat treatment: precipitation, allotropic transformation, and decomposition reactions
+5168	Special products; e.g., coins, medals, tokens
+5170	Metallography
+5171	Corrosion
+5172	Inspection and testing: mechanical and nondestructive testing
+5174	Basic principles: the metallurgy of metal joining
+5175	Welding processes; e.g., forge welding, arc welding, resistance welding, brazing, soldering
+5176	Types of joints; e.g., fillet welds, brazed joints
+5177	Weldability of metals
+5178	Testing and inspection of welds: nondestructive and destructive methods
+5179	Applications; e.g., construction of bridges, storage tanks, and ships
+5180	Recent developments; e.g., plasma welding, laser welding, ultrasonic welding
+5210	Horticultural crops: vegetables and legumes, fruits and nuts, flowers
+5211	Cereals
+5212	Forest crops: trees, rubber
+5213	Production of other major field crops; e.g., coffee, tea, cocoa, sugar, tobacco
+5218	Cattle
+5219	Swine
+5220	Sheep and goats
+5221	Horses
+5222	Poultry
+5223	Bees
+5224	Other livestock; e.g., buffalo, asses and mules, camels
+5243	Milk production and handling techniques
+5244	Dairy products: fluid and concentrated milk, dried milk, ice cream, butter, and cheese
+5246	Technology of brewing
+5247	Technology of wine making
+5248	Technology of producing distilled liquor
+5249	Technology of producing nonalcoholic beverages: soft drinks, coffee, tea
+5262	Low-temperature preservation: refrigeration and freezing
+5263	Preservation by drying and by smoking
+5264	High-temperature preservation: canning and pasteurization
+5265	Fermentation and pickling
+5266	Chemical preservation
+5267	Preservation by heat radiation and by ionizing radiation
+5328	Earth, clay, and sod
+5329	Vegetable matter: thatch, reeds, and other materials
+5330	Lumber
+5331	Bricks and tiles: other fired clay and ceramics 
+5332	Stone
+5333	Mortar, cement, portland cement, and plaster
+5334	Metals; e.g., iron, steel, aluminum, copper
+5335	Glass
+5336	Concrete, reinforced concrete, and prestressed concrete
+5337	Composition materials, plastics
+5338	Structural fabrics
+5342	Transport machinery
+5343	Lifting machinery; e.g., cranes, cables, ropes
+5345	Wood and timber construction
+5346	Masonry construction
+5347	Concrete construction
+5348	Steel construction
+5350	Foundations and footings
+5351	Structural systems
+5352	Floor systems
+5353	Roof systems
+5354	Space-enclosure systems
+5355	Interior finishes: e.g., carpeting, hardware, ceiling systems
+5356	Auxiliary systems
+5383	The railroad
+5385	Steam navigation: the first steamships, introduction of iron ships, decline of sailing fleets
+5387	Construction of road vehicles, roads, bridges, and tunnels
+5388	Development of mass urban transport and traffic networks
+5389	Development of the air transport industry
+5403	Ship design
+5405	Shipbuilding, shipyard layout and construction
+5407	Power units for propulsion
+5415	Lighter-than-air craft: balloons, airships
+5416	Heavier-than-air craft
+5418	Air-cushion machines
+5453	Mechanical techniques: woodcut, mechanical engraving, etching, lithography
+5454	Photomechanical techniques: photoengraving
+5467	Recording and storage
+5469	Organization and retrieval
+5471	Display and dissemination
+5474	Organizational systems
+5478	Public information utilities (on-line data base search systems)
+5479	Educational and reference systems
+5499	Active components: vacuum and gas-filled tubes, semiconductor devices
+5500	Passive components
+5502	Integrated circuits: miniature arrays of interconnected active or passive circuit elements
+5511	Construction materials: wood, stone, precious metals, copper, bronze, iron
+5512	Shock weapons: e.g., mace, axe, sword, halber
+5513	Missile weapons: e.g., spear, javelin, sling, arrow
+5514	Mechanical weapons: e.g., ballista, catapult, ram, crossbow
+5516	Construction materials: cast bronze, cast or wrought iron, forged or stamped steel
+5517	Loading: muzzle-, breech-, automatic
+5518	Artillery: e.g., cannon, howitzer, mortar
+5519	Small arms: e.g., musket, rifle, pistol, machine gun
+5520	Ammunition
+5526	Basing
+5530	Propulsion: rocket, jet, propeller
+5531	Guidance: free-flight, energy-sensing, command, inertial
+5532	Payloads: e.g., single-warhead, cluster bomblet, multiple reentry vehicle
+5533	Warheads: e.g., high-explosive, antipersonnel, nuclear
+5535	Energy sources: fission, fusion
+5536	Effects: blast, heat, radioactive fallout
+5541	Armour against early hand-powered weapons
+5545	Armour against gunpowder and explosive weapons
+5548	Protection against nuclear and chemical weapons: e.g., gas mask, overgarments
+5550	Field fortification: e.g., log breastwork, wooden pallisade, trench, foxhole
+5551	Permanent fortification before gunpowder: masonry citadel, motte-and-bailey castle
+5552	Permanent fortification in the early gunpowder era: sunken profile, bastioned trace
+5553	Permanent fortification in the modem gunpowder era
+5555	Antinuclear fortification: e.g., hardened missile silos, bomb shelters
+5560	Animal mounts: e.g., horses, elephants, camels
+5561	Man- and animal-powered vehicles: e.g., chariots, siege towers
+5562	Steam power: e.g., railroad cars, early tanks
+5563	Internal combustion: e.g., tanks, armoured personnel carriers
+5565	Oar-powered: e.g., galleys, longboats
+5566	Sail-powered: e.g., galleons, ships of the line, frigates
+5567	Steam-powered: e.g., battleships, cruisers, aircraft carriers
+5568	Internal combustion: e.g., gunboats, landing craft
+5569	Nuclear-powered: e.g., aircraft carriers, cruisers
+5571	Propulsion: steam turbine, diesel-electric, nuclear
+5572	Vessels: attack, strategic missile launching
+5574	Fixed-wing airplanes
+5578	Helicopters
+5595	Development and operation of sewage disposal systems
+5596	Construction and operation of street clearance and refuse disposal systems
+5607	Traffic control technology 
+5608	Crime control technology
+5619	Scientific exploration: the determination of the properties of the Earth's interior
+5620	Resource exploration
+5622	Exploration for construction: the planning of tunnels, foundations, and other works
+5624	Indirect methods: geophysical and geochemical methods
+5625	Direct methods: on-site testing by means of excavation, boring, and sampling of soil and rock
+5628	Surface vessels; e.g., deep-sea drilling ships and twin-hull vessels
+5629	Submersibles
+5630	Aircraft and satellites: application of remote sensing and satellite telemetry
+5631	Buoys and other unmanned units; e.g., the Self-Propelled Underwater Research Vehicle (SPURV)
+5642	Space launch vehicles
+5644	Unmanned space probes
+5649	Manned space programs
+5651	The use of Earth-oriented satellites: communications, Earth survey, and navigation satellites
+5653	The environment of space: the definition of space, characteristics affecting space flight
+5654	Technology of spacecraft subsystems
+5655	Launch principles and techniques: gravitational forces, staging techniques, and acceleration rates
+5656	Mechanics and techniques of space flight
+5016	Compasses: magnetic compasses, gyrocompasses
+5017	Surveying instruments: levels, transits, sextants
+5124	Casting metals; e.g., sand casting, die casting
+5125	Casting and molding nonmetals; e.g., slip casting, injection molding
+5134	Basic heat-treating operations: annealing, stress relieving, and hardening
+5135	Radio-frequency heating: induction and dielectric heating
+5136	Zone melting: zone refining and other techniques
+5137	Exposure to cryogenic temperatures
+5139	Processing of materials in a vacuum
+5140	Use of ultrasonic and infrasonic waves
+5141	Other processes; e.g., exposure to radiation
+5151	Gas-solid reactions; e.g., roasting
+5152	Distillation: processes for refining metals by condensing metal vapours
+5153	Ferrous metallurgical processes: techniques for making iron and steel
+5154	Nonferrous metallurgical processes: techniques for producing copper, lead, zinc, and other metals
+5155	Melting, alloying, casting, and ingot solidification
+5157	Electrowinning, electrorefining
+5158	Electroplating
+5357	Plumbing systems
+5358	Heating, ventiliating, and air-conditioning systems
+5359	Electrical wiring
+5360	Systems for illumination: interior and exterior lighting
+5361	Vertical transport systems; e.g., elevators, moving stairways
+5362	Life-safety systems
+5475	Management-oriented systems (executive, command and control, and decision support)
+5476	Administration-oriented systems (financial, personnel, and project management)
+5477	Service-oriented systems (manufacturing, transaction processing, and expert)
+5480	Dictionaries and lexicons
+5481	Encyclopaedias
+5482	Atlases and map collections
+5521	Propellant: black powder, smokeless powder
+5522	Projectiles: e.g., cannonball, shrapnel, shell, bullet
+5527	Land: e.g., barrage rocket, ballistic missile, surface-to-air missile
+5528	Sea: e.g., torpedo, submarine-launched ballistic missile, antiship missile
+5529	Air: e.g., air-to-air missile, cruise missile
+5542	Materials: e.g., leather, bronze, iron
+5543	Construction: e.g., mail, scale, brigandine, plate
+5544	Protection: e.g., shield, helmet, cuirrass, greave
+5546	Materials: steel, plastic, Kevlar
+5547	Protection: e.g., helmet, flak jacket, bullet-proof vest
+5575	Propulsion: internal combustion/propeller, jet
+5576	Configuration: e.g., biplane, monowing, variable-geometry wing
+5577	Types: e.g., tighter, bomber, early
+5579	Propulsion: internal combustion, gas turbine
+5580	Types: e.g., attack, naval antisubmarine, transport
+5645	The use of sounding rockets to explore the upper atmosphere of Earth
+5646	The use of orbiting satellites for scientific purposes
+5648	The use of unmanned spacecraft to probe the Moon and planets
+5657	Types of trajectories: suborbital, Earth orbital, Earth escape, and interplanetary
+5658	Navigation in space
+5659	Rendezvous and docking
+5660	Re-entry and recovery

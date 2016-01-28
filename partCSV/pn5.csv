@@ -1,0 +1,824 @@
+Id	Label
+1	Britannica
+3319	Human Society
+3321	Social Groups: Peoples and Cultures
+3529	Social Organization and Social Change
+3661	The Production,Distribution, and Utilization of Wealth
+3940	Politics and Government
+4035	Law
+4197	Education
+3323	Peoples and Cultures of the World
+3375	The Development of Human Culture
+3394	Major Cultural Components and Institutions of Human Societies
+3419	Language and Communication
+3531	Social Structure and Change
+3569	The Group Structure of Society
+3600	Social Status
+3620	Human Populations: Urban and Rural Communities
+3663	Economic Concepts, Issues, and Systems
+3691	The Consumer and the Market: Pricing and the Mechanisms for Distributing Goods
+3731	The Organization of Production and Distribution
+3850	The Distribution of Income and Wealth
+3889	Macroeconomics
+3917	Economic Growth and Planning
+3942	Political Theory
+3988	Political Institutions: the Structure, Branches, and Offices of Government
+4006	The Functioning of Government: the Dynamics of the Political Process
+4020	International Relations: Peace and War
+4037	Philosophies and Systems of Law; the Practice of Law
+4071	Branches of Public Law, Substantive and Procedural
+4100	Branches of Private Law, Substantive and Procedural
+4199	The Aims and Organization of Education
+4225	Education Around the World
+3324	In the Arctic
+3327	In North America
+3337	In Middle America
+3342	In South America
+3346	In Europe
+3351	In the Middle East and North Africa
+3356	In Asia
+3362	In sub-Saharan Africa
+3370	In Oceania
+3376	Diverse theories of culture: conceptions involved in the analysis of culture
+3383	Types of cultures
+3392	Processes of cultural change 
+3395	Systems of relationship based upon marriage and descent: kinship
+3403	Other social structures
+3406	Types of economic systems
+3412	Other elements common to all cultures but differing in expression or practice between cultures
+3420	Communication as a foundation of human culture and as the essential element in social and cultural interaction, the role of communication in the modification of human behaviour
+3422	Nonverbal communication
+3429	The nature of language
+3440	The structure of speech and language
+3446	Written language: systems of notation
+3452	Linguistics: the scientific study of language and language development 
+3460	Language and society
+3467	Languages of the world
+3532	The structure of society
+3534	The social effects of bureaucratic and industrial specialization
+3538	Social control
+3548	Factors operative in social change
+3560	Social movements and social change
+3570	The various types of groups: patterns of group relations
+3575	The social effects of racial and ethnic prejudice
+3576	Special social concerns
+3587	Social service: organized public and private activities to alleviate human wants and needs
+3601	Social differentiation and stratification
+3611	Varieties of social stratification and social mobility
+3621	The composition and change of human populations
+3642	Development of modem cities
+3660	Development of modern rural societies
+3664	Some basic concepts of economics
+3673	Levels of economic analysis
+3677	The comparison of different economic systems
+3692	Scarcity, utility, and value: their roles in pricing, their relationship to the consumer
+3693	The satisfaction of material wants: the behaviour of consumers
+3697	Markets as an economic institution in a mixed economy
+3718	The price system in capitalist economies
+3732	The organization of the production of goods
+3736	The organization of the distribution of goods
+3739	The inputs of the productive process
+3757	Institutional arrangements that facilitate production and output
+3780	Agricultural economics
+3787	The geographical distribution of resources and markets: international trade
+3797	The role of government in production and distribution
+3805	Methods of business organization
+3832	Advertising
+3833	The distribution of risk
+3842	Consumer credit
+3851	The distribution of wealth and income by categories of the population
+3860	The routes by which government affects the distribution of wealth and income
+3890	National income and employment theory
+3898	International economic and financial equilibrium and disequilibrium
+3911	Business cycles
+3916	Inflation and deflation
+3918	The nature and causes of economic growth
+3935	Planning for economic growth and stability
+3943	The national state as viewed in political theory
+3959	Patterns of political action as viewed in political theory
+3964	Political concepts, ideologies, and problems
+3989	Political systems
+3999	The branches of government
+4004	Public administration
+4007	The ways in which political power is exercised
+4016	Government's role in production and consumption
+4017	Methods of changing the form of government
+4021	The politics of international relations
+4022	International treaties and agreements
+4023	Foreign policy and diplomacy
+4024	The use of intelligence and counterintelligence activities in the preservation of national security and the conduct of international affairs
+4025	War among states
+4038	Western and non-Western philosophies of law
+4046	Ancient and modern legal systems
+4066	The study of the distinctions and parallels among diverse legal systems
+4067	The profession and practice of law
+4072	Laws defining and implementing the authority and power of the state
+4076	Laws governing relations among sovereign states
+4083	Laws governing acts viewed as crimes
+4086	Laws promoting the public welfare
+4090	Laws governing taxation 
+4091	Laws of judicial procedure
+4101	Law of property
+4127	Family law
+4134	Law of torts
+4152	Laws governing economic transactions
+4182	Civil procedural law
+4200	Philosophies of education 
+4201	The learning process and the teaching art
+4210	The organization of education
+4226	Systems of education
+4238	History of education: philosophies, practices, and institutions
+4281	International educational activities
+3325	In the eastern Arctic
+3326	In the western Arctic
+3328	In the sub-Arctic
+3329	On the Northwest Coast
+3330	In California
+3331	On the Plateau
+3332	In the Great Basin
+3333	In the Southwest
+3334	On the Plains
+3335	In the eastern woodlands
+3336	In the Southeast
+3338	In northern Mexico
+3339	In Meso-America
+3340	In Central America and the northern Andes
+3341	In the Caribbean
+3343	In the central and southern Andes
+3344	In the tropical forest
+3345	Among the South American nomads
+3347	On the Atlantic fringe
+3348	On the plain
+3349	Along the Mediterranean
+3350	On the Alpine climax
+3352	In the Maghrib: northwestern Africa
+3353	In the Mashriq: northeastern Africa and southwest Asia
+3354	In Iran
+3355	In Turkey
+3357	In Siberia
+3358	In Central Asia
+3359	In East Asia
+3360	In South Asia
+3361	In Southeast Asia
+3363	In the western Sudan
+3364	In the eastern Sudan
+3365	On the Guinea coast
+3366	In the Congo
+3367	In central and lower East Africa
+3368	In the East African Horn
+3369	Among the Khoisan peoples: Hottentots and Bushmen
+3371	In Australia
+3372	In Melanesia
+3373	In Polynesia
+3374	In Micronesia
+3377	Definitions of culture
+3378	Culture and personality
+3379	Cultural comparisons: ethnocentrism, cultural relativism
+3380	Cultural adaptation and change
+3381	Cultural patterns
+3382	Cultural institutions
+3384	Cultures of primitive and nonurban societies
+3390	Cultures of civilized societies: theories of their origin and evolution
+3391	The development of modem industrial civilization: mass society
+3396	General aspects of kinship
+3397	Laws and customs regarding mate selection, sexual behaviour, marriage and divorce, legitimacy
+3398	Rules of residence; e.g., virilocal, uxorilocal, neolocal
+3399	Descent systems: unilineal, cognatic, and variant forms
+3400	Control of resources, inheritance, and succession
+3402	Kinship and social change: kinship as an evolving social institution
+3404	The varieties of groups and other associations within societies
+3405	Organization by status: class systems, caste systems, systems characterized by slavery or serfdom
+3407	The economic systems of primitive or nonurban peoples
+3411	The economic systems of developed nations 
+3413	Education and socialization: formal and informal enculturation
+3414	Religious belief, folklore 
+3415	Legal systems 
+3416	Artistic expression: literature, visual arts, performing arts; crafts 
+3417	Linguistic systems 
+3418	Recreation, sports and games
+3423	Communication by means of bodily gestures and posture, by facial expression
+3424	Laughter and nonword sounds as communication
+3425	The use of signals, signs, symbols, icons, and cultural artifacts
+3426	Cybernetic communication
+3428	Parapsychological forms of communication: telepathy
+3430	Definitions of language
+3431	Ways of studying language: phonetics, grammar, semantics
+3432	Language variants: dialects, slang, and specialized variants (e.g., jargon, pidgins, creoles)
+3433	Speech: the psychological and physiological bases
+3434	Meaning and style in language
+3436	Language and culture
+3438	Linguistic change and language typology
+3439	Cryptology: codes, ciphers, and other means of encrypting language
+3441	The phonetics of speech (articulatory, acoustic, linguistic)
+3443	The physiology of speech
+3445	Speech disorders
+3447	The nature, origin, and evolution of writing: from pictures to the alphabet
+3448	Types of writing systems: logographic, syllabic, consonantal, alphabetic, featural
+3449	Systems of writing: hieroglyphic, cuneiform, alphabetic, ideographic
+3450	Adjuncts to writing: punctuation, shorthand
+3451	Calligraphy and the art of handwriting: early Semitic, Arabic, Greek, Latin, Indic, East Asian
+3453	The development of linguistic theory
+3454	Synchronic linguistics
+3456	Diachronic linguistics: linguistic change, comparative method, language classification
+3457	Dialectology and the study of linguistic geography
+3458	Semantics: the study of language and meaning
+3459	The study of writing
+3461	Attitudes toward language
+3463	The connection of language with history, the role of language in the transmission of culture
+3464	The role of language in cross-cultural relations
+3465	The use of language as a political instrument
+3466	The role of language in unifying social and occupational groups
+3468	The classification of language
+3469	Languages spoken in Europe and areas of European colonization
+3486	Languages of Asia and Oceania
+3503	Languages of Africa and the Middle East
+3514	Indian languages of the Americas
+3519	Extinct languages of the world
+3526	Constructed languages
+3535	The social effects of industrialization and modernization
+3536	The social effects of organizational specialization: bureaucracy
+3537	The social effects of industrial specialization and automation
+3539	The process of socialization
+3542	Theories of alienation: definitions, causes, manifestations, and proposed solutions
+3544	The regulation of behaviour that departs from social norms
+3549	The role of ideology in social change
+3550	Contact with other cultures as a factor in social change
+3551	The influence of environment as a factor in social change
+3552	The role of demographic factors in social change
+3553	The role of art in social change: art as an ideological instrument
+3554	Religion as a factor for and against social change
+3555	The role of intellectual factors in social change
+3556	The relationship of economic factors to social stability
+3557	Technological factors in social change
+3558	The role of collective behaviour in social change
+3559	The role of public opinion in social behaviour
+3561	Characteristics of social movements
+3563	Selected types of social movements
+3571	Classifications of groups
+3572	The modem family: its organization and functions
+3573	Special-interest groups
+3574	Minorities and ethnic groups
+3577	The adolescent
+3578	The aged
+3579	Women
+3580	Cultural minorities
+3581	The poor
+3582	Criminals and delinquents
+3583	Sexual deviants
+3584	Prostitutes
+3585	Drug and alcohol users
+3586	Suicidal persons
+3588	The background of social and welfare services: modem and historical influences
+3590	Fields of service
+3602	The concepts of differentiation and stratification: distinctions and interrelationships
+3604	Factors producing social, economic, and cultural differences
+3607	The process of stratification: its relationship to differentiation
+3612	The relation of social class to caste, status, elites, and other concepts
+3613	Theories of social class
+3615	Types and characteristics of and comparisons among modem social classes
+3617	Social mobility
+3618	The idea of a classless society: approximations to an equality of conditions
+3619	Social immobility: slavery, serfdom, and forced labour
+3622	Determinants of population
+3626	Historical changes in population
+3628	Theories of population
+3637	Governmental policies influencing population growth and composition
+3639	The future of the world's population
+3643	Characteristics of urbanization
+3645	History of urbanization
+3647	Patterns of urban planning
+3650	Trends in urbanization
+3665	The concept of economic activity as a process of choosing among scarce resources
+3666	The concept of division of labour
+3667	The concepts of diminishing returns and optimization
+3668	The concept of marginality
+3669	The concept of capital
+3670	The concept of competition
+3671	The concept of comparative advantage
+3672	The concepts of growth and development
+3674	Microeconomics: the economic decisions of individuals, households, and firms
+3675	Sectoral economics: the economic arrangements of industries, groups, and regions
+3676	Macroeconomics: the economy as a whole
+3678	Archetypal economic systems
+3682	Western-type market economies
+3684	Soviet- and socialist-type economic systems
+3686	Mixed economies in developing countries
+3688	Other economic systems
+3694	National consumption levels in the private sector: trends in expenditures for goods and services
+3695	Factors influencing consumers' tastes and spending
+3696	The protection of consumer interests
+3698	Markets classified by reference to competition and monopoly
+3704	Major types of markets
+3709	The counterpart of the market under full-scale economic planning: markets under socialism
+3711	The historical development of markets
+3714	Markets in international trade
+3716	The function of the market in the establishment of equilibrium between supply and effective demand
+3719	The price system as a means of organizing economic activity
+3722	Limitations on and failures of the price system: areas in which the price system does not function
+3729	The role of the public sector in the distribution of goods and services: government budgets
+3733	Analysis of costs and output in the short run
+3735	Analysis of costs and output in the long run for profit maximization and cost minimization
+3737	The relation between the productive process and the incomes derived from it 
+3738	The earnings of land, labour, and capital employed in the productive process
+3740	Labour as an input in the productive process
+3751	Land and raw materials as inputs
+3753	Energy as an input
+3755	Capital as an input in the productive process
+3758	The nature and characteristics of money
+3763	The monetary functions of commercial banks and central banks
+3774	The use of economic statistics in the determination of production and output
+3778	The business corporation
+3781	The relationship between agricultural and economic development
+3782	Efforts to control prices and production in agriculture
+3784	The behaviour of farm prices and the consequences for the incomes of farmers
+3785	The effect of technology on world agriculture: the increase in acreage and in crop yields
+3786	The organization of fanning: types of farms
+3788	Classical and contemporary theories of international and interregional trade
+3790	National and regional factors influencing trade
+3795	International trade arrangements
+3798	The theory of public expenditures
+3800	The justification of the government's claim to share in resource use
+3802	The growth in government spending in the 19th and 20th centuries
+3804	Government operation of basic industries
+3806	The keeping of accounts
+3811	The management of business funds
+3816	The management of human resources: personnel administration
+3821	The administration and control of production
+3826	The distribution of goods
+3834	The nature of insurance
+3835	Fire and marine insurance
+3836	Casualty and surety insurance
+3838	Private life and health insurance
+3839	Government-sponsored and/or government-administered health insurance
+3840	Underwriting of risks: rate making
+3841	Legal aspects of insurance
+3843	Types of consumer credit: installment loans and noninstallment, or single-payment, loans
+3845	Historical development of consumer credit in industrialized countries
+3848	Efforts to protect the consumer: the dimensions of consumer credit
+3852	The nature and measurement of wealth and income
+3854	Methods of classifying the distribution of wealth and income
+3857	Patterns of wealth and income distribution among various countries and among persons within a country
+3861	The national budget as the program of the government's revenues and expenditures
+3863	The nature and purposes of taxation
+3868	Kinds of taxes
+3876	Transfers and subsidies
+3880	The financing of budgetary deficits and surpluses
+3882	Direct controls over the private sector
+3887	Land reform: the redistribution of land tenure
+3891	The concern of income and employment theory with changes in aggregate output, employment, and prices
+3894	The circular flow of income and expenditure: national product as goods and as earnings
+3896	Analyses of fluctuations in national income
+3899	Foreign exchange markets
+3907	International monetary and financial institutions
+3912	The statistical study of cycles
+3914	Theories of the business cycle and business cycle models
+3915	Countercyclical monetary and fiscal policy
+3919	Various factors influencing economic growth
+3922	The theory of economic growth and models of growth
+3926	Social costs and benefits of economic growth
+3928	Economic growth in developing countries
+3932	Changes in economic efficiency as measured by changes in output per unit of input
+3936	The nature of economic planning
+3937	Economic planning in Communist countries
+3938	Economic planning in developed non-Communist countries
+3939	Economic planning in developing countries
+3944	Properties of statehood: sovereignty
+3946	The state and the individual
+3948	The national state in the international community 
+3950	Various conceptions of the bases of legitimacy and authority of government
+3955	Theories of constitutionalism, modern constitutional governments
+3960	Political action within small groups, villages, or communities
+3961	Political action by organized parties
+3962	Political action by special-interest groups
+3963	The political influence of public opinion
+3965	The concept of political power
+3967	The concept of human rights
+3969	Modern ideologies
+3981	Contemporary political issues and problems
+3990	Levels and structures of various systems of government
+3997	Types and models of political systems
+4000	The concentration of legislative and executive functions: parliamentary rule
+4001	The legislature
+4002	The executive
+4003	The judiciary
+4008	Internal and external security functions of government
+4009	The conduct of foreign relations
+4011	Supervisory functions of government
+4013	Regulatory functions of government: the establishment and active enforcement of standards
+4014	Law enforcement and the corrective functions of government: sanctions, inducements, and penalties
+4015	Enterprising functions of government
+4018	Peaceful changes: by electoral process (plebiscite), by constitutional mandate
+4019	Violent changes: revolution, civil war, conquest by a foreign power
+4026	Degrees and kinds of war
+4029	The conduct of war
+4039	Western philosophy of law
+4044	Non-Western philosophies of law: Islamic, Chinese, and other non-Western philosophies of law
+4047	Primitive law: the legal systems of nonliterate peoples
+4049	Ancient systems of law
+4057	Medieval European law
+4062	Modern systems of law
+4068	The profession of law
+4069	Legal ethics
+4070	Educational requirements for the legal profession
+4073	Basic laws governing the organization and functions of the state: constitutional law
+4074	Laws governing public administration
+4077	Sources and concepts of international law
+4078	The attempt to create a supranational legislative and executive authority: the United Nations
+4079	The attempt to create a supranational judicial authority
+4080	The attempt to impose rules of warfare
+4081	The attempt to limit and punish war crimes and crimes against peace and humanity
+4082	The attempt to preserve the peaceful uses and exploration of outer space
+4084	Principles and doctrines of criminal law: comparisons between common law and civil law systems
+4085	Laws governing offenses committed by military forces and other persons subject to military discipline
+4087	Laws providing for general social security and welfare
+4088	Laws promoting public health and safety
+4089	Laws regulating the health, safety, and welfare of workers
+4092	The organization and administration of the legal system: the courts and the judiciary
+4094	Methods and procedures of the law
+4098	Methods of adjudicating litigious disputes: the jury system, systems of arbitration
+4102	Historical development of property rights
+4104	Methods of acquiring property rights
+4106	Types of property rights classified by types of ownership
+4108	Laws concerning tangible property: the distinctions between real and personal property
+4110	Laws protecting intangible or incorporeal property rights
+4115	Laws concerning the temporal division of property rights
+4118	Laws concerning trusts: ownership for the benefit of others
+4123	Law of mortgages
+4125	Laws concerning bankruptcy
+4128	Laws governing the institution of the family and the relationships among its members 
+4132	Laws concerning the devolution of property by means of inheritance
+4135	The doctrine of strict liability as compared with negligence liability
+4138	Intentional personal injuries: battery and assault, false imprisonment, mental anguish
+4140	Intentional injuries to property
+4143	Injuries resulting from negligent acts
+4148	Injuries to personality and personal relationships: physical, mental, and economic injuries
+4153	Law of contracts
+4155	Law of commercial transactions
+4163	Law of business associations
+4176	Labour law
+4178	Laws governing commercial transportation
+4183	Elements of civil procedure
+4192	The conduct of civil trials: the law of evidence
+4194	The rendering of judgment in civil cases: assessment of damages, res judicata, collateral estoppel
+4196	Post-trial appeals and other methods of review
+4202	Processes of learning and thinking: experimental findings and theories
+4204	Pedagogy: the art and science of teaching
+4211	Phases or levels of education
+4218	The preparation and performance of teachers
+4221	The economics of education
+4223	Social aspects of education
+4227	The formation of educational policy
+4229	Administrative functions and procedures
+4231	Types of educational systems and their characteristics
+4239	Education in ancient cultures
+4245	Education in the Persian, Byzantine, early Russian, and Islamic civilizations
+4251	Education in the European Middle Ages
+4257	Education in Asian civilizations from c. 700 to the eve of Western influence
+4261	European education during the Renaissance and Reformation
+4266	European education in the 17th and 18th centuries
+4270	Western education in the 19th century
+4276	Education in the 20th century
+3385	Cultures of nomadic and settled hunters and gatherers
+3386	Horticultural societies
+3388	Cultures of pastoralists and herdsmen: distribution and characteristics
+3389	Cultures of peasants and settled agriculturists
+3408	Production, division of labour, role differentiation
+3409	Exchange of goods, distribution of wealth
+3410	Property and property rights
+3470	Indo-European languages
+3483	Non-Indo-European languages
+3487	Languages of Asia
+3499	Languages of Oceania
+3504	African languages
+3508	Hamito-Semitic languages
+3515	Eskimo-Aleut languages
+3516	North American Indian languages
+3517	Mexican and Central American Indian languages
+3518	South American and Caribbean Indian languages
+3520	Anatolian languages
+3521	Etruscan language
+3522	Italic (non-Romance) languages
+3523	Sumerian language
+3524	Tocharian language
+3525	Sources of other ancient languages: ancient epigraphic remains
+3527	Special international or universal languages, including Esperanto and Interlingua; Basic English
+3528	Machine languages: e.g., Fortran, Algol
+3545	By punishment, rehabilitation, and reform of criminals
+3546	By psychological therapy
+3547	By persuasion
+3564	Movements centred on religious concepts or personalities
+3565	Humanitarian and reform movements
+3566	Interest group movements
+3567	Revolutionary movements
+3568	Nationalist movements 
+3591	Family welfare
+3592	Child welfare
+3593	Youth welfare
+3594	Group welfare
+3595	Disaster relief
+3596	Community development
+3597	Medical and psychiatric social services
+3598	School social services 
+3599	Correctional services: probation, parole, and delinquency control
+3608	Economic differentiation: the basis of stratification
+3609	Class, status, and power as forms of stratification
+3610	The relation of the individual to society: the effects of differentiation and stratification
+3623	Human fertility and its control
+3624	Mortality: death rates and longevity
+3625	Migration and refugee movements
+3629	Premodem beliefs: pronatalism versus birth control
+3630	Mercantilist theory
+3631	Laissez-faire theory
+3632	Malthusian theory
+3633	Marxist theory
+3634	Modern theories of population
+3636	Ecological theories concerning the relationship between human population growth and the conservation of natural resources
+3648	Methods and materials of urban planning and redevelopment
+3649	Social aspects of urban planning and redevelopment
+3651	Megalopolis
+3653	Suburbanization
+3655	Regional integration
+3657	The role of technology in extending the dominance and influence of urban concentrations
+3658	Problems of urban growth and population control
+3659	Problems of environmental change: pollution, climatic change
+3679	The pure private enterprise economy: a theoretical model
+3680	The centrally planned economy: the pure socialist model
+3681	The mixed economy with various degrees of economic planning
+3689	Primitive economic systems
+3690	Feudal economic systems
+3699	Purely competitive markets as distinguished from markets of imperfect competition
+3701	Influences affecting the behaviour of sellers under various competitive conditions
+3702	The concept of workable competition
+3703	Government regulation of monopolistic practices
+3705	Markets for primary commodities
+3706	Markets for manufactured goods
+3707	Markets for money and capital: the market for short-term loans, the securities market
+3708	The market for labour and services 
+3723	Control of prices by business: price-fixing
+3724	Government-established price controls and subsidies
+3726	Economic relationships not susceptible to control by prices
+3728	Imperfect knowledge on the part of buyers as to alternative uses of their buying power
+3741	The labour force: size, quality, and deployment of work force
+3742	Methods of fixing rates of pay
+3743	The structure of pay: differences in the earnings of various occupations
+3744	Changes in the general level of pay
+3745	Employment and unemployment
+3746	The inferior economic and social status of temporary, seasonal migrant labourers
+3747	The organization of unions
+3748	The influence of the union on the supply of labour, wages, and output
+3749	Capital elements in labour: education and training
+3750	The economic role of managers and entrepreneurs
+3759	The basic functions of money
+3760	The various forms of money
+3761	The quantity theory of money
+3764	Historical development of banking systems
+3765	The structure of modern national banking systems
+3766	Principles and functions of commercial banking systems
+3767	Principles and functions of central banking systems
+3768	The money market: various national and international markets for short-term funds
+3769	International monetary institutions
+3771	The market for long-term funds
+3773	The nature and functions of government credit agencies
+3775	National income statistics
+3776	Price statistics: the use and construction of indexes of retail and wholesale prices
+3777	Economic forecasting
+3791	Tariffs, embargoes, and quotas imposed to obtain revenue, protect domestic industry, and secure a favourable balance of payments
+3792	Changes in the conditions of production: costs, labour, and technology
+3793	Price movements
+3794	National domestic taxes and subsidies 
+3807	Accounting as an information system
+3808	Various types of company financial statements; e.g., the balance sheet, the income statement
+3809	Principles of accounting measurement: asset and cost measurement
+3810	Cost accounting: formulation of budgetary plans, performance reports, profit analyses
+3812	Short-term and intermediate-term financial operations
+3814	Long-term financial operations: the design of capital structure and the issuance of securities
+3815	Consolidations and mergers
+3817	Personnel departments: their functions and services
+3818	Manpower planning, recruitment, and placement
+3819	Employee training and development
+3820	Methods of maintaining employee incentive and commitment
+3822	The flow channels of information and materials
+3823	The control function: maintaining conformity between operations and the plan
+3824	Production scheduling
+3825	Inventory adjustment
+3827	The functions of a marketing department in a large firm
+3828	Retailing
+3829	Wholesaling
+3830	Marketing goods to industry, marketing farm products
+3831	The application of market research techniques to merchandising
+3846	Lending institutions and the question of interest rates
+3847	Costs and hazards of consumer credit
+3855	Distribution by factor shares: wages, profits, interest, and rent
+3856	Distribution according to the number of persons in various classes of wealth and income
+3858	Frequency distributions: the Lorenz diagram, the Gini and Pareto coefficients
+3859	Comparisons among wealth and income groups
+3864	Principles of taxation; e.g., adequacy, adaptability, universality, ability to pay
+3865	The effect of taxes on the distribution of income: progressive and regressive taxes
+3866	The burden of taxation: the problem of shifting and incidence
+3867	Characteristics of national tax systems: comparisons of tax burdens
+3869	Taxes on real and personal property
+3870	Sales and excise taxes
+3871	Tariffs and export taxes
+3872	Taxes on personal income and capital gains
+3873	Taxes on corporation income and excess profits
+3874	Death and gift taxes
+3875	Social security and payroll taxes
+3877	Interest payments on the public debt
+3878	Subsidies and tax concessions
+3879	Government-sponsored and government-administered welfare programs
+3883	Price, wage, and profit control
+3884	Control of restrictive practices
+3886	Economic mobilization for war
+3892	The classical law of markets contrasted with the Keynesian theory of effective demand
+3893	The classical and Keynesian theories of unemployment
+3901	Equilibrating movements in the balance of payments and the mechanisms of adjustment
+3903	Disequilibrating movements as a response to currency devaluation: covering, hedging, and speculation
+3904	Balance of payments accounting
+3905	Methods for adjusting to fundamental disequilibrium
+3909	Problems of maintaining adequate gold and currency reserves: gold crises, special drawing rights
+3910	The aftermath of major wars: economic and financial crises, economic nationalism
+3923	Various models of economic growth
+3925	The practical functions of growth theory and mathematical growth models
+3929	The relationship between economic underdevelopment and low per capita income
+3931	Various theories of national economic development and economic retardation
+3951	Continuing consent of the governed: popular sovereignty
+3952	The social contract
+3953	Venerable sanction: hereditary monarchy, constitutional succession
+3954	Divine right: God as the source of political authority
+3956	Origins and theories of constitutional government
+3957	Features of constitutional government
+3958	Methods of constitutional growth: evolution and substantive replacement
+3970	The importance of ideology to a political system or movement
+3972	Current political ideologies and tendencies
+3982	The problem of church and state: its background and contemporary form
+3983	The urban problem: the administration of cities and metropolitan areas 
+3984	The problem of international cooperation and integration 
+3985	The issue of centralization of power versus decentralization
+3986	The problem of adapting traditional political forms to changing conditions
+3987	Bureaucracy: the issue of responsive government 
+3991	Supranational political systems
+3993	National political systems: the unitary nation-state system, the federal state system
+3994	Urban governments
+3995	Other subnational political systems
+4030	Military strategy
+4031	Military tactics
+4032	Military logistics
+4033	Effects of psychological warfare on troops and civilians during wartime
+4034	International law relating to the treatment of persons during wartime 
+4040	The scope of the Western philosophy of law and its relationship to other branches of philosophy
+4041	Problems of the philosophy of law, various approaches to a theory of law or jurisprudence
+4042	The relationship between law and morality: the influence of the principles of natural law
+4043	Historical survey of legal theories from the ancient world to the 20th century
+4050	Egyptian law
+4051	Cuneiform law
+4052	Chinese law
+4053	Greek law
+4054	Hellenistic law
+4055	Roman law
+4056	Germanic law
+4058	Origins and development of medieval European law
+4059	Sources and institutions of medieval constitutional law
+4060	Institutions of private law in medieval Europe
+4061	Development of canon law
+4063	Anglo-American common law
+4064	Continental civil law
+4065	Soviet and socialist law
+4095	Criminal procedure
+4096	Civil procedure
+4097	Administrative procedure
+4111	Easements and servitudes: profits and mineral rights
+4112	Rights to the exclusive exploitation of literary, dramatic, musical, and other artistic works
+4113	Rights to the exclusive exploitation of inventions and other discoveries of useful processes and materials
+4114	Rights to the exclusive exploitation of symbols and other devices used to identify the origin or ownership of business products
+4116	Common law land ownership: freehold and leasehold estates
+4117	Civil law land ownership: dominium (absolute ownership) and usufruct (life estate)
+4119	The elements of a trust: settlor, trust property, trustee, beneficiary, trust instrument
+4120	Types of trusts: express, implied, constructive, statutory, and public and private trusts
+4121	Trusts established for the benefit of families, social and philanthropic organizations, and business corporations
+4122	The status of the trust in civil law systems: a comparison of the trust and the fidei commissum
+4129	Laws concerning the marriage contract: civil effects of marriage, the legal status of married women
+4130	Laws concerning children: legitimacy, adoption, and guardianship; parental obligations andrights
+4131	Laws concerning the termination of marriage: divorce and other forms of marital dissolution
+4144	Injuries resulting from failure to comply with required standards of care
+4146	The employer's liability and the master-servant relationship
+4147	The manufacturer's liability to the consumer
+4149	Defamation
+4151	Interference with economic relationships: deceptive practices, unfair competition, infringement
+4156	Principal elements of commercial law: commercial transactions as contracts
+4162	Laws governing the relationship between agent and principal in the transaction of commercial and other legal affairs
+4164	Principal forms of business associations
+4169	Laws governing the management and control of business entities
+4170	The structure of corporate finance
+4174	Trends in laws governing mergers and consolidations: employee participation
+4175	Laws governing the liquidation of insolvent business and nonbusiness estates: the law of bankruptcy
+4179	Laws regulating the carriage of goods
+4180	Maritime law
+4181	Air law
+4184	National or territorial jurisdiction and venue of courts: the competence of a court to handlea case
+4185	Jurisdiction or venue in private international law
+4187	Definitions and limitations of parties to a suit: class actions and amicus curiae
+4188	Provisional remedies sought prior to trial
+4190	The commencement of civil action
+4205	Components of the teaching situation
+4206	General theories concerning the role of the teacher in the learning process
+4207	The organization of instruction: contemporary practices and techniques
+4208	Instructional media
+4212	Preschool education
+4213	Elementary and secondary education
+4214	Higher education: colleges, universities, and professional schools
+4215	Special education: education of exceptional children
+4216	Education of the adult population
+4217	Vocational training: apprenticeship and employee training
+4219	The education of teachers
+4220	The teaching profession
+4232	Centralized systems: systems in which control is exercised through a national administrative agency
+4233	Decentralized systems: systems in which control is exercised at the regional or local level
+4234	Joint national and local systems
+4235	Systems controlled by political parties
+4236	Sectarian systems
+4240	Ancient Indian education
+4241	Ancient Chinese education
+4242	Ancient Hebrew education
+4243	Ancient Greek education
+4244	Ancient Roman education
+4246	Ancient Persian education: influences of Zoroastrian and Sasanid cultures
+4247	Byzantine education
+4249	Kiev and Muscovy: Russian education to the period of the early Romanovs
+4250	Islamic education
+4252	Christian education to the 8th century
+4254	The cultural revival under Charlemagne and his successors
+4255	The 12th-century renaissance
+4258	Indian education from c. 700 to 1707
+4259	Chinese education from 618 to 1911
+4260	Japanese education from ancient times to 1867
+4262	Development of Renaissance education: Arabic and secular influences on Humanism
+4263	The humanistic tradition in Italy
+4264	The humanistic tradition in northern and western Europe
+4265	Education during the Reformation and Counter-Reformation
+4267	The social and historical setting
+4268	Educational theories and practices
+4269	European influences in New World educational development
+4271	The social and historical setting
+4273	The early reform movements: the new pedagogy and psychology
+4274	Development of national systems of education
+4275	Spread of Western educational practices to Asian countries
+4277	Political, social, economic, and intellectual trends
+4278	Traditional and experimental educational movements in the West
+4279	The modernization of education in Asia and Africa
+4280	Education in colonies and newly emerging nations in Africa, Asia, and Latin America
+3471	Indo-Iranian languages
+3472	Celtic languages
+3473	Italic languages
+3474	Romance languages
+3475	Greek language
+3476	Baltic languages
+3477	Slavic languages
+3478	Germanic languages
+3479	English language
+3480	Albanian language
+3481	Armenian language
+3482	Tocharian language
+3484	Uralic languages
+3485	Basque language
+3488	Indo-Iranian languages
+3489	Dravidian languages
+3490	Austro-Asiatic languages
+3491	Sino-Tibetan languages
+3492	Tai languages
+3493	Japanese language
+3494	Korean language
+3495	Altaic languages
+3496	Uralic languages
+3497	Paleosiberian languages
+3498	Caucasian languages
+3500	Austronesian languages
+3501	Australian Aboriginal languages
+3502	Papuan languages
+3505	Niger-Congo languages
+3506	Chari-Nile and Nilo-Saharan languages
+3507	Khoisan languages
+3509	Semitic languages
+3510	Egyptian language
+3511	Berber languages
+3512	Cushitic languages
+3513	Chadic languages
+3973	Anarchism
+3974	Communism
+3975	Conservatism
+3976	Fascism
+3977	Liberalism
+3978	Marxism
+3979	Nationalism
+3980	Socialism
+4157	Sales of goods and requirements for delivery
+4158	Transfer of negotiable instruments; e.g., promissory notes, checks, drafts or bills of exchange
+4159	Issuance of documents of title; e.g., bills of lading, warehouse receipts
+4160	Issuance of letters of credit
+4161	The use of security interests (liens and pledges) as collateral for loans of money
+4165	Partnerships
+4166	Corporate companies or corporations
+4167	Cooperative and mutual organizations
+4168	State and municipal corporations, quasi-public enterprises and utilities
+4171	Common and preferred shares of stock: rights and interests of owners of equity capital
+4172	Borrowed capital: rights acquired by holders of bonds and debentures
+4173	Reinvestment of company earnings

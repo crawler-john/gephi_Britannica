@@ -1,0 +1,933 @@
+Id	Label
+1	Britannica
+9380	The Branches of Knowledge
+9382	Logic
+9459	Mathematics
+9771	Science
+10240	History and the Humanities
+10331	Philosophy
+9384	History and Philosophy of Logic
+9429	Formal Logic,Metalogic,and Applied Logic
+9461	History and Foundations of Mathematics
+9526	Branches of Mathematics
+9690	Applications of Mathematics
+9773	History and Philosophy of Science
+9849	The Physical Sciences
+9952	The Earth Sciences
+10025	The Biological Sciences
+10072	Medicine and Affiliated Disciplines
+10171	The Social Sciences and Psychology and Linguistics
+10222	The Technological Sciences
+10242	Historiography and the Study of History
+10288	The Humanities and Humanistic Scholarship
+10333	History of Philosophy
+10438	The Nature and the Divisions of Philosophy
+10491	Philosophical Schools and Doctrines
+9385	History of logic
+9418	Philosophy of logic
+9430	Formal logic
+9444	Metalogic
+9451	Applied logic
+9462	History of mathematics
+9507	Foundations of mathematics
+9527	Set theory
+9540	Algebra
+9576	Geometry
+9614	Analysis
+9648	Combinatorics and numbertheory
+9660	Topology
+9691	Mathematics as a calculatory science
+9719	Statistics
+9731	Numerical analysis
+9738	Automata theory
+9744	Mathematical theory of optimization
+9749	Information theory
+9754	Computer science
+9761	Mathematical aspects of physical theories
+9774	History of science
+9811	Philosophy of science
+9850	History of the physical sciences: the evolution of astronomy, physics, and chemistry
+9927	The nature and scope of astronomy and astrophysics
+9936	The nature and scope of physics: its major subject matters, methods, and problems  
+9945	The nature and scope of chemistry: its major subject matters and problems 
+9953	The history of the Earth sciences
+10017	The nature, scope, and methods of the particular Earth sciences  
+10026	History of the biological sciences
+10059	The nature, scope, and methodology of the biological sciences  
+10066	Philosophy of biology
+10073	History of medicine and surgery
+10143	Fields of specialized medical practice or research
+10166	Disciplines affiliated with medicine
+10172	History of the social sciences
+10192	The nature of anthropology
+10195	The nature of sociology
+10201	The nature of economics
+10205	The nature of political science
+10210	The nature of geography
+10213	History and methods of psychology
+10217	The nature of linguistics
+10223	History of the technological sciences
+10224	Nature and scope of engineering
+10228	The nature and scope of agricultural sciences
+10232	The nature and scope of recently developed interscience disciplines
+10243	Historiography: the types of historical writing
+10264	Modern historical investigation and research: sources and methods
+10284	Philosophy of history: speculations about the historical process, philosophical analysis of
+10289	History of humanistic scholarship
+10325	The humanities
+10334	History of Western philosophy
+10405	Non-Western philosophy
+10430	Philosophies associated with religion
+10439	The nature, scope, and methods of philosophy 
+10445	The divisions of philosophy
+10492	Major philosophical schools in the West
+10520	Theories of Being and existence
+10529	Theories of thought, knowledge, and faculties of mind
+10537	Theories of conduct
+9386	Ancient logic
+9393	Medeva logic
+9400	Modern logic from the Renaissance to the 20th century
+9407	Logic in the 20th century
+9413	Logic in the East
+9419	The oreanization of logic as adiscipline
+9424	Issues and developments in the philosophy of logic
+9428	The place of logic among the sciences and disciplines
+9431	The propositional calculus:the logic of unanalyzed sentences in combination
+9435	The predicate calculus:the logic of quantified functions of terms
+9440	Syllogistic:the theory of the syllogism
+9441	Modal logic
+9443	Set theory and natural-number arithmetic
+9446	The nature and elements of metalogic
+9447	Discoveries about for malmathematical systems
+9449	Model theory
+9452	The critique of forms of reasoning
+9455	Epistemic logic:logic dealing with the concepts of belief,knowledge,assertion,doubt,andquestion
+9456	Practical logic:logic dealing with the concepts of choosing,planning commanding and permitting
+9457	Hypothetical reasoning and counterfactual conditionals
+9463	The development of mathematics in general through ancient, medieval, and modern times
+9475	Historical development of representative nonprobabilistic areas of mathematics
+9499	Historical development of probabilistic areas of mathematics 
+9508	The axiomatic method: mathematical analysis based upon a set of axioms, or unproved statements
+9512	The genetic method
+9516	The crisis in the foundations of mathematics after 1900
+9521	Current directions ininvestigations of the foundations of mathematics
+9528	Origins of set theory and the deEnitions of a set and a set element, or member
+9529	Introduction to set theory
+9532	Axiomatic set theory
+9541	Arithmetic
+9552	Elementary and multivariate algebra
+9557	Linear and multitinear algebra
+9568	Algebraic structures
+9577	Euclidean geometry
+9588	Non-Euclidean geometry
+9594	Projective geometry
+9600	Analytic and trigonometric geometry
+9608	Combinatorial geometry
+9610	Diflerential geometry
+9612	Algebraic geometry
+9615	Real analysis
+9620	Complex analysis
+9624	Dilferential equations
+9630	Functional analysis
+9634	Fourier analysis
+9639	Theory of probability
+9644	Vector and tensor analysis
+9649	Combinatorics and combinatorial geometry
+9654	Number theory
+9661	General topology
+9669	Topological groups and differential topology
+9676	Algebraic topology
+9692	Numerical notations
+9696	Geometrical aids
+9703	Mathematical models 
+9705	Calculatory aspects of algebra
+9709	Calculation using tables and graphs
+9712	Analogue computation
+9715	Digital computation
+9720	The basic principles of statistical inference
+9726	Estimation 
+9728	Hypothesis testing 
+9730	Structure in data : use of regression analysis to discover systematic patterns
+9732	Introduction : definition, origins, and basic concepts of numerical analysis
+9733	Errors : round-oFF and truncation
+9734	Approximation of functions : linear and polynomial interpolation, least squares approximation
+9735	Solution of equations : linear, nonlinear, and difrerential equations
+9736	Applications and implementation of numerical analysis 
+9739	Introduction 
+9741	Neural nets and automata
+9742	Probabilistic questions : random eifects in the operation of automata
+9743	Classification of automata
+9745	The theory of games : analysis of the strategic features of conflict situations
+9746	Linear and nonlinear programming (mathematical programming)
+9747	Cybemetics
+9748	Control theory
+9750	Origins and definitions of information theory
+9751	Central problems of information theory
+9752	Principles of information theory
+9753	Applications of information theory to cryptography, linguistics, and other fields
+9755	Synthesis and analysis of algorithms
+9756	Theory of computation
+9757	Computer architecture
+9758	Programming languages and methodolog ;
+9759	Numeric computation
+9760	Artificial intelligence
+9762	Mechanics of particles and systems
+9763	Fluid mechanics
+9764	Mechanics of solids
+9765	Statistical mechanics
+9766	Electromagnetic theory
+9767	Relativity theory : space and time as a four-dimensional continuum
+9768	Riemannian geometry
+9769	Quantum mechanics
+9770	Dimensional analysis
+9775	Introduction : problems and difficulties of tracing the development of science 
+9776	Science in ancient and medieval Western civilization
+9787	Science in other civilizations : Islamic science ; science in India, China, and Japan 
+9788	European science in the early modeen period
+9800	Science in the age of modern revolutions
+9805	Science in the 19th century 
+9807	Science in the early 20th century 
+9809	Contemporary problems and prospects 
+9812	The nature and scope of the philosophy of science and its relation to other disciplines 
+9814	Historical development of the philosophy of science
+9825	Elements of the scientific enterprise
+9833	Movements of scientific thought: the basic procedures of intelectual development in science
+9840	The philosophical status of scientific theory
+9845	The relevance of scientifrc knowledge to other spheres of human experience and concern 
+9847	The relation between science and the humanities 
+9851	History of astronomy
+9886	History of physics
+9905	History of chemistry
+9929	The nature of astronomy and methods of study
+9930	Component disciplines of astronomy and their relationship to other sciences 
+9932	Investigaton of the scale of the universe and of the distribution of objects within it 
+9934	Orbit theory : its role in astronomy
+9935	Astrophysics : the study of stars, galaxies, and the universe ; cosmology and cosmogony
+9937	The nature of physics : its concern with matter and enetgy and their interactions
+9938	Component disciplines of physics 
+9940	The experimental and theoretical methods of physics
+9941	The relationship of physics to other disciplines
+9942	Interdisciplinary fields of physics : astrophysics, biophysics, geophysics
+9943	Philosophical problems in physics 
+9946	The nature of chemistry : its concern with the composition, properties, and changes of matter
+9947	The subdivisions of chemistry 
+9949	The methods of chemistry
+9950	The study of chemical transf ormations The study of chemical transf ormations 
+9951	Interdisciplinary fields of chemistry : geochemistry, chemical engineering, medicinal chemistry
+9954	The origins of the Earth sciences in prehistoric times
+9955	The Earth sciences from antiquity to the 16th century
+9964	The Earth sciences in the 16th, 17th, and 18th centuries
+9975	The Earth sciences in the 19th century
+9992	The Earth sciences in the 20th century
+10018	Physical geography 
+10020	The geological sciences 
+10022	The hydrologie sciences : hydrology, limnology, glaciology, oceanography
+10023	The atmospheric sciences 
+10027	Origin and early development of biological ideas
+10035	Developments in the biological sciences in the 17th, 18th, and 19th centuries
+10049	Biology in the 20th century
+10060	Molecular biology : biochemistry, bjophysics, genetics
+10061	Cell biology 
+10063	Organismic biology 
+10065	Population biology : biogeography, comparative psychology, ecology, population genetics
+10067	The range of topics in biophilosophy 
+10069	Issues conceFning the nature of biological systems
+10070	Issues concerning evolution
+10071	Issues with ethical implications
+10074	Early medicine: Western medicine before 1800, Oriental medicine before C.1900
+10107	The rise of scientific medicine in the 19th century
+10116	Medicine in the 20th century
+10135	Surgery in the 20th century
+10144	Hospital residency specialties
+10153	Other clinical specialties
+10162	Nonclinical specialties and the basic medical sciences 
+10164	Ancillary medical disciplines 
+10167	History and practice of dentistry
+10168	History and practice of osteopathy
+10169	History and practice of nursing
+10170	History and practice of pharmacy
+10173	Origins of the social sciences
+10176	19th-century developments in the social sciences
+10180	20th-century developments in the social sciences
+10193	The background of anthropology
+10194	The scope and methods of anthropology : the division between cultural'and physical anthropology
+10196	The background of contemporary sociology
+10197	The methodology of contemporary sociology
+10198	The status of contemporary sociology
+10199	Emergent trends in sociology
+10200	Cognate disciplines : criminology, penologya social psychology, demography
+10202	Development of theories of economics
+10203	The scope and methods of the study of economics : microeconomics, macroeconomics
+10204	Cognate disciplines : mathematical economics, econometrics, accounting
+10206	The history of political science
+10207	The scope and methods of contemporary political science
+10208	Cognate disciplines 
+10211	The history of geography
+10212	The scope and methods of geography : the division between physical, human, and regional geography
+10214	The history of psychology
+10215	The nature and scope of psychology
+10216	Special branches and cognate disciplines of psychology : physiological psychology, social psychology
+10218	The history of linguistics
+10219	The nature and scope of linguistics
+10220	Linguistics and other disciplines 
+10225	Engineering as a profession
+10226	vBranches of engineering 
+10229	History of the agricultural sciences
+10230	Subdivisions of the agricultural sciences 
+10233	Bionics
+10238	Systems engineering and operations research
+10239	Cybemeticq control theory, and information science
+10244	Development of historiography: the history of historical writing
+10260	Types of historical writing 
+10262	Factors involved in the writing of history 
+10265	Sources for historical writing : material remains, written materials, folklore, place-names
+10266	Auxiliary disciplines for ascertaining and interpreting the sources
+10285	Conceptions of the philosophy of history
+10286	Speculative philosophy of history : diverse explanations of the pattern of historical events
+10287	Critical or analytical philosophy of history : the analysis of history as a discipline
+10290	The beginnings of learning: the ideal of paideia
+10300	Christian learning in antiquity and the Middle Ages
+10307	The development of humane letters from the Renaissance to the present
+10320	The Jewish tradition of humanistic scholarship 
+10322	The Islamic tradition of humanistic scholarship 
+10324	The humanities and humanistic scholarship in the East : in India, in China, in Japan
+10326	Diverse views of the defrnition and scope of the humanities
+10327	The humanities as an educational program : the question of thehumanities as a unilied field of study
+10328	Theories of the humanities as a fundamental division of knowledge 
+10330	Problems about the humanities
+10335	Ancient Greek and Roman philosophy
+10363	Philosophy in the Middle Ages
+10374	Modern philosophy
+10406	Indian philosophy
+10419	Chinese philosophy
+10425	Japanese philosophy
+10431	Hindu philosophy
+10432	Buddhist philosophy
+10433	Conf ucian philosophy
+10434	Taoist philosophy
+10435	Jewish philosophy
+10436	Islamic philosophy
+10437	Christian philosophy
+10440	Diverse conceptions of philosophy
+10441	Diverse views of the methods of philosophy
+10442	The forms of philosophical exposition 
+10444	Criteria of meaning and truth in philosophical thought
+10446	Metaphysicsorspeculativephilosophyingeneral
+10450	The philosophy of nature
+10457	Epistemology, or theory of knowledge
+10461	The philosophy of mind, or philosophical psychology
+10465	The philosophy of man, or philosophical anthropology
+10469	Ethics, or moral philosophy
+10473	Political philosophy
+10477	Aesthetics
+10482	The philosophy of language
+10483	The philosophy of logic
+10484	The philosophy of mathematics
+10485	The philosophy of art
+10486	The philosophy of science
+10487	The philosophy of religion
+10488	The philosophy of law
+10489	The philosophy of education
+10490	The philosophy of history
+10493	Philosophical schools in antiquity and in the Middle Ages
+10504	Philosophical schools in the modern period
+10521	Different types of metaphysical theory 
+10523	Difterent views concerning the existence, attributes, and knowledge of God 
+10525	Difrerent conceptions of man as knower, doer, and maker 
+10527	Different views concerning the existence of the mind and its relation to the body 
+10530	Difrerent conceptions of the object of knowledge 
+10532	Difrerent conceptions of the validity of knowledge : Kantianism, Positivism, Pragmatism, Skepticism
+10533	Different views of the sources or foundations of knowledge : rationalism, Empiricism
+10534	Different views of the status of the universal : Realism, Conceptualism, Nominalism
+10535	Dillerent views of the epistemic status of scientific theories 
+10538	Metaethical theories : intuitionism, Naturalism, Noncognitivism, good reasons theories
+10539	Deontological theories : rationalism, intuitionism, Existentialism
+10540	Teleological theories : Eudaemonism, Utilitarianism
+9387	Precursors of ancient logic
+9389	Aristotle and the logic of predicates
+9391	Later developments in the logic of predicates: contIibutions of Theophrastus and Galen
+9392	Founding of the logic of propositions: contributions of Theophrastus and the MegariansStoic logic
+9394	Development of medieval loagic
+9396	Medieval theories of language and their relation to the development of logic
+9398	Medieval developments in formal logic
+9401	Logic in the Renaissance
+9403	The rise of mathematical logic during the Enlightenment
+9405	Development of mathematical logic in the l9th century
+9408	The conflict of Logicism, the view that mathematics is a continuation of logic, with Intuitionism and Formalism
+9410	Developments in the logic of propositions and in the logic of predicates
+9411	Metalogical studies
+9414	Indian logic
+9416	Chinese logic
+9420	The nature and varieties of logic
+9422	Features and problems of logic
+9425	Problems in meaning andtruth: logical semantics of modal concepts, logic and inforinativeness
+9426	Problems of ontology:problems concerning individuation and existence
+9427	Alternative logics :modal logics,intuitionistic logic
+9432	General features of the propositional calculus
+9434	Special systems of the propositional calculus
+9436	General features of the predicate calculus
+9438	The lower predicate calculus: the logic of individual variables
+9439	Higher order predicate calculi: the logics of classes of variables
+9453	Theory of argumentation; the new rhetoric
+9454	Analysis of logical fallacies: material, verbal, and formal fallacies
+9464	Ancient and medieval periods
+9468	The modern period
+9476	Numerals and numeral systems
+9479	Introduction of symbolic notations to represent mathematical quantities, operations, and relationships
+9480	Calculatory science
+9486	Geometry
+9494	Algebra
+9500	Development of the mathematical theory of probability
+9505	Development of mathematical statistics 
+9509	Euclidean geometry
+9510	Non-Euclidean geometry
+9511	The formal axiomatic method
+9514	Arithmetic and analysis
+9515	the concept of cardinal number and the theory of sets
+9518	The paradoxes
+9519	Intuitionism
+9520	Logicism, Formalism, and the metamathematical method
+9522	Intuitionistic studies of the foundations of mathematics 
+9524	Non-Intuitionistic studies of the foundations of mathematics 
+9530	Fundamental set concepts
+9531	Essential features of Cantorian set theory
+9534	Postulates of axiomatic set theory 
+9536	Limitations of axiomatic set theory 
+9538	The present status of axiomatic set theory 
+9542	Fundamental defr nitions and laws 
+9544	Theory of divisors 
+9546	Number systems and notation 
+9548	Arithmetic calculation with decimals 
+9550	Logarithms 
+9553	Algebra as an extension and generalization of arithmetic
+9554	Basic algebraic properties of numberss
+9555	Polynomials and rational functions
+9556	Solution of equations : the principal problem of elementary algebra
+9558	Linear algebra
+9567	Multilinear algebra
+9569	Lanices
+9570	Groups
+9571	Fields
+9572	Ri ngs
+9573	Categories
+9574	Homological algebra
+9575	Universal algebra
+9578	Geometry as an abstract doctrine 
+9580	The measure of polygons and polyhedra 
+9582	Transformation geometry 
+9584	Geometric constructions 
+9586	Geometry of more than three dimensions : the gcncralization of Euclidean gcometty
+9587	The concept of convexity and convex sets
+9589	Distinction between Euclidean and non-Euclidean geometry : hyperbolic geometry and elliptic geometry
+9590	Geometric representations of the hyperbolic plane and hyperbolic space
+9591	Coordinates in spherical and elliptical space : interpretations of four-dimensional Euclidean space
+9592	Coordinates in the hyperbolic plane and hypcrbolic trigonometry
+9593	Transformations : hyperbolic geometry as characterized by its group of rellections
+9595	The procedure of projection as the foundation of projective geometry
+9596	Homogeneous coordinates : location of points in space
+9597	Complex geometry : introduction of complex numbers as homogeneous coordinates
+9598	Abstract geometries 
+9601	Plane analytic geometry : fundamental procedures and concepts
+9602	Trigonometry
+9603	Coordinates and transformation of coordinates
+9604	Projective and solid analytic geometry 
+9606	Special curves 
+9616	Origins and concepts of real analysis
+9617	Number systems and their properties
+9618	Functions and diiferential calculus
+9619	Measure and integral calculus
+9621	Theory of analytic functions of one complex variable
+9622	Theory of analytic functions of several complex variables
+9623	Potential theory
+9625	Ordinary differential equations
+9626	Partial diBerential equations
+9627	Special functions that arise as solutions to difrerential equations 
+9629	Dynamical systems on manifolds
+9631	General featuns of functional analysis
+9632	Calculus of variations
+9633	Generalized functions : the theory of distributions
+9635	The theory of series
+9636	Fouricr series
+9637	Ttarmonic analysis and integai transforms
+9638	Representations of groups and algebras : Fourier analysis on non-Abelian groups
+9640	Heuristic introduction to pmbability 
+9642	Probability on finite dimensional spaces
+9643	Probability on infinite dimensional spaces
+9645	Scalars, vectors, tensors, and the physical quantities that give rise to them
+9646	Vector algebra and analysis
+9647	Tensor akebra and analysis
+9650	The nature and scope of combinatorics 
+9652	Methods, resulq and unsolved problems of combinatorial theory, exclusive of geometric considerations
+9653	Combinatorial geometry
+9655	Elementary number theory : properties of the whole numbers, or integers 
+9656	Algcbraic number theory : properties of algebraic numbers
+9657	Analytic number theory
+9658	Geometric number theory
+9659	Probabilistic number theory
+9662	Definition and hasic concepts of tolxtlogy 
+9664	Topological spaces 
+9666	Topologjcal properties
+9667	Topologjcal problems of current intenst 
+9670	Interaction between analysis and topology
+9671	Thc theorems of Tikhonov and Ascoli 
+9673	Continuous groups
+9674	Analysis on manifolds : topological implications of problems in global analysis
+9675	Diftercntial topology
+9677	The nature and scope of algebraic topology and its context within general topology, the basic concepts of topologjcal spaces and maps
+9678	Invariants : unchanging quantities that play a central role in the classiscation of spaces and maps
+9679	Homotopy theory : homotopy classes and the concept of homotopy-equivalent spaces
+9680	Homology and cohomology theory : deiinition of a simplex, axiomatic homology theory
+9681	Homotopy groups : stability and suspension
+9682	Definition and properties of Ebres, frbre bundles, and fibrings
+9683	Sheaf cohomology
+9684	Spectral sequences : Serre, Rothenberg-Steenrod, and Eilenberg-Moore spectral sequences
+9685	Further developments in homotopy theory 
+9687	Generalized homology and cohomology theory 
+9689	Recenadvances in algebraic topology
+9693	Aggregations,or units used to assist counting or grouping of objects
+9694	Ancient numerical notations
+9695	Decimal notation and modern notational developments
+9697	Early applications of geometry
+9698	Instruments for observation and navigation
+9699	Mapping
+9700	Applications of geometry to celestial measurement
+9701	Optical instruments
+9702	Drawing instruments
+9706	A1gebraic notation
+9707	Logarithms
+9708	Slide rules
+9710	Mathematical tables
+9711	Graphs and graphical procedures
+9713	Types of problems solvable by analogue computation
+9714	Analogue computers
+9716	Digital calculators
+9717	Punched cards
+9718	Programmed machines (digital computers)
+9722	The concept of a statistical experiment 
+9724	Distribution functions and their properties 
+9777	Science in Greek civilization
+9784	Science in Rome 
+9786	Medieval science
+9789	The rebirth of science in the Renaissance
+9794	The revolution in natural philosophy
+9799	Characteristics of European science
+9801	Science during the Industrial Revolution
+9802	Intellectual origins of revolution : the spirit of the Enlightenment
+9803	The institutional organization of science under the French Revolution
+9804	Romantic reaction and science : the proponents of Nalurphflosophie
+9815	Classical and medieval periods 
+9817	The 17th century 
+9819	The 18th century 
+9821	From the beginning of the 19th century through World War I 
+9823	The 20th-century debate 
+9826	Empirical, conceptual, and formal elements and their theoretical interpretation 
+9828	Empirical procedures of science : measurement, design of experiments, classification
+9829	The formal structures of science 
+9831	Conceptual change and the development of science 
+9834	Scientific discovery 
+9836	Validation and justifrcation of new concepts and theories 
+9838	Unifrcation of the theories and concepts of separate sciences 
+9841	The status of scientisc propositions and concepts of entities 
+9843	The relationship between philosophical analysis and scientific practice 
+9852	Ancient astronomy
+9857	Medieval astronomy : European and Islamic contributions
+9858	Astronomy in the 16th and 17th centuries
+9863	Astronomy in the 18th century
+9869	Astronomy in the 19th century
+9874	Astronomy in the 20th century
+9887	Greek physics : speculations concerning the nature of space, matter, and motion
+9888	Medieval physics : the influence of Aristotle
+9889	Physics in the 16th and 17th centuries : discoveries and'theories in mechanics and optics
+9890	Physics in the 18th and 19th centuries
+9898	Physics in the 20th century
+9906	Chemistry before 1700
+9910	Chemistry in the 18th century
+9914	Chemistry in the 19th century
+9923	Chemistry in the 20th century
+9956	Geological sciences
+9960	Hydrologic and atmospheric sciences
+9965	Geological sciences
+9969	Hydrologie sciences
+9972	Atmospheric sciences
+9976	Geologjcal sciences
+9985	Hydrologic sciences
+9988	Atmospheric sciences
+9993	Geological sciences
+10003	Hydrologic sciences
+10010	Atmospheric sciences
+10028	Views of life and living things in ancient Eastern and Middle Eastern civilizations
+10029	Biology in the Greco-Roman world 
+10031	Biology in the Middle Ages 
+10033	Biology in the Renaissance 
+10036	Biology in the 17th and 18th centuries
+10043	Biology in the 19th century
+10050	The establishment of molecular biology
+10055	The emergence of intradisciplinary specialties 
+10057	The application to biology of the concepts and techniques of other sciences 
+10075	The medicine of prehistoric peoples
+10076	The practice of medicine among the Babylonians, the ancient Egyptians, and the Hebrews
+10077	Medicine and surgery in the Orient: the beginning of systematized medicine
+10083	The beginning of systematic medicine in the Greco-Roman world
+10088	Medicine from the fall of Rome through the Middle Ages
+10092	Medicine in the Renaissance
+10096	Medicine in the 17th century
+10101	Medicine in the 18th century
+10108	New doctrines, laws, and concepts 
+10110	Further advances in physiology
+10111	Establishment of bacteriology 
+10113	The discovery and use of anesthesia
+10114	Other advances 
+10117	Advances in chemotherapy 
+10119	Advances in immunology
+10124	Developments in endocrinology 
+10126	Advances in other fields
+10136	The state of surgery prior to 1900 
+10138	The emergence of surgjcal specialties : the development of new surgical and diagnostic techniques
+10139	Improvements in the treatment of wounds 
+10141	The use of blood transf usions and other intravenous techniques to reduce shock, treat Ouid loss, and restore electrolyte balance
+10142	The introduction of inhalation anesthetic procedures ; e. g., improvements in thoracic surgery
+10145	Radiology
+10146	Surgery
+10147	Obstetrics and gynecology
+10148	Urology
+10149	Ophthalmology and otolaryngology
+10150	Neurology
+10151	Psychiatry
+10152	Other hospital specialties ; e.g., anesthesiology, pathology
+10154	Aerospace medicine
+10155	Medical jurisprudence
+10156	Occupational medicine
+10157	Public health
+10158	Endocrinology
+10159	Immunology
+10160	Toxicology
+10161	Tropical medicine
+10174	Precursors of the social sciences in the Middle Ages and the Renaissance
+10175	Heritage of the Enlightenment : social reforms and revolution
+10177	The influence of new concepts in social, political, economic, and scientiEc theories
+10178	Development of the sepafate disciplines ; e 
+10181	The influence of social upheaval in the non-Western world : the revolution of rising expectations
+10182	The influence of Marxism
+10183	The inouence of Freudian ideas
+10184	The changing character of the disciplines
+10190	Major theoretical influences 
+10234	Mimicry of nature as the basis for bionics 
+10236	The use of natural models to understand and solve engineering problems 
+10245	In the ancient world
+10249	In the Middle Ages
+10252	From the Renaissance to the present
+10257	Non-Western historiographical traditions
+10267	Anthropology
+10268	Archaeology
+10269	Bibliography
+10270	Chronology
+10271	Dendrochronology
+10272	Diplomatics
+10273	Epigraphy
+10274	Genealogy
+10275	Geography
+10276	Heraldry
+10277	Iconography and iconology
+10278	Linguistics
+10279	Paleography
+10280	Psychoanalysis
+10281	Radiometric dating
+10282	Sigillography
+10283	Textual criticism
+10291	Homeric education : the ideal of the hero
+10292	The Sophists and Socrates : the turn to logos, the beginnings of rhetoric
+10293	Plato and the Academy 
+10295	Aristotle and the Lyceum : the invention of logjc, the division and organization of the sciences
+10296	Hellenistic scholarship 
+10298	The Roman ideal of hztmanilas : the training of the orator
+10299	The conflict of cultural ideals : the battle among rhetoric, philosophy, and science
+10301	The Christianization of pagan culture 
+10303	The codifrcation of the liberal arts : the trivium and the quadrivium
+10304	The founding of the universities
+10305	The Scholastic method : logic and the genres of theological exposition
+10306	Faith and reason : the distinction of philosophy from sacred theology
+10308	The idea of Renaissance 
+10310	Humanism and the new learning
+10311	The search for a universal method
+10312	The separation of science from philosophy : the rise and development of empirical science
+10313	The quarrel between ancients and modems : the problem of progress in learning
+10314	The growth of modem humanistic scholarship 
+10316	The rise and development of the liberal arts college and the graduate school 
+10317	The growth and proliferation of special disciplines : the knowledge explosion
+10318	The organization of the contemporary university 
+10336	The beginnings of philosophy in Greece: the Pre-Socratic philosophers
+10344	The maturity of Greek philosophy
+10351	Hellenistic and Roman philosophy
+10364	Early medieval philosophy
+10368	The contribution of Arabic and Jewish philosophy 
+10370	The age of the Schoolmen 
+10372	Philosophy in the late Middle Ages 
+10375	Philosophy in the Renaissance
+10382	The early modern period: the rise of Empiricism and Rationalism
+10387	Philosophy in the period of the Enlightenment or the Age of Reason
+10394	Philosophy in the 19th century
+10400	Philosophy in the 20th century
+10407	Early Indian philosophical thought 
+10409	The beginning of system building in Indian philosophy 
+10411	The further developments of systematic thought in India 
+10413	The schools of Vedanta 
+10415	The Vaigrava and Saiva schools 
+10417	Later Indian philosophical thought 
+10420	The classical Chinese philosophical schools 
+10422	Neo-Taoist and Buddhist thought
+10423	Neo-Confucianism : the development of the concept of principle
+10424	20th-century Chinese philosophy : the eHects of Western thought and of Maoism
+10426	Early Japanese philosophical thought 
+10428	Developments during the Kamakura and Muromachi periods 
+10447	The history, nature, and scope of metaphysics 
+10448	The relation of metaphysics to other parts of philosophy ; e.g., ethics, logic, natural theology
+10449	Problems in metaphysics
+10452	The history, status, and scope of the philosophy of nature
+10453	The relation of the philosophy of nature to science, the philosophy of science, and metaphysics
+10454	The basic aspects of the natural order
+10455	The philosophy of physics
+10456	The philosophy of biology
+10458	The history, nature, and scope of epistemology 
+10459	The relation of epistemology to metaphysics, philosophy of mind, logic, and other disciplines
+10460	Problems in epistemology
+10462	The history, nature, and scope of the philosophy of mind
+10463	The realtion of the philosophy of mind to the empirical and mathematical sciences and to other philosopnical disciplines
+10464	Problems in the philosophy of mind
+10466	The history, nature, and scope of philosophical anthropology 
+10467	The relation of philosophical anthropology to physical and cultural anthropology and to other disciplines in philosophy and the social sciences
+10468	Problems in philosophical anthropology
+10470	The history, nature, and types of ethics : the distinction between metaethics and normative ethics
+10471	The relation of ethics to other philosophical disciplines or to other branches of knowledge or experience
+10472	Problems in ethics
+10474	The nature and scope of political philosophy : its relation to political science
+10475	The form of political statements and arguments
+10476	The history of political philosophy
+10478	The nature and scope of aesthetics as a discipline
+10479	The development of aesthetics : approaches to the study of the aesthetic experience
+10480	Problems in aesthetics
+10481	The relation of aesthetics to other disciplines
+10494	Pythagoreanism
+10495	The Sophists
+10496	E1eaticism
+10497	Atomism
+10498	Platonism
+10499	Aristotelianism
+10500	Stoicism
+10501	Epicureanism
+10502	Skepticism
+10503	Scholasticism
+10505	Cartesianism
+10506	Empiricism
+10507	Rationalism 
+10508	Materialism
+10509	Kantianism
+10510	Idealism
+10511	Hegelianism
+10512	Utilitarianism
+10513	Positivism and Logical Empiricism  
+10514	Marxism
+10515	Realism
+10516	Pragmatism
+10517	Phenomenology
+10518	Existentialism
+10519	Analytic and Linguistic philosophy
+9465	Ideas and methods originating or developing in Mesopotamia and Egypt ss
+9466	Greek and Hellenistic mathematics
+9467	The Middle Ages : Islamic mathematics and its transmission to the West
+9469	The 17th century 
+9471	The 18th century 
+9473	The 19th and 20th centuries 
+9477	Simple grouping systems : ancient Egyptian, Babylonian, Greek, and Roman numerals
+9478	Development of multiplicative, ciphered, and positional numeral systems
+9481	The history of mathematical tables, including tables of logarithms
+9482	The evolution of analogue devices 
+9484	The evolution of digital devices 
+9487	Egyptian, Babylonian, and Greek geometry
+9488	The algebraic approach : development of analytic geometry
+9489	Development of projective geometry
+9490	Devetopment of non-Euclidean geometry
+9491	Philosophical aspects of geometry
+9492	Modem ideas and topics in geometry 
+9495	Babylonian, Egyptian, and Greek contributions
+9496	Contributions from the Orient, India, and the Islamic world
+9497	Medieval and modern European developments
+9498	Evolution of the theory of algebraic equations of one variable : solutions prior to and after Galois
+9501	The abstract calculus of probability : the common structure of theories of probability
+9502	Alternative views of probability 
+9504	Bemoulli's theorem, inverse probability, and asymptotic probabilities
+9559	Vector spaces
+9560	Matrices
+9561	Linear transformations and linear operators
+9562	Linear functionals and their relation to linear transformations
+9563	Inner products and inner product spaces 
+9565	Linear operators in an inner product space 
+9778	Protoscience in Greece before the age of Pericles 
+9780	Development of scientific attitudes 
+9782	Science during the Hellenistic Age 
+9790	The state of science in Europe in the early 15th century
+9791	The inouence of advances in printing, mining, metallurgy, and other areas of technology 
+9793	The coexistence of new scientific discoveries and old philosophical views
+9795	The radical reformulation of the objects, methods, and functions of natural knowledge 
+9797	Results of the new philosophy 
+9853	Time reckoning and astronomical prediction 
+9855	Early cosmologies
+9856	Ancient astronomical records. Treatises, and star catalogs
+9859	The geocentric and heliocentric world systems
+9860	The discovery of the laws of planetary motion
+9861	The invention and use of the telescope
+9862	The theory of universal gravitation
+9864	Development of celestial mechanics 
+9866	Improvements in telescope design and increased accuracy of measurements 
+9868	Speculations concerning the origin of the solar system, the nature of nebulae, and the structure of the universe
+9870	The discovery of Neptune and the asteroids, the search for a planet within the orbit of Mdrcury
+9871	Improved determinations of stellar positions and magnitudes 
+9873	Development of astronomical spectroscopy and the use of photography in observational work
+9875	Statistical studies of stars, nebulae, and galaxies
+9876	Theories of stellar structure and of stellar formation and evolution
+9877	Astronomical tests of general relativity 
+9879	Relativistic cosmologies : the big bang model ; open and closed models of the universe
+9880	Major advances in solar-system astronomy 
+9882	Development of radio, X-ray, infrared, ultraviolet, and gamma-ray astronomy
+9883	1dentifrcation of pulsars, quasars, cosmic background radiation, and possible black holes
+9884	Advances in instrumentation and methodology 
+9891	Development of theories of light 
+9893	Development of the theories of electricity, magnetism, and electromagnetic waves
+9894	Developments in thermodynamics 
+9896	Development of the atomic theory of matter 
+9899	Development of the theory of relativity
+9900	Development of the quantum theory, wave mechanics, statistical mechanics, and related theories
+9901	Development of theories and laws concerning atomic structure, nuclear interactions, and elementary particles, including efforts to produce a unifred field theory
+9902	Development of condensed-matter physics and its contributions to electronics
+9903	Modem developments in physics 
+9907	The rise of alchemy 
+9909	The influence of the new mechanical philosophy on chemistry : the work of Boyle
+9911	Studies of combustion and respiration : the phlogiston theory, the work of Lavoisier and Cavendish
+9912	Laboratory discoveries 
+9915	Development of the periodic table of the elements : the work of Mendeleyev and Meyer
+9916	Discoveries of new elements, isotopes, and radioactive elements
+9917	Development of theories of molecular structure and chemical reaction
+9918	Development of organic chemistry 
+9920	Development of electrochemistry : the theory of chemical affinity in electrical terms
+9921	Development of industrial chemistry 
+9924	Development of instrumental methods of chemical analysis
+9925	Explanation of chemical phenomena by principles of atomic and molecular structures
+9926	Application of quantum mechanics to chemical bonding
+9957	Speculations about earthquakes and volcanic eruptions
+9958	Speculations about fossils
+9959	Study of landforms and land-sea relations
+9961	Theories of groundwater circulation and precipitation
+9962	The origin of the Nile and the cause of its noods
+9963	Study of the tides
+9966	The beginnings of mineralogy : the study of ore deposits
+9967	The development of paleontology and stratigraphy
+9968	The controversy between the Neptunists and Plutonists : Earth history according to Werner and Hutton
+9970	Theories of spring discharge
+9971	The earliest quantitative investigations of the global water balances
+9973	The study of water vapour in the atmosphere
+9974	The study of atmospheric pressure, temperature, and circulation
+9977	The development of crystallography and the classification of minerals and rocks
+9978	The concept of faunal succession and organic evolution 
+9980	The concept of unifoFmitarianism : contributions of Charles Lyell and others
+9981	Evidence for an Ice Age : the work of Louis Agassiz
+9982	The concept of geological time and estimates of the age of the Earth
+9983	Concepts of tandform evolution
+9984	The study of gravity, isostasy, and the Earth's figure
+9986	The study of groundwater now and surface water discharge : Darcy's law
+9987	The beginnings of oceariography as a discipline
+9989	The study of the composition of the atmosphere
+9990	The study of clouds, fog, dew, and storms
+9991	The study of weather and climate : the origin of synoptic meteorology
+9994	Development of radiometric dating
+9995	The experimental study of rocks : experimental petrology
+9996	Development of seismology : the study of the internal structure of the Earth
+9997	Astrogeological research 
+9999	Advances in paleontology 
+10001	The theorr of plate tectonics 
+10004	The study of water resources and seawater chemistry
+10005	The exploitation of oceanic resources 
+10007	The charting of the ocean Ooors : progress in bathymetry
+10008	The study of ocean circulation, currents, and waves
+10009	The study of glacier motion and high-latitude ice sheets
+10011	The application of modem technology to meteorology 
+10013	Advances in weather forecasting and cloud physics
+10014	The study of the properties and structure of the atmosphere
+10015	The development of weather modification methods
+10016	The classilication of climate
+10037	The discovery of the circulation of blood
+10038	The establishment of scientilic societies
+10039	The development of the microscope : the classical microscopists
+10040	The rise of modern trxonomy : the systematic classitication of plants and animals
+10041	The emergence of comparative bidlogical studies
+10042	Experimental approaches to the origin of life : the theory of spontaneous generation
+10044	The eHect of geographical explorations on the development of the biological sciences
+10045	The development of cell theory : the establishment of cellular biology
+10046	The theory of evolution : the impact of the concept of natural selection
+10047	The rise of embryology : discoveries concerning reproduction and development of organisms
+10048	The emergence of genetics : the study of heredity and its mechanisms
+10051	The one-gene, one-enzyme theory and its eifects
+10052	The discovery of the genetic signiEcance of DNA and RNA : deciphering the genetic code
+10053	The emergence of intradisciplinary specialties 
+10078	Medicine in India 
+10080	Medicine in China 
+10082	Medicine in Japan : assimilation of Chinese and European practices
+10084	Early innuences : mythological beliefs, the investigations and theories of early philosophers
+10085	The work of Hippocrates 
+10087	The spread of Greek teachings to Rome : the acceptance of Galen as a medical authority
+10089	Reservoirs of medical learning 
+10091	Establishment of the first organized medical school at Salerno
+10093	Improvements in anatomical theorr and surgery
+10094	The control of medical practice in Britain
+10095	The work of Paracelsus and Fracastoro
+10097	Discoveries concerning the circulation of the blood 
+10099	The iatrochemical and iatrophysical theories 
+10102	Genesis of the medical school and the hospital
+10103	The beginning of medical specialties 
+10105	Improvement in techniques of vaccination and in the treatment of disease 
+10120	Improvements in vaccines that control bacterial diseases 
+10122	The introduction and use of vaccines to control viral diseases
+10127	Nutrition 
+10129	Cancer research 
+10131	Tropical medicine 
+10133	Medical technology and biomedical instrumentation 
+10185	Specialization and cross-disciplinary approaches
+10186	The increasing professionalism of social scientists as consultants and decision makers in government and business
+10187	The introduction of mathematical and other quantitative methods : the use of computers
+10188	The influence of empiricism 
+10246	Near Eastern historiography
+10247	Classical historiography : Greek and Roman
+10248	Early Christian historiography
+10250	Western Christian historiography
+10251	Byzantine historiography
+10253	Renaissance historiography
+10254	Early modern historiography
+10255	Enlightenment historiography : the 18th century
+10256	19th-and 20th-century historiography
+10258	Islamic historiography
+10259	East Asian historiography
+10337	Cosmology and the metaphysics of matter 
+10339	The rise of problems in the theory of knowledge : problems about the real and phenomenal worlds
+10340	The metaphysics of number 
+10342	Anthropology and relativism 
+10345	The ethical concerns and positions of Socrates 
+10347	The philosophy of Plato 
+10349	The philosophy of Aristotle 
+10353	The philosophy of the Stoics 
+10355	The philosophy of the Epicureans 
+10357	The philosophy of the Skepti ; S 
+10359	The philosophy of the Neo-Pythagoreans and of the Neoplatonists 
+10361	Jewish and Christian philosophy during the Hellenistic Age 
+10365	The patristic period 
+10367	Philosophy and the liberal arts in the schools of the Christian West from the 9th to the 11th century
+10376	Political theory 
+10378	Humanism 
+10380	Philosophy of nature 
+10383	Developments in the Empiricist tradition 
+10385	Developments in the Rationalist tradition 
+10388	Epistemologjcal issues 
+10390	Developments in the philosophy of science 
+10392	Social and political philosophy 
+10395	The resurgence of the metaphysical sphit : the Idealism of Fichte, Schelling, and Hegei
+10396	Developments in the empirical and scientific tradition 
+10398	The reaction against Rationalism 
+10401	Independent speculative and social philosophies 
+10403	Developments in Marxist thought 

@@ -1,0 +1,556 @@
+Id	Label
+1	Britannica
+5666	Religion
+5668	Religion in General
+5749	The Particular Religions
+5670	Knowledge and Understanding of Religion
+5723	The Religious Life: Institutions and Practices
+5751	Prehistoric Religion and Primitive Religion
+5791	Religions of Ancient Peoples
+5851	Hinduism and Other Religions of India
+5936	Buddhism
+5983	Indigenous Religions of East Asia: Religions of China, Korea, and Japan
+6061	Judaism
+6111	Christianity
+6257	Islam
+6303	Other Religions and Religious Movements in the Modern World
+5671	The philosophy of religion: diverse views of the nature and characteristics of religion
+5680	Religious experience: its nature, elements, and varieties
+5682	Religious phenomenology: the basic patterns of religious thought, action, and association
+5684	Theology as an attempt to understand and state the rationale of religious belief
+5706	The study and classification of religions
+5708	Other systems of belief
+5717	Religion in relation to other aspects of human experience
+5724	Religious rites and customs
+5739	Religious leaders and institutions
+5744	Material manifestations of religious beliefs
+5752	Prehistoric religion
+5765	Primitive religion
+5792	Religions of the ancient Near Eastern peoples
+5809	Religions of the Iranian peoples
+5818	Greek religion
+5824	Roman religion
+5829	Religions of the Hellenistic world
+5837	Religions of the early peoples of eastern and central Europe
+5841	Religions of the ancient Celtic and Germanic peoples
+5844	Religions of the early peoples of northeastern Europe
+5847	Religions of pre-Columbian American civilizations
+5852	History of Hinduism
+5878	Intellectual, spiritual, and imaginative expressions of Hinduism 
+5889	Beliefs, practices, and institutions of Hinduism
+5914	Other religions of India
+5937	History of Buddhism
+5946	Intellectual, spiritual, and imaginative expressions of Buddhism
+5952	Beliefs, practices, and institutions of Buddhism
+5984	Characteristics and development of Chinese religion
+6003	Confucianism
+6023	Taoism
+6038	The religions of Korea
+6044	The religions of Japan
+6062	History of Judaism
+6069	Intellectual, spiritual, and imaginative expressions of Judaism
+6086	Beliefs, practices, and institutions of Judaism
+6112	History of Christianity before the schism of 1054
+6127	History of Eastern Orthodoxy from the schism of 1054 to the present
+6133	History of the Roman Catholic Church from the schism of 1054 to the present
+6153	History of Protestantism
+6178	Intellectual, spiritual, and imaginative expressions of Christianity 
+6187	Beliefs, practices, and institutions of Christianity
+6212	The major traditional forms of Christianity
+6216	Major forms of Protestantism
+6230	Ecumenical, interdenominational, and intradenominational associations
+6231	Variations of the traditional forms of Christianity and special new forms
+6258	History of Islam
+6266	Intellectual, spiritual, and imaginative expressions of Islam 
+6274	Beliefs, practices, and institutions of Islam
+6304	New religious movements reflecting the impact of dominant cultures and religions
+6305	Negro cults in Western cultures
+6309	Theosophical groups
+6310	Spiritualist groups
+6311	Religions and religious movements of Islamic origin or influenced by Islam
+6315	Residues or revivals of ancient and primitive religious beliefs and practices in modern civilizations
+5672	Basic questions and problems
+5677	Questions about the nature and character of the divine or sacred
+5685	Theology in relation to divine revelation
+5689	Mystical theology: immediate experience of the divine or sacred
+5690	Doctrines concerning God or the gods
+5698	Doctrines of creation
+5699	Angelology
+5700	Doctrines of divine government and providence
+5701	Eschatological theories
+5702	Doctrines of grace and salvation
+5703	Sacramental doctrines
+5704	The doctrine of the Covenant
+5705	Miracles
+5709	Myth and mythology
+5710	Magic
+5711	Witchcraft
+5712	Shamanism
+5713	Astrology and alchemy
+5714	Ancestor worship
+5715	Hero worship
+5716	Nature worship
+5718	Religion and art 
+5719	Religion and science
+5720	Religion and society 
+5721	Religion and morality
+5722	Religion and philosophy 
+5725	Rituals of worship
+5730	Passage and purification rites: birth, puberty, marriage, death
+5731	Religious regulation of personal and social behaviour
+5738	Religious feasts and festivals
+5740	The religious state: theocracies, sacred kingships
+5741	Forms of religious organization: church, temple, congregation, sect, council; the priesthood
+5742	Sainthood
+5743	Institutions of religious education
+5745	The religious state: theocracies, sacred kingships
+5746	Forms of religious organization: church, temple, congregation, sect, council; the priesthood
+5747	Sainthood
+5748	Institutions of religious education
+5753	The study of prehistoric religion
+5756	Inferred prehistoric religious beliefs and practices
+5763	Religions attributed to various prehistoric cultural stages and regions
+5766	The nature and significance of primitive religion
+5768	Primitive views of reality
+5774	The nature and function of myth and symbol in primitive religion
+5777	Primitive religious practices and institutions
+5784	The primitive religions of the major world areas
+5793	Characteristics of the ancient Near Eastern religions
+5795	Mesopotamian religions
+5797	Egyptian religion
+5803	Religions of the ancient peoples of Asia Minor
+5805	Syrian and Palestinian religions
+5807	Religions in the Arabian Peninsula
+5810	General characteristics of the Iranian religions
+5811	Early Indo-Iranian religion: nature-polytheism
+5812	Religion of the Scythians, Sarmatians, and Alani
+5813	The cult of Ahura Mazda (Ormazd)
+5815	Mithraism
+5816	Zurvanism
+5817	Manichaeism
+5819	Historical development
+5820	Greek mythology and other religious literature
+5821	Religious beliefs and speculation: the Greek pantheon
+5822	Worship, practices, institutions
+5823	Religious art and iconography
+5825	Historical development
+5826	Roman gods, goddesses, numina, and genii and their place in family and civic religion
+5827	Worship, practices, institutions
+5828	Religious art: sculpture, metalwork, painting, mosaic
+5830	Mystery religions
+5831	Gnosticism
+5832	Manichaeism
+5833	Hellenistic religious philosophies: neoplatonism, stoicism, epicureanism
+5834	Quasi-scientific and magical cults; e.g., numerology, astrology
+5835	Judaism
+5836	Christianity 
+5838	Scythian religion
+5839	Religions of the Sarmatians and associated peoples
+5840	Religion of the pre-Christian Slavic peoples
+5842	Religion of the Celts
+5843	Religion of the Germanic peoples
+5845	Religion of the Baltic peoples
+5846	Religion of the Finno-Ugric peoples
+5848	Inca religion
+5849	Mayan religion
+5850	Aztec religion
+5853	The origins of Hinduism: Indo-European roots and other influences
+5855	The prehistoric and protohistoric periods, through the 2nd millennium bc
+5858	The Vedic period (2nd millennium-7th century BC)
+5862	The heterodox period (7th-2nd century bc): challenges to Brahmanism by reformers and ascetic groups
+5864	The early Hindu period (2nd century BC-4th century AD)
+5867	The Puranic period (4th-8th century)
+5869	The rise of devotional Hinduism (8th-11th century)
+5872	The age of bhakti (11th-19th century)
+5874	The modem period (19th—20th century)
+5876	Hinduism today
+5879	Hindu sacred literature
+5883	Hindu mythology: varieties of myths, modes of representation and themes
+5885	Hindu philosophy: the integral relation of philosophy and religion in Hinduism
+5887	Hindu mysticism: its general characteristics, varieties, goals, and methods
+5890	Common characteristics of Hindu belief
+5897	The forms of Hinduism
+5904	Rituals, social practices, and institutions
+5909	Cultural expressions of Hindu values and ideas
+5915	Jainism
+5922	Sikhism
+5932	Parsiism: Zoroastrianism in India 
+5938	The cultural context: its background in Hinduism; its geographical, ethnic, and cultural base
+5939	The founding of Buddhism: the life, work, and teachings of Siddhartha Gautama (6th-5th century BC)
+5940	Developments in India (6th century BC-12th century AD)
+5941	Buddhism in Central Asia and China 
+5942	Buddhism in Korea and Japan 
+5943	Buddhism in Tibet and the Himalayan kingdoms
+5944	Buddhism in Ceylon (Sri Lanka) and Southeast Asia to the mid-19th century
+5945	Buddhism in the late 19th and 20th centuries
+5947	Buddhist sacred literature
+5948	Buddhist mythology: basic types, contents, and functions of myths
+5949	Buddhist philosophy: the role and contribution of systematic reflective thought
+5950	Buddhist mysticism
+5953	Traditional beliefs and doctrines
+5960	The main forms of Buddhism
+5973	Practices and institutions
+5978	The religious and cultural role of Buddhist art
+5981	The relationship of Buddhism to nationalist movements: its contemporary situation, its prospects
+5985	The distinction and relationship between the folk religions and the literate religions in China
+5987	History of religion in China
+5994	Traditional concepts in Chinese religious thought
+5997	Ritual practices and institutions
+5999	Chinese religious symbolism
+6001	Chinese mythology
+6004	History of Confucianism
+6019	Confucian literature
+6021	Confucianism as a religion and as a philosophy
+6024	History of Taoism
+6034	Taoist literature
+6036	Taoism as a religion and as a philosophy
+6039	History of Korean religion from prehistoric times to the present
+6041	Religious literature and mythology
+6042	Beliefs and doctrines
+6043	Practices and institutions
+6045	History of Japanese religion
+6051	Shinto: the Way of the Gods
+6057	Japanese religious art and symbolism
+6059	Japanese mythology
+6063	The biblical era
+6064	The Hellenistic era
+6065	The Talmudic era in Palestine and Babylonia: the foundations of rabbinic Judaism
+6066	The medieval era: the European and Islamic phases of rabbinic Judaism (7th-18th century)
+6067	The modern era from c. mid-18th century: developments in modern Judaism
+6068	Judaism today: its current demographic and social aspects
+6070	Biblical literature
+6074	Qumran literature (Dead Sea Scrolls)
+6076	Talmud and Midrash
+6078	Judaic exegesis and hermeneutics
+6080	Mystical and devotional writings
+6082	Jewish philosophical writings
+6084	Jewish myth and legend
+6087	Basic beliefs and doctrines
+6093	Basic practices and institutions
+6100	Present-day forms of Judaism
+6105	Art and iconography
+6113	The development of the Christian Church from the time of Jesus to the reign of Constantine
+6116	The early Christian Church from the reign of Constantine to the pontificate of Gregory I the Great (c. 4th-6th century)
+6121	The growing division between Eastern and Western Christianity
+6128	The church of imperial Byzantium
+6129	Developments from the fall of Constantinople (1453) to the early 19th century
+6130	The Orthodox churches in the 19th century: developments in various areas
+6131	The Orthodox Church since World War I
+6132	The Eastern Church today
+6134	The medieval and Renaissance eras (c. 11th-16th century)
+6137	The era of the Reformations and the wars of religion
+6145	The transition era: from the Peace of Westphalia to the French Revolution (17th-18th century)
+6147	The modern age: from the French Revolution to World War I (18th-20th century)
+6149	Developments in the 20th century
+6151	Roman Catholicism today: its current demographic and social aspects
+6154	The Protestant Reformation and its aftermath, to the Peace of Westphalia (16th-17th century)
+6164	The transition era: from the Peace of Westphalia to the French Revolution (17th-18th century)
+6172	The modem age: from the American and French revolutions to World War I (18th-20th century)
+6174	Developments in Protestantism after World War I
+6176	Protestantism today: its current demographic and social aspects
+6179	Biblical literature: the Old Testament, the New Testament, the Apocrypha
+6180	Biblical exegesis and hermeneutics
+6181	Patristic literature
+6182	Formal, official statements of beliefs and doctrines: creeds, dogmas, confessions of faith
+6183	Writings of the post-patristic theologians, reformers, and church leaders
+6184	Writings of the great mystics
+6185	The relation of philosophy to Christian thought and statement: Christian philosophy
+6186	Myth and legend: biblical folk and nonbiblical literature, the role of myth in Christianity
+6188	Doctrines concerning the nature and activity of God
+6196	Doctrines concerning intermediary beings, powers, or principles; e.g., the angels, Satan 
+6198	Doctrines concerning the physical world
+6200	Doctrines concerning mankind
+6202	Doctrines concerning the church
+6205	Practices and institutions common or predominant among the various traditional forms of Christianity
+6209	Art and iconography
+6213	Eastern Orthodoxy 
+6214	Roman Catholicism: Latin and Eastern rite churches
+6215	Protestantism
+6217	Lutheran churches
+6219	Reformed and Presbyterian churches: Calvinism
+6221	The Anglican Communion
+6223	The Free churches
+6232	In Eastern Christianity
+6238	In Roman Catholicism
+6241	In Protestantism
+6253	Special forms tangentially related to traditional Christianity
+6259	The pre-Islamic setting in Arabia 
+6260	The origin of Islam in the life and teachings of the Prophet Muhammad, the Messenger of Allah (6th-7th century AD)
+6261	The foundations of the Islamic community and the early expansion of Islam beyond Arabia (7th and 8th centuries)
+6262	The development of Islamic religion, culture, and society during the first centuries of the caliphate of the 'Abbasids (8th-11th century)
+6263	The Middle Ages of Islam: developments in theology, law, and culture (11th-18th century)
+6264	Islam in the modern world (18th—20th century)
+6265	Islam today
+6267	The Qur'an: its form and contents, views about its origin, interpretations or translations
+6268	The Hadith: the oral tradition
+6269	Islamic law: Sharfah, fiqh
+6270	Islamic theology and philosophy
+6272	The mystical path: Sufism
+6273	Mythical elements and elaborations of Islamic beliefs and doctrines
+6275	Beliefs and doctrines
+6283	The forms of Islam: the orthodox community and its variations
+6290	Practices and institutions
+6296	Art and iconography
+6301	Modem reform movements
+6306	The Nation of Islam, or Black Muslims
+6307	Black Jewish cults
+6312	The Baha'i faith
+6313	The Druze religion
+6314	The Nation of Islam, or Black Muslims
+6316	Witchcraft, black magic, Satanism 
+6317	Prophecy, divination, astrology
+6318	Healing cults or practices
+6319	Pharmacological cults or practices
+5673	The existence of the divine or sacred (God)
+5674	The attributes of the divine or sacred
+5675	The extent to which mankind can have knowledge of the divine or sacred
+5676	The special problems of free will, evil and suffering, and immortality
+5678	Whether the divine or sacred is personal or impersonal
+5679	Whether the divine or sacred is one or more unique beings or powers
+5686	The role of Sacred Scriptures
+5687	Doctrine and dogma
+5688	Articles of faith: religious creeds
+5691	Polytheism
+5692	Religious dualism
+5693	Monotheism
+5697	Atheism and agnosticism
+5726	Prayer
+5727	Confession
+5728	Pilgrimage
+5729	Sacrifice
+5732	Religious law
+5733	Dietary customs
+5734	Monasticism
+5735	Celibacy
+5736	Asceticism
+5737	Prophecy and divination
+5757	Burial customs and cults of the dead
+5758	Cannibalism
+5759	Sacrifices: human, animal, and other offerings
+5760	Hunting rites and animal cults
+5761	Female fertility deities
+5762	Shamanism, sorcery, and magic
+5769	The distinction between the sacred and the profane
+5770	Dynamistic, daemonistic, and theistic views of the sacred: the concept of mana
+5771	Animism: external reality viewed as living presence
+5772	Sacred time and times, sacred space and places, and man's nature, origin, and destiny
+5778	Sacrifice, purification, passage rites
+5779	Worship or veneration centred on natural objects or forces
+5780	Totemism
+5782	Worship of ancestors, kings, and heroes
+5783	The roles of asceticism, shamanism, divination, and spiritualistic practices
+5785	Africa: traditional religions of the indigenous African peoples
+5786	Australia and Oceania: religions of the Pacific Island peoples
+5787	The Americas: religions of Indians of North, Central, and South America
+5788	Asia: aboriginal religions of Asian peoples
+5789	The Arctic
+5798	Historical developments from the late Neolithic Period to the Hellenistic Age
+5799	Religious literature and mythology
+5800	Beliefs and doctrines: the Egyptian pantheon
+5801	Major forms of Egyptian religion
+5802	Religious symbolism and iconography
+5859	The religion of the Rgveda
+5860	The religion of the later Vedas and Brahmanas
+5861	The religion of the Upanisads
+5880	Primary scriptures regarded as eternal revelations: the Veda
+5881	Post-Vedic Sanskrit literature; e.g., epics, Puranas, Tantras
+5882	Sacred literature in Indian regional languages
+5891	Views about God or the sacred
+5892	Views about the universe
+5893	Views about mankind
+5898	Vedism and Brahmanism
+5899	Vaisnavism
+5900	Saivism
+5901	Tantrism and Shaktism
+5902	Folk Hinduism
+5903	Ethical, social, and nationalist movements in modem Hinduism
+5905	Sacrifice and worship
+5906	Sacred times and places
+5907	The class hierarchy: the caste system
+5908	Religious orders, holy men, the four stages of life
+5910	The traditional religious functions of Indian art: symbols and images
+5913	The religious expression of particular arts
+5916	History of Jainism
+5920	Myths about Jaina 'great souls': Tirthankaras, ascetic and monastic figures, and lesser deities
+5921	Beliefs, practices, and institutions of Jainism
+5923	History of Sikhism
+5930	Sikh religious literature
+5931	Beliefs, practices, and institutions of Sikhism
+5933	History of Parsiism
+5934	Sources of beliefs and doctrines in Zoroastrian literature
+5935	Beliefs, practices, and institutions of the Parsis
+5954	Views of the nature of reality
+5956	The Eightfold Path to salvation or release
+5957	The goal of the Eightfold Path: Nirvana
+5958	The Threefold Refuge—in the Buddha, the doctrine, and the community
+5959	Views of the gods, spirits, and demons: the role of miraculous powers
+5961	The Theravada school and other ancient schools
+5967	The Mahayana version
+5972	Esoteric Buddhism: Tantrism, Tibetan Buddhism, Shingon
+5974	Universal or prevalent ethical and religious practices
+5975	Monastic institutions: the characteristics and role of the sangha
+5976	Ceremonies and festivals: the religious year, popular traditions, passage rites
+5977	Regional variations in practices
+5979	Symbolism and iconography
+5980	Religious expression in the arts
+5988	The emergence of Chinese religion: ancestor worship, early cosmological beliefs
+5989	The formulation of the Great Tradition
+5991	The dominance of the Buddhist Way and the rise of Taoist-inspired cults (1st-16th century)
+5992	The modern period
+6005	Background in the institutions of the predynastic sage-emperors and the founders of the first three dynasties
+6006	Origin in the life and teachings of Confucius (551-479 BC), the first Sage
+6007	The Confucian school and its various forms
+6009	Establishment of Confucianism as the state orthodoxy of the Han Empire
+6011	Introduction of Confucianism into Korea and Japan (1st and 4th centuries AD)
+6012	Confucianism during the time of Buddhist ascendancy
+6014	The emergence and development of Neo-Confucianism (11 th-20th century)
+6016	Varied responses to intellectual and material challenges of the West and to other developments
+6018	Confucianism today: its current demographic and social aspects
+6025	Origin and early developments
+6027	Developments during the Ch'in and Han periods (3rd century Bc-3rd century AD)
+6029	Developments from the 2nd to the 6th century
+6031	Developments under the T'ang, Sung, and later dynasties
+6033	The later development of philosophical and religious Taoism from the 14th century to the present time
+6046	Early clan religion before the 6th century AD
+6047	Early historic and medieval periods (6th-16th century)
+6049	The Tokugawa era (1603-1867): Neo-Confucian Shinto, Sect Shinto, other developments
+6050	The Meiji era and after (1868 to the present): new religious movements
+6052	History of Shinto
+6053	Characteristics of primitive Shinto: the role of guardian shrines and shamans
+6054	Shinto literature and mythology: the form and content of the Koji-ki, Nihon-gi, and other writings
+6055	Basic beliefs and doctrines: concepts of mankind, the sacred and related precepts and principles
+6056	Ritual practices and institutions
+6071	Canons, texts, and vernacular versions of the Bible; e.g., Septuagint, Targum
+6072	TaNaKh, the Hebrew Bible: Torah, Nevi'im, Ketuvim
+6073	Noncanonical literature: Apocrypha, pseudepigrapha
+6088	Doctrines concerning God
+6089	Doctrines concerning the Jewish people: the concept of Covenant 
+6090	Doctrines concerning mankind
+6091	Doctrines concerning the universe
+6092	Eschatology: views about the future age of mankind and the world, the King-Messiah and his reign
+6094	Individual and familial practices
+6095	Synagogue practices and other public institutions
+6097	Sacred times: the sabbath, the Jewish holidays
+6098	Sacred places: the land of Israel and Jerusalem
+6099	The sacred language: Hebrew
+6101	Orthodox Judaism
+6102	Reform, or Liberal, Judaism
+6103	Conservative Judaism
+6104	Other variations in belief and practices: Reconstructionism, Hasidism, regional or ethnic groups
+6106	The anti-iconic principle: the influence of the biblical prohibition against idolatry
+6107	Uses of the visual arts in ceremony and ritual
+6109	Music: Jewish liturgical modes, the influence of folk traditions, vocal and instrumental music
+6110	Literature: traditional legends and poetic exegesis, later religious poetry and tales
+6114	The origins and growth of the primitive church (c. AD 30-70)
+6115	Post-apostolic developments in the early Christian Church (c. AD 70-325)
+6117	The establishment of Christianity as the state religion of the Roman Empire
+6119	Doctrinal controversies that occasioned the further development of Christian theology
+6120	The relation of the Christian religion to the culture of the late empire
+6122	The political and religious bases of increasing tensions between Rome and Constantinople
+6123	The relation of Christianity to the Western and Byzantine cultures (7th-11th century)
+6124	Developments affecting institutions and practices in the East and the West
+6126	The Photian schism and the beginnings of the great East-West schism
+6135	Development of the papacy as the chief spiritual and temporal power in the West
+6136	Religious and cultural characteristics of Latin Christianity
+6139	Background of the Protestant Reformation in late medieval and Renaissance Catholicism
+6140	The Protestant Reformation
+6141	The Catholic Reformation and Counter-Reformation
+6142	The wars of religion
+6143	Missionary endeavours in other areas
+6155	Its background in European Roman Catholic Christendom
+6156	Luther and the German Reformation
+6157	The Reformation in Switzerland, France, and the Low Countries 
+6158	The English, Scottish, and Irish reformations 
+6159	Expansion of the Reformation to Scandinavia, the Baltic states, and eastern, central, and southern Europe
+6160	Radical reform movements
+6161	The Catholic Reformation and Counter-Reformation
+6162	The wars of religion
+6165	Political developments affecting the continental Protestant churches
+6166	Developments in German Protestantism
+6167	The challenge of Rationalism, Deism, and the Enlightenment: the Protestant response
+6168	Developments in English Protestantism
+6169	Developments in American Protestantism during the Colonial period
+6170	Developments in the Dutch Reformed churches
+6171	Developments in other continental European churches
+6189	The nature of God: the oneness of God, the transcendence of God, God as Father
+6190	The self-revelation of God: the understanding of God as Creator, Sustainer, and Judge
+6191	Christology: teachings concerning the person of Jesus Christ
+6192	Eschatology: political and apocalyptic messianic concepts, expectation of the Kingdom of God
+6193	The role of the Holy Spirit in the church
+6195	The doctrine of the Holy Trinity
+6206	The structure of church institutions: canon law and church polity
+6207	The role and characteristics of the liturgy: the church as a worshiping community, the church year
+6208	Forms of Christian life: monasticism, the saintly life
+6210	Major eras, regions, and schools of Christian art
+6211	The expression of Christian faith and themes in the arts
+6224	Baptists
+6225	Disciples of Christ
+6226	Congregationalists
+6227	Methodists
+6228	Friends
+6229	Unitarians and Universalists
+6233	Syrian Orthodox Church of Antioch
+6234	East Syrian Church
+6235	Armenian Church
+6236	Coptic Orthodox Church
+6237	Ethiopian Church
+6239	Ritual and other variations within the jurisdiction of the Roman Catholic Church
+6240	Old Catholic churches
+6242	Holiness churches
+6243	Pentecostal churches
+6244	Millenarian churches
+6247	Old-line Protestant sects and their derivations
+6251	Other independent churches: various Fundamentalist, evangelical, and other sectarian groups
+6252	The Negro churches
+6254	New Thought: Unity and other groups
+6255	Christian Science
+6256	Mormonism
+6276	Doctrines concerning God
+6277	Doctrines concerning the universe
+6278	Doctrines concerning mankind
+6279	Doctrines concerning Satan and other intermediate beings, powers, or principles 
+6280	Doctrines concerning Muhammad and the nature of prophecy
+6281	Eschatological doctrines
+6282	Social and ethical doctrines
+6284	Kharijism: the doctrines of the Kharijis and Ibadis
+6285	Mu'tazilism
+6286	Sunnism
+6287	Shi'ism and its subsects: the Isma'IlIs and other Isma'Ili sects
+6288	Religious groups of Islamic origin, now considered non-Islamic; e.g., Druzes, Baha'i faith
+6289	Variations among the urban and rustic Sufi orders
+6291	The Five Pillars of Islam
+6293	Sacred places and days: the mosque and festivals in public worship
+6294	The family: Islamic teaching regarding marriage, divorce, chastity, and inheritance
+6295	The Shari'ah: law and jurisprudence, the schools of law
+6297	Major eras, regions, and schools of Islamic art
+6298	The expression of Islamic faith and themes in the arts
+6299	The religious and cultural context of Islamic art and iconography
+5694	Theism
+5695	Deism
+5696	Pantheism and panentheism
+5894	Ahimsa, the obligation to respect all living beings
+5895	The doctrines of karman, samsara, and transmigration
+5896	The three margas: the paths of duties, of knowledge, and of devotion
+5911	Types of symbols: yantras, mandalas, lingas, yonis
+5912	Icons: their role in expressing theological elements of Hinduism
+5917	Early background: traditional accounts of Mahavlra's predecessors
+5918	The life, work, and teachings of Vardhamana Mahavlra
+5919	Later developments (6th century BC-20th century ad)
+5924	Islamic and Hindu background (11th-15th century)
+5925	The origin of Sikhism in the life and work of Nanak, first of the ten Gurus (15th-16th century)
+5926	The establishment and growth of Sikhism under the nine succeeding Gurus, the establishment of Sikh militarism (16th-18th century)
+5927	The condition of Sikhism during the Sikh empire (18th-19th century)
+5928	The condition of Sikhism under British rule (19th-20th century)
+5929	Sikhism in independent India and Pakistan
+5962	Views of the nature of things: cosmology, the classification of dharmas
+5963	The emphasis on self-cultivation and self-salvation
+5965	Doctrines concerning Buddha and Buddhahood
+5966	Characteristics of the individual ancient and transitional schools
+5968	Views of the nature of absolute reality: the ultimate realization of the meditative quest
+5969	Views of the transcendence of the Buddha: the three aspects of the Buddha, the bodhisattva ideal
+5970	Characteristics of the individual Mahayana schools
+6245	Adventists
+6246	Jehovah's Witnesses
+6248	Mennonites, including Amish and Hutterites
+6249	The Moravian Church
+6250	Brethren

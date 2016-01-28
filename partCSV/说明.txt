@@ -1,0 +1,5 @@
+a1 a2 所有category的点边
+b1 b2 section及上层的所有点边
+
+pn*对应part的点
+pe*对应part的边
